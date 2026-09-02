@@ -1,0 +1,55 @@
+name: 同步 RSS 备用副本
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-rss
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 下载并检查正式 RSS
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error --location --max-time 30 \
+            https://zhiyike.cn/rss.xml -o rss.xml.new
+          python3 - <<'PY'
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+          body = Path('rss.xml.new').read_bytes()
+          root = ET.fromstring(body)
+          if root.tag != 'rss' or root.get('version') != '2.0':
+              raise SystemExit('RSS 格式不正确')
+          items = root.findall('./channel/item')
+          if not 1 <= len(items) <= 100:
+              raise SystemExit('RSS 条目数量异常')
+          forbidden = (b'_reviewBlocked', b'reviewReason', b'apiKey', b'PRIVATE_MARKER')
+          if any(value in body for value in forbidden):
+              raise SystemExit('RSS 出现不应公开的字段')
+          required = ('title', 'description', 'pubDate', 'link', 'guid', 'category')
+          if any(not (item.findtext(name) or '').strip() for item in items for name in required):
+              raise SystemExit('RSS 条目缺少必要字段')
+          PY
+          mv rss.xml.new rss.xml
+      - name: 仅在内容变化时提交
+        shell: bash
+        run: |
+          if git diff --quiet -- rss.xml; then
+            echo "RSS 没有变化"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add rss.xml
+          git commit -m "自动更新 RSS 备用副本"
+          git push
