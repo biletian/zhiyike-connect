@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 03 Sep 2026 01:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:45:00 +0800</lastBuildDate>
+    <item>
+      <title>GitHub Copilot 如何在不牺牲任务质量的前提下降低 AI 编码成本</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality</link>
+      <guid isPermaLink="false">urn:zhiyike:news:389e6cc2ee6aabbdbcba11f0</guid>
+      <pubDate>Thu, 03 Sep 2026 02:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;GitHub 软件工程师 Erik Krogh Kristensen 介绍其 AI 编码产品降本增效经验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>美国司法部在 OpenAI 与纽约时报版权诉讼中支持训练属于合理使用</title>
       <link>https://x.com/rohanpaul_ai/status/2095196217634640144</link>
@@ -66,6 +74,22 @@
       <description>&lt;p&gt;学生、教师和校长起诉 OpenAI 及 Altman，称其未阻止枪手使用 ChatGPT。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Anthropic：请把 Fable 加回 Pro 计划！用户强烈不满</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1w5c2xe/anthropic_we_want_fable_back_into_the_pro_plan/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:05c831a2a7e0a806e88dc983</guid>
+      <pubDate>Wed, 02 Sep 2026 22:32:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Pro 用户抱怨 Fable 被移除，呼吁 Anthropic 将其重新加入，即使限制用量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w5c2xe/anthropic_we_want_fable_back_into_the_pro_plan/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perplexity 引用审计：34.7% 的引用页面不含所引数字</title>
+      <link>https://hausresearch.com/reports/perplexity-citation-audit/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e9bf0561149520420ac733a4</guid>
+      <pubDate>Wed, 02 Sep 2026 21:49:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;研究称 Perplexity 超三分之一引用无法验证，14.4% 的带数字论断失败。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://hausresearch.com/reports/perplexity-citation-audit/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>IBM 时间序列基础模型登陆 Confluent Cloud，实时智能早鸟开放</title>
       <link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
       <guid isPermaLink="false">urn:zhiyike:news:086aed4bf65ab20d8e1a8811</guid>
@@ -80,6 +104,14 @@
       <pubDate>Wed, 02 Sep 2026 20:30:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Mistral 默认将用户输入用于训练，企业版默认不参与，用户可手动关闭。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cursor 推出 Self-Hosted Machines，云智能体可在企业自有机器上执行</title>
+      <link>https://cursor.com/blog/self-hosted-machines</link>
+      <guid isPermaLink="false">urn:zhiyike:news:10d458e1d39c1a209f95ef12</guid>
+      <pubDate>Wed, 02 Sep 2026 20:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Cursor 允许云智能体在企业自有机器上运行，支持自定义硬件和网络。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://cursor.com/blog/self-hosted-machines"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reddit 用户险些遭遇提示注入：自托管 LLM 网关成攻击入口</title>
@@ -192,6 +224,14 @@
       <pubDate>Wed, 02 Sep 2026 13:56:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;谷歌宣布 AI 图像编辑工具 Pics 正式上线，支持在 Docs 和 Slides 中直接调用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30772"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI评论员称CoT可监控性注定失败，机制可解释性更合理</title>
+      <link>https://digg.com/tech/7t36xivx</link>
+      <guid isPermaLink="false">urn:zhiyike:news:36a5e36c57f4edd978dbf442</guid>
+      <pubDate>Wed, 02 Sep 2026 13:37:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;LisanBench负责人称CoT监控注定失败，引发AI安全讨论。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/7t36xivx"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/MicahCarroll/status/2095023282051563835"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LocalLLaMA 社区：获取最新 AI 新闻的最佳去处之一</title>
@@ -768,46 +808,6 @@
       <pubDate>Tue, 01 Sep 2026 13:59:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;开发者发布基于Minimax H3的360°沉浸式视频ComfyUI工作流，观众可自由控制视角。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.youtube.com/watch?v=Vq8A-ljWiXs"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w437jy/a_new_ai_step_immersive_worlds_with_minimax_h3/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>腾讯开源通用多模态Embedding模型 WeMM-Embedding</title>
-      <link>https://ai-bot.cn/wemm-embedding/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:acd49325aaec1a0530ac355b</guid>
-      <pubDate>Tue, 01 Sep 2026 13:35:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;腾讯微信视觉团队开源多模态Embedding模型家族，MMEB-v2基准第一，已落地微信业务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ai-bot.cn/wemm-embedding/"&gt;AI 工具集&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小红书 FireRed 推出通用音频语言模型 FireRedAudio</title>
-      <link>https://ai-bot.cn/fireredaudio/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a59488f3244a00fe54bf33ce</guid>
-      <pubDate>Tue, 01 Sep 2026 13:34:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;小红书 FireRed 团队发布通用音频语言模型，支持理解、生成与编辑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ai-bot.cn/fireredaudio/"&gt;AI 工具集&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen3.8-Flash-Next-GGUF 发布 MTP 量化版本</title>
-      <link>https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF/tree/main/MTP</link>
-      <guid isPermaLink="false">urn:zhiyike:news:13083eae4149432f46043361</guid>
-      <pubDate>Tue, 01 Sep 2026 13:10:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Unsloth 为 Qwen3.8-Flash-Next 模型发布 MTP 量化 GGUF 文件&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF/tree/main/MTP"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w42biu/mtp_released_for_qwen38flashnextgguf/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://github.com/unslothai/llama.cpp/pull/144/changes"&gt;github.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kimi、WorkBuddy、MiniMax能力包，招行这张信用卡全包了，AI办公新入口来了！</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-01-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:58cd28018f375a00ba772cbf</guid>
-      <pubDate>Tue, 01 Sep 2026 13:03:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;招行信用卡将Kimi、WorkBuddy、MiniMax等AI工具纳入权益，覆盖办公场景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-01-5"&gt;机器之心&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-02-12"&gt;机器之心&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/30784"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>当AI从工具到认知主体，我们需要警惕哪些新风险？</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-01-3</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3135e4aaf614fdde1bed8267</guid>
-      <pubDate>Tue, 01 Sep 2026 12:52:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;上海AI实验室等机构首次系统定义智能体认知能力扩展引发的风险。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-01-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
