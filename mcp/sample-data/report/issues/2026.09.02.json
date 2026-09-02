@@ -1,0 +1,18 @@
+{
+  "date": "2026.09.02",
+  "no": 1,
+  "one_line": "示例日报",
+  "total": 1,
+  "items": [
+    {
+      "title": "示例条目",
+      "sum": "示例摘要",
+      "links": [
+        {
+          "name": "示例来源",
+          "url": "https://example.com"
+        }
+      ]
+    }
+  ]
+}

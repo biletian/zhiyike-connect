@@ -1,0 +1,4 @@
+interface:
+  display_name: "知一刻内容"
+  short_description: "读取知一刻的 AI 新闻、日报周报、产品概念与 GitHub 榜单，保留来源和更新时间"
+  default_prompt: "使用 $zhiyike-reader 查询今天的 AI 新闻，附上文章简介、来源和内容更新时间。"

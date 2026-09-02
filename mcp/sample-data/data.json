@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026.09.02 20:31",
+  "days": [
+    {
+      "date": "2026.09.02",
+      "signals": [
+        {
+          "title": "示例 AI 新闻",
+          "ts": "2026.09.02 20:00",
+          "cat": "事件",
+          "type": "AI 事件",
+          "sum": "这是公开仓库的示例数据。",
+          "heat": "80",
+          "links": [
+            {
+              "name": "示例来源",
+              "url": "https://example.com/news"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "title": "示例产品",
+      "vendor": "示例厂商",
+      "sum": "示例产品说明",
+      "links": [
+        {
+          "name": "产品页",
+          "url": "https://example.com/product"
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "example-concept",
+      "title": "示例概念",
+      "status": "已沉淀",
+      "plainExplanation": "示例概念说明",
+      "links": [
+        {
+          "name": "概念来源",
+          "url": "https://example.com/concept"
+        }
+      ]
+    }
+  ],
+  "people": []
+}
