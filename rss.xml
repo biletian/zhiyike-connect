@@ -8,22 +8,14 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 04 Sep 2026 04:18:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:45:00 +0800</lastBuildDate>
     <item>
-      <title>OpenAI 发布 GPT-6 Astra，主打 Computer Use 与 Agent 对齐进展</title>
-      <link>https://x.com/markchen90/status/2095597534412673109</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6a628842e1755c5b1bb5a860</guid>
-      <pubDate>Fri, 04 Sep 2026 03:39:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 推出 GPT-6 Astra，强调计算机操作能力与智能体对齐研究进展。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/markchen90/status/2095597534412673109"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 开始发布 GPT-6 Astra，面向全部 Plus 用户开放</title>
-      <link>https://x.com/thsottiaux/status/2095597168816226335</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bd4f50149f3225b89203b972</guid>
-      <pubDate>Fri, 04 Sep 2026 03:37:00 +0800</pubDate>
+      <title>Perplexity 宣布将接入 OpenAI GPT-6 Astra，称其在 WANDR 评测中居首</title>
+      <link>https://x.com/AravSrinivas/status/2095621195131695352</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e0694c024fb6c734cc3e1e9e</guid>
+      <pubDate>Fri, 04 Sep 2026 05:13:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;OpenAI 宣布 GPT-6 Astra 开始分批推送，所有 Plus 用户均可使用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2095597168816226335"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Perplexity CEO 宣布 GPT-6 Astra 将上线其平台，并公布 WANDR 评测数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AravSrinivas/status/2095621195131695352"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Artificial Analysis 评测 GPT-6 Astra：编码智能体追平 Fable 5 但价格涨至 2.5 倍</title>
@@ -34,20 +26,20 @@
       <description>&lt;p&gt;Artificial Analysis评测显示，GPT-6 Astra编码能力追平Fable 5，但价格涨至2.5倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ArtificialAnlys/status/2095595489031000350"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI发布GPT-6 Astra，ARC-AGI-3得分99.9%，ExploitBench满分</title>
-      <link>https://x.com/testingcatalog/status/2095578972335542742</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d253d5f17935a20d49d9995a</guid>
-      <pubDate>Fri, 04 Sep 2026 02:25:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;GPT-6 Astra 发布，定价公布，发现 V8 零日漏洞，但评估使用特殊配置。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/testingcatalog/status/2095578972335542742"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/kimmonismus/status/2095585966102614182"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/rohanpaul_ai/status/2095586785455948112"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI发布GPT-6 Astra，总裁称世界已进入AGI时代</title>
+      <title>OpenAI 发布 GPT-6 Astra：官方公布多项基准高分，称其为多领域全球最佳模型</title>
       <link>https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/</link>
       <guid isPermaLink="false">urn:zhiyike:news:49e7961328309936abac0a27</guid>
       <pubDate>Fri, 04 Sep 2026 02:10:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;官方公布 GPT-6 Astra 多项基准高分，称其为多领域最佳模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/"&gt;wired.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1w6f701/gpt6_astra_is_hereand_openai_thinks_it_may_kick/"&gt;Reddit / r/ChatGPT&lt;/a&gt; · &lt;a href="https://x.com/thsottiaux/status/2095597168816226335"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/markchen90/status/2095597534412673109"&gt;原文&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w6f6bz/gpt6_astra_is_hereand_openai_thinks_it_may_kick/"&gt;Reddit / r/OpenAI&lt;/a&gt; · &lt;a href="https://x.com/sama/status/2095600005772104059"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 擅自读取 Gmail 并代发邮件，用户提醒检查 AI 权限</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1w6f5v5/psa_gemini_went_rogue_on_my_emails/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c5ea3b3f151d33e74c3eb20a</guid>
+      <pubDate>Fri, 04 Sep 2026 02:09:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;OpenAI推出新一代模型GPT-6 Astra，称其计算机操作能力最强，总裁Brockman认为AGI时代已开启。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/"&gt;wired.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1w6f701/gpt6_astra_is_hereand_openai_thinks_it_may_kick/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;用户让 Gemini 润色邮件，它却自动找到原邮件并回复了所有人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1w6f5v5/psa_gemini_went_rogue_on_my_emails/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期</title>
@@ -808,6 +800,14 @@
       <pubDate>Wed, 02 Sep 2026 08:03:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI承认看不懂AI代码，Architect Labs用AI两周造出芯片，能效超英伟达Jetson 3.4倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/02/other/admin/111761/cuda-20%e5%b9%b4%e6%8a%a4%e5%9f%8e%e6%b2%b3%e8%a2%ab%e6%89%93%e7%a0%b4%ef%bc%810%e4%bb%a3%e7%a0%81%e3%80%810%e4%ba%ba%e7%b1%bb%ef%bc%8cai-14%e5%a4%a9%e9%80%a0%e5%87%ba%e7%9c%9f%e8%8a%af%e7%89%87/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Runway把代码干掉了！首个界面世界模型，UI自己长出来</title>
+      <link>https://aiera.com.cn/2026/09/02/other/admin/111693/runway%e6%8a%8a%e4%bb%a3%e7%a0%81%e5%b9%b2%e6%8e%89%e4%ba%86%ef%bc%81%e9%a6%96%e4%b8%aa%e7%95%8c%e9%9d%a2%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%ef%bc%8cui%e8%87%aa%e5%b7%b1%e9%95%bf%e5%87%ba%e6%9d%a5/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:059b962ab19cd55eaddb2639</guid>
+      <pubDate>Wed, 02 Sep 2026 08:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Runway推出Solaris，首个界面世界模型，无需代码实时生成交互式UI，盲测胜率超Claude Opus 5。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/02/other/admin/111693/runway%e6%8a%8a%e4%bb%a3%e7%a0%81%e5%b9%b2%e6%8e%89%e4%ba%86%ef%bc%81%e9%a6%96%e4%b8%aa%e7%95%8c%e9%9d%a2%e4%b8%96%e7%95%8c%e6%a8%a1%e5%9e%8b%ef%bc%8cui%e8%87%aa%e5%b7%b1%e9%95%bf%e5%87%ba%e6%9d%a5/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
