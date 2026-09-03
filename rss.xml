@@ -8,7 +8,7 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 03 Sep 2026 06:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:31:00 +0800</lastBuildDate>
     <item>
       <title>Meta 发布 Muse Spark 1.3，智能体与科学推理能力提升</title>
       <link>https://x.com/alexandr_wang/status/2095249704888197175</link>
@@ -82,6 +82,14 @@
       <description>&lt;p&gt;Google 用 ADK 2.0 和 Antigravity SDK 展示如何通过 harness 工程实现 AI 代理&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://dev.to/googleai/what-is-harness-engineering-and-why-should-i-care-8n0"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>X 帖子称 Gemini 3.8 Flash 基准测试超 Claude Opus 5 等模型</title>
+      <link>https://digg.com/tech/qrwr3f1y</link>
+      <guid isPermaLink="false">urn:zhiyike:news:22d0b69e87c3c8b550166ae1</guid>
+      <pubDate>Wed, 02 Sep 2026 23:15:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Kim Isenberg 发帖称 Gemini 3.8 Flash 在多项基准测试中超越多款前沿模型，引发社区热议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/qrwr3f1y"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/kimmonismus/status/2095168773800026279"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Gemini 3.8 Flash 发布：性能提升，支持1M上下文与64K输出</title>
       <link>https://deepmind.google/models/model-cards/gemini-3-8-flash/</link>
       <guid isPermaLink="false">urn:zhiyike:news:33887c31c3e5a55219cf9aca</guid>
@@ -104,6 +112,14 @@
       <pubDate>Wed, 02 Sep 2026 22:32:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Pro 用户抱怨 Fable 被移除，呼吁 Anthropic 将其重新加入，即使限制用量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w5c2xe/anthropic_we_want_fable_back_into_the_pro_plan/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WebLLM：高性能浏览器端 LLM 推理引擎，支持 WebGPU 加速与 OpenAI API 兼容</title>
+      <link>https://github.com/mlc-ai/web-llm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:61cd11920cc33278bbbe391a</guid>
+      <pubDate>Wed, 02 Sep 2026 22:02:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;WebLLM 发布，可在浏览器内通过 WebGPU 加速运行 LLM，兼容 OpenAI API。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/mlc-ai/web-llm"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Perplexity 引用审计：34.7% 的引用页面不含所引数字</title>
@@ -792,22 +808,6 @@
       <pubDate>Tue, 01 Sep 2026 15:25:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;英伟达 DLSS 5 用生成式 AI 补全画面细节，老游戏画质焕然一新。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1677509?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>57 岁男子听信 AI 指路抄近道，被困深山耗尽体力，事后 AI 竟回“哈哈，确实！”</title>
-      <link>https://news.aibase.com/zh/news/30754</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2b8268ff3de64f798ff0edf0</guid>
-      <pubDate>Tue, 01 Sep 2026 15:21:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;浙江一男子登山后盲信AI建议，误入陡坡野沟，体力耗尽报警获救。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30754"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>如何让AI生成图片不被检测？Reddit用户求助可靠方法</title>
-      <link>https://www.reddit.com/r/comfyui/comments/1w44dj7/how_do_i_make_ai_images_undetectable/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0621532ba9d6abd47fc6af40</guid>
-      <pubDate>Tue, 01 Sep 2026 15:04:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Reddit用户反映AI图片被检测器标记，尝试多种方法无效，寻求可靠方案。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1w44dj7/how_do_i_make_ai_images_undetectable/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
