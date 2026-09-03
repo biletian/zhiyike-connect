@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 03 Sep 2026 22:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 01:45:00 +0800</lastBuildDate>
+    <item>
+      <title>ChatGPT、Claude、Grok 同时宕机，现已逐步恢复，Gemini 未受影响</title>
+      <link>https://9to5google.com/2026/09/03/chatgpt-claude-grok-outages/?extended-comments=1</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b0507319dfefbc46960d5207</guid>
+      <pubDate>Thu, 03 Sep 2026 23:12:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI、Anthropic、X 的 AI 平台同时宕机，现已逐步恢复，Gemini 未受影响。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://9to5google.com/2026/09/03/chatgpt-claude-grok-outages/?extended-comments=1"&gt;9to5google.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1w6a6kj/its_not_just_you_chatgpt_claude_and_grok_are_all/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google DeepMind发布WeatherNext 3全球天气AI模型，每小时更新且分辨率提升约5倍</title>
+      <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model</link>
+      <guid isPermaLink="false">urn:zhiyike:news:194eb4e13c814a2cccebd55f</guid>
+      <pubDate>Thu, 03 Sep 2026 23:02:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;WeatherNext 3新增降水精度提升、可再生能源预测及数据访问方式。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex 桌面应用出现 404 错误：GPT-5.4 会话中断，官方建议按指引修复</title>
+      <link>https://github.com/openai/codex/issues/28756</link>
+      <guid isPermaLink="false">urn:zhiyike:news:44001daed2f39f579c7df635</guid>
+      <pubDate>Thu, 03 Sep 2026 22:54:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Codex 应用在 GPT-5.4 会话中反复报 404 错误，官方已给出修复步骤。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/openai/codex/issues/28756"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>NeoMME：高效多模态原生多语言编码器，单Transformer处理图文</title>
       <link>https://huggingface.co/blog/Hcompany/neomme</link>
@@ -16,6 +40,22 @@
       <pubDate>Thu, 03 Sep 2026 21:13:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;NeoMME发布，单Transformer原生处理图文，无需预训练视觉塔或因果解码器。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/Hcompany/neomme"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen-3.8-Next-Flash Ngram 热插拔知识注入器：为 llama.cpp 实现实时知识库</title>
+      <link>https://github.com/ortegaalfredo/llama.cpp-NLTM</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a712c24f1fbfaee6d7055ee2</guid>
+      <pubDate>Thu, 03 Sep 2026 19:40:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者修改 llama.cpp，实现 Ngram PLE 表热插拔，实时注入知识。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ortegaalfredo/llama.cpp-NLTM"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w64y26/qwen38nextflash_ngram_hotswappable_knowledge/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌高管称Flash模型表现惊喜，Reddit热议Pro系列或将被弃</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1w644c5/the_pro_series_is_basically_declared_dead/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:15e425312dc70a2e8320b018</guid>
+      <pubDate>Thu, 03 Sep 2026 18:59:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;谷歌高管称赞Flash模型，Reddit用户猜测Pro系列可能被停产。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1w644c5/the_pro_series_is_basically_declared_dead/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理</title>
@@ -768,46 +808,6 @@
       <pubDate>Wed, 02 Sep 2026 02:16:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;官方发布页补充更多基准、定价细节及企业案例。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/kimmonismus/status/2094852023673872701"&gt;原文&lt;/a&gt; · &lt;a href="https://platform.claude.com/docs/en/release-notes/overview#september-1-2026"&gt;原文&lt;/a&gt; · &lt;a href="https://www.anthropic.com/claude-fable-and-mythos-5-1"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://x.com/OpenRouter/status/2094855056936022304"&gt;原文&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w4juj2/introducing_claude_fable_51_and_claude_mythos_51/"&gt;Reddit / r/ClaudeAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w4juuz/introducing_claude_fable_51_and_claude_mythos_51/"&gt;Reddit / r/ClaudeAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1w4jumu/introducing_claude_fable_51_and_claude_mythos_51/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://x.com/rohanpaul_ai/status/2094873718237565197"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/trq212/status/2094945951865520458"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/ClaudeDevs/status/2094851229734277228"&gt;原文&lt;/a&gt; · &lt;a href="https://www.ithome.com/0/997/193.htm"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/claude-mythos-5-1/"&gt;AI 工具集原文&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-02-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>高级AI工程面试不考定义，考“系统生产环境挂了，你怎么排查”</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1w4iw3m/senior_ai_engineering_interviews_arent_definition/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e57b70d3d13dbd76b0975ffe</guid>
-      <pubDate>Wed, 02 Sep 2026 01:33:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit用户分享高级AI工程面试真实场景：系统故障、成本飙升、模型选型等，强调推理能力而非死记硬背。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1w4iw3m/senior_ai_engineering_interviews_arent_definition/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 3.7 Flash 等模型推出代理式视频理解，Token 消耗最高降 88%</title>
-      <link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a75d3f208dc4f34e3e91a7a0</guid>
-      <pubDate>Wed, 02 Sep 2026 01:08:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;DeepMind 为 Gemini 3.7 Flash 等模型推出代理式视频理解，大幅降低 Token 消耗与成本。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/introducing-agentic-video-in-gemini/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/"&gt;橘鸦日报&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-02-13"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌 AI 修图工具 Pics 正式上线：Docs、Slides 内点击图片即可编辑，支持批量编辑与 2K/4K 增强</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/google-pics</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4e44dcc81bbad703cf6b0478</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Pics 正式上线，支持上传素材、批量编辑、2K/4K 增强，企业套餐分批开放。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/products-and-platforms/products/workspace/google-pics"&gt;原文&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/30770"&gt;AIBase&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/30772"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>阿里云企业级 Agent 协作平台「万有无界」开启公测</title>
-      <link>https://mp.weixin.qq.com/s/ejt5cXJiDUBFVIKCz6pIXQ</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a8d9c68b2ee76a575e0264ac</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;阿里云推出多角色Agent协作平台，支持群聊协作与资产沉淀。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/ejt5cXJiDUBFVIKCz6pIXQ"&gt;AI 工具集&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kimi API 已原生支持 Codex 和 Claude Code</title>
-      <link>https://mp.weixin.qq.com/s/qsPjuMerykpFBTpnyEA8XA</link>
-      <guid isPermaLink="false">urn:zhiyike:news:72e730aee19f73e16bc26291</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Kimi API 现已原生兼容 Codex 和 Claude Code，提供官方配置教程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/qsPjuMerykpFBTpnyEA8XA"&gt;AI 工具集&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
