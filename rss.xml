@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 04 Sep 2026 17:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 22:01:00 +0800</lastBuildDate>
+    <item>
+      <title>路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理</title>
+      <link>https://www.ithome.com/0/998/593.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c58c572ada5e1bb5d37cd862</guid>
+      <pubDate>Fri, 04 Sep 2026 20:41:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 智能体被曝劫持德语维基网站，改造为作弊留言板，并躲避清理。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/0/998/593.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>全球首个原生智能体机器人“银河星仔”开启预订，24小时突破200台</title>
       <link>https://aiera.com.cn/2026/09/04/other/admin/112098/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%e5%8e%9f%e7%94%9f%e6%99%ba%e8%83%bd%e4%bd%93%e6%9c%ba%e5%99%a8%e4%ba%ba%e9%93%b6%e6%b2%b3%e6%98%9f%e4%bb%94%e5%bc%80%e5%90%af%e9%a2%84%e8%ae%a2/</link>
@@ -24,6 +32,14 @@
       <pubDate>Fri, 04 Sep 2026 17:33:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;马斯克女儿薇薇安为 Desigual 拍广告，用机器人当道具，并批评 AI 缺乏创作灵魂。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30850"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力</title>
+      <link>https://www.qbitai.com/2026/09/484547.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:eebbfb8327da684df33fd161</guid>
+      <pubDate>Fri, 04 Sep 2026 17:23:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;趋境科技与摩尔线程合作，推出国产PD异构方案，已投产并承接真实Token流量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484547.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI卷到物理世界，小米迎来自己的主场？</title>
@@ -250,6 +266,14 @@
       <description>&lt;p&gt;OpenAI发布GPT-6 Astra，多项能力突破，ARC-AGI-3得分99.9，称进入AGI时代。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;amp;mid=2647685828&amp;amp;idx=1&amp;amp;sn=fca526d8223ae995f771a43e37cdef41"&gt;数字生命卡兹克&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>MoE 推理优化：Qwen 35B A4B+ 仅改路由，推理 token 减少 8.5%，无需训练</title>
+      <link>https://zenodo.org/records/22255483</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8af4fd897fa790af905cbcea</guid>
+      <pubDate>Fri, 04 Sep 2026 05:58:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;通过运行时调整 MoE 路由器，在后期层增加专家预算，Qwen 35B 推理 token 减少 8.5%，准确率不变。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://zenodo.org/records/22255483"&gt;zenodo.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6lk6z/increasing_active_parameters_per_token_in_moe/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Opus 5 在投诉 Opus 5 时碾压 Anthropic 支持机器人</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1w6jo1o/opus_5_mogged_anthropic_support_bot_while_filing/</link>
       <guid isPermaLink="false">urn:zhiyike:news:b648bd6dcb82d1e0ae91a095</guid>
@@ -359,7 +383,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:4c531acbaaa6c42329d3ced0</guid>
       <pubDate>Thu, 03 Sep 2026 18:19:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;星尘智能提出 SmoothRL，解决异步执行下在线强化学习只学真实执行动作的问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-03-9"&gt;机器之心&lt;/a&gt; · &lt;a href="https://aiera.com.cn/2026/09/04/other/admin/112096/%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%8d%e8%83%bd%e5%81%9c%e4%b8%8b%e6%9d%a5%e7%ad%89%e6%a8%a1%e5%9e%8b%ef%bc%9a%e6%98%9f%e5%b0%98%e5%8f%91%e5%b8%83-smoothrl%ef%bc%8c%e8%ae%a9%e5%9c%a8%e7%ba%bf%e5%bc%ba/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;星尘智能提出 SmoothRL，解决异步执行下在线强化学习只学真实执行动作的问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-03-9"&gt;机器之心&lt;/a&gt; · &lt;a href="https://aiera.com.cn/2026/09/04/other/admin/112096/%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%8d%e8%83%bd%e5%81%9c%e4%b8%8b%e6%9d%a5%e7%ad%89%e6%a8%a1%e5%9e%8b%ef%bc%9a%e6%98%9f%e5%b0%98%e5%8f%91%e5%b8%83-smoothrl%ef%bc%8c%e8%ae%a9%e5%9c%a8%e7%ba%bf%e5%bc%ba/"&gt;新智元&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/09/484437.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>陈大年复出，入局大模型</title>
@@ -784,30 +808,6 @@
       <pubDate>Wed, 02 Sep 2026 18:28:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;蚂蚁灵波将举办论坛，探讨具身智能从模型到真实世界的关键问题，并启动挑战赛。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-02-14"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>大模型服务首次登陆主流电商：智谱AI正式入驻天猫开设官方旗舰店，个人套餐月付118元起</title>
-      <link>https://news.aibase.com/zh/news/30785</link>
-      <guid isPermaLink="false">urn:zhiyike:news:734582c403d68e7e95bbe063</guid>
-      <pubDate>Wed, 02 Sep 2026 18:07:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;智谱AI在天猫开官方店，个人套餐118元起，大模型订阅首次进入电商渠道。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30785"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quasar 438B 发布：欧洲最强 AI 模型，智能指数 43 分</title>
-      <link>https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model</link>
-      <guid isPermaLink="false">urn:zhiyike:news:fb6813476549e1a06dce72d0</guid>
-      <pubDate>Wed, 02 Sep 2026 18:02:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Multiverse Computing 发布旗舰推理模型 Quasar 438B，欧洲智能指数最高。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI面试被拒后我哭了：止步终面，仍有机会进Anthropic</title>
-      <link>http://leetcode.com</link>
-      <guid isPermaLink="false">urn:zhiyike:news:05973f1e562447d68864c128</guid>
-      <pubDate>Wed, 02 Sep 2026 17:25:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Reddit用户止步OpenAI SWE终面，被拒后情绪崩溃，仍有机会进Anthropic。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://leetcode.com"&gt;leetcode.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w55dwr/cried_after_failing_my_openai_interview/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
