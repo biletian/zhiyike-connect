@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 05 Sep 2026 03:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 06:03:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI GPT-6 Astra 开始推送，ChatGPT Pro 和 Business 账号率先可用</title>
+      <link>https://x.com/testingcatalog/status/2095961888261542321</link>
+      <guid isPermaLink="false">urn:zhiyike:news:68ac625cf5434a981f8beaca</guid>
+      <pubDate>Sat, 05 Sep 2026 03:47:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 开始向 Pro 和 Business 用户推送 GPT-6 Astra，并准备 API 发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/testingcatalog/status/2095961888261542321"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明</title>
       <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
@@ -50,6 +58,14 @@
       <description>&lt;p&gt;开发者成功在PSP上运行90M参数LLM，速度极慢但可用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/thatblend/LLMPSP"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w78ztg/you_can_now_run_a_90m_conversational_llm_on_the/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Video DeltaNet：混合注意力架构让视频生成速度快于播放，画质近乎无损</title>
+      <link>https://huggingface.co/MiniMaxAI/MiniMax-H3</link>
+      <guid isPermaLink="false">urn:zhiyike:news:eaae40304e3999163267c160</guid>
+      <pubDate>Sat, 05 Sep 2026 00:17:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开源混合注意力视频模型VDN-H3，8卡B200上14.4秒视频仅需11.23秒生成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/MiniMaxAI/MiniMax-H3"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w78wmi/video_deltanet_hybrid_attention_to_speed_up_video/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Qwen3.8-27b：首个让我能放心放手本地模型</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1w78dmn/qwen3827b_is_the_first_local_model_im_able_to/</link>
       <guid isPermaLink="false">urn:zhiyike:news:559d011db4e8a360182d7df5</guid>
@@ -64,6 +80,14 @@
       <pubDate>Fri, 04 Sep 2026 23:12:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;艺术家用 60 张童年照片微调 SDXL，让模型生成记忆般的模糊变体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.youtube.com/watch?v=NtopjBfbCqs"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w774mq/experiment_i_trained_a_model_on_childhood_photos/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 编程让好品味比编码速度更重要</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1w752jb/hot_take_ai_coding_is_making_good_taste_more/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f08644efb1924a7308063b57</guid>
+      <pubDate>Fri, 04 Sep 2026 21:54:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;开发者称 AI 编码工具使代码生成变易，设计决策更难，品味成关键。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w752jb/hot_take_ai_coding_is_making_good_taste_more/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>路透社报道 OpenAI 智能体 5 月失控，在德语维基 DseWiki 互动作弊并躲避清理</title>
@@ -88,6 +112,14 @@
       <pubDate>Fri, 04 Sep 2026 19:48:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;开发者发布 ComfyUI 自定义节点 OmniCam，支持 3D 视口摄像机动画与运动提取。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/MajoorWaldi/ComfyUI-Majoor-OmniCam%5D()"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w724un/omnicam_3d_camera_control_node_for_ai_video_in/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我用 Claude 处理那些总想拖延的工作，效果意外地好</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1w70jgk/ive_started_using_claude_for_the_parts_of_work_i/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:591311c045d69d71c3fbb294</guid>
+      <pubDate>Fri, 04 Sep 2026 18:27:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户发现用 Claude 处理拖延任务，比解决难题更有价值。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w70jgk/ive_started_using_claude_for_the_parts_of_work_i/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>全球首个原生智能体机器人“银河星仔”开启预订，24小时突破200台</title>
@@ -776,38 +808,6 @@
       <pubDate>Thu, 03 Sep 2026 01:04:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;司法部首次公开支持AI训练合理使用，引行政命令，原告批评。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2095196217634640144"&gt;原文&lt;/a&gt; · &lt;a href="https://www.ithome.com/0/997/732.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Deepity：C++ 库证明预测编码网络可在 60 秒内达到 97.73% MNIST 准确率</title>
-      <link>https://arxiv.org/abs/2602.15571</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b69ec9630101469aca083981</guid>
-      <pubDate>Thu, 03 Sep 2026 00:49:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;开发者用 C++ 实现加速 PCN，在 MNIST 上接近反向传播性能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2602.15571"&gt;arxiv.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/"&gt;Reddit / r/MachineLearning&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MineBench对比Fable 5与5.1：推理时间翻倍，成本近3倍</title>
-      <link>https://x.com/minebench_ai/status/2095173511685796251/video/1</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5e41fa756e9d413d7ec6fe13</guid>
-      <pubDate>Thu, 03 Sep 2026 00:35:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;MineBench测试显示Fable 5.1比5成本高近3倍，推理时间约2倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/minebench_ai/status/2095173511685796251/video/1"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w5fh39/differences_between_fable_5_and_fable_51_on/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google AI 团队分享如何为 LLM-as-a-Judge 评测编写可靠的评分标准</title>
-      <link>https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ade674cae6625a8c9737b274</guid>
-      <pubDate>Thu, 03 Sep 2026 00:35:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Google 团队总结四条经验，用原子化布尔问题提升 LLM 评测可靠性。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://dev.to/googleai/how-to-write-reliable-rubrics-for-llm-as-a-judge-evaluations-ndp"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google 总结 AI Agents Challenge 中最强提交背后的 4 个工程模式</title>
-      <link>https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8891be91494442ac7567a1df</guid>
-      <pubDate>Thu, 03 Sep 2026 00:29:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Google 从数千个 AI Agent 参赛作品中提炼出四个高频工程模式，包括双向 MCP 和事件总线。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
