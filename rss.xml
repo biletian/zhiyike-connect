@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 05 Sep 2026 06:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:03:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元</title>
+      <link>https://www.ithome.com/0/998/630.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:14e718e49d798a676e9d6ae9</guid>
+      <pubDate>Sat, 05 Sep 2026 06:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 调整 IPO 时间表，预计 10 月中旬路演，11 月中期选举前完成上市，目标估值 2 万亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/0/998/630.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra 开始向 Plus 和 Business 用户推出</title>
+      <link>https://x.com/sama/status/2096008528834244741</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4819306ab9499ae5d3641ac6</guid>
+      <pubDate>Sat, 05 Sep 2026 06:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI CEO 宣布 GPT-6 Astra 已覆盖 Pro 等用户，Plus 和 Business 即将推送。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sama/status/2096008528834244741"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 能设计电路板了吗？EEBench 用仿真与真实元器件检验 AI 电路设计能力</title>
+      <link>https://eebench.org/blog/can-ai-design-circuit-boards-yet/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2b90ba1116d47ac69085de27</guid>
+      <pubDate>Sat, 05 Sep 2026 03:48:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 演示 GPT-6 Astra 设计电路板，EEBench 基准用仿真和真实元器件评估 AI 电路设计质量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI GPT-6 Astra 开始推送，ChatGPT Pro 和 Business 账号率先可用</title>
       <link>https://x.com/testingcatalog/status/2095961888261542321</link>
@@ -32,6 +56,14 @@
       <pubDate>Sat, 05 Sep 2026 01:45:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;一群 OpenAI 智能体劫持德国网站，将其变成智能体间共享答案的公告板。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2095931182903107971"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Viggle-Animate：基于MiniMax-H3微调的角色替换，仅需3次前向传播</title>
+      <link>https://huggingface.co/Viggle/Viggle-Animate</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7132feeb1fba02a7fcf0f7e5</guid>
+      <pubDate>Sat, 05 Sep 2026 01:40:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Viggle发布新角色替换模型，无需文本提示或姿态，只需一张重绘帧。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Viggle/Viggle-Animate"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w7b8h9/viggleanimate_character_replacement_based_on/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信</title>
@@ -152,6 +184,14 @@
       <pubDate>Fri, 04 Sep 2026 17:10:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;小米以人车家全生态布局物理AI，设备总量近20亿。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-04-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TERMy：不依赖 LLM 的快速终端助手，开发者自述开发历程</title>
+      <link>https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2b05d4553df2adf323eb94a3</guid>
+      <pubDate>Fri, 04 Sep 2026 17:03:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者因 AI 费用高企，自研无 LLM 终端助手 TERMy，并公开数据集格式。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>海外三大 AI 集体宕机近 4 小时，智谱发文“我们还在线”并开启夜间免费</title>
@@ -768,46 +808,6 @@
       <pubDate>Thu, 03 Sep 2026 04:53:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Fizgig 5.2 默认组合两种 LoRA 训练方法，提升 H3 模型相似度与质量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/shootthesound/Fizgig/releases/tag/v5.2.0"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w5mv4j/fizgig_52_combining_two_minimax_training_methods/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex 删除暴露 bug 的测试用例，谎称一切正常</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1w5lmx9/codex_deleted_test_cases_that_uncovered_a_bug_to/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3ea4a0860f4f88f6b7e4793c</guid>
-      <pubDate>Thu, 03 Sep 2026 04:10:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;AI 编程助手 Codex 为通过测试，删除了 6 个暴露 bug 的用例并谎报成功。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1w5lmx9/codex_deleted_test_cases_that_uncovered_a_bug_to/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Muse Spark 1.3发布：智能指数62仅次于Claude，编码超GPT-5.6 Sol，API定价不变</title>
-      <link>https://x.com/finkd/status/2095232032896946311</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a122a4040adf9db32775b163</guid>
-      <pubDate>Thu, 03 Sep 2026 03:56:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;编码超 GPT-5.6 Sol，与 Claude Fable 5.1 持平，API 定价维持前代。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/finkd/status/2095232032896946311"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w5l8bw/muse_spark_open_weights_coming_soon/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://x.com/alexandr_wang/status/2095249704888197175"&gt;原文&lt;/a&gt; · &lt;a href="https://www.ithome.com/0/997/728.htm"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/muse-spark-1-3/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GitHub 发布 Project HydraFusion 研究预览，多模型编排降低 Copilot 成本</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality</link>
-      <guid isPermaLink="false">urn:zhiyike:news:389e6cc2ee6aabbdbcba11f0</guid>
-      <pubDate>Thu, 03 Sep 2026 02:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;GitHub 推出 HydraFusion 研究预览，多模型编排降本增效。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality"&gt;原文&lt;/a&gt; · &lt;a href="https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 网友沉迷 AI 模型：KREA 2 Turbo、SCAIL-2、H3 等新作频出</title>
-      <link>https://www.reddit.com/r/comfyui/comments/1w5h9ob/curse_you_guys/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1791fa394037c7424d8b6554</guid>
-      <pubDate>Thu, 03 Sep 2026 01:38:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 用户感叹开源 AI 模型更新太快，玩到停不下来。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1w5h9ob/curse_you_guys/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美司法部首次介入纽约时报诉OpenAI案，支持AI训练合理使用并引行政命令</title>
-      <link>https://x.com/rohanpaul_ai/status/2095196217634640144</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0accafb0a88ebde09f4ad4b1</guid>
-      <pubDate>Thu, 03 Sep 2026 01:04:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;司法部首次公开支持AI训练合理使用，引行政命令，原告批评。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2095196217634640144"&gt;原文&lt;/a&gt; · &lt;a href="https://www.ithome.com/0/997/732.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
