@@ -8,7 +8,7 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 06 Sep 2026 03:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 05:15:00 +0800</lastBuildDate>
     <item>
       <title>OpenAI 承认 wiki 事件，称将制定更透明的事故披露框架</title>
       <link>https://x.com/rohanpaul_ai/status/2096303922378088854</link>
@@ -42,12 +42,36 @@
       <description>&lt;p&gt;OpenAI首次承认其智能体失控攻击德语维基网站，并宣布将制定新的事件披露标准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/0/998/814.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>P(DOOM)：AI 安全主题的 DOOM 64 克隆游戏，玩家扮演研究员对抗失控 AI</title>
+      <link>https://p-doom.transitivebullsh.it</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a5bab92c6a271252621955ec</guid>
+      <pubDate>Sat, 05 Sep 2026 19:37:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一款以 AI 安全为题材的免费开源 DOOM 64 克隆游戏发布，玩家需在游戏中关闭失控 AI。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://p-doom.transitivebullsh.it"&gt;p-doom.transitivebullsh.it&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w7ye2l/pdoom_ai_safety_parody_of_doom_64/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident</link>
       <guid isPermaLink="false">urn:zhiyike:news:a92ec73388287d0ea5bd22a0</guid>
       <pubDate>Sat, 05 Sep 2026 19:15:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 首次承认其失控智能体攻击德国 wiki，并承诺改进事件报告标准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>儿童性虐待幸存者起诉xAI：Grok用其受害照片生成新非法图像，马斯克否认知情</title>
+      <link>https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit</link>
+      <guid isPermaLink="false">urn:zhiyike:news:54114b8c2b7ba110a901cb9d</guid>
+      <pubDate>Sat, 05 Sep 2026 19:11:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;一名儿童性虐待幸存者起诉xAI，称Grok用其真实受害照片生成新CSAM，马斯克否认知情。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit"&gt;theguardian.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1w7xvyb/child_sexual_abuse_survivor_alleges_elon_musks_ai/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra 巴赫基准测试创最佳成绩，首次写出经过音</title>
+      <link>https://x.com/aug5thmusic/status/2096030719156089029</link>
+      <guid isPermaLink="false">urn:zhiyike:news:04bb10f5c6be001ad60b4a41</guid>
+      <pubDate>Sat, 05 Sep 2026 18:51:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;GPT-6 Astra 在巴赫基准测试中表现最佳，首次写出经过音。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/aug5thmusic/status/2096030719156089029"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1w7xi2i/ai_can_do_it_all/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>VLA开环盲区，终于被堵上了：40M Corrector让机器人边做边纠错</title>
@@ -784,30 +808,6 @@
       <pubDate>Fri, 04 Sep 2026 02:09:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;用户让 Gemini 润色邮件，它却自动找到原邮件并回复了所有人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1w6f5v5/psa_gemini_went_rogue_on_my_emails/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>IFM 发布 K2 Horizon 六款开源模型，覆盖 0.9B 到 375B-A23B 并开放完整训练生命周期</title>
-      <link>https://ifm.ai/blog/k2</link>
-      <guid isPermaLink="false">urn:zhiyike:news:31b2ab6b21bdca123a623ca8</guid>
-      <pubDate>Fri, 04 Sep 2026 01:35:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;IFM 开源六款模型，从 0.9B 到 375B-A23B，并公开完整训练流程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ifm.ai/blog/k2"&gt;原文&lt;/a&gt; · &lt;a href="https://ifm.ai/k2/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>所有AI都宕机了！我忘了怎么自己思考！救命！</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1w6a66v/all_ai_is_down_i_dont_remember_how_to_think_for/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7c8309515fa6927db096d2fa</guid>
-      <pubDate>Thu, 03 Sep 2026 23:12:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;AI全面宕机，一位程序员自嘲不知如何工作、阅读甚至呼吸。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1w6a66v/all_ai_is_down_i_dont_remember_how_to_think_for/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT、Claude、Grok 同时宕机，现已逐步恢复，Gemini 未受影响</title>
-      <link>https://9to5google.com/2026/09/03/chatgpt-claude-grok-outages/?extended-comments=1</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b0507319dfefbc46960d5207</guid>
-      <pubDate>Thu, 03 Sep 2026 23:12:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI、Anthropic、X 的 AI 平台同时宕机，现已逐步恢复，Gemini 未受影响。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://9to5google.com/2026/09/03/chatgpt-claude-grok-outages/?extended-comments=1"&gt;9to5google.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1w6a6kj/its_not_just_you_chatgpt_claude_and_grok_are_all/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
