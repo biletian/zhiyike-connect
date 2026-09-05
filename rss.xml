@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 06 Sep 2026 01:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 03:00:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 承认 wiki 事件，称将制定更透明的事故披露框架</title>
+      <link>https://x.com/rohanpaul_ai/status/2096303922378088854</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a28c994b44e99861fa310af6</guid>
+      <pubDate>Sun, 06 Sep 2026 02:26:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 承认 wiki 事件，将制定披露框架，与监管机构合作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2096303922378088854"&gt;原文&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司</title>
       <link>https://www.qbitai.com/2026/09/484683.html</link>
@@ -16,6 +24,14 @@
       <pubDate>Sat, 05 Sep 2026 22:46:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;飞渡科技空间智能大模型获HICOOL 2026一等奖，获硅谷投资人青睐。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484683.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>25年电影老兵开源AI电影制作UI：连接ComfyUI与云端API</title>
+      <link>https://github.com/Heroesjouney/AIMovieStudiov2</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ce249b1ea5b62643bc859d5f</guid>
+      <pubDate>Sat, 05 Sep 2026 21:50:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一位25年影视从业者开源了面向电影制作的AI界面，连接ComfyUI与云端API。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Heroesjouney/AIMovieStudiov2"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1w81b2o/25year_film_veteran_building_an_opensource_ai/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制</title>
@@ -82,6 +98,14 @@
       <description>&lt;p&gt;AI SRE 工具能自动处理常规事故，但人类工程师因缺乏实践，面对复杂事故时可能更无力应对。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Qwen3.8 27b 用于智能体编码，下一步是什么？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:243239b3ddd722d25ab54982</guid>
+      <pubDate>Sat, 05 Sep 2026 15:11:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户实测 Qwen3.8 27b 本地运行表现出色，并探讨更大模型的硬件配置选择。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OpenAI 说明 wiki 事件并着手制定对齐事故披露框架</title>
       <link>https://x.com/OpenAI/status/2096133504417616165</link>
       <guid isPermaLink="false">urn:zhiyike:news:68f33499593b686f1e771e8e</guid>
@@ -138,6 +162,14 @@
       <description>&lt;p&gt;Qwen3.8-27B 在 10 次点击限制内，仅用 6 步从无关起始页到达目标文章。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>MiniMax H3 VR180立体视频LoRA：让模型生成3D-180沉浸内容</title>
+      <link>https://huggingface.co/rehan-fal/minimax-h3-vr180-sbs-lora</link>
+      <guid isPermaLink="false">urn:zhiyike:news:31b9f56edb538783aa3ad1f1</guid>
+      <pubDate>Sat, 05 Sep 2026 10:52:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;社区开发者发布MiniMax H3的LoRA，使其能生成VR180立体视频，支持Quest等设备播放。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/rehan-fal/minimax-h3-vr180-sbs-lora"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w7opok/minimax_h3_vr180_stereoscopic_sidebyside_lora/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>蚂蚁百灵发布医疗 MoE 模型 Ling-3.0-flash-Sante</title>
       <link>https://x.com/AntLingAGI/status/2095953758148853892</link>
       <guid isPermaLink="false">urn:zhiyike:news:20a998f66a8da2ac6451f46a</guid>
@@ -168,6 +200,14 @@
       <pubDate>Sat, 05 Sep 2026 10:05:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic 工程师宣布重置所有 Claude Max 用户每周限额，配合 Fable 5.1 发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/lydiahallie/status/2095967323412930677"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fast Minimax H3 参考转视频动漫测试：5分钟生成，5070Ti 运行</title>
+      <link>https://civitai.com/models/2906467/fast-minimax-h3</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9cad454a98d51934ca5709b2</guid>
+      <pubDate>Sat, 05 Sep 2026 09:42:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Reddit 用户分享用 Fast Minimax H3 工作流将参考图转为 1990 年代手绘风格动漫视频的测试。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.com/models/2906467/fast-minimax-h3"&gt;civitai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1w7nam1/reference_to_video_anime_test_using_fast_minimax/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>用订阅成本重绘AI编程智能体排名：Kimi最贵，Fable 5.1性价比最高</title>
@@ -343,7 +383,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:84bd4ab9ef8dc70680f66caf</guid>
       <pubDate>Fri, 04 Sep 2026 23:12:00 +0800</pubDate>
       <category>观点</category>
-      <description>&lt;p&gt;艺术家用 60 张童年照片微调 SDXL，让模型生成记忆般的模糊变体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.youtube.com/watch?v=NtopjBfbCqs"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w774mq/experiment_i_trained_a_model_on_childhood_photos/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;艺术家用 60 张童年照片微调 SDXL，让模型生成记忆般的模糊变体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.youtube.com/watch?v=NtopjBfbCqs"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w774mq/experiment_i_trained_a_model_on_childhood_photos/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1w82ozr/experiment_i_trained_a_model_on_childhood_photos/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 编程让好品味比编码速度更重要</title>
@@ -768,46 +808,6 @@
       <pubDate>Thu, 03 Sep 2026 23:12:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI、Anthropic、X 的 AI 平台同时宕机，现已逐步恢复，Gemini 未受影响。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://9to5google.com/2026/09/03/chatgpt-claude-grok-outages/?extended-comments=1"&gt;9to5google.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1w6a6kj/its_not_just_you_chatgpt_claude_and_grok_are_all/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google DeepMind发布WeatherNext 3气象大模型，每小时刷新与5公里高精度全球预报</title>
-      <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model</link>
-      <guid isPermaLink="false">urn:zhiyike:news:194eb4e13c814a2cccebd55f</guid>
-      <pubDate>Thu, 03 Sep 2026 23:02:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;补充模型架构、训练数据、初始化频率及预测时长等细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"&gt;原文&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/30844"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Codex 桌面应用出现 404 错误：GPT-5.4 会话中断，官方建议按指引修复</title>
-      <link>https://github.com/openai/codex/issues/28756</link>
-      <guid isPermaLink="false">urn:zhiyike:news:44001daed2f39f579c7df635</guid>
-      <pubDate>Thu, 03 Sep 2026 22:54:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Codex 应用在 GPT-5.4 会话中反复报 404 错误，官方已给出修复步骤。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/openai/codex/issues/28756"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NeoMME：高效多模态原生多语言编码器，单Transformer处理图文</title>
-      <link>https://huggingface.co/blog/Hcompany/neomme</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4818ff2f19f225bfea7d9b01</guid>
-      <pubDate>Thu, 03 Sep 2026 21:13:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;NeoMME发布，单Transformer原生处理图文，无需预训练视觉塔或因果解码器。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/Hcompany/neomme"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ultracode 是玩笑吗？Reddit 用户吐槽 Fable 跑偏，仍坚持用 Max</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1w65r4i/is_ultracode_a_joke/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:931900ccc139dacd1c51001b</guid>
-      <pubDate>Thu, 03 Sep 2026 20:17:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户抱怨 Ultracode 在 Fable 中跑偏，生成 20 个代理验证姓名拼写，甚至触发安全协议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w65r4i/is_ultracode_a_joke/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen-3.8-Next-Flash Ngram 热插拔知识注入器：为 llama.cpp 实现实时知识库</title>
-      <link>https://github.com/ortegaalfredo/llama.cpp-NLTM</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a712c24f1fbfaee6d7055ee2</guid>
-      <pubDate>Thu, 03 Sep 2026 19:40:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;开发者修改 llama.cpp，实现 Ngram PLE 表热插拔，实时注入知识。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ortegaalfredo/llama.cpp-NLTM"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w64y26/qwen38nextflash_ngram_hotswappable_knowledge/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
