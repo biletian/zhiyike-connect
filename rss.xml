@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 05 Sep 2026 23:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 01:17:00 +0800</lastBuildDate>
+    <item>
+      <title>押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司</title>
+      <link>https://www.qbitai.com/2026/09/484683.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:db38d86e3ec1d23ad5703874</guid>
+      <pubDate>Sat, 05 Sep 2026 22:46:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;飞渡科技空间智能大模型获HICOOL 2026一等奖，获硅谷投资人青睐。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484683.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制</title>
       <link>https://www.ithome.com/0/998/814.htm</link>
@@ -202,6 +210,14 @@
       <description>&lt;p&gt;Spotify 工程师用 Portal 的 AiKA Modes 路由任务，将 Claude Code 令牌消耗降低 9&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明</title>
+      <link>https://www.ithome.com/0/998/638.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0254525ed79b9715723501b5</guid>
+      <pubDate>Sat, 05 Sep 2026 07:20:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Claude 多智能体协作，11 天生成 1300 万行 Lean 代码，完成费马大定理的计算机验证证明。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/0/998/638.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元</title>
       <link>https://www.ithome.com/0/998/630.htm</link>
       <guid isPermaLink="false">urn:zhiyike:news:14e718e49d798a676e9d6ae9</guid>
@@ -216,6 +232,14 @@
       <pubDate>Sat, 05 Sep 2026 06:52:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;GPT-6 Astra 已向所有 Plus 和 Business 用户开放，API 可用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sama/status/2096008528834244741"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/testingcatalog/status/2095961888261542321"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/sama/status/2095973658867171733"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 完成 Fermat 大定理的首个全机器校验形式化证明</title>
+      <link>https://x.com/kimmonismus/status/2096007967749349844</link>
+      <guid isPermaLink="false">urn:zhiyike:news:05f3e0de70e49dcd5fdf88db</guid>
+      <pubDate>Sat, 05 Sep 2026 06:50:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 称 Claude 将费马大定理证明形式化，生成 1300 万行 Lean 代码。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/kimmonismus/status/2096007967749349844"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 能设计电路板了吗？EEBench 用仿真与真实元器件检验 AI 电路设计能力</title>
@@ -784,30 +808,6 @@
       <pubDate>Thu, 03 Sep 2026 19:40:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;开发者修改 llama.cpp，实现 Ngram PLE 表热插拔，实时注入知识。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ortegaalfredo/llama.cpp-NLTM"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w64y26/qwen38nextflash_ngram_hotswappable_knowledge/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌高管称Flash模型表现惊喜，Reddit热议Pro系列或将被弃</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1w644c5/the_pro_series_is_basically_declared_dead/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:15e425312dc70a2e8320b018</guid>
-      <pubDate>Thu, 03 Sep 2026 18:59:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;谷歌高管称赞Flash模型，Reddit用户猜测Pro系列可能被停产。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1w644c5/the_pro_series_is_basically_declared_dead/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-03-9</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4c531acbaaa6c42329d3ced0</guid>
-      <pubDate>Thu, 03 Sep 2026 18:19:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;星尘智能提出 SmoothRL，解决异步执行下在线强化学习只学真实执行动作的问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-03-9"&gt;机器之心&lt;/a&gt; · &lt;a href="https://aiera.com.cn/2026/09/04/other/admin/112096/%e6%9c%ba%e5%99%a8%e4%ba%ba%e4%b8%8d%e8%83%bd%e5%81%9c%e4%b8%8b%e6%9d%a5%e7%ad%89%e6%a8%a1%e5%9e%8b%ef%bc%9a%e6%98%9f%e5%b0%98%e5%8f%91%e5%b8%83-smoothrl%ef%bc%8c%e8%ae%a9%e5%9c%a8%e7%ba%bf%e5%bc%ba/"&gt;新智元&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/09/484437.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>陈大年复出，入局大模型</title>
-      <link>https://www.qbitai.com/2026/09/483600.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:95b17115c424f95c65d9eac8</guid>
-      <pubDate>Thu, 03 Sep 2026 18:13:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;陈大年携StartLux入局大模型，首款27B本地模型在MCP测试中排名第二。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/483600.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
