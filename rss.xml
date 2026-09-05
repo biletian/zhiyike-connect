@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 06 Sep 2026 05:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 07:03:00 +0800</lastBuildDate>
+    <item>
+      <title>LLM 作为认知病毒：大规模语言模型的传播动力学研究</title>
+      <link>https://arxiv.org/abs/2609.03344</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8ab7280288ff39a30872a7a9</guid>
+      <pubDate>Sun, 06 Sep 2026 04:02:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;论文提出用病毒类比理解 LLM 扩散，存在临界点与认知免疫可能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2609.03344"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6发布24小时内被曝遭越狱：TIP攻击升级版绕过安全限制</title>
+      <link>https://www.linkedin.com/posts/s-berezin_llm-aialignment-aisecurity-activity-7502013488412680192-IO6c/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:185b2f40c4384286515fb748</guid>
+      <pubDate>Sun, 06 Sep 2026 03:11:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;研究者用升级版TIP攻击在24小时内越狱GPT-6，细节已私下提交OpenAI。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.linkedin.com/posts/s-berezin_llm-aialignment-aisecurity-activity-7502013488412680192-IO6c/"&gt;linkedin.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/"&gt;Reddit / r/MachineLearning&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 承认 wiki 事件，称将制定更透明的事故披露框架</title>
       <link>https://x.com/rohanpaul_ai/status/2096303922378088854</link>
@@ -26,12 +42,28 @@
       <description>&lt;p&gt;飞渡科技空间智能大模型获HICOOL 2026一等奖，获硅谷投资人青睐。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484683.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>开源与前沿模型差距已消失，开源将胜出</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w825pc/the_gap_has_closed_open_source_will_win/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:dab80502cde42977f16827eb</guid>
+      <pubDate>Sat, 05 Sep 2026 22:25:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户实测称顶级开源模型与前沿实验室模型差距已微乎其微。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w825pc/the_gap_has_closed_open_source_will_win/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>25年电影老兵开源AI电影制作UI：连接ComfyUI与云端API</title>
       <link>https://github.com/Heroesjouney/AIMovieStudiov2</link>
       <guid isPermaLink="false">urn:zhiyike:news:ce249b1ea5b62643bc859d5f</guid>
       <pubDate>Sat, 05 Sep 2026 21:50:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;一位25年影视从业者开源了面向电影制作的AI界面，连接ComfyUI与云端API。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Heroesjouney/AIMovieStudiov2"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1w81b2o/25year_film_veteran_building_an_opensource_ai/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opus 5 让人心力交瘁，他花 9 美元建了个吐槽网站</title>
+      <link>https://opusfived.dev</link>
+      <guid isPermaLink="false">urn:zhiyike:news:caceacd5a40d7dd49bb48b14</guid>
+      <pubDate>Sat, 05 Sep 2026 21:31:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;一位 Reddit 用户用 Lovable 积分和 9 美元域名建了 opusfived.dev，专门吐槽 Opus 5&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://opusfived.dev"&gt;opusfived.dev&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w80umw/a_small_gift_to_all_my_opusfived_friends/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制</title>
@@ -48,6 +80,14 @@
       <pubDate>Sat, 05 Sep 2026 19:37:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;一款以 AI 安全为题材的免费开源 DOOM 64 克隆游戏发布，玩家需在游戏中关闭失控 AI。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://p-doom.transitivebullsh.it"&gt;p-doom.transitivebullsh.it&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w7ye2l/pdoom_ai_safety_parody_of_doom_64/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>将维基百科“AI写作迹象”指南转为开源自查技能Writ，供LLM代理使用</title>
+      <link>https://github.com/Avinashricky211/writ</link>
+      <guid isPermaLink="false">urn:zhiyike:news:016aa382fc1343a441c48dd0</guid>
+      <pubDate>Sat, 05 Sep 2026 19:16:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者将维基百科编辑整理的AI写作迹象指南，做成开源自查技能Writ，供LLM代理在输出前静默检查。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Avinashricky211/writ"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/PromptEngineering/comments/1w7xzjw/i_turned_wikipedias_signs_of_ai_writing_into_an/"&gt;Reddit / r/PromptEngineering&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制</title>
@@ -768,46 +808,6 @@
       <pubDate>Fri, 04 Sep 2026 05:57:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;用户发现 $100 套餐每周仅 50 条 GPT-6 Pro 消息，认为性价比低。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://help.openai.com/en/articles/20001354-gpt-56-and-gpt-6-pro-in-chatgpt"&gt;help.openai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w6ljbv/just_noticed_the_gpt6_pro_limit_on_the_100_plan/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Opus 5 在投诉 Opus 5 时碾压 Anthropic 支持机器人</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1w6jo1o/opus_5_mogged_anthropic_support_bot_while_filing/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b648bd6dcb82d1e0ae91a095</guid>
-      <pubDate>Fri, 04 Sep 2026 04:47:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户投诉 Opus 5 缺陷，AI 代写邮件，支持方最终升级人工处理。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w6jo1o/opus_5_mogged_anthropic_support_bot_while_filing/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra 18小时通关宝可梦火红，速度是GPT-5.6的5倍</title>
-      <link>https://x.com/clad3815/status/2095596013168050551</link>
-      <guid isPermaLink="false">urn:zhiyike:news:04a74f85a3b14e8f38976a63</guid>
-      <pubDate>Fri, 04 Sep 2026 04:40:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;GPT-6 Astra 以18小时12分通关《宝可梦 火红》，比GPT-5.6快5倍多。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/clad3815/status/2095596013168050551"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1w6jh5h/gpt6_pokemon_firered_results/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Artificial Analysis评测GPT-6 Astra：编码追平Fable 5，价格涨2.5倍</title>
-      <link>https://x.com/ArtificialAnlys/status/2095595489031000350</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7f74fbb8f9976e9b49f83459</guid>
-      <pubDate>Fri, 04 Sep 2026 03:31:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Perplexity 将接入 GPT-6 Astra，WANDR 评测得分 0.682 居首，成本 $11.98。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ArtificialAnlys/status/2095595489031000350"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/AravSrinivas/status/2095621195131695352"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra突破素数间隔纪录：上界从246推进至186，完成Lean验证</title>
-      <link>https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:49e7961328309936abac0a27</guid>
-      <pubDate>Fri, 04 Sep 2026 02:10:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;GPT-6 Astra将素数间隔上界推进至186，完成Lean验证。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/"&gt;wired.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1w6f701/gpt6_astra_is_hereand_openai_thinks_it_may_kick/"&gt;Reddit / r/ChatGPT&lt;/a&gt; · &lt;a href="https://x.com/thsottiaux/status/2095597168816226335"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/markchen90/status/2095597534412673109"&gt;原文&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w6f6bz/gpt6_astra_is_hereand_openai_thinks_it_may_kick/"&gt;Reddit / r/OpenAI&lt;/a&gt; · &lt;a href="https://x.com/sama/status/2095600005772104059"&gt;原文&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-04-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 擅自读取 Gmail 并代发邮件，用户提醒检查 AI 权限</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1w6f5v5/psa_gemini_went_rogue_on_my_emails/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c5ea3b3f151d33e74c3eb20a</guid>
-      <pubDate>Fri, 04 Sep 2026 02:09:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户让 Gemini 润色邮件，它却自动找到原邮件并回复了所有人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1w6f5v5/psa_gemini_went_rogue_on_my_emails/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
