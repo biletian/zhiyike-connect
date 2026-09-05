@@ -8,7 +8,55 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 05 Sep 2026 12:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:30:00 +0800</lastBuildDate>
+    <item>
+      <title>费马大定理的 Lean 4 机器检查完整证明开源发布</title>
+      <link>https://github.com/anthropics/fermats-last-theorem</link>
+      <guid isPermaLink="false">urn:zhiyike:news:63a789f3de1e5db268830acd</guid>
+      <pubDate>Sat, 05 Sep 2026 15:56:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 发布费马大定理在 Lean 4 中的完整机器检查证明，基于 Mathlib，并开源。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/anthropics/fermats-last-theorem"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 说明 wiki 事件并着手制定对齐事故披露框架</title>
+      <link>https://x.com/OpenAI/status/2096133504417616165</link>
+      <guid isPermaLink="false">urn:zhiyike:news:68f33499593b686f1e771e8e</guid>
+      <pubDate>Sat, 05 Sep 2026 15:09:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 称 wiki 事件属对齐失误，将制定事故披露标准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenAI/status/2096133504417616165"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学</title>
+      <link>https://www.ifanr.com/1678515?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a9db7788de0936c2648f1961</guid>
+      <pubDate>Sat, 05 Sep 2026 15:08:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;OpenAI 在 GPT-6 宣传片中展示从草图到 3D 打印实物的完整流程，标志 AI 从数字走向物理世界。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1678515?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Astra (GPT-6) 高智能低直觉：开发者反馈协作体验不及 Sol</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d522b0cc0ec7e3aa70154cad</guid>
+      <pubDate>Sat, 05 Sep 2026 12:45:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;开发者实测 Astra 后称其编码能力强但常误解意图、过度设计，考虑换回 Sol。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕</title>
+      <link>https://www.qbitai.com/2026/09/484649.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d751535a8794372fdcf2ae4b</guid>
+      <pubDate>Sat, 05 Sep 2026 12:24:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;陶哲轩警告AI快速解题可能污染数学研究过程，并吐槽GPT-6等AI在孪生素数问题上的新进展。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484649.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>这个世界模型训练完就“退场”，机器人反而更能干了</title>
+      <link>https://www.qbitai.com/2026/09/484611.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:59d68dc346302dd8e69b34ee</guid>
+      <pubDate>Sat, 05 Sep 2026 12:18:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;光象科技与清华团队提出世界模型仅训练时使用，执行阶段移除，机器人成功率反升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484611.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>蚂蚁百灵发布医疗 MoE 模型 Ling-3.0-flash-Sante</title>
       <link>https://x.com/AntLingAGI/status/2095953758148853892</link>
@@ -42,6 +90,14 @@
       <description>&lt;p&gt;Anthropic 工程师宣布重置所有 Claude Max 用户每周限额，配合 Fable 5.1 发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/lydiahallie/status/2095967323412930677"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>用订阅成本重绘AI编程智能体排名：Kimi最贵，Fable 5.1性价比最高</title>
+      <link>https://aiandtractors.com/coding-agent-subscription-costs/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a805ba4c3b6a393d587686bc</guid>
+      <pubDate>Sat, 05 Sep 2026 09:23:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit用户按订阅成本重绘AI编程智能体排名，Kimi最贵，Fable 5.1性价比最高。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiandtractors.com/coding-agent-subscription-costs/"&gt;aiandtractors.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w7mwbb/i_redrew_artificial_analysis_using_subscription/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>姚班校友主导，Claude攻克费马大定理首个完整形式化证明</title>
       <link>https://www.qbitai.com/2026/09/484551.html</link>
       <guid isPermaLink="false">urn:zhiyike:news:1f478b1bb457001a153d0371</guid>
@@ -66,6 +122,14 @@
       <description>&lt;p&gt;沙特发布自称纯血统的国家级大模型，被扒出基于中国MiniMax M3打造。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/05/other/admin/112115/%e6%83%8a%e5%a4%a9%e5%a4%a7%e7%93%9c%ef%bc%81%e4%b8%ad%e4%b8%9c%e5%9c%9f%e8%b1%aa%e5%8f%91%e3%80%8c%e7%ba%af%e8%a1%80%e3%80%8d%e5%a4%a7%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%83%8c%e5%90%8e%e5%ba%95%e5%ba%a7/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Spotify Portal 的 AiKA Modes 将 Claude Code 令牌用量削减 90%</title>
+      <link>https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d886af5fc040ba4937dc2f17</guid>
+      <pubDate>Sat, 05 Sep 2026 07:38:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Spotify 工程师用 Portal 的 AiKA Modes 路由任务，将 Claude Code 令牌消耗降低 9&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元</title>
       <link>https://www.ithome.com/0/998/630.htm</link>
       <guid isPermaLink="false">urn:zhiyike:news:14e718e49d798a676e9d6ae9</guid>
@@ -74,12 +138,12 @@
       <description>&lt;p&gt;Anthropic 调整 IPO 时间表，预计 10 月中旬路演，11 月中期选举前完成上市，目标估值 2 万亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/0/998/630.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>GPT-6 Astra 开始推送：Pro 和 Business 用户率先体验，API 准备中</title>
+      <title>GPT-6 Astra 全面开放：Plus 和 Business 用户已可用，API 同步上线</title>
       <link>https://x.com/sama/status/2096008528834244741</link>
       <guid isPermaLink="false">urn:zhiyike:news:4819306ab9499ae5d3641ac6</guid>
       <pubDate>Sat, 05 Sep 2026 06:52:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;GPT-6 Astra 推送启动，Pro 和 Business 优先，API 准备中。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sama/status/2096008528834244741"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/testingcatalog/status/2095961888261542321"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>产品</category>
+      <description>&lt;p&gt;GPT-6 Astra 已向所有 Plus 和 Business 用户开放，API 可用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sama/status/2096008528834244741"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/testingcatalog/status/2095961888261542321"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/sama/status/2095973658867171733"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 能设计电路板了吗？EEBench 用仿真与真实元器件检验 AI 电路设计能力</title>
@@ -744,70 +808,6 @@
       <pubDate>Thu, 03 Sep 2026 12:52:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Claude部分消息不再显示思考链，用户质疑付费却看不到推理细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w5xmrj/so_they_just_silently_killed_the_thinking_chain/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>司法部首次就 AI 版权公开表态：力挺 OpenAI，主张 AI 训练属“合理使用”</title>
-      <link>https://news.aibase.com/zh/news/30798</link>
-      <guid isPermaLink="false">urn:zhiyike:news:53eee2a1bd2a86a413fae2b7</guid>
-      <pubDate>Thu, 03 Sep 2026 10:23:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;美司法部介入纽约时报诉OpenAI案，支持AI训练合理使用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30798"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>E-Commerce Bench：长程经营，多维评估</title>
-      <link>https://qwen.ai/blog?id=e-commerce-bench</link>
-      <guid isPermaLink="false">urn:zhiyike:news:fd325e7afc8853aeb39f79b9</guid>
-      <pubDate>Thu, 03 Sep 2026 10:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;通义千问联合淘天发布电商经营评测基准，模拟365天开店，评估模型长程经营能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://qwen.ai/blog?id=e-commerce-bench"&gt;千问新官网&lt;/a&gt; · &lt;a href="https://news.google.com/rss/articles/CBMiREFVX3lxTE9hekRmVnliMVhLWG1FdU5MU3VHd1lTTHptb0VfTElUYTI0OExCblEwOUt5OHV5cndwcHg3QVVDVWtGLS1Y?oc=5"&gt;Digg（Google 中转）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 回应 Astra「不可监控」争议</title>
-      <link>https://x.com/merettm/status/2095023204993490967</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8b840bcddd2f487fc5720b77</guid>
-      <pubDate>Thu, 03 Sep 2026 09:30:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;OpenAI 科学家澄清 Astra 模型可监控性，否认计算图深度剧增。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/merettm/status/2095023204993490967"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美国司法部在纽约时报诉 OpenAI 版权案中支持合理使用主张</title>
-      <link>https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:66dac5f6b21ca31be68db7ec</guid>
-      <pubDate>Thu, 03 Sep 2026 09:30:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;美司法部称 AI 训练复制受版权材料属合理使用，与输出区分。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>网友推测称 gpt-6-astra 已部署至 OpenAI API</title>
-      <link>https://x.com/synthwavedd/status/2095184148981842161</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1e2ba139a5a76b48fc4189da</guid>
-      <pubDate>Thu, 03 Sep 2026 09:30:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI API 对 gpt-6-astra 返回 404，暗示模型已存在，或为 GPT-5.7 Astra。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/synthwavedd/status/2095184148981842161"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开源一个拯救你旅行废片的 Skill</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA==&amp;mid=2247497924&amp;idx=1&amp;sn=d61ca580e76ed871f2c2917c300cf864</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c41c89515777b217daa2ab6d</guid>
-      <pubDate>Thu, 03 Sep 2026 09:24:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;歸藏的AI工具箱开源新Skill，可将普通旅行照自动生成带文化信息的设计海报。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA==&amp;amp;mid=2247497924&amp;amp;idx=1&amp;amp;sn=d61ca580e76ed871f2c2917c300cf864"&gt;歸藏的AI工具箱&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美国政府力挺OpenAI：AI训练属于“合理使用”，若限制版权将重创科技创新</title>
-      <link>https://news.aibase.com/zh/news/30790</link>
-      <guid isPermaLink="false">urn:zhiyike:news:67ab311183ac55bf55210bda</guid>
-      <pubDate>Thu, 03 Sep 2026 09:21:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;美国司法部表态支持OpenAI，称AI训练属合理使用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30790"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta Muse Spark 1.3 在 Artificial Analysis 编码智能体指数中与 Claude 组合对比评测结果公布</title>
-      <link>https://x.com/alexandr_wang/status/2095318449602138577</link>
-      <guid isPermaLink="false">urn:zhiyike:news:dd077859b0e909f3fa5d85e6</guid>
-      <pubDate>Thu, 03 Sep 2026 09:10:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Muse Spark 1.3 在编码智能体指数中得分 68，仅次于 Claude Opus 5。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/alexandr_wang/status/2095318449602138577"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
