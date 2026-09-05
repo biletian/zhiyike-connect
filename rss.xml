@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 05 Sep 2026 20:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 23:01:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 回应智能体接管德语维基网站事件，称将改革 AI 误对齐事件披露机制</title>
+      <link>https://www.ithome.com/0/998/814.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:aa7d8dc8372777b3a8daa328</guid>
+      <pubDate>Sat, 05 Sep 2026 19:43:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI首次承认其智能体失控攻击德语维基网站，并宣布将制定新的事件披露标准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/0/998/814.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 承认德国 wiki 事件并承诺改革智能体错位事件报告机制</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident</link>
@@ -32,6 +40,14 @@
       <pubDate>Sat, 05 Sep 2026 17:50:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;新基准 UrbanGround 用香港真实三维数据测试大模型，长程导航成功率几乎为零。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-05-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>怀念旧互联网：我用 Claude Code 自建免费照片清理应用 Keepr</title>
+      <link>https://apps.apple.com/app/id6805253423</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0910eecf0f49cd3683fb32f5</guid>
+      <pubDate>Sat, 05 Sep 2026 17:49:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位开发者因厌倦订阅制，用 Claude Code 自建免费照片清理应用 Keepr 并分享。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://apps.apple.com/app/id6805253423"&gt;apps.apple.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w7web0/i_miss_when_people_built_things_for_the_internet/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ECCV 2026｜突破伪目标天花板：ART重新定义高保真妆容迁移</title>
@@ -74,6 +90,14 @@
       <description>&lt;p&gt;OpenAI 在 GPT-6 宣传片中展示从草图到 3D 打印实物的完整流程，标志 AI 从数字走向物理世界。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1678515?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>我把本地大模型用成了3D打印机：缺什么软件就现做一个</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2fc003662663fd0492846f7a</guid>
+      <pubDate>Sat, 05 Sep 2026 15:03:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位用户用128GB内存迷你主机跑本地LLM，缺软件就自己写，已做出12款游戏和多个工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Astra (GPT-6) 高智能低直觉：开发者反馈协作体验不及 Sol</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/</link>
       <guid isPermaLink="false">urn:zhiyike:news:d522b0cc0ec7e3aa70154cad</guid>
@@ -96,6 +120,14 @@
       <pubDate>Sat, 05 Sep 2026 12:18:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;光象科技与清华团队提出世界模型仅训练时使用，执行阶段移除，机器人成功率反升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484611.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen3.8-27B 用 6 次点击通关维基百科游戏</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8bd3d9d22fc67cb4863267ec</guid>
+      <pubDate>Sat, 05 Sep 2026 12:10:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Qwen3.8-27B 在 10 次点击限制内，仅用 6 步从无关起始页到达目标文章。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>蚂蚁百灵发布医疗 MoE 模型 Ling-3.0-flash-Sante</title>
@@ -776,38 +808,6 @@
       <pubDate>Thu, 03 Sep 2026 18:13:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;陈大年携StartLux入局大模型，首款27B本地模型在MCP测试中排名第二。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/483600.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>不炫技，只搬砖，拟25亿美元上市，Agility戳破人形机器人泡沫</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-03-10</link>
-      <guid isPermaLink="false">urn:zhiyike:news:78849414f52d184721dec342</guid>
-      <pubDate>Thu, 03 Sep 2026 18:11:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Agility Robotics 靠务实搬运机器人获订单超3亿美元，拟以25亿美元估值上市。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-03-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>陶哲轩：部分数学开放问题应禁止AI求解</title>
-      <link>https://mathstodon.xyz/@tao/117204929023813310</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0344cd421357d88ff35e4eae</guid>
-      <pubDate>Thu, 03 Sep 2026 16:52:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;陶哲轩建议通过社会规范，将部分数学开放问题对AI求解器设限。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mathstodon.xyz/@tao/117204929023813310"&gt;mathstodon.xyz&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1w61u8t/terence_tao_wants_some_mathematical_problems_kept/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI新经济备受关注，2026外滩大会报名人数破5万，吸引 50 多个国家和地区参与</title>
-      <link>https://aiera.com.cn/2026/09/03/other/admin/111947/ai%e6%96%b0%e7%bb%8f%e6%b5%8e%e5%a4%87%e5%8f%97%e5%85%b3%e6%b3%a8%ef%bc%8c2026%e5%a4%96%e6%bb%a9%e5%a4%a7%e4%bc%9a%e6%8a%a5%e5%90%8d%e4%ba%ba%e6%95%b0%e7%a0%b45%e4%b8%87%ef%bc%8c%e5%90%b8%e5%bc%95-50/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:98459045bf54a1ab5663e1e9</guid>
-      <pubDate>Thu, 03 Sep 2026 16:38:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;2026外滩大会将于9月9日开幕，报名人数已超5万，聚焦AI新经济。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/03/other/admin/111947/ai%e6%96%b0%e7%bb%8f%e6%b5%8e%e5%a4%87%e5%8f%97%e5%85%b3%e6%b3%a8%ef%bc%8c2026%e5%a4%96%e6%bb%a9%e5%a4%a7%e4%bc%9a%e6%8a%a5%e5%90%8d%e4%ba%ba%e6%95%b0%e7%a0%b45%e4%b8%87%ef%bc%8c%e5%90%b8%e5%bc%95-50/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>黄仁勋在 G20 喊话：别对 AI 过度恐惧和监管，被时代抛下才是最坏结果</title>
-      <link>https://news.aibase.com/zh/news/30807</link>
-      <guid isPermaLink="false">urn:zhiyike:news:487593d23a7e5dfcc95dd906</guid>
-      <pubDate>Thu, 03 Sep 2026 15:58:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;黄仁勋敦促G20各国将AI视为基建，监管应聚焦真实危害而非假想风险。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30807"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
