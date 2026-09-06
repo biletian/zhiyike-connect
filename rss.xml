@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 06 Sep 2026 13:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:31:00 +0800</lastBuildDate>
+    <item>
+      <title>Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化</title>
+      <link>https://www.ithome.com/0/998/927.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f3c19702dfeec1c92c5279d9</guid>
+      <pubDate>Sun, 06 Sep 2026 14:46:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 发布 GPT-6 Astra 后多次调整基准测试数据，部分成绩大幅变化，引发争议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/0/998/927.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 降低了创造的门槛，B 站则想放大创造的回声</title>
+      <link>https://www.ifanr.com/1678567?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2cb55ee24fabf6ffe3f42904</guid>
+      <pubDate>Sun, 06 Sep 2026 14:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;B 站 AI 创造公开赛吸引 1.34 万人，八成以上为一人团队，AI 工具让普通人也能开发产品并获奖。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1678567?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Astra 配额计算疑似异常：用户实测消耗为 Sol 的 4–5 倍，而非标称 2.5 倍</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1w8mqby/astras_quota_accounting_looks_broken_users_report/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:362ed82b78e0c0b396cbb123</guid>
+      <pubDate>Sun, 06 Sep 2026 13:01:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;中文社区用户反映 Astra Codex 配额消耗远超定价比例，疑似多扣 1.8 倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1w8mqby/astras_quota_accounting_looks_broken_users_report/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>B站首届AI创造公开赛收官，超八成参赛者为一人团队</title>
       <link>https://www.qbitai.com/2026/09/484890.html</link>
@@ -16,6 +40,14 @@
       <pubDate>Sun, 06 Sep 2026 12:40:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;B站首届AI创造公开赛落幕，超3万份投稿，非专业开发者占比超六成，一等奖奖金100万元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484890.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen3.8-27B 本地模型协助清理恶意软件，胜过 Windows Defender</title>
+      <link>https://www.mdshare.online/s/Mamdrs1WWkurRtt8z8QzK</link>
+      <guid isPermaLink="false">urn:zhiyike:news:37db62ed8b96c66ee6709474</guid>
+      <pubDate>Sun, 06 Sep 2026 10:08:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户用 Qwen3.8-27B 分析恶意文件，成功生成清理脚本并尝试逆向 C2 域名。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.mdshare.online/s/Mamdrs1WWkurRtt8z8QzK"&gt;mdshare.online&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w8jahs/qwen3827b_unhacked_my_pc/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT-6 Astra 机器人操控评测：放块入碗成功率95%，拼图任务仍卡壳</title>
@@ -34,6 +66,14 @@
       <description>&lt;p&gt;Codex负责人Tibo称Astra大幅提升生产力，部分计划提前至DevDay发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2096101429832552872"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>花 883 次提交和 8 个月构建 LLM Agent 框架，过度设计后最终放弃</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1w8h85a/i_spent_883_commits_and_8_months_building_an_llm/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b505404075bdf887085c80cb</guid>
+      <pubDate>Sun, 06 Sep 2026 08:28:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;开发者耗时 8 个月、883 次提交构建 LLM Agent 框架，因过度设计而放弃，并开源了代码。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1w8h85a/i_spent_883_commits_and_8_months_building_an_llm/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>试用OpenAI Astra后：我认为Fable 5用户会被吸引，对Anthropic构成严肃竞争</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1w8h07m/i_thought_i_will_never_say_this_about_fable/</link>
       <guid isPermaLink="false">urn:zhiyike:news:66237b9c3e3306861cdba968</guid>
@@ -48,6 +88,22 @@
       <pubDate>Sun, 06 Sep 2026 08:04:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic用Claude在11天内完成费马大定理的端到端机器验证证明，产出1300万行代码。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/06/other/admin/112366/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e9%a6%96%e6%ac%a1%e8%af%81%e6%98%8e%e8%b4%b9%e9%a9%ac%e5%a4%a7%e5%ae%9a%e7%90%86%ef%bc%81%e6%b8%85%e5%8d%8e%e5%a7%9a%e7%8f%ad%e5%a4%a7%e7%a5%9e%e5%87%ba%e6%89%8b/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code 用户惊现 321 美元费用：Pro 订阅是否够用？</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1w8fy9u/suddenly_worried_about_costs_of_claude/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d4c79de101f4908a8d5be8cf</guid>
+      <pubDate>Sun, 06 Sep 2026 07:29:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit 用户发现 Claude Code 的 /usage 显示总费用 321 美元，远超 Pro 订阅费。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w8fy9u/suddenly_worried_about_costs_of_claude/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Agent Harness 横评：TrueForge 比 Claude 托管省 63% token</title>
+      <link>https://github.com/truefoundry/trueforge/tree/main/benchmark</link>
+      <guid isPermaLink="false">urn:zhiyike:news:11a9c842c9bbbfe426ce3fef</guid>
+      <pubDate>Sun, 06 Sep 2026 06:57:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;同模型同任务实测，TrueForge 与 Claude 托管解决率持平，token 消耗少 63%，成本低约 30%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/truefoundry/trueforge/tree/main/benchmark"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Astra 在 20 美元 Plus 套餐上：5 分钟任务消耗 30% 会话额度，用户称不可用</title>
@@ -72,6 +128,14 @@
       <pubDate>Sun, 06 Sep 2026 03:11:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;研究者用升级版TIP攻击在24小时内越狱GPT-6，细节已私下提交OpenAI。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.linkedin.com/posts/s-berezin_llm-aialignment-aisecurity-activity-7502013488412680192-IO6c/"&gt;linkedin.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/"&gt;Reddit / r/MachineLearning&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>特朗普称AI将创造数百万就业，力挺数据中心建设热潮</title>
+      <link>https://www.techtimes.co.uk/trump-ai-data-centre-job-creation-1808579</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c15f3bf3f13efd6136c77df5</guid>
+      <pubDate>Sun, 06 Sep 2026 03:11:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;特朗普在采访中坚称AI将创造大量就业，并捍卫数据中心扩张。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.techtimes.co.uk/trump-ai-data-centre-job-creation-1808579"&gt;techtimes.co.uk&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1w89lyj/trump_says_ai_will_create_millions_and_millions/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI 承认 wiki 事件，称将制定更透明的事故披露框架</title>
@@ -744,70 +808,6 @@
       <pubDate>Fri, 04 Sep 2026 10:21:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;NVIDIA 推出 PAIR 测试版，可将局域网内 RTX、DGX 和 Mac 设备组成私有 AI 推理集群。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.nvidia.com/en-us/ai-on-rtx/personal-ai-router/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google 为 Gmail、Docs、Keep 推出三项 Gemini 语音对话功能</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2eeed31e5d291e37b4a6d70d</guid>
-      <pubDate>Fri, 04 Sep 2026 10:21:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Google 在 Workspace 中推出三项 Gemini 语音功能，支持对话式搜索、写作和笔记。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SpaceXAI 上线 Grok Bot 企业版</title>
-      <link>https://x.ai/news/grok-bot-for-enterprise</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a461482cf9541941a0d453ad</guid>
-      <pubDate>Fri, 04 Sep 2026 10:21:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Grok Bot 推出企业版，新增治理控制，企业客户可免费试用两周。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.ai/news/grok-bot-for-enterprise"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>多家 AI 服务同一时段中断</title>
-      <link>https://x.com/SpaceXAI/status/2095597264043717014</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7edcf8206ccd85ec788c1c9f</guid>
-      <pubDate>Fri, 04 Sep 2026 10:21:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Grok 因孟菲斯数据中心故障中断，现已恢复。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/SpaceXAI/status/2095597264043717014"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 公开 Claude Code 扩展提案 Function Hooks</title>
-      <link>https://x.com/ClaudeDevs/status/2095572891941351550</link>
-      <guid isPermaLink="false">urn:zhiyike:news:fa0a8698bad5fc2ba96bb782</guid>
-      <pubDate>Fri, 04 Sep 2026 10:21:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Anthropic 正在探索 Claude Code 新扩展方式 Function Hooks，尚未发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ClaudeDevs/status/2095572891941351550"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软×UIUC：给每个学生造一个「数字分身」，AI教师终于有了陪练</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-04</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3f9739525142de2ca9dfa938</guid>
-      <pubDate>Fri, 04 Sep 2026 10:13:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;微软与UIUC推出StudentSim，用真实学生数据训练个性化模拟器，提升AI教师训练效率。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-04"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>卡车自动驾驶里程超10亿公里，嬴彻科技定义“货运物理AI”</title>
-      <link>https://www.qbitai.com/2026/09/483598.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:db95ffb7927562dbccec3583</guid>
-      <pubDate>Fri, 04 Sep 2026 09:40:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;嬴彻科技宣布卡车自动驾驶商业运营里程突破10亿公里，市场份额超90%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/483598.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>那些想用但不让用 AI 的公司，终于可以用 AI 了</title>
-      <link>https://www.ifanr.com/1678332?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:447426a6cacd088b128473d9</guid>
-      <pubDate>Fri, 04 Sep 2026 09:24:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;元空智能与惠普合作，将开源大模型和 Agent 框架装入本地设备，解决特种行业数据合规痛点。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1678332?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code 7:1 击败 Codex：AI 谈判大赛结果揭晓</title>
-      <link>https://x.com/jxnlco/status/2066970432855581052</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ad5eb5cf31a05d6f0a2e9a51</guid>
-      <pubDate>Fri, 04 Sep 2026 08:15:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;AI 编程代理谈判竞赛，Claude Code 以 7:1 大胜 Codex。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/jxnlco/status/2066970432855581052"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w6otte/claude_code_beats_codex_in_a_negotiation/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
