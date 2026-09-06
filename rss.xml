@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 06 Sep 2026 07:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:45:00 +0800</lastBuildDate>
+    <item>
+      <title>刚刚，Claude首次证明费马大定理！清华姚班大神出手了</title>
+      <link>https://aiera.com.cn/2026/09/06/other/admin/112366/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e9%a6%96%e6%ac%a1%e8%af%81%e6%98%8e%e8%b4%b9%e9%a9%ac%e5%a4%a7%e5%ae%9a%e7%90%86%ef%bc%81%e6%b8%85%e5%8d%8e%e5%a7%9a%e7%8f%ad%e5%a4%a7%e7%a5%9e%e5%87%ba%e6%89%8b/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a037e8da4f32a75d70c8d9f6</guid>
+      <pubDate>Sun, 06 Sep 2026 08:04:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic用Claude在11天内完成费马大定理的端到端机器验证证明，产出1300万行代码。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/06/other/admin/112366/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e9%a6%96%e6%ac%a1%e8%af%81%e6%98%8e%e8%b4%b9%e9%a9%ac%e5%a4%a7%e5%ae%9a%e7%90%86%ef%bc%81%e6%b8%85%e5%8d%8e%e5%a7%9a%e7%8f%ad%e5%a4%a7%e7%a5%9e%e5%87%ba%e6%89%8b/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>LLM 作为认知病毒：大规模语言模型的传播动力学研究</title>
       <link>https://arxiv.org/abs/2609.03344</link>
@@ -32,6 +40,14 @@
       <pubDate>Sun, 06 Sep 2026 02:26:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 承认 wiki 事件，将制定披露框架，与监管机构合作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2096303922378088854"&gt;原文&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FaceFusion Mobile：安卓端离线实时换脸，支持Hexagon NPU与GPU/CPU回退</title>
+      <link>https://github.com/AbrahamPaulJ/facefusion-mobile</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4d07a4d57b65c385603a8672</guid>
+      <pubDate>Sat, 05 Sep 2026 23:35:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;安卓端离线实时换脸应用发布，支持前置摄像头实时处理与本地运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/AbrahamPaulJ/facefusion-mobile"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w83xcl/offline_fast_high_quality_ai_face_swap_on_android/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司</title>
@@ -194,12 +210,12 @@
       <description>&lt;p&gt;一位用户用128GB内存迷你主机跑本地LLM，缺软件就自己写，已做出12款游戏和多个工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Astra (GPT-6) 高智能低直觉：开发者反馈协作体验不及 Sol</title>
+      <title>GPT-6 Astra全量开放：性能提升但协作体验受质疑，开发者需调整提示词策略</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/</link>
       <guid isPermaLink="false">urn:zhiyike:news:d522b0cc0ec7e3aa70154cad</guid>
       <pubDate>Sat, 05 Sep 2026 12:45:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;开发者实测 Astra 后称其编码能力强但常误解意图、过度设计，考虑换回 Sol。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>事件</category>
+      <description>&lt;p&gt;Astra全量开放，性能数据亮眼，但协作体验问题引关注&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://aiera.com.cn/2026/09/06/other/admin/112353/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-astra%e5%85%a8%e9%87%8f%e5%bc%80%e6%94%be%ef%bc%81/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕</title>
@@ -792,22 +808,6 @@
       <pubDate>Fri, 04 Sep 2026 06:11:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;新增细节：Anthropic与xAI有SpaceX合作，Google Gemini疑似故障。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"&gt;wired.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w6lw91/nobody_is_saying_why_openai_and_anthropic_had/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MoE 推理优化：Qwen 35B A4B+ 仅改路由，推理 token 减少 8.5%，无需训练</title>
-      <link>https://zenodo.org/records/22255483</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8af4fd897fa790af905cbcea</guid>
-      <pubDate>Fri, 04 Sep 2026 05:58:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;通过运行时调整 MoE 路由器，在后期层增加专家预算，Qwen 35B 推理 token 减少 8.5%，准确率不变。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://zenodo.org/records/22255483"&gt;zenodo.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w6lk6z/increasing_active_parameters_per_token_in_moe/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6 Pro 在 $100 套餐每周仅 50 条消息，用户吐槽太弱</title>
-      <link>https://help.openai.com/en/articles/20001354-gpt-56-and-gpt-6-pro-in-chatgpt</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1f52a93299c0c206fa0649d3</guid>
-      <pubDate>Fri, 04 Sep 2026 05:57:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户发现 $100 套餐每周仅 50 条 GPT-6 Pro 消息，认为性价比低。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://help.openai.com/en/articles/20001354-gpt-56-and-gpt-6-pro-in-chatgpt"&gt;help.openai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w6ljbv/just_noticed_the_gpt6_pro_limit_on_the_100_plan/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
