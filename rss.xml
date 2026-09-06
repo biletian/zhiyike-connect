@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 06 Sep 2026 21:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:15:00 +0800</lastBuildDate>
+    <item>
+      <title>我对AI的感受：技术乐观与社会悲观并存</title>
+      <link>https://beza1e1.tuxen.de/ai_feelings.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:54b7789710163921d03bc4b2</guid>
+      <pubDate>Sun, 06 Sep 2026 23:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;作者从个人视角评述AI的惊喜、恐惧与愤怒，认为技术层面积极但社会层面黯淡。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://beza1e1.tuxen.de/ai_feelings.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8 个无审查 Qwen 3.8 27B 变体对比：167 GPU 小时实测，orcarouter 胜出</title>
+      <link>https://abliterlitics.dev/models/qwen38-27b/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ecc3a2db703af915220e05ea</guid>
+      <pubDate>Sun, 06 Sep 2026 21:15:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Abliterlitics 用 167 GPU 小时对比 8 个 Qwen 3.8 27B 去审查变体，orcarout&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://abliterlitics.dev/models/qwen38-27b/"&gt;abliterlitics.dev&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>末日刷屏：我们如何用手机把自己刷向新黑暗时代</title>
+      <link>https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death</link>
+      <guid isPermaLink="false">urn:zhiyike:news:504a645506692c40a73a3d06</guid>
+      <pubDate>Sun, 06 Sep 2026 19:53:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;James Marriott新书《新黑暗时代》探讨数字媒体导致读写能力衰退。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>具身ICL来了创业玩家！上下文成Scaling新赛道</title>
       <link>https://www.qbitai.com/2026/09/484897.html</link>
@@ -202,12 +226,20 @@
       <description>&lt;p&gt;论文提出用病毒类比理解 LLM 扩散，存在临界点与认知免疫可能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2609.03344"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>GPT-6发布24小时内被曝遭越狱：TIP攻击升级版绕过安全限制</title>
+      <title>Gemini Deep Research：深度复杂研究的最佳模式，优于 Perplexity</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1w8a4vf/deep_research_is_geminis_crown_jewel/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:077beb905d2966e29d301743</guid>
+      <pubDate>Sun, 06 Sep 2026 03:31:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户称 Gemini Deep Research 是深度复杂研究的最佳模式，优于付费的 Perplexit&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1w8a4vf/deep_research_is_geminis_crown_jewel/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra发布24小时内被越狱：TIP攻击升级版绕过99.99%防护，输出盗版工具</title>
       <link>https://www.linkedin.com/posts/s-berezin_llm-aialignment-aisecurity-activity-7502013488412680192-IO6c/</link>
       <guid isPermaLink="false">urn:zhiyike:news:185b2f40c4384286515fb748</guid>
       <pubDate>Sun, 06 Sep 2026 03:11:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;研究者用升级版TIP攻击在24小时内越狱GPT-6，细节已私下提交OpenAI。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.linkedin.com/posts/s-berezin_llm-aialignment-aisecurity-activity-7502013488412680192-IO6c/"&gt;linkedin.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/"&gt;Reddit / r/MachineLearning&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增完整型号GPT-6 Astra，其余事实与已有卡片一致。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.linkedin.com/posts/s-berezin_llm-aialignment-aisecurity-activity-7502013488412680192-IO6c/"&gt;linkedin.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/"&gt;Reddit / r/MachineLearning&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1w8on5m/gpt6_reportedly_jailbroken_within_24_hours_using/"&gt;Reddit / r/artificial&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w8okha/gpt6_reportedly_jailbroken_within_24_hours_using/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>特朗普称AI将创造数百万就业，力挺数据中心建设热潮</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 04 Sep 2026 14:50:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;谷歌确认安卓手机上的Google Assistant将于9月4日起逐步停用，用户迁移至Gemini。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30839"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>T-RO综述重构Foundation Model时代机器人操作知识版图</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-04-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b5ad9392d03185971d5fb46f</guid>
-      <pubDate>Fri, 04 Sep 2026 14:29:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;多机构联合综述被T-RO接收，提出规划与学习双主线分析框架。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-04-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>全球AI集体大罢工：海外多款主力大模型突发瘫痪超3小时，国内大模型淡定在线</title>
-      <link>https://news.aibase.com/zh/news/30837</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d48238ac3893c819d5033372</guid>
-      <pubDate>Fri, 04 Sep 2026 14:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;海外多款AI大模型集体宕机超3小时，国内模型正常运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30837"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>让代码接管世界演化，西湖大学发布Code视频世界模型</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-04-3</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6b77934caa64a81896c0f8cf</guid>
-      <pubDate>Fri, 04 Sep 2026 13:07:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;西湖大学提出Code World Model，将世界演化交给代码，视频模型只负责视觉呈现。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-04-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>零开发经验做 cozy 游戏第 3 天：AI 工作流与 FAQ 解答</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1w6u79l/day_3_of_making_a_cozy_game_with_no_dev/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a86e34279f692e909dcf448d</guid>
-      <pubDate>Fri, 04 Sep 2026 12:31:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;开发者分享用 Opus、Gemini、Meshy、Claude 组合制作 cozy 游戏的完整流程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w6u79l/day_3_of_making_a_cozy_game_with_no_dev/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
