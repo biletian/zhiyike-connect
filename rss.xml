@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 06 Sep 2026 08:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:30:00 +0800</lastBuildDate>
+    <item>
+      <title>B站首届AI创造公开赛收官，超八成参赛者为一人团队</title>
+      <link>https://www.qbitai.com/2026/09/484890.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ef7efdd9e5454f48a8719be3</guid>
+      <pubDate>Sun, 06 Sep 2026 12:40:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;B站首届AI创造公开赛落幕，超3万份投稿，非专业开发者占比超六成，一等奖奖金100万元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484890.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra 机器人操控评测：放块入碗成功率95%，拼图任务仍卡壳</title>
+      <link>https://openai.robocurve.org/gpt-6-astra/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8fc59a464ebc376a6475e6bb</guid>
+      <pubDate>Sun, 06 Sep 2026 09:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI GPT-6 Astra 在 YAM 机械臂测试中，放块入碗成功率远超 Claude Fable 5.1，但&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.robocurve.org/gpt-6-astra/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Codex 负责人 Tibo 预热 OpenAI DevDay</title>
+      <link>https://x.com/thsottiaux/status/2096101429832552872</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d1bbcb83f4abc601924a0c68</guid>
+      <pubDate>Sun, 06 Sep 2026 09:16:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Codex负责人Tibo称Astra大幅提升生产力，部分计划提前至DevDay发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2096101429832552872"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>试用OpenAI Astra后：我认为Fable 5用户会被吸引，对Anthropic构成严肃竞争</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1w8h07m/i_thought_i_will_never_say_this_about_fable/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:66237b9c3e3306861cdba968</guid>
+      <pubDate>Sun, 06 Sep 2026 08:17:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit用户试用OpenAI Astra后盛赞其表现，认为将吸引Fable 5用户并挑战Anthropic。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w8h07m/i_thought_i_will_never_say_this_about_fable/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>刚刚，Claude首次证明费马大定理！清华姚班大神出手了</title>
       <link>https://aiera.com.cn/2026/09/06/other/admin/112366/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e9%a6%96%e6%ac%a1%e8%af%81%e6%98%8e%e8%b4%b9%e9%a9%ac%e5%a4%a7%e5%ae%9a%e7%90%86%ef%bc%81%e6%b8%85%e5%8d%8e%e5%a7%9a%e7%8f%ad%e5%a4%a7%e7%a5%9e%e5%87%ba%e6%89%8b/</link>
@@ -16,6 +48,14 @@
       <pubDate>Sun, 06 Sep 2026 08:04:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic用Claude在11天内完成费马大定理的端到端机器验证证明，产出1300万行代码。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/06/other/admin/112366/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e9%a6%96%e6%ac%a1%e8%af%81%e6%98%8e%e8%b4%b9%e9%a9%ac%e5%a4%a7%e5%ae%9a%e7%90%86%ef%bc%81%e6%b8%85%e5%8d%8e%e5%a7%9a%e7%8f%ad%e5%a4%a7%e7%a5%9e%e5%87%ba%e6%89%8b/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Astra 在 20 美元 Plus 套餐上：5 分钟任务消耗 30% 会话额度，用户称不可用</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1w8cbmz/how_is_anyone_actually_using_astra_on_the_20_plus/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d543e4ffaf56d267f5f09e9d</guid>
+      <pubDate>Sun, 06 Sep 2026 04:57:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户反馈 Astra 在 20 美元套餐上会话额度消耗过快，5 分钟任务用掉 30%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1w8cbmz/how_is_anyone_actually_using_astra_on_the_20_plus/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LLM 作为认知病毒：大规模语言模型的传播动力学研究</title>
@@ -40,6 +80,14 @@
       <pubDate>Sun, 06 Sep 2026 02:26:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 承认 wiki 事件，将制定披露框架，与监管机构合作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2096303922378088854"&gt;原文&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Otaku：面向角色扮演的开源 LLM 前端，支持本地与云端模型</title>
+      <link>https://otaku.sh/demo-web/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c172daa085068411de33159c</guid>
+      <pubDate>Sun, 06 Sep 2026 00:29:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开源 LLM 前端 Otaku 发布，主打角色扮演，提供 Web 与终端双界面。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://otaku.sh/demo-web/"&gt;otaku.sh&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w85blf/otaku_an_llm_frontend/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>FaceFusion Mobile：安卓端离线实时换脸，支持Hexagon NPU与GPU/CPU回退</title>
@@ -152,6 +200,14 @@
       <pubDate>Sat, 05 Sep 2026 17:49:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;一位开发者因厌倦订阅制，用 Claude Code 自建免费照片清理应用 Keepr 并分享。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://apps.apple.com/app/id6805253423"&gt;apps.apple.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w7web0/i_miss_when_people_built_things_for_the_internet/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LLVM 开发者讨论是否引入 AGENTS.md 以引导 AI 代理贡献代码</title>
+      <link>https://www.phoronix.com/news/LLVM-Debates-AGENTS-MD</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f8c398ad29106bc9ff6c97a1</guid>
+      <pubDate>Sat, 05 Sep 2026 17:44:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;LLVM 社区正就是否在仓库中添加 AGENTS.md 文件展开辩论，意见分歧明显。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.phoronix.com/news/LLVM-Debates-AGENTS-MD"&gt;phoronix.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w7wb0n/llvm_developers_begin_debate_over_agentsmd_for/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ECCV 2026｜突破伪目标天花板：ART重新定义高保真妆容迁移</title>
@@ -752,62 +808,6 @@
       <pubDate>Fri, 04 Sep 2026 08:15:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;AI 编程代理谈判竞赛，Claude Code 以 7:1 大胜 Codex。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/jxnlco/status/2066970432855581052"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w6otte/claude_code_beats_codex_in_a_negotiation/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>突发！Gemini 3.8登顶，谷歌迈出RSI一大步</title>
-      <link>https://aiera.com.cn/2026/09/04/other/admin/112088/%e7%aa%81%e5%8f%91%ef%bc%81gemini-3-8%e7%99%bb%e9%a1%b6%ef%bc%8c%e8%b0%b7%e6%ad%8c%e8%bf%88%e5%87%barsi%e4%b8%80%e5%a4%a7%e6%ad%a5/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:40f887a7909c20ab0861004f</guid>
-      <pubDate>Fri, 04 Sep 2026 08:02:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;谷歌发布Gemini 3.8 Flash及网络安全版，成本极低，性能逼近顶级旗舰。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/04/other/admin/112088/%e7%aa%81%e5%8f%91%ef%bc%81gemini-3-8%e7%99%bb%e9%a1%b6%ef%bc%8c%e8%b0%b7%e6%ad%8c%e8%bf%88%e5%87%barsi%e4%b8%80%e5%a4%a7%e6%ad%a5/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>马斯克：AI巨浪已至，吸干全球救命钱！</title>
-      <link>https://aiera.com.cn/2026/09/04/other/admin/112064/%e9%a9%ac%e6%96%af%e5%85%8b%ef%bc%9aai%e5%b7%a8%e6%b5%aa%e5%b7%b2%e8%87%b3%ef%bc%8c%e5%90%b8%e5%b9%b2%e5%85%a8%e7%90%83%e6%95%91%e5%91%bd%e9%92%b1%ef%bc%81/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1c41fbad35e9db04ad2123ee</guid>
-      <pubDate>Fri, 04 Sep 2026 08:02:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;马斯克转发ARK观点，警告AI投资回报率过高，正虹吸全球资本，挤压传统企业生存空间。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/04/other/admin/112064/%e9%a9%ac%e6%96%af%e5%85%8b%ef%bc%9aai%e5%b7%a8%e6%b5%aa%e5%b7%b2%e8%87%b3%ef%bc%8c%e5%90%b8%e5%b9%b2%e5%85%a8%e7%90%83%e6%95%91%e5%91%bd%e9%92%b1%ef%bc%81/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>RTX 3070 8GB 上挖掘 MiniMax H3 画质：电影截图、语音参考与 0.5MP 工作流</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1w6nwp4/pushing_minimax_h3_quality_on_an_rtx_3070_8gb/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:99a87152fbc7935f5c9b1f45</guid>
-      <pubDate>Fri, 04 Sep 2026 07:35:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 用户用 8GB 显存显卡跑 MiniMax H3，以电影截图和语音参考提升生成质量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w6nwp4/pushing_minimax_h3_quality_on_an_rtx_3070_8gb/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gary Marcus 评 GPT-6 Astra：进步明显但鲁棒性与可监控性存疑</title>
-      <link>https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra</link>
-      <guid isPermaLink="false">urn:zhiyike:news:32ec1e868d8e9600c7b5b817</guid>
-      <pubDate>Fri, 04 Sep 2026 07:24:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Gary Marcus 称 GPT-6 Astra 在 ARC-AGI 上表现亮眼，但对其鲁棒性和可监控性表示担忧。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/hot-take-on-gpt-6-astra"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 热议：Claude 如何实现 24/7 自动编码？</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1w6n3ba/claude_coding_247_how/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c049dbbe399f65a00ded0dfa</guid>
-      <pubDate>Fri, 04 Sep 2026 07:00:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户询问 Claude 全天候编码的具体实现方式，引发社区讨论。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w6n3ba/claude_coding_247_how/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra发布：ARC-AGI-3达99.9%，FrontierMath 97.6%，新智元ASI坐标系上线</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647685828&amp;idx=1&amp;sn=fca526d8223ae995f771a43e37cdef41</link>
-      <guid isPermaLink="false">urn:zhiyike:news:151b7a8dcda636676d5386a8</guid>
-      <pubDate>Fri, 04 Sep 2026 06:45:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;GPT-6 Astra发布，多项基准高分，新智元推出ASI坐标系。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;amp;mid=2647685828&amp;amp;idx=1&amp;amp;sn=fca526d8223ae995f771a43e37cdef41"&gt;数字生命卡兹克&lt;/a&gt; · &lt;a href="https://aiera.com.cn/2026/09/05/other/admin/112143/gpt-6%e6%9d%a5%e4%ba%86%ef%bc%8c%e7%ab%8b%e6%91%98asi%e5%9d%90%e6%a0%87%e7%b3%bb%e4%bb%8a%e6%97%a5%e9%87%91%e7%89%8c%ef%bc%81/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI、Anthropic与xAI同日宕机，原因未明，Google Gemini疑似也受影响</title>
-      <link>https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5dc76baf36738cf57b79e984</guid>
-      <pubDate>Fri, 04 Sep 2026 06:11:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;新增细节：Anthropic与xAI有SpaceX合作，Google Gemini疑似故障。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/"&gt;wired.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w6lw91/nobody_is_saying_why_openai_and_anthropic_had/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
