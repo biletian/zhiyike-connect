@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 07 Sep 2026 02:19:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 04:46:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍</title>
+      <link>https://x.com/rohanpaul_ai/status/2096665545190043737</link>
+      <guid isPermaLink="false">urn:zhiyike:news:aded73e944d60b4afe8b1aed</guid>
+      <pubDate>Mon, 07 Sep 2026 02:23:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 内部研究组织 agent 运行时已达人力 3.1 倍，实现自动化研究实习生里程碑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2096665545190043737"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 在自家生态中毫无用处，用户吐槽谷歌 AI 集成令人失望</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1w8zhxb/i_am_absolutely_baffled_gemini_is_completely/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:06019a59a7e9f2b0378ed25b</guid>
+      <pubDate>Sun, 06 Sep 2026 23:40:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户抱怨 Gemini 无法通过 API 发送或归档 Gmail 邮件，集成不如 ChatGPT 和 Claude。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1w8zhxb/i_am_absolutely_baffled_gemini_is_completely/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>我对AI的感受：技术乐观与社会悲观并存</title>
       <link>https://beza1e1.tuxen.de/ai_feelings.html</link>
@@ -24,6 +40,22 @@
       <pubDate>Sun, 06 Sep 2026 21:15:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Abliterlitics 用 167 GPU 小时对比 8 个 Qwen 3.8 27B 去审查变体，orcarout&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://abliterlitics.dev/models/qwen38-27b/"&gt;abliterlitics.dev&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>编程基准评测：从二进制逆向到跨语言迁移，新一代深度能力测试</title>
+      <link>https://programbench.com/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:71305d27e25761ca751ec92f</guid>
+      <pubDate>Sun, 06 Sep 2026 20:23:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户盘点 Program-Bench、SRE-Bench 等新基准，GPT-6 Astra 等模型表现领先&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://programbench.com/"&gt;programbench.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w8us6t/coding_benchmarks_that_are_quickly_showcasing/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>开发者发布 44 个免费 MIT 协议 AI 开发工具，主打提示词与可组合性</title>
+      <link>https://loopmmt.com/site/gifts.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:73f970529b65e7a6eddf0ec5</guid>
+      <pubDate>Sun, 06 Sep 2026 20:09:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一位开发者发布 44 个免费 MIT 协议工具，覆盖提示词、Git、图像元数据等 AI 开发场景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://loopmmt.com/site/gifts.html"&gt;loopmmt.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/PromptEngineering/comments/1w8ui3o/i_created_44_free_mitlicensed_tools_to_help_with/"&gt;Reddit / r/PromptEngineering&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>末日刷屏：我们如何用手机把自己刷向新黑暗时代</title>
@@ -72,6 +104,14 @@
       <pubDate>Sun, 06 Sep 2026 18:38:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;港理工等团队发布综述，提出人类中心智能三视角六层次框架。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-06"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 被 Claude 屏蔽后，用户如何绕过限制？</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1w8skpx/how_do_you_deal_with_reddit_being_off_limits/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:960e192823f4ce5f244a5232</guid>
+      <pubDate>Sun, 06 Sep 2026 18:29:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户因 Claude 无法访问 Reddit，通过代理和连接器成功绕过限制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w8skpx/how_do_you_deal_with_reddit_being_off_limits/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>用 Codex 把《巫师3》整个游戏翻译成克罗地亚语，一天半搞定</title>
@@ -768,46 +808,6 @@
       <pubDate>Fri, 04 Sep 2026 17:10:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;小米以人车家全生态布局物理AI，设备总量近20亿。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-04-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TERMy：不依赖 LLM 的快速终端助手，开发者自述开发历程</title>
-      <link>https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2b05d4553df2adf323eb94a3</guid>
-      <pubDate>Fri, 04 Sep 2026 17:03:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;开发者因 AI 费用高企，自研无 LLM 终端助手 TERMy，并公开数据集格式。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>海外三大 AI 集体宕机近 4 小时，智谱发文“我们还在线”并开启夜间免费</title>
-      <link>https://news.aibase.com/zh/news/30847</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4fa8428e23f6a64370762bac</guid>
-      <pubDate>Fri, 04 Sep 2026 16:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;ChatGPT、Claude、Grok等海外AI服务大规模故障，智谱借势营销并推出夜间免费活动。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30847"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>未发布GPT Image 2.5多项升级引关注，以假乱真引爆新期待</title>
-      <link>https://news.aibase.com/zh/news/30842</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cc8183ea05f9a4358f2fa922</guid>
-      <pubDate>Fri, 04 Sep 2026 15:23:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;GPT Image 2.5未发布先火，多项生图能力升级，可伪造逼真场景截图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30842"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源</title>
-      <link>https://www.qbitai.com/2026/09/484203.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:16cba0b7c6e1f66f0df2a865</guid>
-      <pubDate>Fri, 04 Sep 2026 15:09:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;第四届AFAC金融智能创新大赛总决赛落幕，全球5027支队伍参赛，并开源百万金融智能数据集。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484203.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌9月4日起停用Google Assistant，Gemini全面接棒</title>
-      <link>https://news.aibase.com/zh/news/30839</link>
-      <guid isPermaLink="false">urn:zhiyike:news:300e759c9eb94cbdbb167499</guid>
-      <pubDate>Fri, 04 Sep 2026 14:50:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;谷歌确认安卓手机上的Google Assistant将于9月4日起逐步停用，用户迁移至Gemini。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30839"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
