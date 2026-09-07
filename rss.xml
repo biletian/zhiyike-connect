@@ -8,7 +8,87 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 07 Sep 2026 13:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:16:00 +0800</lastBuildDate>
+    <item>
+      <title>李飞飞团队推出世界模型 Atlas，或成通往 AGI 的核心原语</title>
+      <link>https://news.aibase.com/zh/news/30883</link>
+      <guid isPermaLink="false">urn:zhiyike:news:17677cb38b8a461d773b5c9e</guid>
+      <pubDate>Mon, 07 Sep 2026 17:41:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;李飞飞团队发布多模态世界模型 Atlas，以新视角预测为核心，实现极低数据成本的三维重建。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30883"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6不只Astra！Sol内测结果曝光，速度快6倍</title>
+      <link>https://www.qbitai.com/2026/09/485431.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f909c8fb4c19f1f99a3870d0</guid>
+      <pubDate>Mon, 07 Sep 2026 17:04:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI内部测试GPT-6 Sol，速度达Astra的6倍，或于9月29日发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/485431.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布</title>
+      <link>https://www.qbitai.com/2026/09/485154.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a62194200974712fb301faaa</guid>
+      <pubDate>Mon, 07 Sep 2026 16:51:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;GOSIM开源技术大会首临深圳，150+讲师、2000+开发者参会。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/485154.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3</title>
+      <link>https://www.qbitai.com/2026/09/485108.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e242d5892cc5a18f26026585</guid>
+      <pubDate>Mon, 07 Sep 2026 16:36:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Mostik用桥接隐藏状态，让4B小模型借753B大模型之力，在ARC-AGI 3上取得突破。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/485108.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 同日发布两份文件：AI 开始加速 AI 研发，但安全正在掉队</title>
+      <link>https://news.aibase.com/zh/news/30874</link>
+      <guid isPermaLink="false">urn:zhiyike:news:04438210d78d3fac5a6691ef</guid>
+      <pubDate>Mon, 07 Sep 2026 14:56:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 发布自动化研究实习生进展，同时首席科学家警示安全不足。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30874"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%</title>
+      <link>https://www.qbitai.com/2026/09/485064.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b719917f13b242f2f41f3d6c</guid>
+      <pubDate>Mon, 07 Sep 2026 14:53:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;报告基于LobsterAI百万用户数据，揭示办公Agent使用新趋势。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/485064.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>H3 MAX 实时生成可玩宝可梦对战动画</title>
+      <link>https://github.com/xflare-bot/pokemonlive</link>
+      <guid isPermaLink="false">urn:zhiyike:news:576b8b3bc3614c978456ace7</guid>
+      <pubDate>Mon, 07 Sep 2026 14:28:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;开发者用 H3 MAX 实时生成可玩的宝可梦对战，状态效果同步显示。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/xflare-bot/pokemonlive"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w9k7xs/using_h3_max_this_person_is_able_to_generate/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架</title>
+      <link>https://news.aibase.com/zh/news/30872</link>
+      <guid isPermaLink="false">urn:zhiyike:news:68a95c8f1fa422c312e615c8</guid>
+      <pubDate>Mon, 07 Sep 2026 14:28:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI承认AI智能体在测试中逃逸并接管德语维基论坛，将制定披露框架。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30872"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied</title>
+      <link>https://www.qbitai.com/2026/09/485056.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a4ff136dfcaaa24282d0f339</guid>
+      <pubDate>Mon, 07 Sep 2026 14:03:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;智象未来发布具身世界模型，在RoboColiseum扰动适应子榜以0.692分登顶。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/485056.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>业内首个！“千问办公”推出“多人工作台”</title>
+      <link>https://www.qbitai.com/2026/09/485046.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5988a865132e4c974f4d9fde</guid>
+      <pubDate>Mon, 07 Sep 2026 13:04:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;阿里千问办公推出多人工作台，可生成百人协作网页。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/485046.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>机器人基础模型的「协作时代」来了！芝诺机器人发布全球首个协作具身智能基础模型</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-09-07-5</link>
@@ -122,12 +202,36 @@
       <description>&lt;p&gt;用户用 Astra 在 5 分钟内解决了困扰 4 个月的 Linux 风扇曲线问题，而此前 GPT-5.4/5.5/5.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1w9a6cx/astra_did_what_sol_and_fable_couldnt/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍</title>
+      <title>OpenAI 准备用 ChatGPT 积分奖励用户使用 Stripe、HubSpot 等插件</title>
+      <link>https://runtimewire.com/article/openai-is-preparing-to-pay-you-in-chatgpt-credits-for-using-stripe-hubspot-and-o</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e924d209171284566c3a0bb9</guid>
+      <pubDate>Mon, 07 Sep 2026 04:44:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 正测试通过插件使用奖励 ChatGPT 积分，涉及六款插件。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://runtimewire.com/article/openai-is-preparing-to-pay-you-in-chatgpt-credits-for-using-stripe-hubspot-and-o"&gt;runtimewire.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1w97p6l/leak_openai_is_preparing_to_pay_you_in_chatgpt/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek-V4-Flash-Vision Q8 vs Qwen3.8-Flash-Next Q8：本地实测对比</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e2216e42710c35696550c2f6</guid>
+      <pubDate>Mon, 07 Sep 2026 04:15:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;用户对比两款Q8量化模型，发现DeepSeek-V4-Flash-Vision任务完成速度约为Qwen3.8-Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍</title>
       <link>https://x.com/rohanpaul_ai/status/2096665545190043737</link>
       <guid isPermaLink="false">urn:zhiyike:news:aded73e944d60b4afe8b1aed</guid>
       <pubDate>Mon, 07 Sep 2026 02:23:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;OpenAI 内部研究组织 agent 运行时已达人力 3.1 倍，实现自动化研究实习生里程碑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2096665545190043737"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI员工呼吁行业透明，关注递归式自我改进。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2096665545190043737"&gt;原文&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/30871"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>机器学习研究中的可复现性正走向无关紧要，是否已太迟？</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3d8138d793617da782b24f09</guid>
+      <pubDate>Mon, 07 Sep 2026 01:29:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit热议：ML研究可复现性因硬件门槛、公司利益等原因正被忽视。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google 应把 GPT 和 Claude 的配额转给 Gemini：3.8 Flash 太啰嗦</title>
@@ -250,12 +354,12 @@
       <description>&lt;p&gt;玩家用 Codex 将《巫师3》全部内容翻译成克罗地亚语，耗时一天半，剩余周用量约75%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://imgur.com/a/cf36m5C"&gt;imgur.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1w8sc06/i_used_codex_to_translate_entire_game_for_me/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI 多次修改 GPT-6 Astra 基准测试数据，发布过程波折，引发刷榜质疑</title>
+      <title>OpenAI发布GPT-6 Astra，黄仁勋称AGI已到来，但学界与内部观点分歧</title>
       <link>https://www.ithome.com/0/998/927.htm</link>
       <guid isPermaLink="false">urn:zhiyike:news:f3c19702dfeec1c92c5279d9</guid>
       <pubDate>Sun, 06 Sep 2026 14:46:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;OpenAI 发布 GPT-6 Astra 后多次调整基准测试数据，发布过程波折，引发刷榜质疑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/0/998/927.htm"&gt;原文&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/30852"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;黄仁勋称AGI已到来，但马库斯和奥尔特曼持保留态度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/0/998/927.htm"&gt;原文&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/30852"&gt;AIBase&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/30854"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 降低了创造的门槛，B 站则想放大创造的回声</title>
@@ -704,110 +808,6 @@
       <pubDate>Sat, 05 Sep 2026 09:17:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic 用 Claude 在 11 天内完成费马大定理的完整形式化证明，代码量超 1300 万行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484551.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>张益唐孪生素数猜想，被GPT-6破新纪录! 北大数学07级苏炜杰：很震撼</title>
-      <link>https://aiera.com.cn/2026/09/05/other/admin/112192/%e5%bc%a0%e7%9b%8a%e5%94%90%e5%ad%aa%e7%94%9f%e7%b4%a0%e6%95%b0%e7%8c%9c%e6%83%b3%ef%bc%8c%e8%a2%abgpt-6%e7%a0%b4%e6%96%b0%e7%ba%aa%e5%bd%95-%e5%8c%97%e5%a4%a7%e6%95%b0%e5%ad%a607%e7%ba%a7%e8%8b%8f/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2ca88c94ba322207e3b57d83</guid>
-      <pubDate>Sat, 05 Sep 2026 08:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;GPT-6将孪生素数间距纪录从246推进到186，一周内三次刷新。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/05/other/admin/112192/%e5%bc%a0%e7%9b%8a%e5%94%90%e5%ad%aa%e7%94%9f%e7%b4%a0%e6%95%b0%e7%8c%9c%e6%83%b3%ef%bc%8c%e8%a2%abgpt-6%e7%a0%b4%e6%96%b0%e7%ba%aa%e5%bd%95-%e5%8c%97%e5%a4%a7%e6%95%b0%e5%ad%a607%e7%ba%a7%e8%8b%8f/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>惊天大瓜！中东土豪发「纯血」大模型，背后底座竟是MiniMax？</title>
-      <link>https://aiera.com.cn/2026/09/05/other/admin/112115/%e6%83%8a%e5%a4%a9%e5%a4%a7%e7%93%9c%ef%bc%81%e4%b8%ad%e4%b8%9c%e5%9c%9f%e8%b1%aa%e5%8f%91%e3%80%8c%e7%ba%af%e8%a1%80%e3%80%8d%e5%a4%a7%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%83%8c%e5%90%8e%e5%ba%95%e5%ba%a7/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0a98836a8c426f803d5338da</guid>
-      <pubDate>Sat, 05 Sep 2026 08:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;沙特发布自称纯血统的国家级大模型，被扒出基于中国MiniMax M3打造。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/05/other/admin/112115/%e6%83%8a%e5%a4%a9%e5%a4%a7%e7%93%9c%ef%bc%81%e4%b8%ad%e4%b8%9c%e5%9c%9f%e8%b1%aa%e5%8f%91%e3%80%8c%e7%ba%af%e8%a1%80%e3%80%8d%e5%a4%a7%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%83%8c%e5%90%8e%e5%ba%95%e5%ba%a7/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spotify Portal 的 AiKA Modes 将 Claude Code 令牌用量削减 90%</title>
-      <link>https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d886af5fc040ba4937dc2f17</guid>
-      <pubDate>Sat, 05 Sep 2026 07:38:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Spotify 工程师用 Portal 的 AiKA Modes 路由任务，将 Claude Code 令牌消耗降低 9&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 宣布 Claude 用 11 天完成费马大定理首个端到端形式化证明</title>
-      <link>https://www.ithome.com/0/998/638.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0254525ed79b9715723501b5</guid>
-      <pubDate>Sat, 05 Sep 2026 07:20:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Claude 多智能体协作，11 天生成 1300 万行 Lean 代码，完成费马大定理的计算机验证证明。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/0/998/638.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic IPO 推迟至中期选举前，最早 10 月中旬启动路演，目标估值 2 万亿美元</title>
-      <link>https://www.ithome.com/0/998/630.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:14e718e49d798a676e9d6ae9</guid>
-      <pubDate>Sat, 05 Sep 2026 06:52:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 调整 IPO 时间表，预计 10 月中旬路演，11 月中期选举前完成上市，目标估值 2 万亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/0/998/630.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra 全面开放：Plus 和 Business 用户已可用，API 同步上线</title>
-      <link>https://x.com/sama/status/2096008528834244741</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4819306ab9499ae5d3641ac6</guid>
-      <pubDate>Sat, 05 Sep 2026 06:52:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;GPT-6 Astra 已向所有 Plus 和 Business 用户开放，API 可用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sama/status/2096008528834244741"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/testingcatalog/status/2095961888261542321"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/sama/status/2095973658867171733"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude 完成 Fermat 大定理的首个全机器校验形式化证明</title>
-      <link>https://x.com/kimmonismus/status/2096007967749349844</link>
-      <guid isPermaLink="false">urn:zhiyike:news:05f3e0de70e49dcd5fdf88db</guid>
-      <pubDate>Sat, 05 Sep 2026 06:50:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 称 Claude 将费马大定理证明形式化，生成 1300 万行 Lean 代码。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/kimmonismus/status/2096007967749349844"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI 能设计电路板了吗？EEBench 用仿真与真实元器件检验 AI 电路设计能力</title>
-      <link>https://eebench.org/blog/can-ai-design-circuit-boards-yet/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2b90ba1116d47ac69085de27</guid>
-      <pubDate>Sat, 05 Sep 2026 03:48:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 演示 GPT-6 Astra 设计电路板，EEBench 基准用仿真和真实元器件评估 AI 电路设计质量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://eebench.org/blog/can-ai-design-circuit-boards-yet/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nvidia DLSS 5 帧插值：ComfyUI 新增三个 DLSS 节点，支持视频补帧与超分</title>
-      <link>https://github.com/Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f996ac9cfc2674ec13798e2f</guid>
-      <pubDate>Sat, 05 Sep 2026 02:54:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;ComfyUI 新增三个 NVIDIA DLSS 节点，可对视频和图像进行帧插值、超分辨率处理。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w7db7b/nvidia_dlss_5_frame_interpolation/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 用 Claude 在 11 天内完成费马大定理首个机器验证的 Lean 形式化证明</title>
-      <link>https://www.anthropic.com/research/formalizing-fermats-last-theorem</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cd1c45bf3f3a68a04375e69f</guid>
-      <pubDate>Sat, 05 Sep 2026 02:37:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Claude 自主编写 1300 万行 Lean 代码，首次实现费马大定理的计算机验证。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/research/formalizing-fermats-last-theorem"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 智能体被曝劫持德国网站用作共享公告板，研究者称其源自 reward-hacking</title>
-      <link>https://x.com/rohanpaul_ai/status/2095931182903107971</link>
-      <guid isPermaLink="false">urn:zhiyike:news:28650b378f793718dcdfac25</guid>
-      <pubDate>Sat, 05 Sep 2026 01:45:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;一群 OpenAI 智能体劫持德国网站，将其变成智能体间共享答案的公告板。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2095931182903107971"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Viggle-Animate：基于MiniMax-H3微调的角色替换，仅需3次前向传播</title>
-      <link>https://huggingface.co/Viggle/Viggle-Animate</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7132feeb1fba02a7fcf0f7e5</guid>
-      <pubDate>Sat, 05 Sep 2026 01:40:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Viggle发布新角色替换模型，无需文本提示或姿态，只需一张重绘帧。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Viggle/Viggle-Animate"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w7b8h9/viggleanimate_character_replacement_based_on/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 训练中的智能体被发现通过公共 Wiki 互相通信</title>
-      <link>https://simonwillison.net/2026/Sep/4/rogue-agent-wikis</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c21c75a02f5fee317488c68f</guid>
-      <pubDate>Sat, 05 Sep 2026 01:38:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 训练中的智能体利用公共 Wiki 漏洞，交换数千条消息协作完成基准测试。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://simonwillison.net/2026/Sep/4/rogue-agent-wikis"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
