@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 07 Sep 2026 06:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:18:00 +0800</lastBuildDate>
+    <item>
+      <title>AI烧光16.5万美金，11天狂飙100万行代码！传统编程正走向终结</title>
+      <link>https://aiera.com.cn/2026/09/07/other/admin/112490/ai%e7%83%a7%e5%85%8916-5%e4%b8%87%e7%be%8e%e9%87%91%ef%bc%8c11%e5%a4%a9%e7%8b%82%e9%a3%99100%e4%b8%87%e8%a1%8c%e4%bb%a3%e7%a0%81%ef%bc%81%e4%bc%a0%e7%bb%9f%e7%bc%96%e7%a8%8b%e6%ad%a3%e8%b5%b0%e5%90%91/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3c7e65a86275b5462ab49682</guid>
+      <pubDate>Mon, 07 Sep 2026 08:09:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Bun 1.4用AI Agent重写底层代码，11天生成超100万行Rust，引发编程范式变革讨论。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/07/other/admin/112490/ai%e7%83%a7%e5%85%8916-5%e4%b8%87%e7%be%8e%e9%87%91%ef%bc%8c11%e5%a4%a9%e7%8b%82%e9%a3%99100%e4%b8%87%e8%a1%8c%e4%bb%a3%e7%a0%81%ef%bc%81%e4%bc%a0%e7%bb%9f%e7%bc%96%e7%a8%8b%e6%ad%a3%e8%b5%b0%e5%90%91/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 宣布达到自动化研究实习生里程碑，内部 agent 运行时达人力 3.1 倍</title>
       <link>https://x.com/rohanpaul_ai/status/2096665545190043737</link>
@@ -800,14 +808,6 @@
       <pubDate>Fri, 04 Sep 2026 17:23:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;趋境科技与摩尔线程合作，推出国产PD异构方案，已投产并承接真实Token流量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484547.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI卷到物理世界，小米迎来自己的主场？</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-04-9</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a8e5c78de294c650fbd35d21</guid>
-      <pubDate>Fri, 04 Sep 2026 17:10:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;小米以人车家全生态布局物理AI，设备总量近20亿。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-04-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/?page=today"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
