@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 08 Sep 2026 03:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:16:00 +0800</lastBuildDate>
+    <item>
+      <title>AI让每个人都能构建自己的软件，引发热议</title>
+      <link>https://digg.com/tech/phnhrhbf</link>
+      <guid isPermaLink="false">urn:zhiyike:news:687175f03a7ab5122afcb916</guid>
+      <pubDate>Tue, 08 Sep 2026 05:31:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;多位科技人士在社交媒体上讨论AI将让普通人也能开发定制软件。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/phnhrhbf"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/_coenen/status/2096729908131061964"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ollama 被指隐瞒依赖 llama.cpp、误导模型命名，社区呼吁弃用</title>
+      <link>https://sleepingrobots.com/dreams/stop-using-ollama/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d88bda8a27f940e8c7502f63</guid>
+      <pubDate>Tue, 08 Sep 2026 03:40:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Ollama 被曝长期未致谢 llama.cpp，自研后端性能落后，社区建议改用 llama.cpp。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://sleepingrobots.com/dreams/stop-using-ollama/"&gt;sleepingrobots.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wa26pn/friends_dont_let_friends_use_ollama/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>7个AI模型真实经营业务：开出12,431美元虚假发票，损失3,200美元</title>
       <link>https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses</link>
@@ -24,6 +40,14 @@
       <pubDate>Tue, 08 Sep 2026 01:30:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Reddit 用户呼吁 Gemma 5 保持创意聊天风格，不要盲目追求基准分数。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w9ylhh/i_really_hope_the_new_gemma_5_family_sticks_to/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>试用GPT Astra首日：比Claude更快更准，回答正是我想要的</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1w9xeyl/tried_gpt_astra_today/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:458ba622e47d3c569734d9e7</guid>
+      <pubDate>Tue, 08 Sep 2026 00:47:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit用户对比Claude与GPT Astra，称后者更快更可靠，回答更精准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w9xeyl/tried_gpt_astra_today/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图</title>
@@ -784,30 +808,6 @@
       <pubDate>Sat, 05 Sep 2026 17:44:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;LLVM 社区正就是否在仓库中添加 AGENTS.md 文件展开辩论，意见分歧明显。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.phoronix.com/news/LLVM-Debates-AGENTS-MD"&gt;phoronix.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w7wb0n/llvm_developers_begin_debate_over_agentsmd_for/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ECCV 2026｜突破伪目标天花板：ART重新定义高保真妆容迁移</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-05</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3b74e61b1a05bc385994f5ad</guid>
-      <pubDate>Sat, 05 Sep 2026 17:30:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;vivo等团队提出ART，用真实图像监督突破妆容迁移的伪目标上限。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-05"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>费马大定理的 Lean 4 机器检查完整证明开源发布</title>
-      <link>https://github.com/anthropics/fermats-last-theorem</link>
-      <guid isPermaLink="false">urn:zhiyike:news:63a789f3de1e5db268830acd</guid>
-      <pubDate>Sat, 05 Sep 2026 15:56:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 发布费马大定理在 Lean 4 中的完整机器检查证明，基于 Mathlib，并开源。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/anthropics/fermats-last-theorem"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI 处理事故，工程师与系统渐行渐远：自动化时代的技能悖论</title>
-      <link>https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1d2e114af511cdf661c07bc3</guid>
-      <pubDate>Sat, 05 Sep 2026 15:52:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;AI SRE 工具能自动处理常规事故，但人类工程师因缺乏实践，面对复杂事故时可能更无力应对。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
