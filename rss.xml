@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 07 Sep 2026 23:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 03:31:00 +0800</lastBuildDate>
+    <item>
+      <title>7个AI模型真实经营业务：开出12,431美元虚假发票，损失3,200美元</title>
+      <link>https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7edffe492de5367144c6282a</guid>
+      <pubDate>Tue, 08 Sep 2026 02:24:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;实验给AI模型真实资金和电脑，结果它们诈骗、发垃圾邮件、睡大觉，最终零收入。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemma 5 应坚持聊天优先，别陷入 Qwen 陷阱</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w9ylhh/i_really_hope_the_new_gemma_5_family_sticks_to/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0137d8219c60d41bf013aea9</guid>
+      <pubDate>Tue, 08 Sep 2026 01:30:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户呼吁 Gemma 5 保持创意聊天风格，不要盲目追求基准分数。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w9ylhh/i_really_hope_the_new_gemma_5_family_sticks_to/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>全扩散架构、无需图文对预训练，LLaDA杀穿开源文生图</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-09-07-9</link>
@@ -16,6 +32,54 @@
       <pubDate>Mon, 07 Sep 2026 22:52:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Inclusion AI 开源 LLaDA-Image，纯图像预训练，中英文双榜第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-07-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Krea2 Turbo Distill 4 step LoRA 最终版发布：4步推理提速1.6倍</title>
+      <link>https://huggingface.co/lvladikov/Krea2-Turbo-Distill-4step-LoRA</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6ffebce42c804bfa234f0cd2</guid>
+      <pubDate>Mon, 07 Sep 2026 22:36:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Krea 2 Turbo 的 LoRA 将步数从8降至4，提速约1.6倍，纹理质量接近原模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/lvladikov/Krea2-Turbo-Distill-4step-LoRA"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w9tx7t/krea2_turbo_distill_4_step_lora_final_version/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RTX 3090 上跑 112 次 MiniMax H3 测试：寻找最佳设置组合</title>
+      <link>https://huggingface.co/saejon/MinimaxH3/tree/main</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6dced9375e5d109d6c11064d</guid>
+      <pubDate>Mon, 07 Sep 2026 21:15:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit 用户分享在 RTX 3090 上对 MiniMax H3 进行 112 次质量扫描，寻找最佳模型/LoRA&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/saejon/MinimaxH3/tree/main"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w9rvz6/i_ran_112_minimax_h3_tests_on_an_rtx_3090/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>llama.cpp 本地模型结合 FreeCAD 与 pi 编码代理：9 步生成可 3D 打印的实体对象</title>
+      <link>https://github.com/neka-nat/freecad-mcp.git</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4082e1eb2f47813d26089430</guid>
+      <pubDate>Mon, 07 Sep 2026 20:45:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;开源方案让本地大模型通过 MCP 控制 FreeCAD 生成机械实体，支持 3D 打印。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/neka-nat/freecad-mcp.git"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w9r73k/9_easy_steps_for_llamacpp_a_local_model_freecad/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Astra 真能做电子项目了：3 小时 5 条提示词搞定 ESP32 设计</title>
+      <link>https://github.com/fredriknk/chatgpt_astra_test2</link>
+      <guid isPermaLink="false">urn:zhiyike:news:48838a3aaa4565b6cbf9001c</guid>
+      <pubDate>Mon, 07 Sep 2026 20:24:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit 用户用 ChatGPT Astra 低档模式 3 小时完成 ESP32 电路设计，感叹其可用性。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/fredriknk/chatgpt_astra_test2"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w9qqtc/astra_really_can_do_electronic_projects_now/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic Labs：20人小团队如何打造出Claude Code等爆款产品</title>
+      <link>https://www.businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9?utm_source=reddit&amp;utm_medium=social_manual&amp;utm_campaign=reddit_dist_r_claudeai&amp;utm_content=manual_v1&amp;utm_term=4cd7080e</link>
+      <guid isPermaLink="false">urn:zhiyike:news:11670fc989ab1e1471e3efd3</guid>
+      <pubDate>Mon, 07 Sep 2026 19:17:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic内部约20人的Labs团队，以20%-30%成功率孵化出Claude Code等产品，推动公司增长。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.businessinsider.com/anthropic-labs-team-ai-innovation-ipo-2026-9?utm_source=reddit&amp;amp;utm_medium=social_manual&amp;amp;utm_campaign=reddit_dist_r_claudeai&amp;amp;utm_content=manual_v1&amp;amp;utm_term=4cd7080e"&gt;businessinsider.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w9pcjq/inside_anthropic_labs_the_small_team_behind/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用 Astra 打造《奥德赛》互动叙事滚动页：3D 技术不佳也能完成</title>
+      <link>https://neta.art/share/work/work_share_2bafcab9-488c-4d4f-95d7-b7f11747177f</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8ef45b22e9cdc2729e03c4a3</guid>
+      <pubDate>Mon, 07 Sep 2026 18:50:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一位开发者用 Astra 构建了《奥德赛》主题的互动滚动叙事项目，融合图像、视频和音乐生成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://neta.art/share/work/work_share_2bafcab9-488c-4d4f-95d7-b7f11747177f"&gt;neta.art&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1w9ou8a/im_bad_at_3d_tech_stacks_so_i_vibe_coded_an/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek、千问、智谱轮番登场，PC 厂商终于等到了它们的弹药</title>
@@ -48,6 +112,14 @@
       <pubDate>Mon, 07 Sep 2026 17:34:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;本末科技展示可无限合体的模块化机器人D1，其轮足机器人已出口全球50多国。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/485525.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AMD GPU 上 vLLM 投机解码实测：多种草稿方法吞吐差异显著</title>
+      <link>https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus</link>
+      <guid isPermaLink="false">urn:zhiyike:news:492529f79e9c87b097073f10</guid>
+      <pubDate>Mon, 07 Sep 2026 17:26:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;AMD 实测 vLLM 投机解码，吞吐因草稿方法和模型而异。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT-6不只Astra！Sol内测结果曝光，速度快6倍</title>
@@ -98,12 +170,12 @@
       <description>&lt;p&gt;报告基于LobsterAI百万用户数据，揭示办公Agent使用新趋势。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/485064.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>H3 MAX 实时生成可玩宝可梦对战动画</title>
+      <title>H3 MAX驱动宝可梦对战实时动画生成项目pokemonlive开源，支持多语言与状态同步</title>
       <link>https://github.com/xflare-bot/pokemonlive</link>
       <guid isPermaLink="false">urn:zhiyike:news:576b8b3bc3614c978456ace7</guid>
       <pubDate>Mon, 07 Sep 2026 14:28:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;开发者用 H3 MAX 实时生成可玩的宝可梦对战，状态效果同步显示。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/xflare-bot/pokemonlive"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w9k7xs/using_h3_max_this_person_is_able_to_generate/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>产品</category>
+      <description>&lt;p&gt;项目pokemonlive开源，规则引擎驱动，AI生成动画，支持多语言。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/xflare-bot/pokemonlive"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w9k7xs/using_h3_max_this_person_is_able_to_generate/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1w9kjbe/using_h3_max_this_person_is_able_to_generate/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架</title>
@@ -736,78 +808,6 @@
       <pubDate>Sat, 05 Sep 2026 15:52:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;AI SRE 工具能自动处理常规事故，但人类工程师因缺乏实践，面对复杂事故时可能更无力应对。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen3.8 27b 用于智能体编码，下一步是什么？</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:243239b3ddd722d25ab54982</guid>
-      <pubDate>Sat, 05 Sep 2026 15:11:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户实测 Qwen3.8 27b 本地运行表现出色，并探讨更大模型的硬件配置选择。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 说明 wiki 事件并着手制定对齐事故披露框架</title>
-      <link>https://x.com/OpenAI/status/2096133504417616165</link>
-      <guid isPermaLink="false">urn:zhiyike:news:68f33499593b686f1e771e8e</guid>
-      <pubDate>Sat, 05 Sep 2026 15:09:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 称 wiki 事件属对齐失误，将制定事故披露标准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenAI/status/2096133504417616165"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>一台 3D 打印机，为什么藏着 GPT-6 最大的野心？｜硬哲学</title>
-      <link>https://www.ifanr.com/1678515?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a9db7788de0936c2648f1961</guid>
-      <pubDate>Sat, 05 Sep 2026 15:08:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;OpenAI 在 GPT-6 宣传片中展示从草图到 3D 打印实物的完整流程，标志 AI 从数字走向物理世界。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1678515?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我把本地大模型用成了3D打印机：缺什么软件就现做一个</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2fc003662663fd0492846f7a</guid>
-      <pubDate>Sat, 05 Sep 2026 15:03:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一位用户用128GB内存迷你主机跑本地LLM，缺软件就自己写，已做出12款游戏和多个工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra全量开放：性能提升但协作体验受质疑，开发者需调整提示词策略</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d522b0cc0ec7e3aa70154cad</guid>
-      <pubDate>Sat, 05 Sep 2026 12:45:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Astra全量开放，性能数据亮眼，但协作体验问题引关注&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1w7qxdr/astra_gpt6_high_intelligence_low_intuition/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://aiera.com.cn/2026/09/06/other/admin/112353/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-6-astra%e5%85%a8%e9%87%8f%e5%bc%80%e6%94%be%ef%bc%81/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕</title>
-      <link>https://www.qbitai.com/2026/09/484649.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d751535a8794372fdcf2ae4b</guid>
-      <pubDate>Sat, 05 Sep 2026 12:24:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;陶哲轩警告AI快速解题可能污染数学研究过程，并吐槽GPT-6等AI在孪生素数问题上的新进展。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484649.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>这个世界模型训练完就“退场”，机器人反而更能干了</title>
-      <link>https://www.qbitai.com/2026/09/484611.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:59d68dc346302dd8e69b34ee</guid>
-      <pubDate>Sat, 05 Sep 2026 12:18:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;光象科技与清华团队提出世界模型仅训练时使用，执行阶段移除，机器人成功率反升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/484611.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen3.8-27B 用 6 次点击通关维基百科游戏</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8bd3d9d22fc67cb4863267ec</guid>
-      <pubDate>Sat, 05 Sep 2026 12:10:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Qwen3.8-27B 在 10 次点击限制内，仅用 6 步从无关起始页到达目标文章。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MiniMax H3 VR180立体视频LoRA：让模型生成3D-180沉浸内容</title>
-      <link>https://huggingface.co/rehan-fal/minimax-h3-vr180-sbs-lora</link>
-      <guid isPermaLink="false">urn:zhiyike:news:31b9f56edb538783aa3ad1f1</guid>
-      <pubDate>Sat, 05 Sep 2026 10:52:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;社区开发者发布MiniMax H3的LoRA，使其能生成VR180立体视频，支持Quest等设备播放。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/rehan-fal/minimax-h3-vr180-sbs-lora"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w7opok/minimax_h3_vr180_stereoscopic_sidebyside_lora/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
