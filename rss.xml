@@ -8,14 +8,38 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 09 Sep 2026 01:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:45:00 +0800</lastBuildDate>
     <item>
-      <title>Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法</title>
+      <title>Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议</title>
+      <link>https://x.com/sama/status/2097385167002415140</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2d38778a7de899c9bbe886a6</guid>
+      <pubDate>Wed, 09 Sep 2026 02:02:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI与Anthropic就千禧年问题证明发布起争执，双方各执一词。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sama/status/2097385167002415140"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认</title>
+      <link>https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician</link>
+      <guid isPermaLink="false">urn:zhiyike:news:52ef079911e74a921316161b</guid>
+      <pubDate>Wed, 09 Sep 2026 01:32:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;NYU教授称OpenAI获知其研究进展后抢先提交证明，OpenAI否认。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 发布 Claude Platform 降本指南：提示缓存、反模式清理与 effort 校准</title>
       <link>https://x.com/ClaudeDevs/status/2097369738968195513</link>
       <guid isPermaLink="false">urn:zhiyike:news:017cd24f5a3d728c0b4ab1e6</guid>
       <pubDate>Wed, 09 Sep 2026 01:01:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;Anthropic 提出通过提示缓存、指令优化和任务校准来降低 Claude 使用成本。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ClaudeDevs/status/2097369738968195513"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Anthropic 官方发布降本指南，新增 prompt-audit、hillclimb 等工具及实测数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ClaudeDevs/status/2097369738968195513"&gt;原文&lt;/a&gt; · &lt;a href="https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-5.6 Sol 助力量子计算实验：自动化校准超导量子比特</title>
+      <link>https://openai.com/index/codex-quantum-computing-experiments</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f786133f5fd492f9d21a8f35</guid>
+      <pubDate>Wed, 09 Sep 2026 01:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;MIT 团队用 GPT-5.6 Sol 和 Codex 自动化量子比特校准，节省大量时间。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/codex-quantum-computing-experiments"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>微软研究院Catalyst Lab主任Chris White：从阿富汗战场到暗网反人口贩卖的技术之路</title>
@@ -784,30 +808,6 @@
       <pubDate>Mon, 07 Sep 2026 12:49:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;智象未来发布具身世界模型，首次参评即登顶RoboColiseum扰动适应榜。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-07-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Pro更新后Token消耗暴涨？多位用户反馈用量异常增加</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1w9i1iv/claude_pro_token_usage_has_increased_dramatically/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8d2f5c3ed290b27c4aacce75</guid>
-      <pubDate>Mon, 07 Sep 2026 12:33:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Reddit用户反映Claude Pro更新后Token消耗异常增加，类似任务从5%涨到40%以上。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w9i1iv/claude_pro_token_usage_has_increased_dramatically/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI 短剧制作价格大跳水：每分钟报价从 5000 跌到几百，行业转向拼内容</title>
-      <link>https://news.aibase.com/zh/news/30863</link>
-      <guid isPermaLink="false">urn:zhiyike:news:44d14eeb4a8fb7b541ca92de</guid>
-      <pubDate>Mon, 07 Sep 2026 10:49:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;央视财经报道，AI短剧制作报价暴跌至成本线，行业竞争转向内容与市场。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30863"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>警惕免费上门“陷阱”！联通反诈大模型精准揪出涉诈VOIP黑盒，守护百姓通信安全</title>
-      <link>https://news.aibase.com/zh/news/30862</link>
-      <guid isPermaLink="false">urn:zhiyike:news:43157282e9ae745dc04d4a7e</guid>
-      <pubDate>Mon, 07 Sep 2026 10:40:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;联通反诈大模型预警，协助警方捣毁一处涉诈VOIP设备窝点。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30862"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
