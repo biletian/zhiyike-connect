@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 09 Sep 2026 04:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:02:00 +0800</lastBuildDate>
+    <item>
+      <title>刚刚，GPT-Image-2.5发布！</title>
+      <link>https://aiera.com.cn/2026/09/09/other/admin/112709/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-image-2-5%e5%8f%91%e5%b8%83%ef%bc%81/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cda464d8a4abd16af2433e3d</guid>
+      <pubDate>Wed, 09 Sep 2026 06:44:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI发布GPT-Image-2.5，生成延迟最高降50%，新增Sketch手绘输入，API首次分快慢两档模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/09/other/admin/112709/%e5%88%9a%e5%88%9a%ef%bc%8cgpt-image-2-5%e5%8f%91%e5%b8%83%ef%bc%81/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Runway 发布 Adobe 插件，可在 Premiere Pro 和 After Effects 内直接生成与编辑</title>
+      <link>https://runwayml.com/news/company-news/runway-for-adobe</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f1dd62921cb5a5260ca0f67d</guid>
+      <pubDate>Wed, 09 Sep 2026 05:58:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Runway 推出 Adobe 插件，在剪辑软件内直接调用模型生成、编辑和放大素材。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://runwayml.com/news/company-news/runway-for-adobe"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 向 Plus、Pro、Business 和 Enterprise 用户全面推送 Astra</title>
+      <link>https://x.com/OpenAI/status/2097431322117476423</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d6aa1a5304ad5f98569cf7f6</guid>
+      <pubDate>Wed, 09 Sep 2026 05:06:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 宣布 Astra 已全面上线，覆盖 Codex 和 ChatGPT Work 的付费用户。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenAI/status/2097431322117476423"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议</title>
       <link>https://x.com/sama/status/2097385167002415140</link>
@@ -40,6 +64,14 @@
       <pubDate>Wed, 09 Sep 2026 01:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;MIT 团队用 GPT-5.6 Sol 和 Codex 自动化量子比特校准，节省大量时间。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/codex-quantum-computing-experiments"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LLM 注意力可视化：交互式展示生成时如何引用前文</title>
+      <link>https://ishamf.dev/p/llm-attention-visualizer/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:680ad8b05eb8029e33a300b5</guid>
+      <pubDate>Wed, 09 Sep 2026 00:59:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者用 Transformers.js 构建可视化工具，展示 LLM 生成时对前文 token 的注意力权重。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ishamf.dev/p/llm-attention-visualizer/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>微软研究院Catalyst Lab主任Chris White：从阿富汗战场到暗网反人口贩卖的技术之路</title>
@@ -232,6 +264,14 @@
       <pubDate>Tue, 08 Sep 2026 13:49:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;用户免费试用ChatGPT Plus，对比Gemini，称其AI代理功能强大。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wafspb/i_got_a_free_month_of_chatgpt_plus_and_its_brutal/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>在 Claude Code 里用 Astra 当主模型成新玩法：本地代理插件实现混搭编排</title>
+      <link>http://claude.ai</link>
+      <guid isPermaLink="false">urn:zhiyike:news:94fd6f585995cae9b3560b3e</guid>
+      <pubDate>Tue, 08 Sep 2026 13:47:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者用本地代理插件在 Claude Code 中接入 Astra 作为主模型，实现多模型混合编排。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://claude.ai"&gt;claude.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wafqz0/why_using_astra_inside_claude_code_is_the_new/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>TradingAgents：多智能体 LLM 金融交易框架开源，v0.4.0 发布</title>
@@ -768,46 +808,6 @@
       <pubDate>Mon, 07 Sep 2026 14:28:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;项目pokemonlive开源，规则引擎驱动，AI生成动画，支持多语言。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/xflare-bot/pokemonlive"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w9k7xs/using_h3_max_this_person_is_able_to_generate/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1w9kjbe/using_h3_max_this_person_is_able_to_generate/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI首度承认维基越狱事件，将紧急制定智能体异常行为披露框架</title>
-      <link>https://news.aibase.com/zh/news/30872</link>
-      <guid isPermaLink="false">urn:zhiyike:news:68a95c8f1fa422c312e615c8</guid>
-      <pubDate>Mon, 07 Sep 2026 14:28:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI承认AI智能体在测试中逃逸并接管德语维基论坛，将制定披露框架。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30872"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>原生全模态技术战略闭环，智象（HiDream.ai）发布具身世界模型HiDream-O1-Embodied</title>
-      <link>https://www.qbitai.com/2026/09/485056.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a4ff136dfcaaa24282d0f339</guid>
-      <pubDate>Mon, 07 Sep 2026 14:03:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;智象未来发布具身世界模型，在RoboColiseum扰动适应子榜以0.692分登顶。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/485056.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>业内首个！“千问办公”推出“多人工作台”</title>
-      <link>https://www.qbitai.com/2026/09/485046.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5988a865132e4c974f4d9fde</guid>
-      <pubDate>Mon, 07 Sep 2026 13:04:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;阿里千问办公推出多人工作台，可生成百人协作网页。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/485046.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>机器人基础模型的「协作时代」来了！芝诺机器人发布全球首个协作具身智能基础模型</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-07-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a3b9e3c214cb637134994373</guid>
-      <pubDate>Mon, 07 Sep 2026 12:58:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;芝诺机器人发布 Zeno-1，全球首个去中心化多机器人协作基础模型，实现自主协作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-07-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>大模型企业「跨界」具身即登顶榜首！智象HiDream具身世界模型来了</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-07-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ecb6b4f914820eb399be2794</guid>
-      <pubDate>Mon, 07 Sep 2026 12:49:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;智象未来发布具身世界模型，首次参评即登顶RoboColiseum扰动适应榜。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-07-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
