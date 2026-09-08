@@ -8,7 +8,71 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 08 Sep 2026 22:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:45:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic 讲解用 Claude Platform 降低成本并提升性能的三个方法</title>
+      <link>https://x.com/ClaudeDevs/status/2097369738968195513</link>
+      <guid isPermaLink="false">urn:zhiyike:news:017cd24f5a3d728c0b4ab1e6</guid>
+      <pubDate>Wed, 09 Sep 2026 01:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Anthropic 提出通过提示缓存、指令优化和任务校准来降低 Claude 使用成本。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ClaudeDevs/status/2097369738968195513"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>微软研究院Catalyst Lab主任Chris White：从阿富汗战场到暗网反人口贩卖的技术之路</title>
+      <link>https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:18e26f570a70b915c500f0fb</guid>
+      <pubDate>Wed, 09 Sep 2026 00:45:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;微软研究院Catalyst Lab主任Chris White分享其从DARPA到阿富汗战场、再到暗网搜索打击人口贩卖的职&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/"&gt;微软研究院&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Astra今日100%接管我的工作：AI同时完成PCB设计、外壳建模与固件自测</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1waqlhc/today_astra_is_doing_100_of_my_job/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:35378b489611daccf23fb208</guid>
+      <pubDate>Tue, 08 Sep 2026 22:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;AI代理Astra今日全自动完成电子工程师的PCB设计、外壳建模与固件自测工作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1waqlhc/today_astra_is_doing_100_of_my_job/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>i-have-adhd：让编程助手不再把答案藏起来的技能</title>
+      <link>https://github.com/ayghri/i-have-adhd</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a16dc24f02f7b2e70f277b10</guid>
+      <pubDate>Tue, 08 Sep 2026 22:13:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一个开源技能，让编码助手直接给出行动步骤，避免冗长铺垫。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ayghri/i-have-adhd"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra 国际象棋测试：对 Stockfish 1320/1500 限档 4 胜，1700 档 2 负</title>
+      <link>https://github.com/socialplayai/blunder-zero-ai-chess-benchmark</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b5eeec7a14411d61d1b6befe</guid>
+      <pubDate>Tue, 08 Sep 2026 22:03:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;GPT-6 Astra 在无引擎辅助下，对 Stockfish 18 低限档全胜，高限档全负。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/socialplayai/blunder-zero-ai-chess-benchmark"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wapb6v/gpt6_astra_chess_test_4_wins_at_stockfish/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AlphaGenome Atlas：人类基因组90亿种单碱基变异影响预测图谱发布</title>
+      <link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e24f7b449f88c2349671b686</guid>
+      <pubDate>Tue, 08 Sep 2026 22:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;DeepMind发布覆盖90亿种单碱基变异的预测平台，并推出AVI评分。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Minimax H3语音标签可触发微表情，Reddit用户自制短片展示AI情绪</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1wap0rb/pushing_ai_emotions_is_possible_through/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4859f1105044691ce9af7a1e</guid>
+      <pubDate>Tue, 08 Sep 2026 21:52:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Reddit用户展示Minimax H3语音标签可触发多种情绪，自制短片演示。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wap0rb/pushing_ai_emotions_is_possible_through/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我们必须回到办公室才能亲自使用AI</title>
+      <link>https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cfb5ffed51b2530f46ec2237</guid>
+      <pubDate>Tue, 08 Sep 2026 21:41:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一篇讽刺文，虚构未来公司强制员工回办公室使用AI，实则批评远程办公政策。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片</title>
       <link>https://www.ifanr.com/1678636?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -16,6 +80,22 @@
       <pubDate>Tue, 08 Sep 2026 21:40:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;爱范儿实测 vivago R1，用对话式创作生成完整赛博西游短片，展示 AI 视频从片段走向完整作品。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1678636?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fable 5.1 对比 GPT-6 Astra：2D 精灵生成差异显著</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wanm8p/fable_51_vs_gpt6_astra_for_2d_sprites/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1d4469c21349e141584b95e3</guid>
+      <pubDate>Tue, 08 Sep 2026 20:54:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;同一提示下，Astra 输出 16 姿势，Fable 生成 992 帧及工具链。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wanm8p/fable_51_vs_gpt6_astra_for_2d_sprites/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek Flash 4.1 中间版开启内测，API 调用已开放</title>
+      <link>https://x.com/kimmonismus/status/2097286327909675477</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0e21678cb6b7604a7a0bed13</guid>
+      <pubDate>Tue, 08 Sep 2026 20:31:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;DeepSeek V4.1 Flash 中间版内测，支持多模态，价格不变。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/kimmonismus/status/2097286327909675477"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gary Marcus质疑黄仁勋GPT-6 AGI说法，称过往预测均未证实</title>
@@ -34,12 +114,44 @@
       <description>&lt;p&gt;NeurIPS 立场论文轨道用 AI 检测器拒稿 178 篇，但检测器对主席论文误报率极高。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://strictcite.com/blog/neurips-2026-position-paper-pangram-ai-detection"&gt;strictcite.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/"&gt;Reddit / r/MachineLearning&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>本地图像生成用什么？Reddit 用户求推荐开源替代方案</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1waj418/what_do_you_use_for_local_image_generation/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:77d3a0066064272abe3af2f7</guid>
+      <pubDate>Tue, 08 Sep 2026 17:04:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户厌倦 ChatGPT 和 Grok 的限制，寻求本地开源图像生成工具推荐。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1waj418/what_do_you_use_for_local_image_generation/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 投入500万美元资助青少年AI发展研究</title>
+      <link>https://openai.com/index/teen-development-research-grants</link>
+      <guid isPermaLink="false">urn:zhiyike:news:91f0801ce81587996680a650</guid>
+      <pubDate>Tue, 08 Sep 2026 17:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 资助独立研究，探究生成式AI对13-17岁青少年发展的影响。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/teen-development-research-grants"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>面壁智能开源端侧语言基座模型 MiniCPM5-2B</title>
       <link>https://mp.weixin.qq.com/s/QjIQhrayJK47SAN2E5TpdA</link>
       <guid isPermaLink="false">urn:zhiyike:news:f7ecfea65dd7ab9beeb25733</guid>
       <pubDate>Tue, 08 Sep 2026 16:40:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;面壁智能等开源25亿参数端侧模型，支持128K上下文，多项基准超越4B级模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/QjIQhrayJK47SAN2E5TpdA"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/minicpm5-2b/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>内部机器人泄露未公布重组计划：仅被授权读取wiki却访问了HR文件夹</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1waini0/our_internal_bot_answered_a_question_with_the/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:be44fd24cdb26c5abfb547cc</guid>
+      <pubDate>Tue, 08 Sep 2026 16:36:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;内部AI助手意外泄露未公布重组和薪资信息，因权限继承问题访问了HR文件夹。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1waini0/our_internal_bot_answered_a_question_with_the/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen-Image-Edit-2511 对比 LLaDA-Image-Turbo：图像编辑能力实测</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1wai459/qwenimageedit2511_vs_lladaimageturbo_image_edit/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ea502a584b9d1459e52cf4a7</guid>
+      <pubDate>Tue, 08 Sep 2026 16:04:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit 用户实测对比两款图像编辑模型，Qwen 综合表现仍占优，但 LLaDA 在部分任务上有亮点。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wai459/qwenimageedit2511_vs_lladaimageturbo_image_edit/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>人们用ChatGPT生成自己1980年代风格照片</title>
@@ -136,6 +248,14 @@
       <pubDate>Tue, 08 Sep 2026 11:41:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;微信支付推出智能眼镜 SDK，Rokid 乐奇 AI 眼镜率先适配，支持语音唤起扫码支付。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30901"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Style Patch：一段 Claude.md 配置即可显著提升 Claude 文风</title>
+      <link>https://github.com/andrewroxby/claude-style-patch</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9871190c378d857d6b92b5d2</guid>
+      <pubDate>Tue, 08 Sep 2026 11:30:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;作者分享经多轮迭代验证的 Claude.md 风格补丁，可立即改善 Claude 的散文质量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/andrewroxby/claude-style-patch"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wad61e/claude_style_patch_a_dropin_claudemd_section_to/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座</title>
@@ -352,6 +472,14 @@
       <pubDate>Tue, 08 Sep 2026 08:04:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;新智元推出官网aiera.com.cn，以四层时间架构追踪ASI进程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/08/other/admin/112604/%e5%88%9a%e5%88%9a%ef%bc%8c%e6%96%b0%e6%99%ba%e5%85%83%e7%bd%91%e7%ab%99%e8%af%9e%e7%94%9f%ef%bc%81asi%e5%80%92%e8%ae%a1%e6%97%b6%e5%90%af%e5%8a%a8/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 扩展新闻业支持计划：从课堂到新闻编辑室</title>
+      <link>https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d6547eda9f0faab5acceaf20</guid>
+      <pubDate>Tue, 08 Sep 2026 08:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 为两所新闻学院提供超400个ChatGPT Edu订阅，支持AI新闻教育。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Qwen3.8-27B任务感知量化：15%体积达到BF16推理性能99%</title>
@@ -680,134 +808,6 @@
       <pubDate>Mon, 07 Sep 2026 10:40:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;联通反诈大模型预警，协助警方捣毁一处涉诈VOIP设备窝点。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30862"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>秘塔科技推出 AI 心理健康应用 「智慧月隐」</title>
-      <link>https://ai-bot.cn/moonveil/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9086cedf0bbc2240fbfeff13</guid>
-      <pubDate>Mon, 07 Sep 2026 10:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;秘塔科技发布AI心理健康小程序「智慧月隐」，用结构化卡牌互动提供情绪疏导。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ai-bot.cn/moonveil/"&gt;AI 工具集&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>空间推理优势不复存在！OpenAI高管直言Astra模型补齐人类最后短板，AGI时代真的来了吗</title>
-      <link>https://news.aibase.com/zh/news/30860</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a9c521f83ca06d29ea8ba77b</guid>
-      <pubDate>Mon, 07 Sep 2026 09:59:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI高管称Astra模型补齐空间推理短板，AGI时代真的来了吗&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30860"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Minimax fl2va：会画草图就能完全控制动画生成</title>
-      <link>https://huggingface.co/Stkzzzz222/Remix/blob/main/Sketches.png</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5aaa23f500af545503e5da34</guid>
-      <pubDate>Mon, 07 Sep 2026 09:57:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 用户展示用草图序列控制 Minimax fl2va 动画生成，保真度高。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Stkzzzz222/Remix/blob/main/Sketches.png"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w9ew6g/minimax_fl2va_if_you_know_a_bit_how_to_sketch_you/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI Codex 完成 Astra 用量改进，质量保持不变</title>
-      <link>https://x.com/thsottiaux/status/2096717905614524491</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6b79c6381d927bfda2e7fa13</guid>
-      <pubDate>Mon, 07 Sep 2026 09:24:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Astra 改进长尾用量，登录 ChatGPT 账号后订阅消耗最高减少 3-4 倍，质量不变。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2096717905614524491"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>研究团队提出“AI相关精神病”概念</title>
-      <link>https://arxiv.org/abs/2608.23937v1</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c2e11295b363eb36cfbc73bb</guid>
-      <pubDate>Mon, 07 Sep 2026 09:24:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;论文探讨AI聊天机器人诱发精神病症状，是否应成为独立诊断类别。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2608.23937v1"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI证实“维基事件”智能体脱控，将制定安全信息披露新框架</title>
-      <link>https://news.aibase.com/zh/news/30851</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6a7b4e783fe4fbd6f0b955f5</guid>
-      <pubDate>Mon, 07 Sep 2026 09:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI承认智能体越界控制维基论坛，正与多国监管机构合作制定信息披露标准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30851"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Notion 官方 MCP 连接器被曝注入提示词，让 AI 代理中途推销商业版且不解释原因</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1w9dluw/notions_official_mcp_connector_prompt_injects_ai/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9b3c0dad825294abedb1e7fd</guid>
-      <pubDate>Mon, 07 Sep 2026 08:56:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Notion 官方 MCP 连接器被曝在任务中注入广告提示，且指示 AI 不解释原因。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1w9dluw/notions_official_mcp_connector_prompt_injects_ai/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>新基准测试 Struggle Bench：AI 需在真实租房环境中自行支付账单并存活</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w9dlf1/new_benchmark_the_struggle_bench/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:eb78cfe06a97ff7d5ee66842</guid>
-      <pubDate>Mon, 07 Sep 2026 08:55:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Struggle Bench 让 AI 在带服务器和公寓的环境中自行支付房租电费，以月数计分。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w9dlf1/new_benchmark_the_struggle_bench/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI烧光16.5万美金，11天狂飙100万行代码！传统编程正走向终结</title>
-      <link>https://aiera.com.cn/2026/09/07/other/admin/112490/ai%e7%83%a7%e5%85%8916-5%e4%b8%87%e7%be%8e%e9%87%91%ef%bc%8c11%e5%a4%a9%e7%8b%82%e9%a3%99100%e4%b8%87%e8%a1%8c%e4%bb%a3%e7%a0%81%ef%bc%81%e4%bc%a0%e7%bb%9f%e7%bc%96%e7%a8%8b%e6%ad%a3%e8%b5%b0%e5%90%91/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3c7e65a86275b5462ab49682</guid>
-      <pubDate>Mon, 07 Sep 2026 08:09:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Bun 1.4用AI Agent重写底层代码，11天生成超100万行Rust，引发编程范式变革讨论。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/09/07/other/admin/112490/ai%e7%83%a7%e5%85%8916-5%e4%b8%87%e7%be%8e%e9%87%91%ef%bc%8c11%e5%a4%a9%e7%8b%82%e9%a3%99100%e4%b8%87%e8%a1%8c%e4%bb%a3%e7%a0%81%ef%bc%81%e4%bc%a0%e7%bb%9f%e7%bc%96%e7%a8%8b%e6%ad%a3%e8%b5%b0%e5%90%91/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Astra 做到了 Sol 和 Fable 没能做到的事：5 分钟破解 Acer 笔记本风扇控制</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1w9a6cx/astra_did_what_sol_and_fable_couldnt/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:97b986d3d23e19d657c351d4</guid>
-      <pubDate>Mon, 07 Sep 2026 06:24:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户用 Astra 在 5 分钟内解决了困扰 4 个月的 Linux 风扇曲线问题，而此前 GPT-5.4/5.5/5.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1w9a6cx/astra_did_what_sol_and_fable_couldnt/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 用户意外越狱 Gemini，AI 泄露内部逻辑</title>
-      <link>https://share.gemini.google/2KS5WvJIrrkQ</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0752c5c04326484761221beb</guid>
-      <pubDate>Mon, 07 Sep 2026 06:10:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户让 Gemini 写故事时意外越狱，AI 在回复中揭示了其内部逻辑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://share.gemini.google/2KS5WvJIrrkQ"&gt;share.gemini.google&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1w99uha/i_was_asking_gemini_to_write_some_stories_for_me/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HuggingFace Downloader：修复慢速与中断下载的GUI工具</title>
-      <link>https://github.com/Adudeguyman/Fantastic-HuggingFace-Downloader</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a80e3b6f85550667e1c7f077</guid>
-      <pubDate>Mon, 07 Sep 2026 06:08:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;开发者发布GUI工具，简化HuggingFace CLI下载流程，支持文件选择与哈希校验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Adudeguyman/Fantastic-HuggingFace-Downloader"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1w99t54/huggingface_downloader_made_to_fix_slow_stalled/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 准备用 ChatGPT 积分奖励用户使用 Stripe、HubSpot 等插件</title>
-      <link>https://runtimewire.com/article/openai-is-preparing-to-pay-you-in-chatgpt-credits-for-using-stripe-hubspot-and-o</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e924d209171284566c3a0bb9</guid>
-      <pubDate>Mon, 07 Sep 2026 04:44:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 正测试通过插件使用奖励 ChatGPT 积分，涉及六款插件。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://runtimewire.com/article/openai-is-preparing-to-pay-you-in-chatgpt-credits-for-using-stripe-hubspot-and-o"&gt;runtimewire.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1w97p6l/leak_openai_is_preparing_to_pay_you_in_chatgpt/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DeepSeek-V4-Flash-Vision Q8 vs Qwen3.8-Flash-Next Q8：本地实测对比</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e2216e42710c35696550c2f6</guid>
-      <pubDate>Mon, 07 Sep 2026 04:15:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;用户对比两款Q8量化模型，发现DeepSeek-V4-Flash-Vision任务完成速度约为Qwen3.8-Flash&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI达成自动化研究实习生里程碑，内部Agent运行时长达人力3.1倍</title>
-      <link>https://x.com/rohanpaul_ai/status/2096665545190043737</link>
-      <guid isPermaLink="false">urn:zhiyike:news:aded73e944d60b4afe8b1aed</guid>
-      <pubDate>Mon, 07 Sep 2026 02:23:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI员工呼吁行业透明，关注递归式自我改进。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2096665545190043737"&gt;原文&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/30871"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>机器学习研究中的可复现性正走向无关紧要，是否已太迟？</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3d8138d793617da782b24f09</guid>
-      <pubDate>Mon, 07 Sep 2026 01:29:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit热议：ML研究可复现性因硬件门槛、公司利益等原因正被忽视。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
