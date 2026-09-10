@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 11 Sep 2026 05:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:01:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 发布纳维-斯托克斯证明，同步公开 Lean 4 形式化验证</title>
+      <link>https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:358e0dd8552e6f388f910d21</guid>
+      <pubDate>Fri, 11 Sep 2026 05:22:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 用 17 小时完成 Lean 4 验证，成本降低四个数量级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI代码工具推高维护成本300%，开发者热议技术债风险</title>
       <link>https://digg.com/tech/4vfjk5jw</link>
@@ -96,6 +104,14 @@
       <pubDate>Thu, 10 Sep 2026 21:05:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;实测联通元景数字员工，深度研究、全时助理等能力表现稳健，安全可靠。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-10-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务</title>
+      <link>https://cursor.com/blog/projects</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f2e17ef140d364a515fae254</guid>
+      <pubDate>Thu, 10 Sep 2026 20:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Cursor 发布 Projects，用协调者智能体管理数千子智能体，提升开发效率。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://cursor.com/blog/projects"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>订阅Gemini一年后醒悟：它远落后于Claude和ChatGPT</title>
@@ -792,22 +808,6 @@
       <pubDate>Wed, 09 Sep 2026 16:37:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;美方联合公告点名 6 家中国 AI 公司，指控其大规模蒸馏美国模型能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2097605329123147987"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flux 2 Klein 9b LoRa：精确控制眼睛方向，红点定位即可</title>
-      <link>https://huggingface.co/eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9B</link>
-      <guid isPermaLink="false">urn:zhiyike:news:028a7d04f74d7892bbbf3264</guid>
-      <pubDate>Wed, 09 Sep 2026 16:31:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;作者发布新 LoRa，用红点标记即可精确控制任意图像中眼睛的注视方向。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/eric-venti-seeds/Eyes_Direction_Lora_Flux2Klein9B"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wbfptw/precise_control_of_the_eyes_direction_with_this/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>《The Intercept》披露美国国防部曾要求 OpenAI 提供对军事指令最低拒绝率的特别版 AI</title>
-      <link>https://www.ithome.com/1/000/277.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5c612ac191e993912c0ac26e</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;《The Intercept》通过FOIA诉讼获得文件，显示五角大楼曾要求OpenAI定制“最低拒绝率”AI，双方否认最&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/000/277.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
