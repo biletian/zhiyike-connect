@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 10 Sep 2026 19:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 23:01:00 +0800</lastBuildDate>
+    <item>
+      <title>AI新经济，在这里看见丨2026外滩大会首日观察</title>
+      <link>https://news.aibase.com/zh/news/30972</link>
+      <guid isPermaLink="false">urn:zhiyike:news:220b1f851277b14b9b726173</guid>
+      <pubDate>Thu, 10 Sep 2026 22:29:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;外滩大会聚焦AI新经济，智能体开始自主交易，AI正从技术走向经济。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30972"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>实测央企出品数字员工，它的强大远超预期！</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-09-10-10</link>
+      <guid isPermaLink="false">urn:zhiyike:news:eb5612a7e4db15571dff72a8</guid>
+      <pubDate>Thu, 10 Sep 2026 21:05:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;实测联通元景数字员工，深度研究、全时助理等能力表现稳健，安全可靠。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-10-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cloudera与Mistral合作，为企业数据带来主权AI</title>
       <link>https://mistral.ai/news/mistral-x-cloudera/</link>
@@ -120,6 +136,14 @@
       <pubDate>Thu, 10 Sep 2026 14:09:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;外滩大会首设AI艺术节，三大单元呈现AI与人类共创的艺术现场。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-10-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MMH3 大幅改进：将 Qwen 编码器迁移至 INT8</title>
+      <link>https://huggingface.co/Comfy-Org/MiniMax-H3/blob/main/text_encoders/qwen3vl_32b_minimax_h3_int8_convrot.safetensors</link>
+      <guid isPermaLink="false">urn:zhiyike:news:48f481992c1ea3f0438be2d5</guid>
+      <pubDate>Thu, 10 Sep 2026 13:39:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户从 INT4 转 INT8 后，视频质量与提示遵循度显著提升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Comfy-Org/MiniMax-H3/blob/main/text_encoders/qwen3vl_32b_minimax_h3_int8_convrot.safetensors"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wca509/mmh3_drastic_improvement_moving_qwen_encoder_to/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI4S大牛顾全全创业公司Geodesic Intelligence亮相，瞄准药物发现</title>
@@ -296,6 +320,14 @@
       <pubDate>Thu, 10 Sep 2026 09:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI更新内部广告政策，禁止竞品投放图像与语音生成类广告。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30938"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Minimax Studio：本地AI视频制作应用，集成ComfyUI后端</title>
+      <link>https://github.com/jamesk9526/MINIMAX-DESKTOP</link>
+      <guid isPermaLink="false">urn:zhiyike:news:191457c7dfd8d7c750346005</guid>
+      <pubDate>Thu, 10 Sep 2026 08:39:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一款免费开源的桌面AI视频制作工具，集成多种模型和参考系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/jamesk9526/MINIMAX-DESKTOP"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wc3p67/minimax_studio_with_comfyui_local_ai_only_as_a/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI末日警告与苹果iPhone相机升级对比成梗图</title>
@@ -776,38 +808,6 @@
       <pubDate>Wed, 09 Sep 2026 10:39:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;千问APP面向大学生和教师推出会员优惠，高级会员9.9元/月，精英会员25元/月。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30921"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 热议：推荐真正实用的 AI Agent 工作流搭建 YouTuber</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1wb8xjc/best_youtubers_for_agentic_workflow_building/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:316881244c1392faae43aa4f</guid>
-      <pubDate>Wed, 09 Sep 2026 10:30:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 用户求推荐非营销、重实战的 AI Agent 工作流博主，引发社区讨论。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wb8xjc/best_youtubers_for_agentic_workflow_building/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>宜宾，一场机器人“招聘会”的产业雄心</title>
-      <link>https://www.qbitai.com/2026/09/486038.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4cb6e9a88ec26608836b8386</guid>
-      <pubDate>Wed, 09 Sep 2026 10:15:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;宜宾“江源杯”赛事让机器人在真实产线应聘，赛场变POC验证场，奖杯变订单。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/486038.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代</title>
-      <link>https://www.ifanr.com/1679218?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c63c4f6ac9274700f8959e41</guid>
-      <pubDate>Wed, 09 Sep 2026 10:14:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 内部 AI 系统宣称解决纳维尔斯托克斯方程存在性与光滑性问题，并公开论文和 Lean 证明。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1679218?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>蚂蚁开源原生多模态大模型Ling-3.0-flash-VL：124B参数、5.5B激活、256K上下文</title>
-      <link>https://x.com/AntLingAGI/status/2097359640233439299</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ccc5c77814478078f3654a40</guid>
-      <pubDate>Wed, 09 Sep 2026 09:55:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;蚂蚁开源Ling-3.0-flash-VL，124B总参、5.5B激活，支持图文视频，256K上下文。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AntLingAGI/status/2097359640233439299"&gt;橘鸦日报&lt;/a&gt; · &lt;a href="https://mp.weixin.qq.com/s/1MwD3tusIJiUNlR8awJOkw"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/ling-3-0-flash-vl/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
