@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 11 Sep 2026 02:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 05:02:00 +0800</lastBuildDate>
+    <item>
+      <title>AI代码工具推高维护成本300%，开发者热议技术债风险</title>
+      <link>https://digg.com/tech/4vfjk5jw</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8d1fdb3dcb087460eae9357c</guid>
+      <pubDate>Fri, 11 Sep 2026 04:01:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;ZeroHedge称AI生成代码维护成本18个月涨300%，开发者反驳称模型已改进。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/4vfjk5jw"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/zerohedge/status/2097846779865632846"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rhoda AI研究：网络视频预训练提升机器人工厂任务表现</title>
+      <link>https://digg.com/tech/4o6b4y2t</link>
+      <guid isPermaLink="false">urn:zhiyike:news:eb2b21c7aba8b4c718926c83</guid>
+      <pubDate>Fri, 11 Sep 2026 02:16:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Rhoda AI研究发现，用网络视频预训练可提升机器人单一工业操作任务表现。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/4o6b4y2t"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/tongzhou_mu/status/2098075638070685764"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic 评估 AI 模型的战术情报定位与常规武器能力</title>
       <link>https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities</link>
@@ -34,12 +50,28 @@
       <description>&lt;p&gt;工程师用镜子反射屏幕，让 AI 看到画面并修复显卡驱动问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/h514mgcu"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/jpschroeder/status/2097758256420565442"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Claude 与 reMarkable 集成：Folio 服务实现每日工作简报自动推送</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wcmmi6/claude_to_remarkable_now_possible/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a13139f8794fc8240bdb225e</guid>
+      <pubDate>Thu, 10 Sep 2026 23:36:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者 Bogdan 用 Claude 和自建服务 Folio，将待办、邮件等汇总成简报发送到 reMarkable 平&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wcmmi6/claude_to_remarkable_now_possible/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Cognition发布SWE-2编程模型：性能逼近Fable 5.1，成本低64%</title>
       <link>https://cognition.com/blog/swe-2</link>
       <guid isPermaLink="false">urn:zhiyike:news:4caa53ae568568a2055bf795</guid>
       <pubDate>Thu, 10 Sep 2026 23:29:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Cognition推出SWE-2，性能接近顶尖模型，成本大幅降低。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://cognition.com/blog/swe-2"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen-Image-Edit-2511 对比 SenseNova-U1.5-Lite：多参考图像融合实测</title>
+      <link>https://huggingface.co/Qwen/Qwen-Image-Edit-2511</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9d73cb9a639565f62dc61bb9</guid>
+      <pubDate>Thu, 10 Sep 2026 23:22:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;用户实测对比两款图像编辑模型，SenseNova 在空间理解上更优，Qwen 纹理质量更佳。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Qwen/Qwen-Image-Edit-2511"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wcm948/qwenimageedit2511_vs_sensenovau15lite/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reddit用户恐惧AI灭绝威胁，寻求安慰与对话</title>
@@ -160,6 +192,14 @@
       <pubDate>Thu, 10 Sep 2026 15:10:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 关闭用户蛋白质设计项目，促使其转向开放权重模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/0xCF88/status/2097762847354688000"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wcbt99/closed_ai_doesnt_like_biological_research_user/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI推出ChatGPT for Financial Services，内置金融数据与GPT-6 Astra</title>
+      <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ef1ccdbed1af8cd45ab4f816</guid>
+      <pubDate>Thu, 10 Sep 2026 15:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI发布面向金融服务的ChatGPT，内置数据与GPT-6 Astra，提升投行研究效率。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/introducing-chatgpt-financial-services"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建</title>
@@ -768,46 +808,6 @@
       <pubDate>Wed, 09 Sep 2026 16:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;《The Intercept》通过FOIA诉讼获得文件，显示五角大楼曾要求OpenAI定制“最低拒绝率”AI，双方否认最&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/000/277.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>斯坦福教授发起Teach ML公益项目：1名志愿者教10名学生学AI</title>
-      <link>https://pai.stanford.edu/apply/pai1/student?r=ml</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cb9efb3759dc75b9e914d1d6</guid>
-      <pubDate>Wed, 09 Sep 2026 15:54:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;斯坦福AI实验室教授发起免费AI课程，已吸引超1000人报名当志愿者教师。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://pai.stanford.edu/apply/pai1/student?r=ml"&gt;pai.stanford.edu&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/"&gt;Reddit / r/MachineLearning&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>冲击科创板！DeepSeek 传已聘请中信证券筹备年内 IPO，估值剑指 5000 亿</title>
-      <link>https://news.aibase.com/zh/news/30929</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bcbfce658747592a7a83e1c4</guid>
-      <pubDate>Wed, 09 Sep 2026 15:38:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递表，估值或达 5000 亿元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30929"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>三星与Mistral达成合作 全面赋能芯片设计与制造</title>
-      <link>https://news.aibase.com/zh/news/30927</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a4d6b34d58bc22694e29a8ea</guid>
-      <pubDate>Wed, 09 Sep 2026 15:13:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;三星将整合Mistral AI的模型，提升芯片设计、制造精度与良率。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30927"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请</title>
-      <link>https://www.ithome.com/1/000/188.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:32eff1f9867f32685b8de456</guid>
-      <pubDate>Wed, 09 Sep 2026 14:41:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;路透称 DeepSeek 已聘中信证券筹备科创板上市，计划年内启动 IPO。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/000/188.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2026 V3创意写作模型评测：Gemini 3.8 Flash登顶，17款模型横评</title>
-      <link>https://hussninyio262.github.io/creative-writing-benchmark-v3/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1fa45add5820ee11280c3e04</guid>
-      <pubDate>Wed, 09 Sep 2026 14:06:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit用户发布600样本创意写作基准，Gemini 3.8 Flash击败旧旗舰，GLM 5.3获逻辑冠军。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://hussninyio262.github.io/creative-writing-benchmark-v3/"&gt;hussninyio262.github.io&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wbd7va/best_creative_writing_models_of_2026_v3_17_models/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
