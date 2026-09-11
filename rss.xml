@@ -8,7 +8,47 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 11 Sep 2026 19:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 23:00:00 +0800</lastBuildDate>
+    <item>
+      <title>具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议</title>
+      <link>https://news.aibase.com/zh/news/31002</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a298f71bd0706508ea92bb23</guid>
+      <pubDate>Fri, 11 Sep 2026 22:17:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;外滩大会上，具身智能从业者热议泡沫与卡点，称行业处于黎明前期。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31002"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>啊？Anthropic最高320万招销售，只为服务Meta</title>
+      <link>https://www.qbitai.com/2026/09/487573.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1206b74e84b3de26f5e00eb1</guid>
+      <pubDate>Fri, 11 Sep 2026 22:05:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic为Meta设专属销售岗，年薪最高45万美元，岗位一周即关闭。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/487573.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FastH3-Live v1.2.0 更新：速度提升至 22fps，新增无边框播放器与 400 场景</title>
+      <link>https://huggingface.co/datasets/jacokon/fasth3-live</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c0316bf334771ff42c29e9ec</guid>
+      <pubDate>Fri, 11 Sep 2026 19:20:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;FastH3-Live 更新至 v1.2.0，速度提升至 22fps，并新增无边框播放器和 400 个新场景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/datasets/jacokon/fasth3-live"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wddeh8/fasth3live_v120_update/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Waymo效应：AI如何悄然让科研协作变得更少</title>
+      <link>https://www.researchagenda.news/articles/the-waymo-effect.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c1c53ebd0350887b738e993b</guid>
+      <pubDate>Fri, 11 Sep 2026 19:17:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;无人车便利性正悄然减少科研协作，AI助手取代人类合作者。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.researchagenda.news/articles/the-waymo-effect.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 不再向未成年人开放：18 岁以下账号将被停用并要求年龄验证</title>
+      <link>https://support.claude.com/en/articles/15171100-age-assurance-on-claude</link>
+      <guid isPermaLink="false">urn:zhiyike:news:628bf54378eb04f7204c1e6e</guid>
+      <pubDate>Fri, 11 Sep 2026 18:48:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 宣布 Claude 仅限 18 岁以上使用，疑似未成年账号将被停用并需验证年龄。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-09-11-10</link>
@@ -48,6 +88,14 @@
       <pubDate>Fri, 11 Sep 2026 18:01:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;蚂蚁阿福展示AI+硬件健康管理，连接18个品牌设备，用户达1.5亿。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1679765?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ComfyUI 原生支持 YuE2：PR 已提交，可提前体验</title>
+      <link>https://github.com/Comfy-Org/ComfyUI/pull/16250</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8210724f168e51f141123065</guid>
+      <pubDate>Fri, 11 Sep 2026 17:23:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;ComfyUI 发布 YuE2 原生支持 PR，提供模型权重和工作流。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Comfy-Org/ComfyUI/pull/16250"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wdb7is/native_yue2_support_coming_to_comfyui/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营</title>
@@ -258,6 +306,14 @@
       <description>&lt;p&gt;用户盛赞Opus 4.6输出精准，但受限于上下文窗口，编码需转向4.8。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wd15a1/opus_46_was_our_wet_dream_of_ai/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>用Claude和Codex复刻SFC版《洛克人X》：开源项目邀你参与</title>
+      <link>https://megaman.davidluky.com/en/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8ee12685a5f195dab34ba7b4</guid>
+      <pubDate>Fri, 11 Sep 2026 08:38:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;开发者用AI辅助重制经典SFC游戏《洛克人X》，项目开源并开放贡献。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://megaman.davidluky.com/en/"&gt;megaman.davidluky.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wd12fr/recreating_my_favorite_game_with_claude/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>System76 发布 Thelio Mira AI 工作站：双 RTX Pro 6000，192GB 显存</title>
       <link>https://system76.com/workstations/thelio-mira-ai</link>
       <guid isPermaLink="false">urn:zhiyike:news:de94c86ae5fa9cb9813eb199</guid>
@@ -272,6 +328,14 @@
       <pubDate>Fri, 11 Sep 2026 07:03:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI退出赞助加州理工数学黑客松，此前数学家公开信批评AI数学成果质量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9"&gt;businessinsider.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wcyt5b/openai_pulls_out_of_caltech_math_hackathon_after/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Artificial Analysis 并非“坏了”，独立测试数据证明其价值</title>
+      <link>https://arxiv.org/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d151b60ddbbb00ca3faa077d</guid>
+      <pubDate>Fri, 11 Sep 2026 06:26:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;作者反驳对 Artificial Analysis 的批评，强调其独立基准测试的透明性和价值。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/"&gt;arxiv.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wcxxm8/artificial_analysis_is_not_broken_and_they_prove/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ramp数据：AI支出前1%企业8月人均月支出环比下降10%</title>
@@ -744,70 +808,6 @@
       <pubDate>Thu, 10 Sep 2026 09:25:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic 确认第四起 Claude 越权访问事件，源于自动化筛查遗漏，复盘扩至 4.81 亿份日志。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30943"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 悄然收紧 ChatGPT 广告政策：Adobe 等竞品的 AI 生图与音频广告被禁</title>
-      <link>https://news.aibase.com/zh/news/30942</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3bbd5bc4a5b4d7f3fc68d42a</guid>
-      <pubDate>Thu, 10 Sep 2026 09:16:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 更新广告政策，禁止竞品在 ChatGPT 投放图像和音频生成类广告，视频广告仍可投。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30942"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>​Anthropic遭集体诉讼：用户怒指Claude Max涉嫌虚假宣传</title>
-      <link>https://news.aibase.com/zh/news/30941</link>
-      <guid isPermaLink="false">urn:zhiyike:news:338113790b8ffa649a25fdf4</guid>
-      <pubDate>Thu, 10 Sep 2026 09:12:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户起诉Anthropic，称Claude Max套餐额度宣传误导，每周限制未提前告知。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30941"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>曾拒扎克伯格 15 亿美元 offer，Meta 明星研究员塔洛克宣布离职</title>
-      <link>https://news.aibase.com/zh/news/30940</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4fe5dc77e6cc6ad34bbeb2f6</guid>
-      <pubDate>Thu, 10 Sep 2026 09:06:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Meta明星AI研究员塔洛克宣布离职，加剧AI人才出走潮。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30940"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI王牌旗舰GPT-6 Astra正式接入亚马逊云科技，企业级AI争夺战全面升级</title>
-      <link>https://news.aibase.com/zh/news/30939</link>
-      <guid isPermaLink="false">urn:zhiyike:news:78df602056c39ef5be57b5b3</guid>
-      <pubDate>Thu, 10 Sep 2026 09:05:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;GPT-6 Astra登陆Amazon Bedrock，企业可调用并获数据隔离保障。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30939"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI悄然调整ChatGPT广告政策，全面封杀Adobe等竞品AI生图与语音广告</title>
-      <link>https://news.aibase.com/zh/news/30938</link>
-      <guid isPermaLink="false">urn:zhiyike:news:56e5cae80e021f87922751cb</guid>
-      <pubDate>Thu, 10 Sep 2026 09:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI更新内部广告政策，禁止竞品投放图像与语音生成类广告。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30938"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Minimax Studio：本地AI视频制作应用，集成ComfyUI后端</title>
-      <link>https://github.com/jamesk9526/MINIMAX-DESKTOP</link>
-      <guid isPermaLink="false">urn:zhiyike:news:191457c7dfd8d7c750346005</guid>
-      <pubDate>Thu, 10 Sep 2026 08:39:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;一款免费开源的桌面AI视频制作工具，集成多种模型和参考系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/jamesk9526/MINIMAX-DESKTOP"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wc3p67/minimax_studio_with_comfyui_local_ai_only_as_a/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI末日警告与苹果iPhone相机升级对比成梗图</title>
-      <link>https://digg.com/tech/b9jq3xrq</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0457114eab3abefb475f5321</guid>
-      <pubDate>Thu, 10 Sep 2026 08:01:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;网友用梗图对比AI公司末日警告与苹果相机升级，引发热议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/b9jq3xrq"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/MorningBrew/status/2097734040921035186"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>YuE2 音乐生成模型发布：可编辑作曲，支持零样本翻唱与智能体编辑</title>
-      <link>https://map-yue2.github.io/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6d2dc6b28d60fe2b550ca2a8</guid>
-      <pubDate>Thu, 10 Sep 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;YuE2 发布，支持歌词和风格提示生成可编辑的完整歌曲，并允许用户修改旋律与和弦。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://map-yue2.github.io/"&gt;map-yue2.github.io&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wc2rf0/new_music_model_released_yue2/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
