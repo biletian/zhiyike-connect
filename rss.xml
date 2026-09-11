@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 11 Sep 2026 07:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:01:00 +0800</lastBuildDate>
+    <item>
+      <title>Ramp数据：AI支出前1%企业8月人均月支出环比下降10%</title>
+      <link>https://ramp.com/data/ai-index-sept-2026</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6c0fe4e4902ff474d431fb2c</guid>
+      <pubDate>Fri, 11 Sep 2026 05:22:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Ramp数据显示，AI支出最高的1%企业人均月支出从峰值回落，Anthropic采用率领先。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ramp.com/data/ai-index-sept-2026"&gt;ramp.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wcwb15/ai_spend_declined_among_the_top_1_of_businesses/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 发布纳维-斯托克斯证明，同步公开 Lean 4 形式化验证</title>
       <link>https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</link>
@@ -24,6 +32,14 @@
       <pubDate>Fri, 11 Sep 2026 04:01:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;ZeroHedge称AI生成代码维护成本18个月涨300%，开发者反驳称模型已改进。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/4vfjk5jw"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/zerohedge/status/2097846779865632846"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI Agents API：通过托管 Codex harness 构建 AI 代理</title>
+      <link>https://developers.openai.com/api/docs/guides/agents-api/overview</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f4d274d3294703d6d36455c6</guid>
+      <pubDate>Fri, 11 Sep 2026 03:43:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 推出 Agents API，提供托管 Codex harness 管理会话与沙箱。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.openai.com/api/docs/guides/agents-api/overview"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rhoda AI研究：网络视频预训练提升机器人工厂任务表现</title>
@@ -792,22 +808,6 @@
       <pubDate>Wed, 09 Sep 2026 16:58:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 韩国区总经理透露，与三星在下一代芯片联合生产与研究上进展显著。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30932"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic顶尖大牛愤然离职：AI失控倒计时，人类正在饮鸩止渴</title>
-      <link>https://news.aibase.com/zh/news/30931</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5cb98b1e2ba395c7e444c22f</guid>
-      <pubDate>Wed, 09 Sep 2026 16:43:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic研究员Jacob Coxon因担忧AI安全辞职并退出行业，引发对AI失控风险的关注。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30931"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美国政府指控 DeepSeek 等 6 家中国 AI 公司工业规模蒸馏美国模型</title>
-      <link>https://x.com/rohanpaul_ai/status/2097605329123147987</link>
-      <guid isPermaLink="false">urn:zhiyike:news:74c3c50c626d01819570a80c</guid>
-      <pubDate>Wed, 09 Sep 2026 16:37:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;美方联合公告点名 6 家中国 AI 公司，指控其大规模蒸馏美国模型能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2097605329123147987"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
