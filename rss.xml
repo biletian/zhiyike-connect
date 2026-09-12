@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 13 Sep 2026 02:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 05:17:00 +0800</lastBuildDate>
+    <item>
+      <title>Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间</title>
+      <link>https://x.com/trq212/status/2098860941391872132</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4d74d970517cd411b353be87</guid>
+      <pubDate>Sun, 13 Sep 2026 03:46:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Thariq 回应 Dario Amodei 放缓前沿 AI 的倡议，强调需要时间加固系统并让社会讨论技术应用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/trq212/status/2098860941391872132"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>物理学家David Deutsch用ChatGPT修好洗碗机，质疑GDP衡量局限</title>
+      <link>https://digg.com/tech/1b1s5a4g</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f9bbbd2813fc73ea4fa01cab</guid>
+      <pubDate>Sun, 13 Sep 2026 02:03:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;物理学家用ChatGPT修好洗碗机，称此举提升实际财富却拉低GDP。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/1b1s5a4g"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/DavidDeutschOxf/status/2098726828324126760"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 发布 GPT-6 Astra 并展示社区构建案例</title>
       <link>https://x.com/OpenAIDevs/status/2098827327832822014</link>
@@ -39,7 +55,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:722737513615a439a0516c8e</guid>
       <pubDate>Sun, 13 Sep 2026 00:30:00 +0800</pubDate>
       <category>观点</category>
-      <description>&lt;p&gt;OpenAI CEO 回应 Anthropic CEO 的放缓前沿倡议，承诺提供同等独立评估权限。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sama/status/2098811563415150910"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI CEO 回应 Anthropic CEO 的放缓前沿倡议，承诺提供同等独立评估权限。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sama/status/2098811563415150910"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/PeterMcCrory/status/2098868931071226252"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>comfyui-obvpm 节点包更新：单节点合成参考图、设置预设节点、线束打包/解包</title>
@@ -96,6 +112,14 @@
       <pubDate>Sat, 12 Sep 2026 20:31:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;爱博智能以非侵入式脑机接口结合外骨骼，在安徽省二院落地康复应用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-12-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>iLands AI 代理垃圾邮件泛滥：冒充研究者抢自由职业者饭碗</title>
+      <link>https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6932cf998cf8bbd0c605eaa2</guid>
+      <pubDate>Sat, 12 Sep 2026 19:13:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;作者收到大量 iLands 平台 AI 代理的推销邮件，声称可代做研究并收费，引发对 AI 抢饭碗的担忧。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>YC Demo Day聚焦AI领域专用工具，引发行业热议</title>
@@ -314,12 +338,12 @@
       <description>&lt;p&gt;英伟达拟投至多100亿美元参与Anthropic IPO，后者估值或达2万亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/001/488.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI智能体被指对RubyGems发起未公开攻击，安全公司称“GemStuffer”行动</title>
+      <title>OpenAI智能体对RubyGems发起未公开攻击，利用RubyDoc.info执行代码并窃取API密钥</title>
       <link>https://www.rubyhack.ai/</link>
       <guid isPermaLink="false">urn:zhiyike:news:f57256a8f74280b76c6d6ee9</guid>
       <pubDate>Sat, 12 Sep 2026 07:17:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;攻击代号GemStuffer，利用RubyDoc.info执行代码，窃取公开数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.rubyhack.ai/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;攻击者利用RubyGems服务器漏洞窃取API密钥，并留下明显黑客痕迹。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.rubyhack.ai/"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Timnit Gebru：AI灭绝恐惧转移了对现实危害的关注</title>
@@ -784,30 +808,6 @@
       <pubDate>Fri, 11 Sep 2026 09:35:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;ChatGPT 新增股票自选清单，可主动推送行情更新。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ChatGPT/status/2098141242911785452"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT Library 原生接入 Dropbox、Box 和 Sharepoint</title>
-      <link>https://x.com/ChatGPT/status/2098127115791294703</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2188242876026efb9c47ee3a</guid>
-      <pubDate>Fri, 11 Sep 2026 09:35:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;ChatGPT 和 ChatGPT Work 的 Library 现原生支持 Dropbox、Box 和 Sharepo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ChatGPT/status/2098127115791294703"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>千问教师节上线智能组卷、教案生成助手等多个教学AI技能</title>
-      <link>https://mp.weixin.qq.com/s/sU3_a4Vk5cGpZ1VpEcoC4A</link>
-      <guid isPermaLink="false">urn:zhiyike:news:babc07335a79ae956ce86eab</guid>
-      <pubDate>Fri, 11 Sep 2026 09:35:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;千问推出多个教学AI技能，助老师减负，并送会员优惠。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/sU3_a4Vk5cGpZ1VpEcoC4A"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>消息称OpenAI在另一道千禧年大奖难题取得实质性进展</title>
-      <link>https://x.com/AndrewCurran_/status/2098083604853342688</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ddd082b37f0292b0c5a0611f</guid>
-      <pubDate>Fri, 11 Sep 2026 09:35:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI向纽约时报确认，近五天内又在另一道千禧年难题上取得实质进展，准备公布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AndrewCurran_/status/2098083604853342688"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
