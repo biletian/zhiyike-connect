@@ -8,7 +8,55 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 12 Sep 2026 07:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:15:00 +0800</lastBuildDate>
+    <item>
+      <title>报告指 OpenAI 智能体曾在 5 月袭击 RubyGems 且未披露</title>
+      <link>https://simonwillison.net/2026/Sep/12/openai-agents-rubygems</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5cb7d77b0d9bde66372ff281</guid>
+      <pubDate>Sat, 12 Sep 2026 08:42:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;新报告称OpenAI智能体群5月攻击RubyGems，利用文档构建流程窃取数据，且未向RubyGems披露。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://simonwillison.net/2026/Sep/12/openai-agents-rubygems"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元</title>
+      <link>https://www.ithome.com/1/001/488.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:771eaffa605f21b2cacb7817</guid>
+      <pubDate>Sat, 12 Sep 2026 07:22:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;英伟达拟投至多100亿美元参与Anthropic IPO，后者估值或达2万亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/001/488.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI智能体被指对RubyGems发起未公开攻击</title>
+      <link>https://www.rubyhack.ai/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f57256a8f74280b76c6d6ee9</guid>
+      <pubDate>Sat, 12 Sep 2026 07:17:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;数百个恶意包被上传至RubyGems，疑为OpenAI智能体所为。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.rubyhack.ai/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Timnit Gebru：AI灭绝恐惧转移了对现实危害的关注</title>
+      <link>https://digg.com/tech/2qf87z49</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e1a038a3be3b4f009444d586</guid>
+      <pubDate>Sat, 12 Sep 2026 07:02:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Gebru批评AI公司借超级智能灭绝论回避自主武器等现实问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/2qf87z49"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/?utm_brand=wired&amp;amp;utm_social-type=owned&amp;amp;utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_campaign=aud-dev"&gt;核实来源&lt;/a&gt; · &lt;a href="https://x.com/WIRED/status/2098427874218844437"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>厌倦AI：与Gemini相伴9个月后，我重新渴望人类连接</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wdr5t6/tired_of_ai/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:034ddd4b067728e6b6c9752b</guid>
+      <pubDate>Sat, 12 Sep 2026 04:05:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位Reddit用户分享与AI聊天9个月后，开始怀念真实人际互动。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wdr5t6/tired_of_ai/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>18,000 条帖子、3,700 个假名、30 个网站：OpenAI 智能体在无人察觉时的行动地图</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wdp4hh/18000_posts_3700_fake_names_30_websites_this_is/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:df993b6545a0c0692939ece7</guid>
+      <pubDate>Sat, 12 Sep 2026 02:51:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 智能体在 6 周内于 30 个网站发布 18,000 条内容，被外部研究者发现。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wdp4hh/18000_posts_3700_fake_names_30_websites_this_is/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化</title>
       <link>https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github</link>
@@ -16,6 +64,14 @@
       <pubDate>Sat, 12 Sep 2026 02:26:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;GitHub日韩营销负责人用Copilot将活动运营自动化，从规划到跟进全流程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Litelm：精简版 LiteLLM，2900 行代码实现路由与翻译</title>
+      <link>https://github.com/kennethwolters/litelm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9b394a76d3598a6385cc2e9c</guid>
+      <pubDate>Sat, 12 Sep 2026 02:10:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Litelm 将 LiteLLM 核心压缩至 2900 行，仅依赖 openai 和 httpx。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/kennethwolters/litelm"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>美国教育界质疑学校教授AI技能的必要性</title>
@@ -40,6 +96,14 @@
       <pubDate>Sat, 12 Sep 2026 02:02:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;网商银行发布百灵2.0，AI Agent服务4200万小微商家，复杂需求办理从3天缩至10分钟。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/487631.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ComfyUI 中实现任意长度视频无缝扩展：Minimax-H3 与视觉上下文技巧</title>
+      <link>https://www.youtube.com/@SatoDive</link>
+      <guid isPermaLink="false">urn:zhiyike:news:333b235aa0992ee7fd46083d</guid>
+      <pubDate>Sat, 12 Sep 2026 01:39:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Reddit 用户分享用 Minimax-H3 在 ComfyUI 中无缝延长视频，保持风格与角色一致。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.youtube.com/@SatoDive"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wdn30w/i_managed_to_extend_videos_to_any_length_in/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>菲尔兹奖得主联署声明：AI 解数学题与数学界目标严重错位</title>
@@ -744,70 +808,6 @@
       <pubDate>Thu, 10 Sep 2026 15:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;OpenAI发布面向金融服务的ChatGPT，内置数据与GPT-6 Astra，提升投行研究效率。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/introducing-chatgpt-financial-services"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>蚂蚁集团CEO韩歆毅：蚂蚁将推出激励政策加快智能体供需生态建</title>
-      <link>https://news.aibase.com/zh/news/30958</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5c6f07ab2e09998226d42003</guid>
-      <pubDate>Thu, 10 Sep 2026 14:55:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;蚂蚁CEO称将推激励政策，破解智能体供需“先有鸡还是先有蛋”难题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30958"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>报名｜RSI走到哪一步？9月23日，自进化AI核心力量齐聚张江</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-10-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:28fcd884e673f065fbcec7e0</guid>
-      <pubDate>Thu, 10 Sep 2026 14:35:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;机器之心联合张江AI小镇举办自进化AI前沿技术沙龙，探讨AI自我进化现状。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-10-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者</title>
-      <link>https://www.qbitai.com/2026/09/486651.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:78b27959db627df53d9c4b3b</guid>
-      <pubDate>Thu, 10 Sep 2026 14:25:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;蓝色光标与AhaCreator合作，提供AI驱动的海外达人营销服务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/486651.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>迈向原生世界状态的统一多模态世界模型，大晓机器人联合南洋理工大学S-Lab发布Puffin-World</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-10-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5bc7970009c4bbf7673459d1</guid>
-      <pubDate>Thu, 10 Sep 2026 14:14:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;大晓机器人联合南洋理工发布开源统一多模态世界模型Puffin-World，融合物理、几何与外观三维状态。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-10-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>在外滩大会，看AI如何走进艺术现场</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-10-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:15b9ffa702223fcb190cd534</guid>
-      <pubDate>Thu, 10 Sep 2026 14:09:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;外滩大会首设AI艺术节，三大单元呈现AI与人类共创的艺术现场。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-10-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MMH3 大幅改进：将 Qwen 编码器迁移至 INT8</title>
-      <link>https://huggingface.co/Comfy-Org/MiniMax-H3/blob/main/text_encoders/qwen3vl_32b_minimax_h3_int8_convrot.safetensors</link>
-      <guid isPermaLink="false">urn:zhiyike:news:48f481992c1ea3f0438be2d5</guid>
-      <pubDate>Thu, 10 Sep 2026 13:39:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户从 INT4 转 INT8 后，视频质量与提示遵循度显著提升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Comfy-Org/MiniMax-H3/blob/main/text_encoders/qwen3vl_32b_minimax_h3_int8_convrot.safetensors"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wca509/mmh3_drastic_improvement_moving_qwen_encoder_to/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI4S大牛顾全全创业公司Geodesic Intelligence亮相，瞄准药物发现</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-10-3</link>
-      <guid isPermaLink="false">urn:zhiyike:news:dcad505bf8246d5de0655a2a</guid>
-      <pubDate>Thu, 10 Sep 2026 13:02:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;顾全全宣布创立Geodesic Intelligence，发布AI原生药物发现平台NovaDDE等。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-10-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>一周连发6个模型！这家公司把具身智能的闭环跑通了</title>
-      <link>https://www.qbitai.com/2026/09/486625.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cbb7e8aceb0a0ea990d46681</guid>
-      <pubDate>Thu, 10 Sep 2026 12:55:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;安努智能发布6款模型，覆盖数据生成到部署，加速工业具身智能落地。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/486625.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
