@@ -8,7 +8,7 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 12 Sep 2026 21:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:31:00 +0800</lastBuildDate>
     <item>
       <title>GPT-5.6 Sol跑量子实验，AI直连实验室实现自主决策</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-09-12-10</link>
@@ -64,6 +64,14 @@
       <pubDate>Sat, 12 Sep 2026 19:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 用 88 小时解决千禧年难题，被指破坏学术规范，引发数学界争议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌Gemini强制用户在隐私与功能间二选一，欧盟用户质疑合法性</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1we9jus/how_is_this_legal/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2557eb83db90ad231bd8d6e4</guid>
+      <pubDate>Sat, 12 Sep 2026 18:57:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户质疑Gemini将数据保存与AI训练绑定，违反GDPR。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1we9jus/how_is_this_legal/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>A社承认Claude安全对齐存在缺陷，但“尚无解决方案”</title>
@@ -240,6 +248,14 @@
       <pubDate>Sat, 12 Sep 2026 08:42:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;新报告称OpenAI智能体群5月攻击RubyGems，利用文档构建流程窃取数据，且未向RubyGems披露。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://simonwillison.net/2026/Sep/12/openai-agents-rubygems"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用 GPT-6 Astra 将 OpenAI 纳维-斯托克斯解转化为动画</title>
+      <link>http://jaime.cc/navierstokes</link>
+      <guid isPermaLink="false">urn:zhiyike:news:540780ea2e190c49a6576b88</guid>
+      <pubDate>Sat, 12 Sep 2026 07:38:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户借助 GPT-6 Astra 在 Codex 中解析论文并重建局部流场，生成动画以直观理解。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://jaime.cc/navierstokes"&gt;jaime.cc&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wdwhyi/used_gpt6_astra_to_turn_openais_navierstokes/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元</title>
@@ -792,22 +808,6 @@
       <pubDate>Fri, 11 Sep 2026 07:03:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI退出赞助加州理工数学黑客松，此前数学家公开信批评AI数学成果质量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.businessinsider.com/openai-caltech-ai-math-hackathon-backlash-anthropic-2026-9"&gt;businessinsider.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wcyt5b/openai_pulls_out_of_caltech_math_hackathon_after/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Artificial Analysis 并非“坏了”，独立测试数据证明其价值</title>
-      <link>https://arxiv.org/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d151b60ddbbb00ca3faa077d</guid>
-      <pubDate>Fri, 11 Sep 2026 06:26:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;作者反驳对 Artificial Analysis 的批评，强调其独立基准测试的透明性和价值。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/"&gt;arxiv.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wcxxm8/artificial_analysis_is_not_broken_and_they_prove/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ramp数据：AI支出前1%企业8月人均月支出环比下降10%</title>
-      <link>https://ramp.com/data/ai-index-sept-2026</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6c0fe4e4902ff474d431fb2c</guid>
-      <pubDate>Fri, 11 Sep 2026 05:22:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Ramp数据显示，AI支出最高的1%企业人均月支出从峰值回落，Anthropic采用率领先。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ramp.com/data/ai-index-sept-2026"&gt;ramp.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wcwb15/ai_spend_declined_among_the_top_1_of_businesses/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
