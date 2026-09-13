@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 13 Sep 2026 23:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 02:17:00 +0800</lastBuildDate>
+    <item>
+      <title>Y Combinator CEO Garry Tan：美国开源AI实验室也应蒸馏前沿模型</title>
+      <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b67460fe625db97912192c26</guid>
+      <pubDate>Sun, 13 Sep 2026 23:44:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;YC CEO呼吁美国开源实验室用蒸馏技术，反对监管限制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek V4.1-Flash技术报告解读：KV缓存压缩至1/4，552B参数超越1.6T Pro</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wf9imw/deepseek_is_ruthless/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:42e8b0faf47104fe57e3dc06</guid>
+      <pubDate>Sun, 13 Sep 2026 22:41:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;DeepSeek V4.1-Flash技术细节曝光，KV缓存压缩、评测领先、开源工具发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wf9imw/deepseek_is_ruthless/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-12-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用GPT-6 Astra修复RetroFreak RF-1：从白屏到复活</title>
+      <link>https://github.com/LordVitaly/retrofreak-rf1-repair-research</link>
+      <guid isPermaLink="false">urn:zhiyike:news:69b6f92d0abf701ec6deef80</guid>
+      <pubDate>Sun, 13 Sep 2026 19:58:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;非程序员用GPT-6 Astra诊断并修复老式RetroFreak主机，成功恢复游戏功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/LordVitaly/retrofreak-rf1-repair-research"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wf5qji/revived_my_retrofreak_rf1_console_with_gpt6_astra/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>我用Claude Code vibe coding了5款iOS游戏，AdMob广告变现效果不错</title>
       <link>https://apps.apple.com/us/app/perfect-block-fit/id6791156592</link>
@@ -42,6 +66,14 @@
       <description>&lt;p&gt;硬件短缺迫使本地LLM社区深挖底层优化，Strix Halo等实现解码与预填充性能大幅提升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wf3i1m/the_local_llm_community_feels_like_the_golden_era/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>ComfyUI 内置 AI 助手：可检查并直接编辑你的工作流</title>
+      <link>https://github.com/BobbtheBuilder/ComfyUI_Assistant</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6ba7c79b0773670c0a57652f</guid>
+      <pubDate>Sun, 13 Sep 2026 17:10:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者推出 ComfyUI Assistant 扩展，让 AI 助手直接集成在 ComfyUI 界面中，能检查并修改工作&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/BobbtheBuilder/ComfyUI_Assistant"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wf2q2z/i_built_an_ai_assistant_directly_inside_comfyui/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Astra写的代码，人类已经看不懂了</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-09-13-7</link>
       <guid isPermaLink="false">urn:zhiyike:news:665b933d4ee78c76b0031a12</guid>
@@ -56,6 +88,14 @@
       <pubDate>Sun, 13 Sep 2026 16:13:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;阿里与浙大联合推出Astar，通过分析AI系统历史版本记录，自动生成优化方向，效率提升10~100倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-13-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>自制《Mecha Royale》：百台机甲大逃杀，小队共驾一台巨型机甲</title>
+      <link>https://www.mecharoyale.com</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3753244148c647e2c81d7eac</guid>
+      <pubDate>Sun, 13 Sep 2026 16:09:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者用Claude Code花2个月、3000次提示打造浏览器机甲大逃杀，支持多人共驾。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.mecharoyale.com"&gt;mecharoyale.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wf1p1p/i_made_a_mecha_battle_royale_where_you_and_your/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI自动写综述做到什么程度了？浙大、上交提出DAS，1小时生成面向发表的Academic Survey</title>
@@ -199,7 +239,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:1e7d08ba9524cb489a98838e</guid>
       <pubDate>Sun, 13 Sep 2026 03:03:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;补充第二个问题由Claude建议，Viola已开源并支持多房间音乐等功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wel3o1/i_end_every_ai_session_with_two_questions/"&gt;reddit.com&lt;/a&gt; · &lt;a href="http://www.useviola.com/reddit"&gt;useviola.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;补充第一个问题来自Sam Altman，Viola支持Home Assistant和US电话。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wel3o1/i_end_every_ai_session_with_two_questions/"&gt;reddit.com&lt;/a&gt; · &lt;a href="http://www.useviola.com/reddit"&gt;useviola.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wf775b/i_end_every_ai_session_with_two_questions/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>物理学家David Deutsch用ChatGPT修好洗碗机，质疑GDP衡量局限</title>
@@ -650,12 +690,12 @@
       <description>&lt;p&gt;25位菲尔兹奖得主联署声明，警告AI解数学题热潮损害数学研究，呼吁紧急应对。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://mathandai.org/"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/"&gt;Reddit / r/MachineLearning&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>特朗普称不担心AI灭绝人类，OpenAI与Anthropic多名内部人士呼吁放缓</title>
+      <title>特朗普再称AI不会灭绝人类，Anthropic CEO警告AI swarm六至十二月内或接管互联网</title>
       <link>https://www.cnbc.com/amp/2026/09/11/trump-ai-extinction-risks.html</link>
       <guid isPermaLink="false">urn:zhiyike:news:3b67158db18decf90c90c9ad</guid>
       <pubDate>Sat, 12 Sep 2026 01:09:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;特朗普称AI不会灭绝人类，但担心落后中国；多家前沿实验室员工辞职警告风险。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.cnbc.com/amp/2026/09/11/trump-ai-extinction-risks.html"&gt;cnbc.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wdm9gb/trump_dismisses_ai_extinction_risks_as_more_than/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>观点</category>
+      <description>&lt;p&gt;特朗普称AI不会灭绝人类，Anthropic CEO警告AI swarm六至十二月内或接管互联网。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.cnbc.com/amp/2026/09/11/trump-ai-extinction-risks.html"&gt;cnbc.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wdm9gb/trump_dismisses_ai_extinction_risks_as_more_than/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://www.the-express.com/news/politics/215898/donald-trump-dismisses-concerns-ai"&gt;the-express.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wfblmq/donald_trump_dismisses_concerns_ai_could_wipe_out/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 让我悲伤：一位程序员的身份危机与希望</title>
@@ -768,46 +808,6 @@
       <pubDate>Fri, 11 Sep 2026 19:17:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;无人车便利性正悄然减少科研协作，AI助手取代人类合作者。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.researchagenda.news/articles/the-waymo-effect.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude 不再向未成年人开放：18 岁以下账号将被停用并要求年龄验证</title>
-      <link>https://support.claude.com/en/articles/15171100-age-assurance-on-claude</link>
-      <guid isPermaLink="false">urn:zhiyike:news:628bf54378eb04f7204c1e6e</guid>
-      <pubDate>Fri, 11 Sep 2026 18:48:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 宣布 Claude 仅限 18 岁以上使用，疑似未成年账号将被停用并需验证年龄。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://support.claude.com/en/articles/15171100-age-assurance-on-claude"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nature封面 | 面向流体动力学的强化学习平台，华盛顿大学等提出HydroGym</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-11-10</link>
-      <guid isPermaLink="false">urn:zhiyike:news:dc17c4c36f8dfebab4967087</guid>
-      <pubDate>Fri, 11 Sep 2026 18:44:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;华盛顿大学等推出流体控制强化学习平台HydroGym，提供61个验证环境，登上Nature封面。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-11-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Terminal Bench v4 榜单：GLM-5.3 领先，开源模型表现分化</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wdc7r9/terminal_bench_v4_scores/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:114dec8aaa01cdbd4339e52f</guid>
-      <pubDate>Fri, 11 Sep 2026 18:19:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Terminal Bench v4 排名显示 GLM-5.3 领先，Kimi-K3 表现不佳。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wdc7r9/terminal_bench_v4_scores/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小米开源CocktailASR-1：目标说话人识别SOTA，支持思维链与负样本拒识</title>
-      <link>https://news.aibase.com/zh/news/31001</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3a96a72f682f6e9cbc610dea</guid>
-      <pubDate>Fri, 11 Sep 2026 18:05:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;官方仓库补充多场景性能数据，单说话人兼容，拒识率最高79.59%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31001"&gt;AIBase&lt;/a&gt; · &lt;a href="https://github.com/xiaomi-research/xiaomi-cocktailasr-1"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Astra AI 用信用卡提示词打造迷你 DJ 控制器</title>
-      <link>https://digg.com/tech/0oh7qx7q</link>
-      <guid isPermaLink="false">urn:zhiyike:news:213e14bd2efb3bb1175165c3</guid>
-      <pubDate>Fri, 11 Sep 2026 18:03:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户给 AI 一张信用卡，它自主完成从概念到组装的全流程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/0oh7qx7q"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/eminimnim/status/2098072497182666987"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
