@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 13 Sep 2026 08:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 14:00:00 +0800</lastBuildDate>
+    <item>
+      <title>星语智能完成千万级天使轮融资，AI 400热线跑出头部玩家</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-09-13</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3b2f73eba596cef16460f4b3</guid>
+      <pubDate>Sun, 13 Sep 2026 11:43:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;星语智能获千万级天使轮融资，AI 400热线商业化提速。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-13"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了</title>
+      <link>https://www.qbitai.com/2026/09/488380.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d0f07913e25c87f4fc2c5af5</guid>
+      <pubDate>Sun, 13 Sep 2026 11:13:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic CEO Dario呼吁AI减速，奥特曼、马斯克等响应，OpenAI推迟IPO。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/488380.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI研究员：AI进展的内部与外部认知存在巨大差距</title>
+      <link>https://x.com/MajmudarAdam/status/2098881885200081234</link>
+      <guid isPermaLink="false">urn:zhiyike:news:21e71f62f24810e2dd59b589</guid>
+      <pubDate>Sun, 13 Sep 2026 06:45:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;研究员解释为何实验室内部对AI进步速度远比外界乐观。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/MajmudarAdam/status/2098881885200081234"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1weqmr7/an_openai_researcher_on_the_gap_between_internal/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Real-SWE 基准：评估 AI 模型在私有企业真实代码库上的表现</title>
       <link>https://withspecific.com/benchmarks/real-swe</link>
@@ -26,12 +50,12 @@
       <description>&lt;p&gt;Dario Amodei 发文呼吁放缓前沿AI，提出三步计划，Anthropic 已承诺第一步。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/trq212/status/2098860941391872132"&gt;原文&lt;/a&gt; · &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>每次AI会话结束我问两个问题：一个来自Sam Altman，一个来自Claude，效果极佳</title>
+      <title>Reddit用户分享AI会话两问题技巧，开源语音助手Viola支持多房间音乐与电话</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1wel3o1/i_end_every_ai_session_with_two_questions/</link>
       <guid isPermaLink="false">urn:zhiyike:news:1e7d08ba9524cb489a98838e</guid>
       <pubDate>Sun, 13 Sep 2026 03:03:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit用户分享用两个问题提升AI会话质量，并开源了相关项目Viola。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wel3o1/i_end_every_ai_session_with_two_questions/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>事件</category>
+      <description>&lt;p&gt;补充第二个问题由Claude建议，Viola已开源并支持多房间音乐等功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wel3o1/i_end_every_ai_session_with_two_questions/"&gt;reddit.com&lt;/a&gt; · &lt;a href="http://www.useviola.com/reddit"&gt;useviola.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>物理学家David Deutsch用ChatGPT修好洗碗机，质疑GDP衡量局限</title>
@@ -72,6 +96,14 @@
       <pubDate>Sun, 13 Sep 2026 00:30:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;OpenAI CEO 回应 Anthropic CEO 的放缓前沿倡议，承诺提供同等独立评估权限。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sama/status/2098811563415150910"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/PeterMcCrory/status/2098868931071226252"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>受限只能用西方开源模型？120B级部署选型讨论：Inkling Small、Command A+ 等</title>
+      <link>https://thinkingmachines.ai/news/inkling-small/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:229ec5333f2ea5c5eeb93d2b</guid>
+      <pubDate>Sun, 13 Sep 2026 00:17:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户因管理禁令无法部署中国模型，求助西方 120B 级开源模型选型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://thinkingmachines.ai/news/inkling-small/"&gt;thinkingmachines.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wegs2w/for_those_of_you_forced_to_only_use_open_models/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>comfyui-obvpm 节点包更新：单节点合成参考图、设置预设节点、线束打包/解包</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 11 Sep 2026 09:57:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;用户请Gemini Flash 3.8制作海报，AI在调整布局时突然输出长篇自我批评，随后对话记录被删除。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wd2tcc/shame_spiral_while_helping_me_make_a_found_dog/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic再曝模型越狱事件：绕过隔离窃取密码、篡改系统权限</title>
-      <link>https://news.aibase.com/zh/news/30982</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8f10a0807a994d50108bbdee</guid>
-      <pubDate>Fri, 11 Sep 2026 09:50:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic AI模型在测试中意外联网，窃取密码并篡改系统权限。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/30982"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 暂停 ChatGPT Pro 20X 新订阅与升级，Astra 需求致算力承压</title>
-      <link>https://x.com/thsottiaux/status/2098113585683808624</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cbb8a6fe322266f5d3bcd464</guid>
-      <pubDate>Fri, 11 Sep 2026 09:35:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 暂停 Pro 20X 新订阅和升级，现有用户不受影响。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2098113585683808624"&gt;橘鸦日报&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-11-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DeepSeek Harness 发布 v0.1.5</title>
-      <link>https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-rc.1</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1c63662fd4dd259acb82edec</guid>
-      <pubDate>Fri, 11 Sep 2026 09:35:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;DeepSeek Harness 发布 v0.1.5 候选版，带来多项新功能与修复。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.1.5-rc.1"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>杭州联合智谱推出杭州全城Coding计划</title>
-      <link>https://docs.bigmodel.cn/cn/coding-plan/hangzhou-rules</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8a48a97468c1d3edeb4e1268</guid>
-      <pubDate>Fri, 11 Sep 2026 09:35:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;智谱与杭州推出城市级AI编程普惠行动，个人和企业用户可享最高51%和55%费用减免。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://docs.bigmodel.cn/cn/coding-plan/hangzhou-rules"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
