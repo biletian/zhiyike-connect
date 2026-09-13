@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 14 Sep 2026 05:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:00:00 +0800</lastBuildDate>
+    <item>
+      <title>GPT 6 Astra 仅凭截图和鼠标操控，从零玩转《Anno 117》6小时建成千人口城市</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wfhsa3/gpt_6_astra_playing_anno_117_pax_romana_from/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:28905df646890fee8c3ca5e8</guid>
+      <pubDate>Mon, 14 Sep 2026 03:51:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户让 GPT 6 Astra 仅用截图和鼠标控制玩《Anno 117》6小时，成功建成4岛屿贸易网。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wfhsa3/gpt_6_astra_playing_anno_117_pax_romana_from/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>3k美元打造128GB VRAM+256GB DDR4家用推理服务器</title>
       <link>https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/</link>
@@ -18,12 +26,12 @@
       <description>&lt;p&gt;Reddit用户分享自建4xV620推理服务器，运行Qwen3.8-next-flash。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>TaoMate H3：3步LoRA作为精炼器，低步生成质量提升新思路</title>
+      <title>TaoMate H3 3步LoRA推出ComfyUI兼容版：2.48GB safetensors格式，无需重训</title>
       <link>https://www.reddit.com/r/StableDiffusion/comments/1wfdptw/taomate_h3_3_steps_lora_used_as_a_refiner/</link>
       <guid isPermaLink="false">urn:zhiyike:news:8c9b63cc8efa2bab744137b3</guid>
       <pubDate>Mon, 14 Sep 2026 01:21:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit用户展示用3步LoRA作为视觉精炼器，改善低步生成质量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wfdptw/taomate_h3_3_steps_lora_used_as_a_refiner/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>产品</category>
+      <description>&lt;p&gt;TaoMate H3 3步LoRA推出ComfyUI兼容版，2.48GB safetensors格式。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wfdptw/taomate_h3_3_steps_lora_used_as_a_refiner/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://huggingface.co/Robert1212star/TaoMate-H3-3Step-ComfyUI"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wf3zco/taomate_h3_3_step_lora_now_working_in_comfyui/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>果蝇大脑操控PS2游戏机：Flystation 2项目展示SNN学习潜力</title>
@@ -64,6 +72,14 @@
       <pubDate>Sun, 13 Sep 2026 19:58:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;非程序员用GPT-6 Astra诊断并修复老式RetroFreak主机，成功恢复游戏功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/LordVitaly/retrofreak-rf1-repair-research"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wf5qji/revived_my_retrofreak_rf1_console_with_gpt6_astra/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>使用 claude-mem 注意：卡巴斯基报毒，检测到其通过 PowerShell 读取凭据</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wf53cb/headsup_if_you_are_using_claudemem_kaspersky/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4adfd31ca03ba28120a6987f</guid>
+      <pubDate>Sun, 13 Sep 2026 19:24:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;卡巴斯基将 claude-mem 标记为木马，因其每 30 秒调用 CredRead 读取 Claude Code 登录&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wf53cb/headsup_if_you_are_using_claudemem_kaspersky/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reddit热议：Gemini订阅价过高，社区“吸氧”程度超半条命</title>
@@ -792,22 +808,6 @@
       <pubDate>Fri, 11 Sep 2026 22:17:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;外滩大会上，具身智能从业者热议泡沫与卡点，称行业处于黎明前期。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31002"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini体验分享：在Google生态内感觉是最佳综合套餐，但Reddit上全是负面评价</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1wdhd8y/am_i_the_only_one_having_a_good_experience/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9c5c45c4c985458af4b34893</guid>
-      <pubDate>Fri, 11 Sep 2026 22:09:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户对比Gemini、Claude和ChatGPT后，认为Gemini在Google生态内体验最佳，但Reddit上负面&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wdhd8y/am_i_the_only_one_having_a_good_experience/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>啊？Anthropic最高320万招销售，只为服务Meta</title>
-      <link>https://www.qbitai.com/2026/09/487573.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1206b74e84b3de26f5e00eb1</guid>
-      <pubDate>Fri, 11 Sep 2026 22:05:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic为Meta设专属销售岗，年薪最高45万美元，岗位一周即关闭。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/487573.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
