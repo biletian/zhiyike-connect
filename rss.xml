@@ -8,14 +8,30 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 13 Sep 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:46:00 +0800</lastBuildDate>
     <item>
-      <title>Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间</title>
+      <title>Real-SWE 基准：评估 AI 模型在私有企业真实代码库上的表现</title>
+      <link>https://withspecific.com/benchmarks/real-swe</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7e991fe6113c65d478bbbede</guid>
+      <pubDate>Sun, 13 Sep 2026 04:25:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;新基准用真实企业私有代码测试 AI 编程，Fable 5.1 以 38.8% 解决率居首。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://withspecific.com/benchmarks/real-swe"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic CEO Dario Amodei 呼吁放缓前沿AI进展，提出三步计划并承诺嵌入式评估员</title>
       <link>https://x.com/trq212/status/2098860941391872132</link>
       <guid isPermaLink="false">urn:zhiyike:news:4d74d970517cd411b353be87</guid>
       <pubDate>Sun, 13 Sep 2026 03:46:00 +0800</pubDate>
       <category>观点</category>
-      <description>&lt;p&gt;Thariq 回应 Dario Amodei 放缓前沿 AI 的倡议，强调需要时间加固系统并让社会讨论技术应用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/trq212/status/2098860941391872132"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dario Amodei 发文呼吁放缓前沿AI，提出三步计划，Anthropic 已承诺第一步。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/trq212/status/2098860941391872132"&gt;原文&lt;/a&gt; · &lt;a href="https://darioamodei.com/post/we-must-pace-the-frontier"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>每次AI会话结束我问两个问题：一个来自Sam Altman，一个来自Claude，效果极佳</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wel3o1/i_end_every_ai_session_with_two_questions/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1e7d08ba9524cb489a98838e</guid>
+      <pubDate>Sun, 13 Sep 2026 03:03:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit用户分享用两个问题提升AI会话质量，并开源了相关项目Viola。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wel3o1/i_end_every_ai_session_with_two_questions/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>物理学家David Deutsch用ChatGPT修好洗碗机，质疑GDP衡量局限</title>
@@ -112,6 +128,14 @@
       <pubDate>Sat, 12 Sep 2026 20:31:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;爱博智能以非侵入式脑机接口结合外骨骼，在安徽省二院落地康复应用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-12-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 辅助开发钓鱼游戏第 7 周：重写水面着色器、新增天气与鲸豚</title>
+      <link>https://imgur.com/a/8Tw1ED8</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d877271cb382c586837c500e</guid>
+      <pubDate>Sat, 12 Sep 2026 19:32:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;开发者用 AI 工具制作钓鱼游戏，本周重写水面、加入天气系统与鲸豚模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://imgur.com/a/8Tw1ED8"&gt;imgur.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wea7mp/week_7_of_making_my_fishing_game_almost_entirely/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>iLands AI 代理垃圾邮件泛滥：冒充研究者抢自由职业者饭碗</title>
@@ -784,30 +808,6 @@
       <pubDate>Fri, 11 Sep 2026 09:35:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;智谱与杭州推出城市级AI编程普惠行动，个人和企业用户可享最高51%和55%费用减免。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://docs.bigmodel.cn/cn/coding-plan/hangzhou-rules"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code 桌面应用支持将任意面板弹出为独立窗口</title>
-      <link>https://x.com/ClaudeDevs/status/2098090911137972271</link>
-      <guid isPermaLink="false">urn:zhiyike:news:99c943149772bb7ee382cb4f</guid>
-      <pubDate>Fri, 11 Sep 2026 09:35:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Claude Code 桌面应用新增面板弹出功能，可拖出 diff 或终端到第二屏幕。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ClaudeDevs/status/2098090911137972271"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nebius 推出免费 AI Builder Program，提供超 400 美元额度与折扣</title>
-      <link>https://dev.nebius.com/builders</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4b4f77313ca16ba1a87c7b5f</guid>
-      <pubDate>Fri, 11 Sep 2026 09:35:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Nebius 推出免费 Builder Program，提供超 400 美元额度与折扣。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://dev.nebius.com/builders"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT 面向美国 Plus 和 Pro 用户推出股票自选清单功能</title>
-      <link>https://x.com/ChatGPT/status/2098141242911785452</link>
-      <guid isPermaLink="false">urn:zhiyike:news:be114e7e09d7f1a625f14c44</guid>
-      <pubDate>Fri, 11 Sep 2026 09:35:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;ChatGPT 新增股票自选清单，可主动推送行情更新。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ChatGPT/status/2098141242911785452"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
