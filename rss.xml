@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 14 Sep 2026 02:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:00:00 +0800</lastBuildDate>
+    <item>
+      <title>3k美元打造128GB VRAM+256GB DDR4家用推理服务器</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:04a33b834c5e505f0de1cf02</guid>
+      <pubDate>Mon, 14 Sep 2026 01:42:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit用户分享自建4xV620推理服务器，运行Qwen3.8-next-flash。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TaoMate H3：3步LoRA作为精炼器，低步生成质量提升新思路</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1wfdptw/taomate_h3_3_steps_lora_used_as_a_refiner/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8c9b63cc8efa2bab744137b3</guid>
+      <pubDate>Mon, 14 Sep 2026 01:21:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit用户展示用3步LoRA作为视觉精炼器，改善低步生成质量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wfdptw/taomate_h3_3_steps_lora_used_as_a_refiner/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>果蝇大脑操控PS2游戏机：Flystation 2项目展示SNN学习潜力</title>
+      <link>https://x.com/RoyalCities/status/2099156575348768793?s=20</link>
+      <guid isPermaLink="false">urn:zhiyike:news:64bed05a3f64a7e4e2534eaf</guid>
+      <pubDate>Mon, 14 Sep 2026 00:53:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;开发者将果蝇大脑接入PCSX2，用视觉神经元控制游戏，探索通用训练器。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/RoyalCities/status/2099156575348768793?s=20"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wfcyo7/ive_stuck_the_fly_brain_in_front_of_pcsx2_given/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>David Sacks：OpenAI 与 Anthropic 无需监管即可自行放缓前沿模型</title>
+      <link>https://twitter.com/DavidSacks/status/2098973625252708460</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d865a91e8b6c1e08b73858b7</guid>
+      <pubDate>Mon, 14 Sep 2026 00:52:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;David Sacks 回应 Dario 与 Sam，称前沿实验室可自行减速，无需监管或反垄断豁免。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://twitter.com/DavidSacks/status/2098973625252708460"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Y Combinator CEO Garry Tan：美国开源AI实验室也应蒸馏前沿模型</title>
       <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
@@ -32,6 +64,14 @@
       <pubDate>Sun, 13 Sep 2026 19:58:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;非程序员用GPT-6 Astra诊断并修复老式RetroFreak主机，成功恢复游戏功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/LordVitaly/retrofreak-rf1-repair-research"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wf5qji/revived_my_retrofreak_rf1_console_with_gpt6_astra/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit热议：Gemini订阅价过高，社区“吸氧”程度超半条命</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wf4x5d/gemini_community_is_insane/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8c1c6e4474ae6defc16b3e54</guid>
+      <pubDate>Sun, 13 Sep 2026 19:15:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit用户吐槽Gemini订阅价过高，社区反应比半条命还夸张。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wf4x5d/gemini_community_is_insane/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>我用Claude Code vibe coding了5款iOS游戏，AdMob广告变现效果不错</title>
@@ -768,46 +808,6 @@
       <pubDate>Fri, 11 Sep 2026 22:05:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic为Meta设专属销售岗，年薪最高45万美元，岗位一周即关闭。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/487573.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flux2Klein：被低估的图像编辑与超分模型，4步出图、12GB显存可训LoRA</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1wdh0l0/flux2klein_is_the_most_underrated_image/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:23ecd58424f780d3814de7f5</guid>
-      <pubDate>Fri, 11 Sep 2026 21:55:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit用户实测Flux2Klein，称其图像修复与编辑效果惊艳，4步出图且人物一致性出色。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wdh0l0/flux2klein_is_the_most_underrated_image/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我的第一块PCB：完全由Claude设计，从零到点亮仅靠AI</title>
-      <link>https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3781841212df6033329abab0</guid>
-      <pubDate>Fri, 11 Sep 2026 21:54:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;作者用Claude Fable 5全自动设计并制造了首块PCB，成功点亮。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/"&gt;a6mzero.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wdgzue/my_first_ever_pcb_entirely_designed_by_claude/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT 6 Sol 即将推出：OpenAI API 现新模型，价格低于 Astra</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1wdekm0/gpt_6_sol_is_coming_soon/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:39aa6dd2e8d7993becec85eb</guid>
-      <pubDate>Fri, 11 Sep 2026 20:14:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI API 中出现 GPT 6 Sol，价格低于 Astra。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wdekm0/gpt_6_sol_is_coming_soon/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FastH3-Live v1.2.0 更新：速度提升至 22fps，新增无边框播放器与 400 场景</title>
-      <link>https://huggingface.co/datasets/jacokon/fasth3-live</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c0316bf334771ff42c29e9ec</guid>
-      <pubDate>Fri, 11 Sep 2026 19:20:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;FastH3-Live 更新至 v1.2.0，速度提升至 22fps，并新增无边框播放器和 400 个新场景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/datasets/jacokon/fasth3-live"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wddeh8/fasth3live_v120_update/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Waymo效应：AI如何悄然让科研协作变得更少</title>
-      <link>https://www.researchagenda.news/articles/the-waymo-effect.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c1c53ebd0350887b738e993b</guid>
-      <pubDate>Fri, 11 Sep 2026 19:17:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;无人车便利性正悄然减少科研协作，AI助手取代人类合作者。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.researchagenda.news/articles/the-waymo-effect.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
