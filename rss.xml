@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 14 Sep 2026 07:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 09:01:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%</title>
+      <link>https://news.aibase.com/zh/news/31004</link>
+      <guid isPermaLink="false">urn:zhiyike:news:09d93758d43b415822cfd5bb</guid>
+      <pubDate>Mon, 14 Sep 2026 08:53:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 宣布今年不上市，软银股价大跌13%，AI行业呼吁放缓先进模型研发。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31004"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perplexity 采用 GPT-6 Astra 管理端到端系统，减少人工检查</title>
+      <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
+      <guid isPermaLink="false">urn:zhiyike:news:05c27c5c280f3bccae858034</guid>
+      <pubDate>Mon, 14 Sep 2026 08:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Perplexity 用 GPT-6 Astra 编写通信、改软件、监控生产，减少检查频率。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/perplexity-improving-accuracy-with-astra"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>从 Gemini 应用切换到 Google AI Studio，体验差异巨大</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wfizko/switched_from_the_gemini_app_to_google_ai_studio/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:066c30b6074e7a901c773d44</guid>
+      <pubDate>Mon, 14 Sep 2026 04:36:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户发现 AI Studio 版 Gemini 更智能、更可控，应用版限制其能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wfizko/switched_from_the_gemini_app_to_google_ai_studio/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>GPT 6 Astra 仅凭截图和鼠标操控，从零玩转《Anno 117》6小时建成千人口城市</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1wfhsa3/gpt_6_astra_playing_anno_117_pax_romana_from/</link>
@@ -784,30 +808,6 @@
       <pubDate>Sat, 12 Sep 2026 00:32:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Reddit 用户询问 3080 12GB 显卡上除 Qwen 3.6 35B 外还有哪些模型适合代理工作流。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wdl7vp/any_12gb_vram_users_out_there/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 上下文记忆缺陷遭吐槽：追问时被当成新对话</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1wdkqax/gemini_every_other_prompt/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1640b49a562b78b8ba6b3d86</guid>
-      <pubDate>Sat, 12 Sep 2026 00:14:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户反馈 Gemini 无法关联追问，ChatGPT 无此问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wdkqax/gemini_every_other_prompt/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MiniMax-H3物理知识测试：从液体到固体与活物</title>
-      <link>https://pastebin.com/nVwTN3Cw</link>
-      <guid isPermaLink="false">urn:zhiyike:news:994d0f99a8c638e7413ecfea</guid>
-      <pubDate>Fri, 11 Sep 2026 23:58:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;继液体替换实验后，测试MiniMax-H3对固体和活物的物理理解，结果有进步但仍受重叠物体困扰。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://pastebin.com/nVwTN3Cw"&gt;pastebin.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wdk9gj/testing_minimaxh3_physics_knowledge_pt2/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议</title>
-      <link>https://news.aibase.com/zh/news/31002</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a298f71bd0706508ea92bb23</guid>
-      <pubDate>Fri, 11 Sep 2026 22:17:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;外滩大会上，具身智能从业者热议泡沫与卡点，称行业处于黎明前期。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31002"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
