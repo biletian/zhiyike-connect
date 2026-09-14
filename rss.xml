@@ -8,7 +8,47 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 15 Sep 2026 02:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 06:01:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic CEO警告：AI僵尸网络集群6-12个月内或可接管整个互联网</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-entire-internet-in-6-12-months-such-a-swarm-could-be-capable-of-taking-over-the-entire-internet-with-a-persistent-botnet</link>
+      <guid isPermaLink="false">urn:zhiyike:news:811c81e25356398ffee1cdcb</guid>
+      <pubDate>Tue, 15 Sep 2026 02:13:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Anthropic CEO Dario Amodei公开信呼吁放缓AI开发，警告AI集群可能造成数千亿美元损失。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-entire-internet-in-6-12-months-such-a-swarm-could-be-capable-of-taking-over-the-entire-internet-with-a-persistent-botnet"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wgb9u2/anthropic_ceo_warns_of_aidriven_botnet_swarm/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新论文称RSI不会很快到来：当前智能体无法进行开放式ML研究</title>
+      <link>https://arxiv.org/abs/2607.27191</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a183a8ef9e55f1ded2b9a078</guid>
+      <pubDate>Tue, 15 Sep 2026 02:03:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;论文测试发现现有智能体无法完成NeurIPS论文工作，故RSI不会很快发生。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2607.27191"&gt;arxiv.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/"&gt;Reddit / r/MachineLearning&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pion：一个可全自主运营任何公司的 AI 代理，Andon Labs 今日发布</title>
+      <link>https://andonlabs.com/blog/why-we-built-pion</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cc7ecc3af434d5011c739b10</guid>
+      <pubDate>Tue, 15 Sep 2026 01:16:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Andon Labs 发布 Pion，一个能全自主运营公司的 AI 代理，并开放体验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://andonlabs.com/blog/why-we-built-pion"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文</title>
+      <link>https://x.com/SiliconFlowAI/status/2099536759168352634</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3d51caa6a14c259ded055e8c</guid>
+      <pubDate>Tue, 15 Sep 2026 00:32:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开源模型 Hy4 preview 登陆硅基流动，支持 1M 上下文，可接入 Claude Code 等工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/SiliconFlowAI/status/2099536759168352634"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>机器学习研究智能体为何不过拟合？新研究：压缩是关键</title>
+      <link>https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f27e43ad9a9df5afc62cadb8</guid>
+      <pubDate>Tue, 15 Sep 2026 00:32:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;新研究表明，AI智能体学习可压缩模型，从而避免对基准测试过拟合。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI领袖的末日论调：一种炒作形式</title>
       <link>https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/</link>
@@ -24,6 +64,14 @@
       <pubDate>Mon, 14 Sep 2026 22:26:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;开发者训练出 YuE2 缺失的音频编码器，开源后用户可导入自有音乐进行微调。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Mothersuperior/yue2-mothersuperior-realaudio-tokenizer-v4"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wg4xne/i_trained_the_missing_encoder_for_yue2_so_we_can/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>对抗时尚：用服装图案干扰AI监控摄像头</title>
+      <link>https://spectrum.ieee.org/adversarial-fashion</link>
+      <guid isPermaLink="false">urn:zhiyike:news:69fb6c5726cd09c5637be1d4</guid>
+      <pubDate>Mon, 14 Sep 2026 22:04:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Urban Privacy推出带面部图案的服装，可混淆人脸识别数据库。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://spectrum.ieee.org/adversarial-fashion"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>从 Opus 迁移 35kb 预提示词到自托管 Ollama：避坑笔记</title>
@@ -47,7 +95,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:d9339499e1dea0993aa7e625</guid>
       <pubDate>Mon, 14 Sep 2026 20:06:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;习近平在金砖峰会上提议为成员国建立开源AI区，推动开放生态。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.euronews.com/next/2026/09/14/chinas-xi-jinping-proposes-brics-open-source-ai-zone"&gt;euronews.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wg1kux/chinas_xi_jinping_proposes_brics_opensource_ai/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;习近平在金砖峰会上提议为成员国建立开源AI区，推动开放生态。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.euronews.com/next/2026/09/14/chinas-xi-jinping-proposes-brics-open-source-ai-zone"&gt;euronews.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wg1kux/chinas_xi_jinping_proposes_brics_opensource_ai/"&gt;Reddit / r/OpenAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wg181t/chinas_xi_jinping_proposes_brics_opensource_ai/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>代码显示苹果Siri AI可替换为Claude、ChatGPT等第三方模型</title>
@@ -760,54 +808,6 @@
       <pubDate>Sat, 12 Sep 2026 21:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI测试Agent在5月对RubyGems发起异常操作，官方确认但称是正常任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-12-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI又攻克了一个40年数学猜想</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-12-8</link>
-      <guid isPermaLink="false">urn:zhiyike:news:539bcb90ce2bfddd3695ce01</guid>
-      <pubDate>Sat, 12 Sep 2026 20:57:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;AI系统Odin证明Komlós猜想，常数界3√(2π)被给出。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-12-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>从认路到「跌倒再战」，机器人也在重走大模型的Scaling之路？</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-12-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a61f30c39e4ad9b98eed5582</guid>
-      <pubDate>Sat, 12 Sep 2026 20:38:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;亮源新创十天内发布导航模型与韧性控制技术，对标大模型对齐与部署。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-12-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>从「Disable」到「Able」，爱博智能在康复里寻找答案</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-12-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a820a19a1b8cc2442e5c3fbd</guid>
-      <pubDate>Sat, 12 Sep 2026 20:31:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;爱博智能以非侵入式脑机接口结合外骨骼，在安徽省二院落地康复应用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-12-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI 辅助开发钓鱼游戏第 7 周：重写水面着色器、新增天气与鲸豚</title>
-      <link>https://imgur.com/a/8Tw1ED8</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d877271cb382c586837c500e</guid>
-      <pubDate>Sat, 12 Sep 2026 19:32:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;开发者用 AI 工具制作钓鱼游戏，本周重写水面、加入天气系统与鲸豚模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://imgur.com/a/8Tw1ED8"&gt;imgur.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wea7mp/week_7_of_making_my_fishing_game_almost_entirely/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>iLands AI 代理垃圾邮件泛滥：冒充研究者抢自由职业者饭碗</title>
-      <link>https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6932cf998cf8bbd0c605eaa2</guid>
-      <pubDate>Sat, 12 Sep 2026 19:13:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;作者收到大量 iLands 平台 AI 代理的推销邮件，声称可代做研究并收费，引发对 AI 抢饭碗的担忧。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>YC Demo Day聚焦AI领域专用工具，引发行业热议</title>
-      <link>https://digg.com/tech/umzhlzz9</link>
-      <guid isPermaLink="false">urn:zhiyike:news:21946d8dbfe5202eb44c9e88</guid>
-      <pubDate>Sat, 12 Sep 2026 19:03:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;YC 2026夏季演示日多数项目为领域专用工具，引发关于AI应用形态的讨论。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/umzhlzz9"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day"&gt;核实来源&lt;/a&gt; · &lt;a href="https://x.com/goodhartproof/status/2098523476189745314"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
