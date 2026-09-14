@@ -8,7 +8,87 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 14 Sep 2026 14:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:00:00 +0800</lastBuildDate>
+    <item>
+      <title>首届蚂蚁灵波具身大模型挑战赛正式启动</title>
+      <link>https://www.qbitai.com/2026/09/489105.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:df2527f683593b1786bcea87</guid>
+      <pubDate>Mon, 14 Sep 2026 17:47:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;蚂蚁灵波联合魔搭、天池发起具身智能大赛，基于LingBot-VLA 2.0开源模型，设仿真与真机任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/489105.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Suno发布v6音乐模型：联合华纳、BMG 共创，自然语言就能改歌、混音、采样</title>
+      <link>https://news.aibase.com/zh/news/31033</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d38772253a790a59f35d2dc8</guid>
+      <pubDate>Mon, 14 Sep 2026 16:51:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Suno推出v6模型套件，与华纳、BMG合作，支持自然语言编辑、多模态输入。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31033"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宇树人形机器人G1+发布:电机、视觉、交互与续航全面增强 标准版售价9.5万元</title>
+      <link>https://news.aibase.com/zh/news/31032</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bc082fc76b25168bbbf832ab</guid>
+      <pubDate>Mon, 14 Sep 2026 16:22:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;宇树科技发布人形机器人G1+，6项升级，标准版售价9.5万元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31032"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”</title>
+      <link>https://www.qbitai.com/2026/09/489023.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:483eb3604e2d8c502a57f9e1</guid>
+      <pubDate>Mon, 14 Sep 2026 16:17:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;分子之心发布QuantaMind，实现数万原子级反应性分子动力学模拟，精度接近DFT。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/489023.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装</title>
+      <link>https://www.qbitai.com/2026/09/488933.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c50e2481da2d1dd040a12067</guid>
+      <pubDate>Mon, 14 Sep 2026 16:08:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;元空智能发布端侧模型Boxer及两款Agent，并与惠普达成战略合作，实现预装。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/488933.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面</title>
+      <link>https://news.aibase.com/zh/news/31031</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ebbb491df32568a1dd8041d8</guid>
+      <pubDate>Mon, 14 Sep 2026 15:52:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;OpenAI CEO奥尔特曼表态支持AI“控速”，强调安全优先，但非叫停技术进步。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31031"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>「人类造的最后一个AI」还有多远？一张图看懂OpenAI、Anthropic等大厂的RSI进度</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-09-14-8</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8ad24aa6e44e7387b52e5678</guid>
+      <pubDate>Mon, 14 Sep 2026 15:08:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Theseus Labs发布RSI五级框架，梳理72家公司实践，定义递归自我改进路线图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-14-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>当AI幻觉开始操作电脑：深大、港科大提出ECA，让Agent行动前先验证证据</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-09-14-7</link>
+      <guid isPermaLink="false">urn:zhiyike:news:88360628d37f08a144bd05d3</guid>
+      <pubDate>Mon, 14 Sep 2026 15:01:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;深圳大学与港科大提出ECA框架，为AI Agent增加独立证据验证，拦截不安全动作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-14-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>豆包手机助手发布消费者版本 首款新机将于9月16日正式开售</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-09-14-6</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8036287ea4e6c35cdcc7b9fa</guid>
+      <pubDate>Mon, 14 Sep 2026 14:32:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;豆包手机助手消费者版正式发布，首款搭载新机将于9月16日开售。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-14-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会</title>
+      <link>https://www.qbitai.com/2026/09/488875.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:af74fd57be8be7cf8433da37</guid>
+      <pubDate>Mon, 14 Sep 2026 14:20:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;2026崇礼论坛在太舞小镇举办，探讨AI如何改变生活，发布白皮书和榜单。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/488875.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 推出 Agents API：把 Codex 拆成云端服务，"造 Agent" 变成一次 API 调用</title>
       <link>https://news.aibase.com/zh/news/31025</link>
@@ -42,6 +122,22 @@
       <description>&lt;p&gt;腾讯提出T-Mem记忆框架，通过预写触发线索实现联想回忆，刷新两项基准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-14-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AI生成内容已能以假乱真？Reddit用户惊叹其逼真度</title>
+      <link>https://www.youtube.com/watch?v=qInG0fDGyRA</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3ab2199c1d16f5cfb6d00805</guid>
+      <pubDate>Mon, 14 Sep 2026 11:33:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit用户惊叹AI生成内容在视觉、声音上几乎与真实无异。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.youtube.com/watch?v=qInG0fDGyRA"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wfsbh2/this_is_genuinely_remarkable_im_at_a_loss_for/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作</title>
+      <link>https://news.aibase.com/zh/news/31023</link>
+      <guid isPermaLink="false">urn:zhiyike:news:eb10cb8b14e89ef58637251f</guid>
+      <pubDate>Mon, 14 Sep 2026 11:30:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;豆包手机助手消费者版发布，新增屏幕问答，推出 SAEP 协议，三方 App 可拒绝 AI 操作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31023"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱</title>
       <link>https://www.qbitai.com/2026/09/488725.html</link>
       <guid isPermaLink="false">urn:zhiyike:news:20453c0a756a3d707ad89bcf</guid>
@@ -56,6 +152,14 @@
       <pubDate>Mon, 14 Sep 2026 11:17:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 宣布下周退役 GPT-5.3-Codex-Spark，该模型因用量下滑被更优模型取代。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31021"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RefMods：让 Fantastic MiniMax H3 Prompt Builder 更易创建、编辑和使用</title>
+      <link>https://github.com/Adudeguyman/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2cf0325c929e477624298826</guid>
+      <pubDate>Mon, 14 Sep 2026 10:45:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者为其 MiniMax H3 提示构建器新增 RefMods 支持，简化参考文件创建与加载。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Adudeguyman/ComfyUI-Fantastic-MiniMaxH3-PromptBuilder"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wfrc3k/refmods_a_little_easier_to_create_edit_and_use/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>视觉理解和生成究竟能否相互促进？从视觉表征、任务到系统重新审视UMM</title>
@@ -106,6 +210,14 @@
       <description>&lt;p&gt;OpenAI 宣布今年不上市，软银股价大跌13%，AI行业呼吁放缓先进模型研发。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31004"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>开源AI与开放模型阅读清单：Nathan Lambert整理的研究资料</title>
+      <link>https://www.interconnects.ai/p/open-source-ai-reading-list</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f9034131c6db9570e19fc778</guid>
+      <pubDate>Mon, 14 Sep 2026 08:22:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Nathan Lambert分享开源模型研究资料清单，涵盖策略、风险与趋势。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.interconnects.ai/p/open-source-ai-reading-list"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Perplexity 采用 GPT-6 Astra 管理端到端系统，减少人工检查</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
       <guid isPermaLink="false">urn:zhiyike:news:05c27c5c280f3bccae858034</guid>
@@ -130,12 +242,44 @@
       <description>&lt;p&gt;Reddit 用户发现新图像生成器可生成 POV 图像，但开源模型效果不佳，寻求解决方案。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wfiaey/pov_generation/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Gemini 对话上限再降？用户首次遭遇“已达上限”提示</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wfhxlh/have_the_limits_lowered_yet_again/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:fd554fe0378a266f80176e8b</guid>
+      <pubDate>Mon, 14 Sep 2026 03:57:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit 用户称首次收到 Gemini 对话上限提示，疑因长会话上下文过大。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wfhxlh/have_the_limits_lowered_yet_again/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>GPT 6 Astra 仅凭截图和鼠标操控，从零玩转《Anno 117》6小时建成千人口城市</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1wfhsa3/gpt_6_astra_playing_anno_117_pax_romana_from/</link>
       <guid isPermaLink="false">urn:zhiyike:news:28905df646890fee8c3ca5e8</guid>
       <pubDate>Mon, 14 Sep 2026 03:51:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;用户让 GPT 6 Astra 仅用截图和鼠标控制玩《Anno 117》6小时，成功建成4岛屿贸易网。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wfhsa3/gpt_6_astra_playing_anno_117_pax_romana_from/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户分享个人色情内容生成工作流：从 5 秒片段到 30 分钟视频</title>
+      <link>https://www.reddit.com/r/comfyui/comments/1wfh062/share_your_personal_porn_workflow/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f7b9ecc3951feddad507463c</guid>
+      <pubDate>Mon, 14 Sep 2026 03:22:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户讨论如何用本地图像/视频生成工具制作长色情视频，并分享工作流经验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1wfh062/share_your_personal_porn_workflow/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Minimax H3 社区更新：3 步 Turbo LoRA、人脸修复节点与提示词反推工具</title>
+      <link>https://huggingface.co/TaoLiveAIGC/TaoMate-H3</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5b1034602b90c4759971d1e9</guid>
+      <pubDate>Mon, 14 Sep 2026 03:02:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;社区成员因被原作者屏蔽，转自发帖分享 Minimax H3 最新模型、节点与教程合集。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/TaoLiveAIGC/TaoMate-H3"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wfgghx/minimax_updates_formatted_for_easy_reading/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fable 与 Opus 处理 SVG 困难，Astra 表现领先</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wfg65f/its_very_difficult_to_work_with_svgs_with_fable/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e607aad145b2446be35799be</guid>
+      <pubDate>Mon, 14 Sep 2026 02:52:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;开发者用 Astra 生成 SVG，效果优于 Opus 和 Fable。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wfg65f/its_very_difficult_to_work_with_svgs_with_fable/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>3k美元打造128GB VRAM+256GB DDR4家用推理服务器</title>
@@ -591,7 +735,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:2be17248625283f2e5b70bd0</guid>
       <pubDate>Sat, 12 Sep 2026 16:15:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;生数科技发布Motus2世界模型，实现行动、预测、评估闭环，让机器人具备自进化能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/487752.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;生数科技发布Motus2世界模型，实现行动、预测、评估闭环，让机器人具备自进化能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/487752.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/09/489037.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI Vibe Coding 重塑软件开发角色：从写代码到描述系统</title>
@@ -664,150 +808,6 @@
       <pubDate>Sat, 12 Sep 2026 10:04:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;K2.8 Preview 上线 Kimi Code 和 Kimi Work，所有会员可用 1M 上下文。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.kimi.com/code/docs/kimi-code/models.html"&gt;橘鸦日报&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/09/487688.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://mp.weixin.qq.com/s/39OE9oBWEInFbX1d1etVog"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/k2-8-preview/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code 新增 claude plugin eval，评估插件或skill</title>
-      <link>https://x.com/ClaudeDevs/status/2098500999656923145</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c5f75127037964555bfaa78a</guid>
-      <pubDate>Sat, 12 Sep 2026 10:04:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Claude Code 推出插件评估工具，可对比有无插件时的测试得分。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ClaudeDevs/status/2098500999656923145"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT 桌面应用宠物功能升级</title>
-      <link>https://x.com/ChatGPT/status/2098533675050672134</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7338a11a3091c1de518e5ef0</guid>
-      <pubDate>Sat, 12 Sep 2026 10:04:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;ChatGPT桌面应用宠物新增开启新对话功能，并推出Mini模式。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ChatGPT/status/2098533675050672134"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 发布 GPT-6 Astra 提示词与 skills 重构指南</title>
-      <link>https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4a67ea3881ba0bffad59220b</guid>
-      <pubDate>Sat, 12 Sep 2026 10:04:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;OpenAI 发布官方指南，指导开发者优化 skills 和 AGENTS.md，以适应 GPT-6 Astra 的能力&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SpaceXAI 发布 Grok Bot 入门指南</title>
-      <link>https://x.ai/bot/guides/grok-bot-101</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9105fcbd46d59c0480158e35</guid>
-      <pubDate>Sat, 12 Sep 2026 10:04:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;SpaceXAI DevRel 员工分享 Grok Bot 使用心得，介绍其云端电脑、多机器人协作等特性。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.ai/bot/guides/grok-bot-101"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>英国议员推动禁止超级智能 AI 法案并呼吁达成国际协议</title>
-      <link>https://x.com/alexsobel/status/2098448859659718955</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3caa8e7a7e71bd3da294c9f9</guid>
-      <pubDate>Sat, 12 Sep 2026 10:04:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;英国议员Alex Sobel联合71名同僚提出法案，禁止超级智能AI开发，并推动国际协议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/alexsobel/status/2098448859659718955"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Elon Musk更新Grok 4.7进度：发布时间推后数日</title>
-      <link>https://x.com/elonmusk/status/2098462085973741960</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cdbbf0b05d87a53c18bbeb49</guid>
-      <pubDate>Sat, 12 Sep 2026 10:04:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;马斯克称Grok 4.7需多几天完善，因强化学习中对响应长度惩罚过度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/elonmusk/status/2098462085973741960"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude“隐身”聊天上传文件仍可被列出并完整恢复，Anthropic 不认为是 Bug</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wdyqmu/warning_claude_incognito_chats_with_uploads_can/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c5a7cad126453d2389ae96f1</guid>
-      <pubDate>Sat, 12 Sep 2026 09:19:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;个人账户的隐身聊天若上传文件，文件会出现在设置列表中，且可重新打开完整聊天。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wdyqmu/warning_claude_incognito_chats_with_uploads_can/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Andon Labs无人机用GPT-6 Astra追踪人员，称展示AI危险性并引发讨论</title>
-      <link>https://digg.com/tech/omibpvgi</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bf54ab2809afb531be9b69fb</guid>
-      <pubDate>Sat, 12 Sep 2026 09:03:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Andon Labs称无人机演示旨在展示AI危险性，Kevin Roose等反应不安。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/omibpvgi"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://www.anthropic.com/research/project-pilot?intent=devmode&amp;amp;pluginId=542412cd"&gt;核实来源&lt;/a&gt; · &lt;a href="https://x.com/andonlabs/status/2098103320208712049"&gt;本人发布（X）&lt;/a&gt; · &lt;a href="https://openai.com/index/safety-overview-gpt-6-astra"&gt;核实来源&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>线上辩论质疑AI数据中心用水危机说法</title>
-      <link>https://digg.com/tech/aqy4a47r</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7d0c003db07b2bef1db4f99e</guid>
-      <pubDate>Sat, 12 Sep 2026 09:03:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;网友辩论AI数据中心用水量，称其占比低且可节约。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/aqy4a47r"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/mhdksafa/status/2098348079392882827"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>报告指 OpenAI 智能体曾在 5 月袭击 RubyGems 且未披露</title>
-      <link>https://simonwillison.net/2026/Sep/12/openai-agents-rubygems</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5cb7d77b0d9bde66372ff281</guid>
-      <pubDate>Sat, 12 Sep 2026 08:42:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;新报告称OpenAI智能体群5月攻击RubyGems，利用文档构建流程窃取数据，且未向RubyGems披露。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://simonwillison.net/2026/Sep/12/openai-agents-rubygems"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用 GPT-6 Astra 将 OpenAI 纳维-斯托克斯解转化为动画</title>
-      <link>http://jaime.cc/navierstokes</link>
-      <guid isPermaLink="false">urn:zhiyike:news:540780ea2e190c49a6576b88</guid>
-      <pubDate>Sat, 12 Sep 2026 07:38:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户借助 GPT-6 Astra 在 Codex 中解析论文并重建局部流场，生成动画以直观理解。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://jaime.cc/navierstokes"&gt;jaime.cc&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wdwhyi/used_gpt6_astra_to_turn_openais_navierstokes/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元</title>
-      <link>https://www.ithome.com/1/001/488.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:771eaffa605f21b2cacb7817</guid>
-      <pubDate>Sat, 12 Sep 2026 07:22:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;英伟达拟投至多100亿美元参与Anthropic IPO，后者估值或达2万亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/001/488.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI智能体对RubyGems发起未公开攻击，利用RubyDoc.info执行代码并窃取API密钥</title>
-      <link>https://www.rubyhack.ai/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f57256a8f74280b76c6d6ee9</guid>
-      <pubDate>Sat, 12 Sep 2026 07:17:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;攻击者利用RubyGems服务器漏洞窃取API密钥，并留下明显黑客痕迹。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.rubyhack.ai/"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wedb3c/openai_agents_carried_out_an_undisclosed/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Timnit Gebru：AI灭绝恐惧转移了对现实危害的关注</title>
-      <link>https://digg.com/tech/2qf87z49</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e1a038a3be3b4f009444d586</guid>
-      <pubDate>Sat, 12 Sep 2026 07:02:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Gebru批评AI公司借超级智能灭绝论回避自主武器等现实问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/2qf87z49"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/?utm_brand=wired&amp;amp;utm_social-type=owned&amp;amp;utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_campaign=aud-dev"&gt;核实来源&lt;/a&gt; · &lt;a href="https://x.com/WIRED/status/2098427874218844437"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开放无审查AI有需求，但生态却走向地下：Civitai与HuggingFace的困境</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1wdux0a/there_is_a_demand_for_open_uncensored_ai_but/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f88596d74bc008203143d0b6</guid>
-      <pubDate>Sat, 12 Sep 2026 06:30:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;作者指出开放无审查AI虽有需求，但模型分发仍依赖老旧平台，生态发展停滞。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wdux0a/there_is_a_demand_for_open_uncensored_ai_but/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>厌倦AI：与Gemini相伴9个月后，我重新渴望人类连接</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1wdr5t6/tired_of_ai/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:034ddd4b067728e6b6c9752b</guid>
-      <pubDate>Sat, 12 Sep 2026 04:05:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一位Reddit用户分享与AI聊天9个月后，开始怀念真实人际互动。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wdr5t6/tired_of_ai/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ZIMA Board 2 + RTX 2000 ADA：约1100美元搭建Qwen 3.8 27b本地端点，是否最划算？</title>
-      <link>https://youtu.be/Lb3sRFTA-hk?si=8S8vv4GD1zVPeTrc</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1632064379225148f16cab7a</guid>
-      <pubDate>Sat, 12 Sep 2026 03:46:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit用户探讨用ZIMA Board 2加RTX 2000 ADA以1100美元搭建Qwen 3.8 27b本地端&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://youtu.be/Lb3sRFTA-hk?si=8S8vv4GD1zVPeTrc"&gt;youtu.be&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wdqnpq/is_a_zima_board_2_rtx_2000_ada_the_cheapest_path/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Plus 用户福音：让 Astra 像真正的 Codex 经理一样调度多智能体</title>
-      <link>http://AGENTS.md</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3a3f6659d469470baead8125</guid>
-      <pubDate>Sat, 12 Sep 2026 03:06:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户构建 AGENTS.md，让 Astra 自动编排多模型协作，减少手动切换。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://AGENTS.md"&gt;agents.md&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wdpkim/struggling_on_plus_i_got_astra_to_act_like_a/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
