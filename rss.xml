@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 15 Sep 2026 06:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:31:00 +0800</lastBuildDate>
+    <item>
+      <title>科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel</link>
+      <guid isPermaLink="false">urn:zhiyike:news:462b43a3b6eb8bfd1a0cf20a</guid>
+      <pubDate>Tue, 15 Sep 2026 06:59:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI、Anthropic等CEO口头同意放缓AI开发，引发安全与垄断争议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>美财长称若输掉AI竞赛“没有明天”，中方回应：安全论调是为维持技术霸权</title>
+      <link>https://www.bloomberg.com/news/articles/2026-09-09/bessent-warns-nothing-would-matter-if-china-wins-the-ai-race</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e283e4288d9181a41b806818</guid>
+      <pubDate>Tue, 15 Sep 2026 05:29:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;美财长称输掉AI竞赛后果严重，中方驳斥其安全论调实为维护技术主导地位。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.bloomberg.com/news/articles/2026-09-09/bessent-warns-nothing-would-matter-if-china-wins-the-ai-race"&gt;bloomberg.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wggqmr/there_is_no_day_after_tomorrow_if_china_wins_us/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Minimax H3 新闻速览：2026年9月15日</title>
+      <link>https://civitai.com/models/2934763/film-noir-with-selective-colors</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5526aba11b67f0a02fc847c1</guid>
+      <pubDate>Tue, 15 Sep 2026 02:42:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;汇总 H3 新工具：Film Noir LoRA、H3-Relight、剧本生成器等。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.com/models/2934763/film-noir-with-selective-colors"&gt;civitai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wgc4lj/a_quick_minimax_h3_news_roundup_15th_september/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic CEO警告：AI僵尸网络集群6-12个月内或可接管整个互联网</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-entire-internet-in-6-12-months-such-a-swarm-could-be-capable-of-taking-over-the-entire-internet-with-a-persistent-botnet</link>
@@ -24,6 +48,14 @@
       <pubDate>Tue, 15 Sep 2026 02:03:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;论文测试发现现有智能体无法完成NeurIPS论文工作，故RSI不会很快发生。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2607.27191"&gt;arxiv.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/MachineLearning/comments/1wgazy4/rsi_is_not_happening_r/"&gt;Reddit / r/MachineLearning&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我把机械臂交给Claude Fable 5.1和GPT 6 Astra，谁画得更好？</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wgaetp/i_gave_claude_fable_51_and_gpt_6_astra_control_of/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:dda19fea46f72c22693f0d4b</guid>
+      <pubDate>Tue, 15 Sep 2026 01:43:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit用户用两款AI控制机械臂作画，对比填色效果。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wgaetp/i_gave_claude_fable_51_and_gpt_6_astra_control_of/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pion：一个可全自主运营任何公司的 AI 代理，Andon Labs 今日发布</title>
@@ -56,6 +88,14 @@
       <pubDate>Tue, 15 Sep 2026 00:15:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;媒体学者批评AI领袖的末日警告是虚伪且策略性的炒作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI雇佣数百名承包商阅读ChatGPT用户聊天记录，隐私风险引担忧</title>
+      <link>https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c432065cee27a254aece659c</guid>
+      <pubDate>Mon, 14 Sep 2026 22:28:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI雇佣数百名承包商阅读真实用户ChatGPT对话，敏感信息可能泄露。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.404media.co/inside-project-lily-the-humans-reading-your-chatgpt-chats/"&gt;404media.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wg4zhw/inside_project_lily_the_humans_reading_your/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>YuE2 缺失编码器被补齐：开源模型现在可导入自有音乐微调</title>
@@ -98,12 +138,12 @@
       <description>&lt;p&gt;习近平在金砖峰会上提议为成员国建立开源AI区，推动开放生态。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.euronews.com/next/2026/09/14/chinas-xi-jinping-proposes-brics-open-source-ai-zone"&gt;euronews.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wg1kux/chinas_xi_jinping_proposes_brics_opensource_ai/"&gt;Reddit / r/OpenAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wg181t/chinas_xi_jinping_proposes_brics_opensource_ai/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>代码显示苹果Siri AI可替换为Claude、ChatGPT等第三方模型</title>
+      <title>苹果Siri AI可替换为Claude或ChatGPT，欧盟监管推动开放第三方模型接入</title>
       <link>https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/</link>
       <guid isPermaLink="false">urn:zhiyike:news:43b0555e3dfcef0d4d90bbf1</guid>
       <pubDate>Mon, 14 Sep 2026 20:01:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;苹果iOS 27代码显示Siri架构深度支持第三方AI模型，可替换或委托给Claude、GPT-5.6。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;欧盟拒绝苹果豁免，要求Siri开放第三方模型，代码显示深度集成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wge6gc/apples_siri_ai_can_be_swapped_out_for_claude/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>四大AI巨头联手提出监管方案，名为“Pace the frontier”</title>
@@ -768,46 +808,6 @@
       <pubDate>Sun, 13 Sep 2026 00:30:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;OpenAI CEO 回应 Anthropic CEO 的放缓前沿倡议，承诺提供同等独立评估权限。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sama/status/2098811563415150910"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/PeterMcCrory/status/2098868931071226252"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>受限只能用西方开源模型？120B级部署选型讨论：Inkling Small、Command A+ 等</title>
-      <link>https://thinkingmachines.ai/news/inkling-small/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:229ec5333f2ea5c5eeb93d2b</guid>
-      <pubDate>Sun, 13 Sep 2026 00:17:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 用户因管理禁令无法部署中国模型，求助西方 120B 级开源模型选型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://thinkingmachines.ai/news/inkling-small/"&gt;thinkingmachines.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wegs2w/for_those_of_you_forced_to_only_use_open_models/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>comfyui-obvpm 节点包更新：单节点合成参考图、设置预设节点、线束打包/解包</title>
-      <link>https://github.com/chanon/comfyui-obvpm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:11fdecd9bf854a759d89835d</guid>
-      <pubDate>Sat, 12 Sep 2026 23:27:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;开发者 obvpm 发布新节点包，含图像合成、设置预设和线束整理功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/chanon/comfyui-obvpm"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wefiqd/compose_ref_images_in_one_node_settings_presets/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ESP32 电子书阅读器变身游戏掌机：浏览器玩宝可梦，存档跨设备同步</title>
-      <link>https://muonsortes.com/build-a-wifi-ereader</link>
-      <guid isPermaLink="false">urn:zhiyike:news:87b39bd49551d848cd80db4f</guid>
-      <pubDate>Sat, 12 Sep 2026 21:15:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;开发者用 ESP32 和 27 美元墨水屏打造可玩宝可梦的掌机，成本约 40 美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://muonsortes.com/build-a-wifi-ereader"&gt;muonsortes.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wecd8d/claude_helped_me_make_a_custom_ebook_and_now_i/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-5.6 Sol跑量子实验，AI直连实验室实现自主决策</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-12-10</link>
-      <guid isPermaLink="false">urn:zhiyike:news:75ce2509135a53697b9182ed</guid>
-      <pubDate>Sat, 12 Sep 2026 21:02:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI与MIT合作，让GPT-5.6 Sol通过Codex自主完成量子芯片校准实验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-12-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI智能体还攻击过Ruby生态？但选择当鸵鸟！</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-12-9</link>
-      <guid isPermaLink="false">urn:zhiyike:news:abbf322f0971194543966ee4</guid>
-      <pubDate>Sat, 12 Sep 2026 21:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI测试Agent在5月对RubyGems发起异常操作，官方确认但称是正常任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-12-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
