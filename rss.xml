@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 16 Sep 2026 02:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:01:00 +0800</lastBuildDate>
+    <item>
+      <title>Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶</title>
+      <link>https://x.com/arena/status/2099971741993050236</link>
+      <guid isPermaLink="false">urn:zhiyike:news:17a718388c2841532798c8ea</guid>
+      <pubDate>Wed, 16 Sep 2026 05:20:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Arena 发布新榜单，GPT-6 Astra 登顶，Claude Fable 5.1 紧随其后。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/arena/status/2099971741993050236"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TypeSafe AI 发布 System One 模型与 Jev：面向机器的决策型 AI</title>
+      <link>https://typesafe.ai/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4aa2de5f4cf75de151c082c1</guid>
+      <pubDate>Wed, 16 Sep 2026 03:15:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;TypeSafe AI 结束隐身，推出 System One 模型和 Jev，主打机器原生决策。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://typesafe.ai/"&gt;typesafe.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wh9wt6/diogo_has_finally_come_out_of_stealth_and_cooked/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划</title>
       <link>https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</link>
@@ -18,12 +34,12 @@
       <description>&lt;p&gt;Claude 小企业版扩展工作流与集成，启动秋季免费培训巡演。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>DeepMind 发布 Gemini 3.8 Live 与 Extended Thinking 语音模型</title>
+      <title>DeepMind 发布 Gemini 3.8 Live 与 Extended Thinking，语音交互更智能</title>
       <link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</link>
       <guid isPermaLink="false">urn:zhiyike:news:9f8b4a45725578e8712ca2e4</guid>
       <pubDate>Wed, 16 Sep 2026 01:05:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;DeepMind 推出两款新语音模型，支持实时视觉与后台任务处理。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"&gt;DeepMind&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增完整型号 Extended Thinking，性能与功能细节更全。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 代理有 100% 概率正在毁掉互联网</title>
@@ -64,6 +80,22 @@
       <pubDate>Tue, 15 Sep 2026 23:12:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;生数科技发布Vidu S2，支持实时视频编辑与数字人互动，开放体验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-15-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 3.8 Flash 写作风格获赞：用户称比 Claude/Codex 更自然</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wh2d4f/is_it_me_or_has_gemini_cracked_the_nonai_slop/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6c80e9ee5e98e0982f8ac638</guid>
+      <pubDate>Tue, 15 Sep 2026 22:44:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户对比发现 Gemini 3.8 Flash 输出更自然，优于 Claude 和 Codex。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wh2d4f/is_it_me_or_has_gemini_cracked_the_nonai_slop/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TempleOS 在《半条命1》游戏内显示器中运行</title>
+      <link>https://github.com/aravpanwar/half-life-templeos</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1d11073d196431b86a926263</guid>
+      <pubDate>Tue, 15 Sep 2026 22:22:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;玩家可在游戏内通过QEMU实时操作TempleOS系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/aravpanwar/half-life-templeos"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wh1t5v/templeos_running_inside_the_ingame_monitors_of/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>梁文锋CFO到位！投过智谱MiniMax</title>
@@ -266,6 +298,14 @@
       <description>&lt;p&gt;飞书发布8.0版并推出国内首个团队智能体“豆包工作伙伴”，ARR增速创新高。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-15-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Reddit热议：Claude遭贬低、Astra受追捧，是水军还是真实体验？</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wgpb87/do_you_think_all_these_claude_sucks_astra_is/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d049b5f5f4c3ed4eb2b6efd2</guid>
+      <pubDate>Tue, 15 Sep 2026 11:47:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit用户质疑大量称赞Astra的帖子真实性，同时表达对Claude Opus 5的满意。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wgpb87/do_you_think_all_these_claude_sucks_astra_is/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>从Chat、Code到Discovery，AI开始学着做科学家</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-09-15-5</link>
       <guid isPermaLink="false">urn:zhiyike:news:aed09a0f90de93aa738b363d</guid>
@@ -408,6 +448,14 @@
       <pubDate>Tue, 15 Sep 2026 08:30:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Reddit 用户提醒训练 Krea2 LoRA 时需在配置中跳过特定层，否则会破坏模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wgl3ss/for_the_sake_of_training_krea2/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Muse Glimmer：被低估的自然对话本地模型，聊天体验接近真人</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wgjg9a/i_think_muse_glimmer_is_slept_on/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7e0c4be64e090b51b97d23f9</guid>
+      <pubDate>Tue, 15 Sep 2026 07:18:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Reddit 用户分享 Muse Glimmer 在自然对话上的出色表现，认为它是当前最好的聊天模型之一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wgjg9a/i_think_muse_glimmer_is_slept_on/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔</title>
@@ -760,54 +808,6 @@
       <pubDate>Mon, 14 Sep 2026 14:05:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;OpenAI 发布 Agents API，将 Codex 能力云端化，开发者可一键调用托管式智能体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31025"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>新「豆包手机」首发体验，智能手机正在变成「行动终端」</title>
-      <link>https://www.ifanr.com/1679983?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:17d69bfaa6e81f693b52c987</guid>
-      <pubDate>Mon, 14 Sep 2026 14:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;豆包手机助手消费者版发布，新增AI键与记忆能力，推动手机向行动终端进化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1679983?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>一款AI研发的肺纤维化药，为什么让「生物年龄」出现下降？</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-14-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:77a8fb233768f72456211bd3</guid>
-      <pubDate>Mon, 14 Sep 2026 13:03:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;AI药物Rentosertib在IIa期试验中，使患者生物年龄下降约2.7至3.5年。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-14-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>告别「只会相似度检索」：腾讯最新T-Mem让AI学会「联想回忆」</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-14-3</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d2823acf9016bb35bcc546c6</guid>
-      <pubDate>Mon, 14 Sep 2026 12:50:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;腾讯提出T-Mem记忆框架，通过预写触发线索实现联想回忆，刷新两项基准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-14-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI生成内容已能以假乱真？Reddit用户惊叹其逼真度</title>
-      <link>https://www.youtube.com/watch?v=qInG0fDGyRA</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3ab2199c1d16f5cfb6d00805</guid>
-      <pubDate>Mon, 14 Sep 2026 11:33:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit用户惊叹AI生成内容在视觉、声音上几乎与真实无异。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.youtube.com/watch?v=qInG0fDGyRA"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wfsbh2/this_is_genuinely_remarkable_im_at_a_loss_for/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>豆包手机助手消费者版发布：新增快捷指令与任务排队，同步推送努比亚M153老用户</title>
-      <link>https://news.aibase.com/zh/news/31023</link>
-      <guid isPermaLink="false">urn:zhiyike:news:eb10cb8b14e89ef58637251f</guid>
-      <pubDate>Mon, 14 Sep 2026 11:30:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;新增快捷指令、任务排队，同步推送努比亚M153老用户。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31023"&gt;AIBase&lt;/a&gt; · &lt;a href="https://zhidx.com/p/593660.html"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>中国物理AI大突破：PhysBrain 1.5登顶全球开源榜一，空间智能与GPT-6 Astra并驾齐驱</title>
-      <link>https://www.qbitai.com/2026/09/488725.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:20453c0a756a3d707ad89bcf</guid>
-      <pubDate>Mon, 14 Sep 2026 11:18:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;深度机智发布物理基座模型PhysBrain 1.5，开源榜综合均分72.5，逼近闭源顶尖模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/488725.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
