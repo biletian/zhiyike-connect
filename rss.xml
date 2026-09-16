@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 17 Sep 2026 05:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:46:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例</title>
+      <link>https://x.com/AISafetyMemes/status/2100358777895780704</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3f1eaea649bc8484f7d14ead</guid>
+      <pubDate>Thu, 17 Sep 2026 06:58:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 公布追踪和披露模型错位的新框架，并透露未发布模型曾改写自身指令。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AISafetyMemes/status/2100358777895780704"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 比 Claude 和 ChatGPT 更合我意：日常问答与创意写作体验对比</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wi9gue/i_prefer_gemini_over_claude_chatgpt/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3b890c056df4800bb13c2e19</guid>
+      <pubDate>Thu, 17 Sep 2026 04:51:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户对比 Gemini、Opus 5 等模型，称 Gemini 更直观、更懂常识。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wi9gue/i_prefer_gemini_over_claude_chatgpt/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>H3 Singularity 工作流提速40%且画质提升：RTX 前置技巧</title>
+      <link>https://www.reddit.com/r/comfyui/comments/1wi5mni/h3_singularity_but_40_faster_and_better_quality/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3d61d2d991f38863f8778012</guid>
+      <pubDate>Thu, 17 Sep 2026 02:33:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户分享在 Minimax Singularity 工作流中前置 RTX，提速40%并提升画质。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1wi5mni/h3_singularity_but_40_faster_and_better_quality/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mozilla报告：中国开源AI模型与美前沿差距缩至约4个月，成本大幅更低</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</link>
@@ -18,12 +42,20 @@
       <description>&lt;p&gt;Mozilla报告称中国开源模型与美前沿差距约4个月，成本低至30%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OpenAI 发布模型错位报告框架，披露六起异常行为案例</title>
+      <link>https://openai.com/index/model-misalignment-reporting-framework</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f7f6a8b24f7be7556df4916f</guid>
+      <pubDate>Thu, 17 Sep 2026 01:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 推出系统性披露模型错位的新框架，并公开六份近期观察报告。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/model-misalignment-reporting-framework"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Anthropic将Claude Cowork与聊天合并为统一Claude，Docs、Slides和Design集成对话</title>
       <link>https://x.com/bcherny/status/2100260544087535639</link>
       <guid isPermaLink="false">urn:zhiyike:news:c759f30547a9b4fb6faec0cc</guid>
       <pubDate>Thu, 17 Sep 2026 00:28:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;Cowork 并入聊天，Docs/Slides/Design 对话内可用，Pro/Max 推出&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/bcherny/status/2100260544087535639"&gt;原文&lt;/a&gt; · &lt;a href="https://claude.com/blog/cowork-is-now-claude"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Cowork并入聊天，Docs/Slides/Design对话内可用，Pro/Max推出&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/bcherny/status/2100260544087535639"&gt;原文&lt;/a&gt; · &lt;a href="https://claude.com/blog/cowork-is-now-claude"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ChatGPT 现在能生成像素动画帧，配合 Pixel Rabbit 快速制作动画</title>
@@ -776,38 +808,6 @@
       <pubDate>Tue, 15 Sep 2026 13:20:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;西门子Xcelerator繁星生态大会将于9月21日在深圳前海举办，探讨工业AI落地与生态合作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/489277.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>全奖读AI！人工智能排名前十的MBZUAI本硕博招生启动</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-15-7</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0cb9897723140aa8d6d278f5</guid>
-      <pubDate>Tue, 15 Sep 2026 13:15:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;MBZUAI开启2027年秋季本硕博申请，全奖覆盖，AI方向全球前十。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-15-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>国内第一个为团队而生的Agent，果然还是在飞书里面来了。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647686286&amp;idx=1&amp;sn=c5c59de969cfb02c537a88c272d7aadf</link>
-      <guid isPermaLink="false">urn:zhiyike:news:182d0a3be1bf85975c0dc3b0</guid>
-      <pubDate>Tue, 15 Sep 2026 12:39:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;飞书发布豆包工作伙伴，可拉入群聊成为团队共享AI同事。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;amp;mid=2647686286&amp;amp;idx=1&amp;amp;sn=c5c59de969cfb02c537a88c272d7aadf"&gt;数字生命卡兹克&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>飞书 CEO 谢欣：飞书与豆包工作是 AI 时代的最优解</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-15-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8f44fdf941c36c29d9ed53ee</guid>
-      <pubDate>Tue, 15 Sep 2026 12:02:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;飞书发布8.0版并推出国内首个团队智能体“豆包工作伙伴”，ARR增速创新高。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-15-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit热议：Claude遭贬低、Astra受追捧，是水军还是真实体验？</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wgpb87/do_you_think_all_these_claude_sucks_astra_is/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d049b5f5f4c3ed4eb2b6efd2</guid>
-      <pubDate>Tue, 15 Sep 2026 11:47:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit用户质疑大量称赞Astra的帖子真实性，同时表达对Claude Opus 5的满意。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wgpb87/do_you_think_all_these_claude_sucks_astra_is/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
