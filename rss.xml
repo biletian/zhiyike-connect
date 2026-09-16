@@ -8,7 +8,7 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 16 Sep 2026 06:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:17:00 +0800</lastBuildDate>
     <item>
       <title>Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶</title>
       <link>https://x.com/arena/status/2099971741993050236</link>
@@ -26,6 +26,22 @@
       <description>&lt;p&gt;TypeSafe AI 结束隐身，推出 System One 模型和 Jev，主打机器原生决策。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://typesafe.ai/"&gt;typesafe.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wh9wt6/diogo_has_finally_come_out_of_stealth_and_cooked/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>LynnReal-Omni：基于MiniMax H3的统一视频生成模型，权重与Comfy节点已发布</title>
+      <link>https://github.com/LynnReal-AI/LynnReal-Omni</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7a980f8a16f812fe16fdfb0e</guid>
+      <pubDate>Wed, 16 Sep 2026 02:25:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开源统一视频生成模型，支持多任务，Flash版单H100生成22帧540p视频仅需377ms。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/LynnReal-AI/LynnReal-Omni"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wh8hov/lynnrealomni_built_on_minmax_h3_weights_comfy/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Navier-Stokes之后我仍看空LLM：前沿模型需繁琐监督，自主智能言过其实</title>
+      <link>https://dank.systems/posts/2026-09-15-ai-bear.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:645ff608ae39f0e2a7d21932</guid>
+      <pubDate>Wed, 16 Sep 2026 01:37:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;作者认为LLM在多数领域仍需人工监督，自主替代知识工作者不现实。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://dank.systems/posts/2026-09-15-ai-bear.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Claude for Small Business 新增 43 个工作流和 27 个集成，并推出免费培训计划</title>
       <link>https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs</link>
       <guid isPermaLink="false">urn:zhiyike:news:4327c42e2428d9c17926bc2c</guid>
@@ -39,7 +55,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:9f8b4a45725578e8712ca2e4</guid>
       <pubDate>Wed, 16 Sep 2026 01:05:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;新增完整型号 Extended Thinking，性能与功能细节更全。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增完整型号 Extended Thinking，性能与功能细节更全。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1whbwor/introducing_gemini_38_live_and_38_live_extended/"&gt;Reddit / r/GeminiAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wh9j9u/gemini_38_live_gemini_38_live_extended_thinking/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 代理有 100% 概率正在毁掉互联网</title>
@@ -66,6 +82,14 @@
       <description>&lt;p&gt;研究发现 AI Agent 平均成功率掩盖了重复执行的不稳定性，新方法可将一致性差距减半。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/ibm-research/altk-evolve-consistency"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Cartesian：面向建筑与产品设计的 AI 3D 建模工具，支持精确实体与 NURBS 几何</title>
+      <link>https://www.formas.ai/cartesian</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7a2a91c2215c7d373d75c01b</guid>
+      <pubDate>Tue, 15 Sep 2026 23:26:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Formas 推出 AI 3D 建模工具 Cartesian，支持精确实体与 NURBS 几何，可无缝对接 BIM 工作&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.formas.ai/cartesian"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>「天赐之物」与「道德风险」，Mu2e项目物理学家谈AI的能与不能</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-09-15-12</link>
       <guid isPermaLink="false">urn:zhiyike:news:e25f13f538ab9a65c6250c52</guid>
@@ -88,6 +112,14 @@
       <pubDate>Tue, 15 Sep 2026 22:44:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Reddit 用户对比发现 Gemini 3.8 Flash 输出更自然，优于 Claude 和 Codex。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wh2d4f/is_it_me_or_has_gemini_cracked_the_nonai_slop/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>美国AI数据中心预计2035年成全球第五大天然气消费方</title>
+      <link>https://digg.com/tech/fq1hgx1w</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6b12af79bfa63bf6783a41ab</guid>
+      <pubDate>Tue, 15 Sep 2026 22:30:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;美国AI数据中心天然气日消耗量预计2035年达150亿立方英尺。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/fq1hgx1w"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/?utm_medium=organic_social&amp;amp;utm_source=TWITTER"&gt;核实来源&lt;/a&gt; · &lt;a href="https://x.com/tomshardware/status/2099861527096709594"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>TempleOS 在《半条命1》游戏内显示器中运行</title>
@@ -506,12 +538,12 @@
       <description>&lt;p&gt;开发者打造手写AI画布PlotEveryday，支持方程、图表交互，还加入哈利波特彩蛋。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wgcuh6/i_built_a_handwriting_canvas_where_ai_can_see/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Minimax H3 新闻速览：2026年9月15日</title>
+      <title>Minimax H3 新闻速览：2026年9月15日官方 Skills 文件夹、Tiny Planet 等新工具</title>
       <link>https://civitai.com/models/2934763/film-noir-with-selective-colors</link>
       <guid isPermaLink="false">urn:zhiyike:news:5526aba11b67f0a02fc847c1</guid>
       <pubDate>Tue, 15 Sep 2026 02:42:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;汇总 H3 新工具：Film Noir LoRA、H3-Relight、剧本生成器等。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.com/models/2934763/film-noir-with-selective-colors"&gt;civitai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wgc4lj/a_quick_minimax_h3_news_roundup_15th_september/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;官方 Skills 文件夹、TaoMate LoRA 兼容版、视频稳定器、mmh3 补丁、Tiny Planet 等新工&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.com/models/2934763/film-noir-with-selective-colors"&gt;civitai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wgc4lj/a_quick_minimax_h3_news_roundup_15th_september/"&gt;Reddit / r/comfyui&lt;/a&gt; · &lt;a href="https://github.com/MiniMax-AI/MiniMax-H3/tree/main/skills"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wh4tu3/a_quick_minimax_h3_news_roundup_15th_september/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic CEO警告：AI僵尸网络集群6-12个月内或可接管整个互联网</title>
@@ -776,38 +808,6 @@
       <pubDate>Mon, 14 Sep 2026 15:08:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Theseus Labs发布RSI五级框架，梳理72家公司实践，定义递归自我改进路线图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-14-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>当AI幻觉开始操作电脑：深大、港科大提出ECA，让Agent行动前先验证证据</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-14-7</link>
-      <guid isPermaLink="false">urn:zhiyike:news:88360628d37f08a144bd05d3</guid>
-      <pubDate>Mon, 14 Sep 2026 15:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;深圳大学与港科大提出ECA框架，为AI Agent增加独立证据验证，拦截不安全动作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-14-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>豆包手机助手发布消费者版本 首款新机将于9月16日正式开售</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-14-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8036287ea4e6c35cdcc7b9fa</guid>
-      <pubDate>Mon, 14 Sep 2026 14:32:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;豆包手机助手消费者版正式发布，首款搭载新机将于9月16日开售。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-14-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2026崇礼论坛：一场未来智能生活与下一代AI创造者的盛会</title>
-      <link>https://www.qbitai.com/2026/09/488875.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:af74fd57be8be7cf8433da37</guid>
-      <pubDate>Mon, 14 Sep 2026 14:20:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;2026崇礼论坛在太舞小镇举办，探讨AI如何改变生活，发布白皮书和榜单。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/488875.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 推出 Agents API：把 Codex 拆成云端服务，"造 Agent" 变成一次 API 调用</title>
-      <link>https://news.aibase.com/zh/news/31025</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5f9413d8d0e37860996d492e</guid>
-      <pubDate>Mon, 14 Sep 2026 14:05:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 发布 Agents API，将 Codex 能力云端化，开发者可一键调用托管式智能体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31025"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
