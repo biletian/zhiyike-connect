@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 17 Sep 2026 02:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 05:31:00 +0800</lastBuildDate>
+    <item>
+      <title>Mozilla报告：中国开源AI模型与美前沿差距缩至约4个月，成本大幅更低</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use</link>
+      <guid isPermaLink="false">urn:zhiyike:news:27c9373443e06ef1a33444cc</guid>
+      <pubDate>Thu, 17 Sep 2026 01:02:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Mozilla报告称中国开源模型与美前沿差距约4个月，成本低至30%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic将Claude Cowork与聊天合并为统一Claude，Docs、Slides和Design集成对话</title>
       <link>https://x.com/bcherny/status/2100260544087535639</link>
@@ -16,6 +24,14 @@
       <pubDate>Thu, 17 Sep 2026 00:28:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Cowork 并入聊天，Docs/Slides/Design 对话内可用，Pro/Max 推出&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/bcherny/status/2100260544087535639"&gt;原文&lt;/a&gt; · &lt;a href="https://claude.com/blog/cowork-is-now-claude"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 现在能生成像素动画帧，配合 Pixel Rabbit 快速制作动画</title>
+      <link>http://portalrabbit.com</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cc3e7f5700e59b1aff1cac9b</guid>
+      <pubDate>Thu, 17 Sep 2026 00:25:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户用 ChatGPT 生成动画帧，再经 Pixel Rabbit 转为像素动画，耗时从数小时缩至几分钟。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://portalrabbit.com"&gt;portalrabbit.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wi21ht/chatgpt_can_now_make_the_frames_for_pixel_art/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI与AARP合作举办老年人AI技能工作坊</title>
@@ -64,6 +80,14 @@
       <pubDate>Wed, 16 Sep 2026 21:08:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;紫东太初发布9B多模态模型，空间理解8项第一，通用能力不降级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/490839.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 发布 ChatGPT 管理后台分析功能：连接 AI 使用与业务价值</title>
+      <link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
+      <guid isPermaLink="false">urn:zhiyike:news:eb91bb6d21ce1ee4d5d7472a</guid>
+      <pubDate>Wed, 16 Sep 2026 20:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 为管理员推出分析工具，追踪 AI 使用、任务与成果，评估业务价值。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/how-to-connect-ai-usage-to-business-value"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Astra + Blender + Minimax：AI辅助生物建模与动画的混合流程实测</title>
@@ -376,6 +400,14 @@
       <pubDate>Wed, 16 Sep 2026 08:37:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;用户称Claude订阅和团队版周用量限制远低于承诺的17%削减，工作流受阻。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1whi2hu/the_new_usage_limits_make_subscription_and_team/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Grok Build 推出记忆功能，可跨会话保留项目约定与决策</title>
+      <link>https://x.ai/news/grok-build-memory</link>
+      <guid isPermaLink="false">urn:zhiyike:news:988fd9220da9dc59e33e6c92</guid>
+      <pubDate>Wed, 16 Sep 2026 08:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Grok Build 新增记忆功能，自动记录项目约定与决策，跨会话保留。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.ai/news/grok-build-memory"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>FastVideo 开源 FastH3 V2：8 步视频生成模型及 ComfyUI 工作流</title>
@@ -776,38 +808,6 @@
       <pubDate>Tue, 15 Sep 2026 11:47:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Reddit用户质疑大量称赞Astra的帖子真实性，同时表达对Claude Opus 5的满意。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wgpb87/do_you_think_all_these_claude_sucks_astra_is/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>从Chat、Code到Discovery，AI开始学着做科学家</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-15-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:aed09a0f90de93aa738b363d</guid>
-      <pubDate>Tue, 15 Sep 2026 11:39:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;PhAI Labs 提出 Discovery Foundation Models，让 AI 参与科学发现全流程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-15-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>字节跳动CEO梁汝波:豆包、飞书、火山整合发力 加码企业AI市场</title>
-      <link>https://news.aibase.com/zh/news/31054</link>
-      <guid isPermaLink="false">urn:zhiyike:news:188aee1c153f63137431d061</guid>
-      <pubDate>Tue, 15 Sep 2026 11:37:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;字节整合豆包、飞书、火山引擎，聚焦企业AI规模化落地。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31054"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ECCV 2026｜不靠「上帝视角」，也不等「完美指令」：REAL 让具身智能体走向开放世界</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-15-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:59426b739d9c56c89c53909f</guid>
-      <pubDate>Tue, 15 Sep 2026 11:32:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;上海交大等机构提出REAL框架，让机器人主动探索、询问用户，完成模糊指令任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-15-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>YuE2 成 Suno 首个本地模型对手，翻唱表现尤为突出</title>
-      <link>https://www.openmusicarchive.org/browse_tag.php?tag=female%20vocal</link>
-      <guid isPermaLink="false">urn:zhiyike:news:662ce5164a2b3482647feb69</guid>
-      <pubDate>Tue, 15 Sep 2026 11:21:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Reddit 用户测试 YuE2 本地模型，翻唱效果接近 Suno，无过滤限制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.openmusicarchive.org/browse_tag.php?tag=female%20vocal"&gt;openmusicarchive.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wgorug/yue2_is_the_first_real_suno_local_model/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
