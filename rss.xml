@@ -8,7 +8,47 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 16 Sep 2026 22:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 02:17:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic将Claude Cowork与聊天合并为统一Claude，Docs、Slides和Design集成对话</title>
+      <link>https://x.com/bcherny/status/2100260544087535639</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c759f30547a9b4fb6faec0cc</guid>
+      <pubDate>Thu, 17 Sep 2026 00:28:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Cowork 并入聊天，Docs/Slides/Design 对话内可用，Pro/Max 推出&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/bcherny/status/2100260544087535639"&gt;原文&lt;/a&gt; · &lt;a href="https://claude.com/blog/cowork-is-now-claude"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI与AARP合作举办老年人AI技能工作坊</title>
+      <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
+      <guid isPermaLink="false">urn:zhiyike:news:692bab796fe22de99dfe42bd</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI Academy联合AARP旗下OATS，为老年人提供免费AI技能培训。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户分享：用 Gemma 4 与 Krea 2 搭建参考图生成角色设计工作流</title>
+      <link>https://files.catbox.moe/4p1ewd.png</link>
+      <guid isPermaLink="false">urn:zhiyike:news:28f3d482dab4848aff04529e</guid>
+      <pubDate>Wed, 16 Sep 2026 23:44:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户分享基于参考图自动生成角色设计的 AI 工作流，含模型与 LoRA 链接。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://files.catbox.moe/4p1ewd.png"&gt;files.catbox.moe&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wi0vmw/reference_image_character_design/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 4.6 是巅峰，之后一路下滑</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1whzlzz/claude_46_was_peak_and_its_downhill_since_then/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:23cfcb2a040be05768730af6</guid>
+      <pubDate>Wed, 16 Sep 2026 22:58:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户吐槽Claude 4.6后模型变差，GPT 6表现更好&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1whzlzz/claude_46_was_peak_and_its_downhill_since_then/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>苹果或携M8芯片与英伟达技术重返服务器市场，AI服务器预计2029年推出</title>
+      <link>https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d5f6652864cf419131ea4c18</guid>
+      <pubDate>Wed, 16 Sep 2026 22:07:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;苹果考虑推出基于M8芯片的AI服务器，并讨论集成英伟达网络硬件，目标2029年发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.macrumors.com/2026/09/16/apple-may-return-to-server-market/"&gt;macrumors.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>微软 AI CEO 警告"模型福利"论调</title>
       <link>https://x.com/mustafasuleyman/status/2100223594534150428</link>
@@ -50,6 +90,14 @@
       <description>&lt;p&gt;AI产业生态大会聚焦AI从演示走向业务，探讨智能生长与产业共生。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/490760.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>GPT-5.6 Sol 被一句“你确定吗”反复说服，推理可靠性遭质疑</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1whroww/gpt56_sol_is_absurdly_easy_to_convince_of_the/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:eac30c8d4a8ded9b3e8f8808</guid>
+      <pubDate>Wed, 16 Sep 2026 16:50:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户发现仅用“Are you sure?”就能让 GPT-5.6 Sol 在结论间反复横跳，且每次都有合理理由。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1whroww/gpt56_sol_is_absurdly_easy_to_convince_of_the/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI会做题，却未必能自进化：字节Seed等提出三项新基准</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-09-16-12</link>
       <guid isPermaLink="false">urn:zhiyike:news:41b671dc38de3e3436ec2f34</guid>
@@ -88,6 +136,14 @@
       <pubDate>Wed, 16 Sep 2026 16:08:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Firefox 的 AI 助手 Smart Window 将采用 Mistral 模型，支持法语和北美英语，注重隐私。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mistral.ai/news/mistral-x-mozilla/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用 MiniMax H3 制作 Y2K 风格 MV《Espresso》：创作者分享体验</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1whqtpd/made_an_espresso_mv_with_minimax_h3/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f93e16a0318ab9398ac247bb</guid>
+      <pubDate>Wed, 16 Sep 2026 15:59:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;创作者用 MiniMax H3 生成 Y2K 风格 MV，效果超预期。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1whqtpd/made_an_espresso_mv_with_minimax_h3/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>协同办公进入Agent时代，飞书+豆包工作跑在了最前面</title>
@@ -178,12 +234,12 @@
       <description>&lt;p&gt;StartLux 27B模型在MCP测试超284B模型，CTO详解本地RSI路径。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-16-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI员工roon：一两个月内人人都将拥有Astra级能力</title>
+      <title>OpenAI员工roon：一两个月内人人将拥有Astra级能力，帖子浏览量达72.6K</title>
       <link>https://fixupx.com/tszzl/status/2100058998427074821</link>
       <guid isPermaLink="false">urn:zhiyike:news:c5caf0e2e762dc495488f221</guid>
       <pubDate>Wed, 16 Sep 2026 12:33:00 +0800</pubDate>
       <category>观点</category>
-      <description>&lt;p&gt;OpenAI员工称实验室应尽快公开解决方案，否则一两个月内能力将被普及。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://fixupx.com/tszzl/status/2100058998427074821"&gt;fixupx.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1whn3lq/openai_employee_roon_says_everyone_will_have_post/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;原帖浏览量更新为72.6K，新增互动数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://fixupx.com/tszzl/status/2100058998427074821"&gt;fixupx.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1whn3lq/openai_employee_roon_says_everyone_will_have_post/"&gt;Reddit / r/OpenAI&lt;/a&gt; · &lt;a href="https://x.com/tszzl/status/2100058998427074821"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1whmy0l/openai_employee_roon_says_everyone_will_have_post/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>量子位2026人工智能年度榜单，正式启动！</title>
@@ -344,6 +400,14 @@
       <pubDate>Wed, 16 Sep 2026 05:20:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Arena 发布新榜单，GPT-6 Astra 登顶，Claude Fable 5.1 紧随其后。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/arena/status/2099971741993050236"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 语音模式音色突变：Buttery 设置下变成刺耳高音，用户求恢复方法</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1whcqa0/claude_buttery_voice_downgrade/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9cfc25f6a3cfd91900d0f5ca</guid>
+      <pubDate>Wed, 16 Sep 2026 04:59:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户反映 Claude 语音在 Buttery 设置下音色突变，变得刺耳难听，寻求恢复旧音色方法。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1whcqa0/claude_buttery_voice_downgrade/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>TypeSafe AI 发布 System One 模型 Jev：并行采样、输出免费，快 193.6 倍</title>
@@ -744,70 +808,6 @@
       <pubDate>Tue, 15 Sep 2026 11:21:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Reddit 用户测试 YuE2 本地模型，翻唱效果接近 Suno，无过滤限制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.openmusicarchive.org/browse_tag.php?tag=female%20vocal"&gt;openmusicarchive.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wgorug/yue2_is_the_first_real_suno_local_model/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Artificial Analysis 评测：GPT-Live-1 以 81.5 分登顶 Speech to Speech Index</title>
-      <link>https://x.com/ArtificialAnlys/status/2099698254414029207</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3c74304ce9bb2d48a13e7874</guid>
-      <pubDate>Tue, 15 Sep 2026 11:14:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 新模型 GPT-Live-1 在语音交互基准测试中排名第一，得分 81.5。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ArtificialAnlys/status/2099698254414029207"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Mods开始上线，社区用插件「魔改」Claude Code</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-15-2</link>
-      <guid isPermaLink="false">urn:zhiyike:news:30cbcf8383e927ab89d11770</guid>
-      <pubDate>Tue, 15 Sep 2026 10:30:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Claude Code 推出 Mods 插件机制，社区已做出内置俄罗斯方块等扩展。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-15-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>宇树开源通用人形基础模型UnifoLM-WLA-1.0</title>
-      <link>https://mp.weixin.qq.com/s/TkbZMqKTIS5FVqBdzO2a7A</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f74872230179bd21aadced01</guid>
-      <pubDate>Tue, 15 Sep 2026 10:20:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;宇树开源6B具身多模态大模型，统一视觉语言动作，覆盖64项操作任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/TkbZMqKTIS5FVqBdzO2a7A"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/unifolm-wla-1-0/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>7名博士生仅用3个月从零训练7B大模型：代码+数据+训练日志全公开</title>
-      <link>https://www.qbitai.com/2026/09/489227.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d97035ea2d5e848fdcdb8147</guid>
-      <pubDate>Tue, 15 Sep 2026 10:17:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;中关村学院7名博士生用3个月从零训练7B模型，并开源全部代码、数据与日志。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/489227.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>白宫科技顾问抨击 Anthropic 与 OpenAI：自己做安全产品，别老指望政府</title>
-      <link>https://news.aibase.com/zh/news/31051</link>
-      <guid isPermaLink="false">urn:zhiyike:news:01d79d09ad1a2d70a552b865</guid>
-      <pubDate>Tue, 15 Sep 2026 10:15:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;白宫科技顾问萨克斯称AI公司应自担安全责任，反对政府干预。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31051"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra 模拟经营售货机一年狂赚 1.5 万美元，成绩碾压 Claude 近 3 倍</title>
-      <link>https://news.aibase.com/zh/news/31049</link>
-      <guid isPermaLink="false">urn:zhiyike:news:43771d4b7c242f7f4eeeb435</guid>
-      <pubDate>Tue, 15 Sep 2026 09:54:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;AI 经营模拟售货机，GPT-6 Astra 年赚 1.5 万美元，碾压 Claude。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31049"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT 桌面端语音功能降价约 60%，可用量提升至 2.4 倍</title>
-      <link>https://x.com/athyuttamre/status/2099633549007568977</link>
-      <guid isPermaLink="false">urn:zhiyike:news:26ef7b7c4f942ae8d6547cca</guid>
-      <pubDate>Tue, 15 Sep 2026 09:41:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 工程师宣布桌面端语音价格下调，可用时长大幅增加。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/athyuttamre/status/2099633549007568977"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT 礼品卡正式在美国上线</title>
-      <link>https://x.com/jxnlco/status/2099647510956372189</link>
-      <guid isPermaLink="false">urn:zhiyike:news:665f8ec4f69e9cfa47c0036e</guid>
-      <pubDate>Tue, 15 Sep 2026 09:41:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI在美国推出ChatGPT礼品卡，用户可购买并赠送给亲友。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/jxnlco/status/2099647510956372189"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
