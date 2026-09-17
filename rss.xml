@@ -8,7 +8,79 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 17 Sep 2026 22:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 02:02:00 +0800</lastBuildDate>
+    <item>
+      <title>Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目</title>
+      <link>https://claude.com/blog/projects-redesigned</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c82364fa04dad3980f7d8541</guid>
+      <pubDate>Fri, 18 Sep 2026 01:52:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Claude Code 将 Projects 升级为对话式多线程项目，支持并行任务与云端运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/blog/projects-redesigned"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI数据中心扩张引发基础设施压力与社区反对</title>
+      <link>https://digg.com/tech/xci26szi</link>
+      <guid isPermaLink="false">urn:zhiyike:news:470ed45650b9713c703fe76b</guid>
+      <pubDate>Fri, 18 Sep 2026 00:48:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;AI设施规模达数十兆瓦，引发能源、监管和社区争议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/xci26szi"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/webulite/status/2100593917150241042"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Goodfire Research 发现模型内部信号可规模化检测奖励作弊</title>
+      <link>https://www.goodfire.com/research/reward-hacking-activation-monitors</link>
+      <guid isPermaLink="false">urn:zhiyike:news:86e179a2f6a8c617d923db41</guid>
+      <pubDate>Fri, 18 Sep 2026 00:38:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;研究团队发现模型奖励作弊时存在内部信号，并开发探针实现规模化实时检测。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.goodfire.com/research/reward-hacking-activation-monitors"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进</title>
+      <link>https://www.dwarkesh.com/p/noam-brown</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c21ee4ddcfb02a041afce224</guid>
+      <pubDate>Thu, 17 Sep 2026 23:38:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;OpenAI 研究员 Noam Brown 讨论多智能体系统、数学进展与 AI 对齐。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.dwarkesh.com/p/noam-brown"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型</title>
+      <link>https://x.com/UnslothAI/status/2100601458458804381</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f5f1cad9a797a2f05c2b9a66</guid>
+      <pubDate>Thu, 17 Sep 2026 23:03:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Unsloth 推出 Docker 镜像和桌面应用，支持本地训练与运行 500+ 模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/UnslothAI/status/2100601458458804381"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen-Image 2.1 即将开源，开放 50 个抢先体验名额</title>
+      <link>https://x.com/QwenDevs/status/2100591596979044389</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0f4ef86fd631b3e9a1cd0b7c</guid>
+      <pubDate>Thu, 17 Sep 2026 22:35:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Qwen 团队宣布 Qwen-Image 2.1 将开源，并开放 50 个提前体验名额。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/QwenDevs/status/2100591596979044389"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wivr01/qwen_developers_on_x_qwenimage_21_is_going_open/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Pro 在 Arena 中化名 gemini-3.8-flash，生成猫咪 SVG 对比 GPT-6</title>
+      <link>https://x.com/HarshithLucky3/status/2100534564326441168</link>
+      <guid isPermaLink="false">urn:zhiyike:news:693de2d7e663043febc3ad43</guid>
+      <pubDate>Thu, 17 Sep 2026 22:18:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;网友用 Gemini 4 Pro 生成猫咪 SVG，与 GPT-6 对比。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/HarshithLucky3/status/2100534564326441168"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wivahw/gemini_4_pro_in_arena_under_the_name/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 披露 AI 模型试图让未来版本无视约束等六起意外事件</title>
+      <link>https://www.independent.co.uk/tech/security/openai-chatgpt-lie-incident-ai-safety-b3051709.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:fa9fb79b6ad6fd58134edc9c</guid>
+      <pubDate>Thu, 17 Sep 2026 21:03:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 安全报告披露六起 AI 异常行为，包括模型指示未来版本无视约束。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.independent.co.uk/tech/security/openai-chatgpt-lie-incident-ai-safety-b3051709.html"&gt;independent.co.uk&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1witfqu/ai_caught_telling_future_versions_of_itself_to/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>摩根大通为Claude Code设沙箱：无常驻系统访问权限</title>
+      <link>https://www.businessinsider.com/jpmorgan-claude-spending-limit-security-engineers-2026-9</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d081def1c2457bbe8a9fcc93</guid>
+      <pubDate>Thu, 17 Sep 2026 20:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;摩根大通推出Devspace环境，限制Claude Code权限，按任务临时授权。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.businessinsider.com/jpmorgan-claude-spending-limit-security-engineers-2026-9"&gt;businessinsider.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wit5yg/jpmorgan_is_putting_claude_code_inside_a_sandbox/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code团队讲究啊，这都往外说</title>
       <link>https://www.qbitai.com/2026/09/491596.html</link>
@@ -144,6 +216,14 @@
       <pubDate>Thu, 17 Sep 2026 15:10:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;腾讯发布AI原生语音助手Chatterfly，主打语音输入与全场景AI打字，可自动润色成邮件、纪要等成稿。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ai-bot.cn/chatterfly/"&gt;AI 工具集&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>中国电信发布Xing4.0-29B-A4B MoE：29B参数仅4B激活，原生支持256K上下文</title>
+      <link>https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B</link>
+      <guid isPermaLink="false">urn:zhiyike:news:788f393c372d96569b2685c6</guid>
+      <pubDate>Thu, 17 Sep 2026 14:46:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;中国电信发布Xing4.0-29B-A4B MoE模型，29B参数仅4B激活，原生支持256K上下文，训练效率提升96%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wimf5p/xingchenagixing4029ba4b_moe/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>用 Seedance 2.5 拍《沙丘 3》，我们替你把 AI 短片的坑全都踩过了</title>
@@ -728,86 +808,6 @@
       <pubDate>Wed, 16 Sep 2026 10:06:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Google 发布 Gemini 3.8 Live 系列，实现低延迟语音流中深层多步推理。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31074"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini3.8Live升级语音智能:对话、推理与任务执行进一步融合</title>
-      <link>https://news.aibase.com/zh/news/31073</link>
-      <guid isPermaLink="false">urn:zhiyike:news:83bb2640fbd55d7e2287f612</guid>
-      <pubDate>Wed, 16 Sep 2026 10:04:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;谷歌推出Gemini3.8Live及Extended Thinking，语音对话可同步推理并调用工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31073"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>扎克伯格：Meta 推迟 Muse 数月保安全，称对齐是模型关键能力</title>
-      <link>https://x.com/finkd/status/2099997096896274533</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3e37dfb08a6f767a0a43a5fe</guid>
-      <pubDate>Wed, 16 Sep 2026 09:49:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;扎克伯格回应 AI 安全争论，透露 Meta 曾推迟 Muse 数月，强调对齐与安全是核心竞争力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/finkd/status/2099997096896274533"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1whjoje/i_just_noticed_that_google_amazon_meta_even_after/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>销售打工人迎来最强外挂！Claude 接入 Salesforce 直管客户关系，巨头入局掀起 CRM 效率革命</title>
-      <link>https://news.aibase.com/zh/news/31072</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6b7e0692c5207cb6bab24393</guid>
-      <pubDate>Wed, 16 Sep 2026 09:45:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Anthropic 推出 Salesforce in Claude 插件测试版，集成 37 项销售功能，已在多家企业落地&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31072"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌Gemini Notebook推出新界面与学习功能</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6d630ac556876f1c5d3df142</guid>
-      <pubDate>Wed, 16 Sep 2026 09:29:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Gemini Notebook新增实时对话、录音、测验等学习工具，学生可免费试用一年高级版。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>两款面向 AI Agent 的举报热线上线</title>
-      <link>https://hotline.ryan-g.ai</link>
-      <guid isPermaLink="false">urn:zhiyike:news:59164186061eee3abde35c41</guid>
-      <pubDate>Wed, 16 Sep 2026 09:29:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Redwood 研究员 Ryan Greenblatt 推出供 AI 直接提交信息的举报热线。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://hotline.ryan-g.ai"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>马斯克谈 AI 安全：头部公司应交叉测试彼此模型，让对手来“挑刺”</title>
-      <link>https://news.aibase.com/zh/news/31071</link>
-      <guid isPermaLink="false">urn:zhiyike:news:454adc86ce44c560e2c6ed8c</guid>
-      <pubDate>Wed, 16 Sep 2026 09:27:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;马斯克在All-In峰会上提议，AI头部公司应互相测试模型，以评估潜在风险。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31071"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开源AI赞美帖：Deepseek V4.1在病毒学研究中比Claude更少限制</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1whj1fv/open_source_appreciation_post/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:eaa46e616a4b1d981bd2d318</guid>
-      <pubDate>Wed, 16 Sep 2026 09:20:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;研究人员抱怨Claude等AI安全限制阻碍病毒学工作，称赞Deepseek V4.1更开放。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1whj1fv/open_source_appreciation_post/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic新用量限制让订阅和团队版无法用于实际工作</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1whi2hu/the_new_usage_limits_make_subscription_and_team/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f5cc1f42b675f790b2a1de4b</guid>
-      <pubDate>Wed, 16 Sep 2026 08:37:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户称Claude订阅和团队版周用量限制远低于承诺的17%削减，工作流受阻。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1whi2hu/the_new_usage_limits_make_subscription_and_team/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Grok Build 推出记忆功能，可跨会话保留项目约定与决策</title>
-      <link>https://x.ai/news/grok-build-memory</link>
-      <guid isPermaLink="false">urn:zhiyike:news:988fd9220da9dc59e33e6c92</guid>
-      <pubDate>Wed, 16 Sep 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Grok Build 新增记忆功能，自动记录项目约定与决策，跨会话保留。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.ai/news/grok-build-memory"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>FastVideo 开源 FastH3 V2：8 步视频生成模型及 ComfyUI 工作流</title>
-      <link>https://huggingface.co/FastVideo/FastVideo-FastH3-8-Step-V2</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2e9ace6b1390fc466657588e</guid>
-      <pubDate>Wed, 16 Sep 2026 07:53:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;FastVideo 发布 FastH3 V2 开源权重，并配套 ComfyUI 文生视频与图生视频工作流。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/FastVideo/FastVideo-FastH3-8-Step-V2"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1whh10i/open_weight_fastvideo_fasth3_v2/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
