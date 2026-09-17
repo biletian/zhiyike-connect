@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 18 Sep 2026 05:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:31:00 +0800</lastBuildDate>
+    <item>
+      <title>Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务</title>
+      <link>https://x.com/AIatMeta/status/2100714755568644409</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bd4c8fa9c07c04f37e88f88f</guid>
+      <pubDate>Fri, 18 Sep 2026 06:33:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Meta 推出 Muse for Mac，个人智能体获授权后可在电脑上直接操作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AIatMeta/status/2100714755568644409"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop</title>
+      <link>https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f01a57898743456a091040cf</guid>
+      <pubDate>Fri, 18 Sep 2026 06:01:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;法庭文件显示，微软和OpenAI高管承认LLM基于大规模窃取内容训练，并引发破坏网络的“末日循环”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bend：用证明阻止 AI 犯错、可在 GPU 上运行的新语言</title>
+      <link>https://bend-lang.com/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:42722d82a6bd20edab532acd</guid>
+      <pubDate>Fri, 18 Sep 2026 04:36:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Bend 语言发布，通过 Lean 证明和并行编译，让 AI 生成的代码可验证且高速运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://bend-lang.com/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为</title>
       <link>https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior</link>
@@ -40,6 +64,14 @@
       <pubDate>Fri, 18 Sep 2026 01:52:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Claude Code 将 Projects 升级为对话式多线程项目，支持并行任务与云端运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/blog/projects-redesigned"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>无限参数大模型：从实时数据生成并适配权重</title>
+      <link>https://arxiv.org/abs/2609.18842</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6affc262e76c6a4abef013fc</guid>
+      <pubDate>Fri, 18 Sep 2026 00:55:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;新论文提出用超网络从实时交互生成权重，让模型在线学习。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2609.18842"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI数据中心扩张引发基础设施压力与社区反对</title>
@@ -776,38 +808,6 @@
       <pubDate>Wed, 16 Sep 2026 13:13:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;传闻称AI公司已解决多个理论计算机科学长期难题，因Navier-Stokes风波暂缓公布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AndrewCurran_/status/2100005852564611151"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1whnuep/scott_aaronson_writes_on_his_blog_tonight_that_he/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>本地该怎么做RSI？我们与StartLux CTO聊了聊</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-16-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ba1af505fb8460a6cc8c93f4</guid>
-      <pubDate>Wed, 16 Sep 2026 13:07:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;StartLux 27B模型在MCP测试超284B模型，CTO详解本地RSI路径。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-16-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI员工roon：一两个月内人人将拥有Astra级能力，帖子浏览量达72.6K</title>
-      <link>https://fixupx.com/tszzl/status/2100058998427074821</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c5caf0e2e762dc495488f221</guid>
-      <pubDate>Wed, 16 Sep 2026 12:33:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;原帖浏览量更新为72.6K，新增互动数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://fixupx.com/tszzl/status/2100058998427074821"&gt;fixupx.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1whn3lq/openai_employee_roon_says_everyone_will_have_post/"&gt;Reddit / r/OpenAI&lt;/a&gt; · &lt;a href="https://x.com/tszzl/status/2100058998427074821"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1whmy0l/openai_employee_roon_says_everyone_will_have_post/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>量子位2026人工智能年度榜单，正式启动！</title>
-      <link>https://www.qbitai.com/2026/09/490329.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:75aae03fd71584e057cce37a</guid>
-      <pubDate>Wed, 16 Sep 2026 12:16:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;量子位启动2026年度AI榜单评选，设五类奖项，报名截止11月16日。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/490329.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>对话蚂蚁灵波 CEO 朱兴：机器人还吃不了「粗粮」</title>
-      <link>https://www.ifanr.com/1680322?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:29d59017884d6e2fe3890563</guid>
-      <pubDate>Wed, 16 Sep 2026 12:04:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;蚂蚁灵波CEO朱兴谈具身智能落地瓶颈：能力与成本双重挑战，数据质量是关键。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1680322?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
