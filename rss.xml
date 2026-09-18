@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 19 Sep 2026 02:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 05:15:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元</title>
+      <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7e6be822f9fc58c71c087f8d</guid>
+      <pubDate>Sat, 19 Sep 2026 04:21:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 与埃森哲合作，将独立评估员嵌入公司内部，双方各投至少 10 亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/news/accenture-embedded-evaluation"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争</title>
+      <link>https://garymarcus.substack.com/p/the-real-reason-trump-is-standing</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ffa2f5b91fffe12ae6d8d648</guid>
+      <pubDate>Sat, 19 Sep 2026 03:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;AI辅助情报报告出现幻觉，美军拦截中国船只险致冲突。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/the-real-reason-trump-is-standing"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Astra 将《传送门》原版移植到 iPhone 13 Pro，中画质 60 帧运行</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wjy7hy/astra_ported_the_original_portal_game_to_my/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:69fdbaba8bb319b8f49bbb62</guid>
+      <pubDate>Sat, 19 Sep 2026 02:27:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户用 Astra 将《传送门》原生移植到 iPhone 13 Pro，中画质 60 帧可玩。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wjy7hy/astra_ported_the_original_portal_game_to_my/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code 原生支持 AGENTS.md：无 CLAUDE.md 时自动读取，可在 /config 切换</title>
+      <link>https://x.com/trq212/status/2101009392611278961?s=20</link>
+      <guid isPermaLink="false">urn:zhiyike:news:33be14ef137b934e67603014</guid>
+      <pubDate>Sat, 19 Sep 2026 02:15:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Claude Code 2.1.277 起支持 AGENTS.md，无 CLAUDE.md 时自动使用，可配置。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/trq212/status/2101009392611278961?s=20"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wjxvwz/claude_code_is_getting_native_agentsmd_support/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ethan Mollick 谈能力悬差：GPT-6 Astra 与 Fable 5.1 的现有能力远未被用尽</title>
       <link>https://www.oneusefulthing.org/p/the-overhang</link>
@@ -48,6 +80,14 @@
       <pubDate>Fri, 18 Sep 2026 23:50:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;达卯算电协同2.0平台入选国际数字能源展重大成果，系唯一聚焦算电协同全链路运营的AI产品。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492421.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit用户因本地代理问题触发自动标记，账号遭永久停用</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wjrx8a/account_deactivated_after_an_automated_flag_on_a/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:70a83613bd26a91f7aa6cdf7</guid>
+      <pubDate>Fri, 18 Sep 2026 22:34:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;CS学生因询问本地代理配置被AI误判为网络攻击，账号永久停用，申诉被自动拒绝。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wjrx8a/account_deactivated_after_an_automated_flag_on_a/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金</title>
@@ -768,46 +808,6 @@
       <pubDate>Thu, 17 Sep 2026 12:53:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Reddit 用户分享用 Minimax H3 生成 15 秒动画短片，含完整提示词。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wikct9/studio_level_animation_minimax_h3_prompts_included/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude 宣布重磅合并：化身“唯一入口”，正面硬刚微软</title>
-      <link>https://news.aibase.com/zh/news/31121</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2c03f8974a5ed33fe4c2e706</guid>
-      <pubDate>Thu, 17 Sep 2026 11:35:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Anthropic将Cowork与Chat合并为统一版Claude，集成办公能力，近期推送Pro/Max用户。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31121"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic做药，Isomorphic补大模型，Anew带着什么走到台前？</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-17-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:030cd98a76da32d72b9a03db</guid>
-      <pubDate>Thu, 17 Sep 2026 11:11:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anew Labs完成2.9亿美元融资，发布AnewDDE技术报告，展示AI制药全栈能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-17-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI Agent安全不能只靠Prompt了：上海AI Lab探索Agent安全进化新范式</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-17-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d071298c17ef11446c525651</guid>
-      <pubDate>Thu, 17 Sep 2026 11:07:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;上海AI Lab联合多所高校提出SHE与SafeEvolve，从执行轨迹演化安全机制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-17-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meshy: 角色驱动下SPMD范式的RL训练框架</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-17</link>
-      <guid isPermaLink="false">urn:zhiyike:news:559a69d80644ba6493aca9c5</guid>
-      <pubDate>Thu, 17 Sep 2026 10:40:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Meshy提出去中心化RL训练框架，以服务角色和队列数据面替代Single-Controller。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-17"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>一年前开源 Jev 架构：模型、数据集与论文齐备，如今被前沿实验室“重新提出”</title>
-      <link>https://arxiv.org/abs/2503.23303</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f8facb7cae89e37aee11d734</guid>
-      <pubDate>Thu, 17 Sep 2026 10:31:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;开发者称一年前已开源 Jev 架构，现被前沿实验室以相似方案“突破”提出，未附技术细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2503.23303"&gt;arxiv.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wihgum/i_literally_built_the_jev_architecture_one_year/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
