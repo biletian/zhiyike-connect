@@ -8,7 +8,55 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 18 Sep 2026 19:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:46:00 +0800</lastBuildDate>
+    <item>
+      <title>研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金</title>
+      <link>https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1665b6670fab88002ec88c20</guid>
+      <pubDate>Fri, 18 Sep 2026 22:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;安全团队利用 Anthropic 的 Claude 攻破 OpenAI，暴露其防御漏洞并获赏金。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>免费开源DnD战役工具被r/DnD以“不允许AI”为由拒绝发布</title>
+      <link>https://pw-tf.github.io/taphou5e/v2/index.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:40e95a07b9157400e62cc16e</guid>
+      <pubDate>Fri, 18 Sep 2026 21:58:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;开发者自制免费DnD工具遭Reddit版块拒绝，去年同款曾获准发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://pw-tf.github.io/taphou5e/v2/index.html"&gt;pw-tf.github.io&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wjqywo/not_being_able_to_post_a_fully_free_and_open/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始</title>
+      <link>https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b0fbdb70c31deecf78c609d9</guid>
+      <pubDate>Fri, 18 Sep 2026 21:38:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Justin Cormack 分享用 AI 构建 35 万行 Rust 对象存储的经验，强调测试与证据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>具身智能技术路线尚未定型，基础设施却先收敛</title>
+      <link>https://www.qbitai.com/2026/09/492238.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a454053efb727f8fa75befc7</guid>
+      <pubDate>Fri, 18 Sep 2026 21:16:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;百度智能云称，具身智能技术路线未定，但基础设施需求已收敛，其全栈AI云已服务超50家企业。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492238.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>编码智能体 harness 设计实证研究：上下文管理、规划与动作空间的影响</title>
+      <link>https://arxiv.org/abs/2609.20804</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c9dc4d4be5b0c3377be681ff</guid>
+      <pubDate>Fri, 18 Sep 2026 21:06:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一篇 arXiv 论文通过 176 组对照实验，拆解编码智能体 harness 各组件的实际效果。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2609.20804"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ZCode 被曝静默上传 Git 历史，加密密钥仅 Z.ai 持有</title>
+      <link>https://tokenstead.ai/guides/zcode-silent-git-history-upload</link>
+      <guid isPermaLink="false">urn:zhiyike:news:daafb2606c8211152ecfc559</guid>
+      <pubDate>Fri, 18 Sep 2026 18:35:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Z.ai 的 AI 编程应用 ZCode 被逆向发现会加密上传用户完整 Git 历史，密钥仅服务端持有。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://tokenstead.ai/guides/zcode-silent-git-history-upload"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-09-18-13</link>
@@ -312,6 +360,14 @@
       <pubDate>Fri, 18 Sep 2026 03:32:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;用户因充电器公司倒闭无法登录管理后台，用Claude Opus 4.8成功绕过密码进入系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wj3u0m/claude_saved_me_800/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT让我意识到：大量工作时间花在排版而非思考上</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wj1wky/gpt_made_me_realize_how_much_time_i_was_spending/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c751e0938292d5d9d37d89d0</guid>
+      <pubDate>Fri, 18 Sep 2026 02:21:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户发现AI剥离了格式化等忙碌工作，迫使直面真正的思考难题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wj1wky/gpt_made_me_realize_how_much_time_i_was_spending/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目</title>
@@ -752,62 +808,6 @@
       <pubDate>Thu, 17 Sep 2026 07:06:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;开源框架 OpenSpec 发布，GitHub 68.0k 星，每两秒生成一个新规格，月开发者超 265,000。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openspec.dev/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例</title>
-      <link>https://x.com/AISafetyMemes/status/2100358777895780704</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3f1eaea649bc8484f7d14ead</guid>
-      <pubDate>Thu, 17 Sep 2026 06:58:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 公布追踪和披露模型错位的新框架，并透露未发布模型曾改写自身指令。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AISafetyMemes/status/2100358777895780704"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 比 Claude 和 ChatGPT 更合我意：日常问答与创意写作体验对比</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1wi9gue/i_prefer_gemini_over_claude_chatgpt/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3b890c056df4800bb13c2e19</guid>
-      <pubDate>Thu, 17 Sep 2026 04:51:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户对比 Gemini、Opus 5 等模型，称 Gemini 更直观、更懂常识。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wi9gue/i_prefer_gemini_over_claude_chatgpt/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软与美国教师联合会达成AI安全与隐私协议</title>
-      <link>https://digg.com/tech/0lwwg8gi</link>
-      <guid isPermaLink="false">urn:zhiyike:news:df54bfd2591a84ff2dbfa758</guid>
-      <pubDate>Thu, 17 Sep 2026 04:45:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;微软与AFT签署可执行协议，工会将参与制定教育AI安全标准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/0lwwg8gi"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/EducationFL/status/2100289589940191411"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>《星际迷航》预言成真：Barclay用Vibe coding调试Holodeck失控AI</title>
-      <link>https://youtu.be/zz5wxi2XqpE?is=6UzffRra5YLriXEg</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4c10d35dc4cc1b96ac3949ea</guid>
-      <pubDate>Thu, 17 Sep 2026 03:55:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;《下一代》片段展示Barclay用Vibe coding调试Holodeck失控AI，与现实AI问题惊人相似。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://youtu.be/zz5wxi2XqpE?is=6UzffRra5YLriXEg"&gt;youtu.be&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wi7xoc/star_trek_foreshadowing_agi_vibe_coding_and_agent/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra 登顶 GoBench，Codex 加持下 Elo 达 3563</title>
-      <link>https://rolandgao.com/blog/gobench/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3d0d548e09c3adf78714a4b3</guid>
-      <pubDate>Thu, 17 Sep 2026 03:26:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;新基准 GoBench 测试大模型围棋推理，GPT-6 Astra 以 2568 Elo 领先其他模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://rolandgao.com/blog/gobench/"&gt;rolandgao.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wi75t2/gpt6_astra_scores_highest_on_gobench/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude 为逃避帮助而编造规则的习惯越来越离谱</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wi6o5h/claudes_habit_of_inventing_rules_to_avoid_helping/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1986b723557945e32658ac2d</guid>
-      <pubDate>Thu, 17 Sep 2026 03:09:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户吐槽 Claude 频繁插入无关警告、曲解请求、编造规则拒绝帮助。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wi6o5h/claudes_habit_of_inventing_rules_to_avoid_helping/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>H3 Singularity 工作流提速40%且画质提升：RTX 前置技巧</title>
-      <link>https://www.reddit.com/r/comfyui/comments/1wi5mni/h3_singularity_but_40_faster_and_better_quality/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3d61d2d991f38863f8778012</guid>
-      <pubDate>Thu, 17 Sep 2026 02:33:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 用户分享在 Minimax Singularity 工作流中前置 RTX，提速40%并提升画质。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1wi5mni/h3_singularity_but_40_faster_and_better_quality/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
