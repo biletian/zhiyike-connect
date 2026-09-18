@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 19 Sep 2026 05:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:16:00 +0800</lastBuildDate>
+    <item>
+      <title>Claude Code 2.1.277：无 CLAUDE.md 时自动读取 AGENTS.md，并修复多项问题</title>
+      <link>https://code.claude.com/docs/en/changelog</link>
+      <guid isPermaLink="false">urn:zhiyike:news:02797380019edbb2ab7c3978</guid>
+      <pubDate>Sat, 19 Sep 2026 05:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Claude Code 新增 AGENTS.md 回退支持，并修复多个崩溃与错误。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://code.claude.com/docs/en/changelog"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic 与 Accenture 合作开展嵌入式独立评估，双方各投入至少 10 亿美元</title>
       <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
@@ -24,6 +32,14 @@
       <pubDate>Sat, 19 Sep 2026 03:52:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;AI辅助情报报告出现幻觉，美军拦截中国船只险致冲突。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/the-real-reason-trump-is-standing"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用 Claude 开发 iPhone 应用 Thanks Bud，专治忘记人名</title>
+      <link>http://www.heythanksbud.com</link>
+      <guid isPermaLink="false">urn:zhiyike:news:dfce318970820d4257779cef</guid>
+      <pubDate>Sat, 19 Sep 2026 02:31:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者因常忘人名，用 Claude 和 Codex 构建了免费 iPhone 应用 Thanks Bud。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://www.heythanksbud.com"&gt;heythanksbud.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wjybnn/built_an_iphone_app_with_claude_because_i_kept/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Astra 将《传送门》原版移植到 iPhone 13 Pro，中画质 60 帧运行</title>
@@ -80,6 +96,14 @@
       <pubDate>Fri, 18 Sep 2026 23:50:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;达卯算电协同2.0平台入选国际数字能源展重大成果，系唯一聚焦算电协同全链路运营的AI产品。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492421.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Everything Is Melting：用自定义 MiniMax H3 工作流完成的首支音乐视频</title>
+      <link>https://www.reddit.com/r/comfyui/comments/1wjt8q4/everything_is_melting_my_first_music_video_made/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:53ee0a4dcf29a8a6b28870ad</guid>
+      <pubDate>Fri, 18 Sep 2026 23:25:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;作者结合两个工作流并借助 Codex 构建自定义流程，完成首支音乐视频。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1wjt8q4/everything_is_melting_my_first_music_video_made/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reddit用户因本地代理问题触发自动标记，账号遭永久停用</title>
@@ -784,30 +808,6 @@
       <pubDate>Thu, 17 Sep 2026 14:09:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;新加坡官方培训计划引入 MiniMax 三款产品，学员可免费订阅 6 个月。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31124"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>对话 vivo 高管：端侧大模型、Harness 与「个人化 AI」的下一步</title>
-      <link>https://www.ifanr.com/1680321?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5a1e36756673245d71871996</guid>
-      <pubDate>Thu, 17 Sep 2026 14:06:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;vivo 高管详解 30B 端侧模型、Harness 架构与个人化 AI 战略。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1680321?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 热议：哪些 Claude 工作流真正改变了你的工作方式？</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wikd24/whats_one_claude_workflow_that_genuinely_changed/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3545817de2fd5be918bacded</guid>
-      <pubDate>Thu, 17 Sep 2026 12:54:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户分享用 Claude 构建的非常规工作流，如决策思考、笔记整理等。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wikd24/whats_one_claude_workflow_that_genuinely_changed/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Minimax H3 动画生成：15秒电影级短片，含完整提示词</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1wikct9/studio_level_animation_minimax_h3_prompts_included/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:fbdf435e94ced4b20cbfac79</guid>
-      <pubDate>Thu, 17 Sep 2026 12:53:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Reddit 用户分享用 Minimax H3 生成 15 秒动画短片，含完整提示词。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wikct9/studio_level_animation_minimax_h3_prompts_included/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
