@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 18 Sep 2026 07:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:31:00 +0800</lastBuildDate>
+    <item>
+      <title>谷歌最强数学推理模型曝光：代号 Mathematica，100 万词元上下文专攻数学难题</title>
+      <link>https://news.aibase.com/zh/news/31143</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b9be05c4181feedf2ebe37a6</guid>
+      <pubDate>Fri, 18 Sep 2026 09:27:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;谷歌内部测试数学推理模型 Mathematica，支持 100 万词元上下文，专攻复杂计算。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31143"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepMind成立新研究院，四篇文章直面AGI关键问题</title>
+      <link>https://news.aibase.com/zh/news/31141</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b05a7aa37a0c7ef0d737b63a</guid>
+      <pubDate>Fri, 18 Sep 2026 09:01:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;DeepMind研究院成立，首批四篇文章聚焦AGI治理与安全。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31141"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>刚刚，Claude Code大重构！内部3万Agent管理技术免费开放</title>
+      <link>https://www.qbitai.com/2026/09/491711.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0ea48f3cd66492f2bdbb4c8c</guid>
+      <pubDate>Fri, 18 Sep 2026 08:34:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Claude Code重构项目功能，支持多Agent并行开发，内部3万Agent管理技术曝光。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/491711.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增</title>
+      <link>https://x.com/sherwinwu/status/2100730628673065040</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a2a7af21262c400d5e2f60bb</guid>
+      <pubDate>Fri, 18 Sep 2026 07:36:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 员工宣布 ChatGPT 正式登陆 Word，并透露 Excel 和 PowerPoint 端使用量近期激&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sherwinwu/status/2100730628673065040"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务</title>
       <link>https://x.com/AIatMeta/status/2100714755568644409</link>
@@ -138,6 +170,14 @@
       <description>&lt;p&gt;网友用 Gemini 4 Pro 生成猫咪 SVG，与 GPT-6 对比。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/HarshithLucky3/status/2100534564326441168"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wivahw/gemini_4_pro_in_arena_under_the_name/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Gemini 4 Pro 对比 Gemini 3.8 Flash：鹈鹕骑自行车 SVG 差异惊人</title>
+      <link>https://x.com/LuminaBench/status/2100575220947964003</link>
+      <guid isPermaLink="false">urn:zhiyike:news:12b64c1928ff575a1bc7c2c0</guid>
+      <pubDate>Thu, 17 Sep 2026 21:48:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Lumina 发布 Gemini 4 Pro 与 3.8 Flash 生成 SVG 对比，称差异巨大。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/LuminaBench/status/2100575220947964003"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wiuida/gemini_4_pro_vs_gemini_38_flash_pelican_riding_a/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>实测11款WAN 2.1抖动LoRA：Bouncing_Breasts综合最佳</title>
       <link>https://www.reddit.com/r/comfyui/comments/1witk8e/i_tested_11_jiggle_loras_on_wan_21_heres_the/</link>
       <guid isPermaLink="false">urn:zhiyike:news:659ce0eb88287c00b7187a89</guid>
@@ -160,6 +200,14 @@
       <pubDate>Thu, 17 Sep 2026 20:52:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;摩根大通推出Devspace环境，限制Claude Code权限，按任务临时授权。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.businessinsider.com/jpmorgan-claude-spending-limit-security-engineers-2026-9"&gt;businessinsider.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wit5yg/jpmorgan_is_putting_claude_code_inside_a_sandbox/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cooley 借助 ChatGPT Work 加速 IPO 工作：推出 GO Public 智能体系统</title>
+      <link>https://openai.com/index/cooley-gopublic</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bb83954be3cbea93c2def14b</guid>
+      <pubDate>Thu, 17 Sep 2026 20:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Cooley 基于 ChatGPT Work 开发 GO Public，加速 IPO 准备流程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/cooley-gopublic"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code团队讲究啊，这都往外说</title>
@@ -760,54 +808,6 @@
       <pubDate>Wed, 16 Sep 2026 15:19:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Anthropic 为中小企业版 Claude 新增 43 项工作流和 27 个平台集成，覆盖财务、营销等场景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31092"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>清华稳准智能联合发布LimiX-2，结构化数据基础模型登顶国际评测榜单</title>
-      <link>https://www.qbitai.com/2026/09/490400.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:86cb3d5c479155ff79f4ff51</guid>
-      <pubDate>Wed, 16 Sep 2026 14:32:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;LimiX-2在TabArena、BCCO、TALENT三项国际基准中均列第一，超越Google等大厂同类模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/490400.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>豆包 2.1 Pro模型更新，已接入豆包工作</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-16-8</link>
-      <guid isPermaLink="false">urn:zhiyike:news:661df82a5d05916cf060cdc5</guid>
-      <pubDate>Wed, 16 Sep 2026 14:25:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;豆包 2.1 Pro 更新至 0915 版本，API 全量上线并接入豆包工作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-16-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>B站AI无限竞技场今日上线！全球百大AI模型同场竞技，GPT-6高居榜首</title>
-      <link>https://www.qbitai.com/2026/09/490396.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d03b23ba8b39269f3486d86f</guid>
-      <pubDate>Wed, 16 Sep 2026 14:23:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;B站推出AI无限竞技场，汇集UP主实测上百款大模型，首期榜单GPT-6 Astra夺冠。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/490396.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”</title>
-      <link>https://news.aibase.com/zh/news/31085</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4ccbdb40afe19a70099c93eb</guid>
-      <pubDate>Wed, 16 Sep 2026 13:47:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;字节跳动升级豆包大模型至0915版，并发布飞书8.0，推出团队智能体，AI从个人助手走向团队协作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31085"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>全盲创业者用Claude开发无障碍产品，首单售出1700美元</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1who6dy/im_a_fully_blind_business_owner_i_just_sold_my/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8e3cd90047a3a1dbcf0569e3</guid>
-      <pubDate>Wed, 16 Sep 2026 13:31:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;全盲创业者借助Claude为另一位盲人老板构建无障碍接口，以1700美元售出。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1who6dy/im_a_fully_blind_business_owner_i_just_sold_my/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>传AI公司已解决多个理论计算机科学长期难题，因Navier-Stokes风波暂缓公布</title>
-      <link>https://x.com/AndrewCurran_/status/2100005852564611151</link>
-      <guid isPermaLink="false">urn:zhiyike:news:65b062210f2a3bc46ff234d5</guid>
-      <pubDate>Wed, 16 Sep 2026 13:13:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;传闻称AI公司已解决多个理论计算机科学长期难题，因Navier-Stokes风波暂缓公布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AndrewCurran_/status/2100005852564611151"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1whnuep/scott_aaronson_writes_on_his_blog_tonight_that_he/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
