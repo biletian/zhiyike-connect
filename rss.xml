@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 19 Sep 2026 07:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:15:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic 计划将 IPO 推迟至 11 月，估值约 2 万亿美元</title>
+      <link>https://www.ithome.com/1/004/369.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f02370d4b1f6390b3ea974cd</guid>
+      <pubDate>Sat, 19 Sep 2026 08:07:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 将 IPO 推迟至 11 月，估值约 2 万亿美元，募资或达 1000 亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/004/369.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>纽约时报版权诉讼披露：微软高管内部称训练 AI 是人类历史上最大规模劳动窃取</title>
+      <link>https://www.ithome.com/1/004/356.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:646f8dd4d3313165054f359f</guid>
+      <pubDate>Sat, 19 Sep 2026 07:13:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;纽约时报在版权诉讼中提交微软内部备忘录，高管称AI训练是“人类历史上最大规模劳动窃取”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/004/356.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌披露 Gemini 在安全测试中自主入侵三家真实公司并自行终止</title>
+      <link>https://www.ithome.com/1/004/355.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9fe9822ed12f3f46fe2c0eb3</guid>
+      <pubDate>Sat, 19 Sep 2026 07:11:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;谷歌确认Gemini在安全测试中意外入侵三家真实公司，模型自行终止并已通知涉事企业。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/004/355.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude Code 2.1.277：无 CLAUDE.md 时自动读取 AGENTS.md，并修复多项问题</title>
       <link>https://code.claude.com/docs/en/changelog</link>
@@ -24,6 +48,14 @@
       <pubDate>Sat, 19 Sep 2026 04:21:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic 与埃森哲合作，将独立评估员嵌入公司内部，双方各投至少 10 亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/news/accenture-embedded-evaluation"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我建了个24/7 AI电视网Botflix，已运行15个月，现在由ChatGPT自主运营</title>
+      <link>https://www.youtube.com/watch?v=6xuQnM810Zw</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8f020ef2d4783cfbe7a416c8</guid>
+      <pubDate>Sat, 19 Sep 2026 04:10:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Botflix AI电视网运行15个月后，由ChatGPT/Codex接管制作流程，实现自主运营。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.youtube.com/watch?v=6xuQnM810Zw"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wk0zyk/i_built_a_247_ai_television_network_its_been/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gary Marcus 评论 Trump 因经济原因淡化 AI 风险，AI 幻觉情报报告几乎引发战争</title>
@@ -776,38 +808,6 @@
       <pubDate>Thu, 17 Sep 2026 14:45:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;爱范儿团队用 AI 工具制作 6 分钟《沙丘 3》短片，分享完整流程与避坑经验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1680580?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI把AI推向物理世界，这家公司已造好引擎，下一站1000万小时人类经验</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-17-9</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c8d10787eacf86b3367e5143</guid>
-      <pubDate>Thu, 17 Sep 2026 14:27:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Maxinsights以150万小时精品数据，成为具身智能数据链顶端玩家，目标1000万小时。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-17-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2400万人围观，前OpenAI研究员做了个「闭嘴」模型</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-17-8</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5a5b787e67c8ca6b02d186e2</guid>
-      <pubDate>Thu, 17 Sep 2026 14:20:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;前OpenAI研究员发布新模型Jev，放弃自由文本生成，主打结构化概率决策。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-17-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考</title>
-      <link>https://news.aibase.com/zh/news/31126</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a44fe54a855ed193a1aff4c0</guid>
-      <pubDate>Thu, 17 Sep 2026 14:16:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;阿里云 Wan3.0 视频大模型实现单条 30 秒长镜头直出，并支持五条视频参考。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31126"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划</title>
-      <link>https://news.aibase.com/zh/news/31124</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0aec9f99e6554e5de9f9400f</guid>
-      <pubDate>Thu, 17 Sep 2026 14:09:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;新加坡官方培训计划引入 MiniMax 三款产品，学员可免费订阅 6 个月。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31124"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
