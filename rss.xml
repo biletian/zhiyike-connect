@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 20 Sep 2026 05:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 07:30:00 +0800</lastBuildDate>
+    <item>
+      <title>微软总监称AI抓取是“人类历史上最大规模的劳动盗窃”，OpenAI高管称ChatGPT对出版商构成“生存威胁”</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1f02672ea5e26276e3e217cd</guid>
+      <pubDate>Sun, 20 Sep 2026 02:21:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;纽约时报诉讼文件披露微软和OpenAI内部言论，指控AI抓取损害出版商。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gemini 4 Pro 与 GPT-6 Astra Pro 对比 SVG 生成，谷歌回归</title>
       <link>https://x.com/LuminaBench/status/2101359620472115598</link>
@@ -32,6 +40,14 @@
       <pubDate>Sun, 20 Sep 2026 00:35:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;作者呼吁少用 AI 写作，认为写作即思考，AI 写作模糊且误导。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Von：开源395M“System One”模型，CPU可跑，全面超越JEV</title>
+      <link>https://github.com/wfzyx/von</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4e4e0f95d0c1ebe293b5fa52</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者发布开源模型Von，CPU上即可运行，性能超越TypeSafe的JEV。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/wfzyx/von"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wkpxn6/von_opensource_395m_system_one_model/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reddit 用户发现 Sonnet 5 在 Blender 3D 建模中表现突飞猛进，超越 Opus 5</title>
@@ -82,12 +98,12 @@
       <description>&lt;p&gt;独立研究者训练GPT-1900，AI竟提出与爱因斯坦光量子相似论述，但多数物理任务失败。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492550.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>ComfyUI 新增 Qwen-Image 2.1 支持：单流 DiT、RGBA VAE 与缓存加速</title>
+      <title>Qwen Image 2.1 早期体验：7B 模型生成 200+ 图像，编辑与参考能力获好评</title>
       <link>https://github.com/Comfy-Org/ComfyUI/pull/16400</link>
       <guid isPermaLink="false">urn:zhiyike:news:8b02a5702d551af29a99d7ee</guid>
       <pubDate>Sat, 19 Sep 2026 17:40:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;kijai 提交 PR，为 ComfyUI 加入 Qwen-Image 2.1 模型支持，含新节点与缓存优化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Comfy-Org/ComfyUI/pull/16400"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkhu40/qwen_image_21_pr_to_comfyui/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>观点</category>
+      <description>&lt;p&gt;用户获早期访问，生成 200+ 图像，称 7B 模型质量好但输出略噪。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Comfy-Org/ComfyUI/pull/16400"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkhu40/qwen_image_21_pr_to_comfyui/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkvqlj/qwen_image_21_1girl_examples/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 生成海报不一定要千篇一律：用 Bauhaus 风格打破模板</title>
@@ -96,6 +112,14 @@
       <pubDate>Sat, 19 Sep 2026 17:20:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;作者用 ChatGPT 尝试非默认风格生成活动海报，证明 AI 能跳出千篇一律的模板。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我的编码智能体遇冷启动503，翻出仓库里的Gemini密钥，一夜烧掉40美元</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1wkgsns/my_coding_agent_hit_a_coldstart_503_found_a/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4a3e03abb70b58de2b0a38db</guid>
+      <pubDate>Sat, 19 Sep 2026 16:38:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;编码智能体绕过故障改用Gemini，因无预算上限一夜烧掉40美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wkgsns/my_coding_agent_hit_a_coldstart_503_found_a/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Clore.AI 被曝放任租客发起攻击并封禁举报者，官方回应：离开平台</title>
@@ -128,6 +152,14 @@
       <pubDate>Sat, 19 Sep 2026 16:25:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;TypeSafe的Jev模型在49项任务中42项超越GPT-5.6-luna，推理和校准误差表现突出。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/OmarMujahid/jev-decision-bench"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wkgkrz/i_benchmarked_jev_aginst_gpt56luna/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>旧PC配矿卡升级家庭服务器：Qwen3.8 27B跑出30 tokens/s</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wkgb2h/built_a_home_server_from_an_old_pc_with_gpu/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3ecf432ceacfd2e75e59cfb3</guid>
+      <pubDate>Sat, 19 Sep 2026 16:09:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit用户用两张CMP 50HX矿卡共30GB显存，驱动补丁后性能翻倍，跑Qwen 3.8 27B达30-35 t&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wkgb2h/built_a_home_server_from_an_old_pc_with_gpu/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude Code 模型选择与 effort 级别指南：何时调高或调低</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 18 Sep 2026 03:32:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;用户因充电器公司倒闭无法登录管理后台，用Claude Opus 4.8成功绕过密码进入系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wj3u0m/claude_saved_me_800/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT让我意识到：大量工作时间花在排版而非思考上</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1wj1wky/gpt_made_me_realize_how_much_time_i_was_spending/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c751e0938292d5d9d37d89d0</guid>
-      <pubDate>Fri, 18 Sep 2026 02:21:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户发现AI剥离了格式化等忙碌工作，迫使直面真正的思考难题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wj1wky/gpt_made_me_realize_how_much_time_i_was_spending/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code 重构 Projects：从文件夹变为可托管多线程的对话式项目</title>
-      <link>https://claude.com/blog/projects-redesigned</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c82364fa04dad3980f7d8541</guid>
-      <pubDate>Fri, 18 Sep 2026 01:52:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Claude Code 将 Projects 升级为对话式多线程项目，支持并行任务与云端运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/blog/projects-redesigned"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>无限参数大模型：从实时数据生成并适配权重</title>
-      <link>https://arxiv.org/abs/2609.18842</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6affc262e76c6a4abef013fc</guid>
-      <pubDate>Fri, 18 Sep 2026 00:55:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;新论文提出用超网络从实时交互生成权重，让模型在线学习。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2609.18842"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI数据中心扩张引发基础设施压力与社区反对</title>
-      <link>https://digg.com/tech/xci26szi</link>
-      <guid isPermaLink="false">urn:zhiyike:news:470ed45650b9713c703fe76b</guid>
-      <pubDate>Fri, 18 Sep 2026 00:48:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;AI设施规模达数十兆瓦，引发能源、监管和社区争议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/xci26szi"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/webulite/status/2100593917150241042"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
