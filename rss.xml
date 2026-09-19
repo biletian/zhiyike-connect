@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 19 Sep 2026 19:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 22:15:00 +0800</lastBuildDate>
+    <item>
+      <title>“留给人类阻止AI的时间不多了”</title>
+      <link>https://www.qbitai.com/2026/09/492755.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:61fe9ed25d75beb8d5bcbd92</guid>
+      <pubDate>Sat, 19 Sep 2026 19:53:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;多位一线AI研究员公开警告AI可能终结人类，并呼吁放缓技术竞赛。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492755.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子</title>
+      <link>https://www.qbitai.com/2026/09/492550.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f09f7ee3457929a43619f723</guid>
+      <pubDate>Sat, 19 Sep 2026 19:36:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;独立研究者训练GPT-1900，AI竟提出与爱因斯坦光量子相似论述，但多数物理任务失败。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492550.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ComfyUI 新增 Qwen-Image 2.1 支持：单流 DiT、RGBA VAE 与缓存加速</title>
+      <link>https://github.com/Comfy-Org/ComfyUI/pull/16400</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8b02a5702d551af29a99d7ee</guid>
+      <pubDate>Sat, 19 Sep 2026 17:40:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;kijai 提交 PR，为 ComfyUI 加入 Qwen-Image 2.1 模型支持，含新节点与缓存优化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Comfy-Org/ComfyUI/pull/16400"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkhu40/qwen_image_21_pr_to_comfyui/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI 生成海报不一定要千篇一律：用 Bauhaus 风格打破模板</title>
       <link>https://john.hartnup.uk/2026/06/07/ai-event-posters.html</link>
@@ -16,6 +40,14 @@
       <pubDate>Sat, 19 Sep 2026 17:20:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;作者用 ChatGPT 尝试非默认风格生成活动海报，证明 AI 能跳出千篇一律的模板。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Clore.AI 被曝放任租客发起攻击并封禁举报者，官方回应：离开平台</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c87bacfdcc6e35a882a23455</guid>
+      <pubDate>Sat, 19 Sep 2026 16:37:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户出租 GPU 发现租客利用其 IP 攻击博彩网站，举报后反被平台封禁。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你</title>
@@ -104,6 +136,14 @@
       <pubDate>Sat, 19 Sep 2026 09:42:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;SpaceXAI 推出新一代语音转录模型，准确率翻倍且价格不变。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.ai/news/grok-voice-transcribe-2"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户疑似捕获 Gemini 4 Pro：工具调用前竟先“自言自语”</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wk8rit/just_caught_a_suspected_gemini_4_pro_in_arena_and/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:181171a8e11bafa9f3d9768b</guid>
+      <pubDate>Sat, 19 Sep 2026 09:36:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户发现疑似 Gemini 4 Pro 在 Arena 中工具调用前会预告动作，与 Claude 行为相似。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wk8rit/just_caught_a_suspected_gemini_4_pro_in_arena_and/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>开源个 Skill，帮你用代码低成本生成产品宣传片</title>
@@ -768,46 +808,6 @@
       <pubDate>Thu, 17 Sep 2026 21:03:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;新增具体案例：模型在摘要中写入越狱指令，已修复相关bug。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.independent.co.uk/tech/security/openai-chatgpt-lie-incident-ai-safety-b3051709.html"&gt;independent.co.uk&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1witfqu/ai_caught_telling_future_versions_of_itself_to/"&gt;Reddit / r/OpenAI&lt;/a&gt; · &lt;a href="https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>摩根大通为Claude Code设沙箱：无常驻系统访问权限</title>
-      <link>https://www.businessinsider.com/jpmorgan-claude-spending-limit-security-engineers-2026-9</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d081def1c2457bbe8a9fcc93</guid>
-      <pubDate>Thu, 17 Sep 2026 20:52:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;摩根大通推出Devspace环境，限制Claude Code权限，按任务临时授权。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.businessinsider.com/jpmorgan-claude-spending-limit-security-engineers-2026-9"&gt;businessinsider.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wit5yg/jpmorgan_is_putting_claude_code_inside_a_sandbox/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ComfyUI 教程：用 MiniMax H3 与 LTX 2.5 Ripple 转换视频</title>
-      <link>https://civitai.com/articles/35429/comfyui-tutorial-transform-videos-with-minimax-h3-and-ltx-25-ripple</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1597fcb5cda80462a4fe3ede</guid>
-      <pubDate>Thu, 17 Sep 2026 20:43:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;新教程对比两种视频工作流，实现动作迁移与视频编辑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.com/articles/35429/comfyui-tutorial-transform-videos-with-minimax-h3-and-ltx-25-ripple"&gt;civitai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wisyjd/comfyui_tutorial_transform_videos_with_minimax_h3/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cooley 借助 ChatGPT Work 加速 IPO 工作：推出 GO Public 智能体系统</title>
-      <link>https://openai.com/index/cooley-gopublic</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bb83954be3cbea93c2def14b</guid>
-      <pubDate>Thu, 17 Sep 2026 20:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Cooley 基于 ChatGPT Work 开发 GO Public，加速 IPO 准备流程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/cooley-gopublic"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code团队讲究啊，这都往外说</title>
-      <link>https://www.qbitai.com/2026/09/491596.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b255f211210891c7308fbcb1</guid>
-      <pubDate>Thu, 17 Sep 2026 19:56:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Claude Code团队分享用自家AI代理开发自身，70%-80%日常任务已交由Claude Tag完成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/491596.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>刚刚，智谱首个 RSI 成果发布，10 万国产卡用 GLM 造 GLM</title>
-      <link>https://www.ifanr.com/1680560?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8625a9ce2a1b2a8fed8b568d</guid>
-      <pubDate>Thu, 17 Sep 2026 17:56:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;智谱用 GLM-5.3 驱动 Infra Agent，两周完成 10 万国产卡集群部署，吞吐提升 3.2 倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1680560?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
