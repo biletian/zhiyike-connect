@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 20 Sep 2026 03:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 05:30:00 +0800</lastBuildDate>
+    <item>
+      <title>Gemini 4 Pro 与 GPT-6 Astra Pro 对比 SVG 生成，谷歌回归</title>
+      <link>https://x.com/LuminaBench/status/2101359620472115598</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9b47f2cf467952040b2bf995</guid>
+      <pubDate>Sun, 20 Sep 2026 01:46:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户对比 Gemini 4 Pro 与 GPT-6 Astra Pro 的 SVG 生成效果，称两者近乎完美，差距明显。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/LuminaBench/status/2101359620472115598"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wksl5s/gemini_4_pro_vs_gpt6_astra_pro_xbox_controller_svg/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>让Claude在重置前挥霍剩余额度，结果造出RockOps岩石监控系统</title>
       <link>https://claude.ai/artifact/LdrzxwUe6uQNsp1o15xw3P</link>
@@ -16,6 +24,22 @@
       <pubDate>Sun, 20 Sep 2026 00:35:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;用户让Claude在10分钟内挥霍剩余额度，结果生成了一套企业级岩石监控系统RockOps。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.ai/artifact/LdrzxwUe6uQNsp1o15xw3P"&gt;claude.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wkqszd/asked_claude_to_waste_my_remaining_usage_before/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>为什么我几乎从不使用 AI 撰写实质性内容</title>
+      <link>https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8aaba3aa78b2a4f10b6e71a6</guid>
+      <pubDate>Sun, 20 Sep 2026 00:35:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;作者呼吁少用 AI 写作，认为写作即思考，AI 写作模糊且误导。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户发现 Sonnet 5 在 Blender 3D 建模中表现突飞猛进，超越 Opus 5</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wkp0h1/sonnet_5/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:fc8c776c81d4516ad096e4ca</guid>
+      <pubDate>Sat, 19 Sep 2026 23:23:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户称 Sonnet 5 在 Blender 3D 任务中突然变得非常擅长，显著优于 Opus 5。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wkp0h1/sonnet_5/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>登顶单细胞与空间组学基准，无界进化开放科研Agent工作台Karl Workbench内测</title>
@@ -784,30 +808,6 @@
       <pubDate>Fri, 18 Sep 2026 00:48:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;AI设施规模达数十兆瓦，引发能源、监管和社区争议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://digg.com/tech/xci26szi"&gt;Digg 事件页&lt;/a&gt; · &lt;a href="https://x.com/webulite/status/2100593917150241042"&gt;本人发布（X）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 用户用 Minimax h3 制作桌面女孩动画，但图标丢失且未完全遵循提示</title>
-      <link>https://x.com/Devozikjr</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1d88e9da4a3a40fb98b5fc41</guid>
-      <pubDate>Fri, 18 Sep 2026 00:44:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户尝试用 Minimax h3 生成桌面女孩动画，但部分图标丢失，提示未完全执行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/Devozikjr"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wiz8p5/doing_the_desktop_girl_with_minimax_h3/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Goodfire Research 发现模型内部信号可规模化检测奖励作弊</title>
-      <link>https://www.goodfire.com/research/reward-hacking-activation-monitors</link>
-      <guid isPermaLink="false">urn:zhiyike:news:86e179a2f6a8c617d923db41</guid>
-      <pubDate>Fri, 18 Sep 2026 00:38:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;研究团队发现模型奖励作弊时存在内部信号，并开发探针实现规模化实时检测。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.goodfire.com/research/reward-hacking-activation-monitors"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LLM 分类本质是特征工程：用逻辑回归校准与增强</title>
-      <link>https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2542d7d5df52b76ebdf2fc0b</guid>
-      <pubDate>Thu, 17 Sep 2026 23:40:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;文章指出直接让 LLM 当分类器存在校准、信息利用和可解释性问题，建议将其输出作为特征接入逻辑回归。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
