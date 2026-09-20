@@ -8,7 +8,55 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 20 Sep 2026 20:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:16:00 +0800</lastBuildDate>
+    <item>
+      <title>华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？</title>
+      <link>https://www.qbitai.com/2026/09/493068.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:79068816580207bf1b38c165</guid>
+      <pubDate>Sun, 20 Sep 2026 22:23:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;华为发布企业智能化白皮书，提出DIMAK工程体系和H型双塔架构，帮助企业将单点AI提效转化为整体业务价值。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/493068.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>瑞士小实验室发布27B写作模型Hemmingway-1，性能接近Claude Fable 5，价格便宜40倍，开源权重</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wlh03i/we_made_a_27b_model_for_creative_writing_performs/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:743fdc10cab8ceb6ff69fdb5</guid>
+      <pubDate>Sun, 20 Sep 2026 21:23:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;瑞士团队发布27B写作模型，性能对标Claude Fable 5，价格低40倍，权重开源。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wlh03i/we_made_a_27b_model_for_creative_writing_performs/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>19999 元起，启元机器人想把「个人机器人」先卖进普通人的生活</title>
+      <link>https://www.ifanr.com/1681137?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f3e30fdcedf75c531466557e</guid>
+      <pubDate>Sun, 20 Sep 2026 21:10:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;启元发布两款个人机器人，起售价 19999 元，强调发售即发货。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1681137?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen Image 2.1 详细测试：参考一致性佳，支持透明背景</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1wlfuw7/qwen_image_21_more_detailed_tests/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:514538ba0d52d7be1d1d70fd</guid>
+      <pubDate>Sun, 20 Sep 2026 20:31:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;用户对Qwen Image 2.1进行扩展测试，评估参考图一致性、编辑能力和透明背景生成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wlfuw7/qwen_image_21_more_detailed_tests/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一张3090就能跑！全栈国产模型，把AI办公搬到企业本地</title>
+      <link>https://www.qbitai.com/2026/09/492946.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:593cbef649de99d163beb7ca</guid>
+      <pubDate>Sun, 20 Sep 2026 20:22:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;中国电信开源轻量级代码智能体模型，支持本地部署，一张RTX 3090即可运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492946.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chat-based LLM 如何复刻通灵师的骗术机制</title>
+      <link>https://softwarecrisis.dev/letters/llmentalist/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6372210077f56e4dfa8a4dce</guid>
+      <pubDate>Sun, 20 Sep 2026 20:20:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;作者认为聊天式大模型的智能错觉，本质是通灵师常用的冷读术的自动化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://softwarecrisis.dev/letters/llmentalist/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策</title>
       <link>https://www.qbitai.com/2026/09/492939.html</link>
@@ -32,6 +80,14 @@
       <pubDate>Sun, 20 Sep 2026 16:01:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Gemini在测试中意外联网，通过猜密码和泄露凭证入侵三家真实公司系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492912.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户用 GPT Image 2.5 将照片下半部重构为办公用品拼贴海报</title>
+      <link>https://github.com/nevertoday/xxd-panel-225</link>
+      <guid isPermaLink="false">urn:zhiyike:news:458c73def614371e9c2c762a</guid>
+      <pubDate>Sun, 20 Sep 2026 14:18:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一个 GPT Image 2.5 提示词把照片下半部变成办公用品拼贴，附完整提示词和 GitHub 仓库。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/nevertoday/xxd-panel-225"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wl94w7/photo_above_the_same_scene_retold_in_office/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>启元机器人接入WorkBuddy，成为首个接入WorkBuddy的具身智能企业</title>
@@ -66,12 +122,28 @@
       <description>&lt;p&gt;TypeSafe发布System One模型Jev，专做快速结构化判断，在Agent社区爆火。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-20-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Code 刚删除了 48k 个文件，这不可能是真的</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:83ff480646a497668b9bed80</guid>
+      <pubDate>Sun, 20 Sep 2026 11:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户因未用 GitHub 分支，Claude 误删 48k 个历史期权数据文件。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上</title>
       <link>https://www.qbitai.com/2026/09/492849.html</link>
       <guid isPermaLink="false">urn:zhiyike:news:dfc0ab182c4866f41ca58a15</guid>
       <pubDate>Sun, 20 Sep 2026 10:48:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;报告发布，揭示AI安全人才短缺，64%单位由传统团队兼职模型安全。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492849.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen Image 2.1 开源：7B 模型支持透明图像与多图编辑，ComfyUI 集成获社区好评</title>
+      <link>https://youtube.com/watch?v=tP_gGGJzEqg&amp;feature=youtu.be</link>
+      <guid isPermaLink="false">urn:zhiyike:news:57c6dadc0ced49075b42a13a</guid>
+      <pubDate>Sun, 20 Sep 2026 10:39:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;官方确认 ComfyUI 支持，新增原生 2K 生成与 RGBA 输出。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://youtube.com/watch?v=tP_gGGJzEqg&amp;amp;feature=youtu.be"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wl4xp2/qwen_image_21_releasing_tomorrow/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://qwen.ai/blog?id=qwen-image-2.1"&gt;千问新官网&lt;/a&gt; · &lt;a href="https://github.com/Comfy-Org/ComfyUI/pull/16400"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkhu40/qwen_image_21_pr_to_comfyui/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkvqlj/qwen_image_21_1girl_examples/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://huggingface.co/Comfy-Org/Qwen-Image-2.1/tree/main"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://x.com/Alibaba_Qwen/status/2101670814953455780"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI等四家公司遭付费用户提起反垄断诉讼</title>
@@ -120,6 +192,14 @@
       <pubDate>Sun, 20 Sep 2026 03:50:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;用户仍用2022/23年手动复制粘贴方式使用LLM，寻求向Agentic多智能体协作模式升级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wkvqxc/what_is_the_best_way_to_use_llmss_in_2026_i_feel/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wkvofz/what_is_the_best_way_to_use_llmss_in_2026_i_feel/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Horde 发布全新界面、图像生成前端、后端及文档</title>
+      <link>https://aihorde.net</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9536154c109113dde8fa3717</guid>
+      <pubDate>Sun, 20 Sep 2026 03:22:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;AI Horde 推出全新界面与后端，支持新模型，仍完全免费。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aihorde.net"&gt;aihorde.net&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkv1il/the_ai_horde_has_a_new_interface_a_new_image/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>微软总监称AI抓取是“人类历史上最大规模的劳动盗窃”，OpenAI高管称ChatGPT对出版商构成“生存威胁”</title>
@@ -248,14 +328,6 @@
       <pubDate>Sat, 19 Sep 2026 19:36:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;独立研究者训练GPT-1900，AI竟提出与爱因斯坦光量子相似论述，但多数物理任务失败。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492550.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen Image 2.1 早期体验：7B 模型生成 200+ 图像，编辑与参考能力获好评</title>
-      <link>https://github.com/Comfy-Org/ComfyUI/pull/16400</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8b02a5702d551af29a99d7ee</guid>
-      <pubDate>Sat, 19 Sep 2026 17:40:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户获早期访问，生成 200+ 图像，称 7B 模型质量好但输出略噪。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Comfy-Org/ComfyUI/pull/16400"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkhu40/qwen_image_21_pr_to_comfyui/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkvqlj/qwen_image_21_1girl_examples/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 生成海报不一定要千篇一律：用 Bauhaus 风格打破模板</title>
@@ -736,78 +808,6 @@
       <pubDate>Fri, 18 Sep 2026 14:15:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;智谱发布GLM-5.3-FlashX，速度较Flash提升5倍，价格2.5倍，基于10万张国产芯片。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/ZJHhQrDeiwOGkkaqHw7kqA"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/glm-5-3-flashx/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线</title>
-      <link>https://www.qbitai.com/2026/09/491875.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b6b22c00a7facca1b219a90f</guid>
-      <pubDate>Fri, 18 Sep 2026 14:11:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;阿里达摩院发布全球首个专家级通用影像AI，可识别腹部146种疾病，登上Science。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/491875.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>斯坦福团队让AI组成虚拟药企：多智能体系统共同分析药物研发</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-18-8</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ffee9ec9107508d54ff15fcb</guid>
-      <pubDate>Fri, 18 Sep 2026 13:27:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;斯坦福团队构建多智能体AI系统Virtual Biotech，模拟药企研发流程，6小时处理3.7万项试验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-18-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>WSJ：三名研究人员用 Claude Opus 5 借 Discourse 漏洞访问 OpenAI 私有代码</title>
-      <link>https://x.com/rohanpaul_ai/status/2100810101145891305</link>
-      <guid isPermaLink="false">urn:zhiyike:news:258d6efd58b398cb3dd93578</guid>
-      <pubDate>Fri, 18 Sep 2026 12:52:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;研究人员利用Discourse漏洞获取OpenAI员工令牌，触及ChatGPT和GitHub。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2100810101145891305"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>阿里千问推出新一代原生全模态模型 Qwen3.8-Omni-Flash</title>
-      <link>https://mp.weixin.qq.com/s/JA-fKZLgoXpQl9G9xzmdog</link>
-      <guid isPermaLink="false">urn:zhiyike:news:be5a64f0f47264fadf015bbc</guid>
-      <pubDate>Fri, 18 Sep 2026 12:27:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;阿里千问发布全模态模型，支持文本、图像、音频、视频输入，具备从理解到交付的Agent能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/JA-fKZLgoXpQl9G9xzmdog"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/qwen3-8-omni-flash/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>iPhone 18 Pro 系列正式开售，新 AI 功能「自相矛盾」</title>
-      <link>https://www.ifanr.com/1680844?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1a8fd289ea86cbb7283837d1</guid>
-      <pubDate>Fri, 18 Sep 2026 12:14:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;iPhone 18 Pro 系列开售，新 AI 修图可无中生有，苹果同时推出防伪底片功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1680844?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude 写掉 Anthropic 八成代码，CI 半年暴涨 25 倍差点被"砸瘫"</title>
-      <link>https://news.aibase.com/zh/news/31157</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5cafb4359f6216906c4958f6</guid>
-      <pubDate>Fri, 18 Sep 2026 11:45:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 内部 CI 系统因 AI 代码量激增而濒临崩溃，最终采纳 Claude 建议重构架构。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31157"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-18-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:12a4f9724c51ab1a79b74ba5</guid>
-      <pubDate>Fri, 18 Sep 2026 11:36:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;无问芯穹与华环电子签约，将围绕AI基础设施创新与产业应用深化合作，探索算力与网络协同发展新模式。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-18-4"&gt;机器之心&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/09/492426.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>法官驳回 OpenAI 请求：苹果无需公布与 SpaceXAI 的和解协议</title>
-      <link>https://news.aibase.com/zh/news/31155</link>
-      <guid isPermaLink="false">urn:zhiyike:news:65f8b00df2978d0e3825a8c1</guid>
-      <pubDate>Fri, 18 Sep 2026 11:22:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;得州联邦法官驳回 OpenAI 强制披露苹果与 SpaceXAI 和解协议的动议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31155"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>​OpenAI、微软高管内部承认 AI 可替代新闻文章，法院文件曝光</title>
-      <link>https://news.aibase.com/zh/news/31153</link>
-      <guid isPermaLink="false">urn:zhiyike:news:71ddaee99101809f3f11835c</guid>
-      <pubDate>Fri, 18 Sep 2026 10:49:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;法庭文件显示，OpenAI和微软高管私下承认其AI产品可替代新闻文章，与公开辩护立场相悖。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31153"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
