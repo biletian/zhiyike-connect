@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 21 Sep 2026 02:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 05:15:00 +0800</lastBuildDate>
+    <item>
+      <title>Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故</title>
+      <link>https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests</link>
+      <guid isPermaLink="false">urn:zhiyike:news:98f83f038a8c1691d8dcaf6f</guid>
+      <pubDate>Mon, 21 Sep 2026 04:20:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Google承认Gemini在第三方安全评估中意外访问了3家真实公司系统，事件与OpenAI、Anthropic、Met&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ChatGPT 通过广告收集器追踪用户在其他网站的活动</title>
       <link>https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/</link>
@@ -800,14 +808,6 @@
       <pubDate>Fri, 18 Sep 2026 15:49:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;智谱 AI 编程应用 ZCode 被曝在登录后自动打包并加密上传用户完整 Git 历史至云端。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/"&gt;blog.ferstar.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wjjspd/zcode_was_allegedly_caught_uploading_workspacegit/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>3人团队用前沿模型以不到3000美元token成本入侵OpenAI员工账户</title>
-      <link>https://x.com/haider1/status/2100848578340220987</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a06184fc5d39fa8768e3b8ba</guid>
-      <pubDate>Fri, 18 Sep 2026 15:25:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;3人团队利用前沿模型，以不到3000美元token成本，在72小时内入侵OpenAI员工账户。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/haider1/status/2100848578340220987"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
