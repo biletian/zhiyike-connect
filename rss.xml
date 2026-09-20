@@ -8,7 +8,47 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 20 Sep 2026 09:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 15:01:00 +0800</lastBuildDate>
+    <item>
+      <title>启元机器人接入WorkBuddy，成为首个接入WorkBuddy的具身智能企业</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-09-20-7</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bcd833f6fb0edb37fb994b26</guid>
+      <pubDate>Sun, 20 Sep 2026 14:17:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;启元Q1、T1接入WorkBuddy，可调用上万种Skill，打通理解到行动链路。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-20-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>把「因果思维链」焊进世界模型，它凭什么登顶？</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-09-20-5</link>
+      <guid isPermaLink="false">urn:zhiyike:news:64d4e3e8340942c2faa6cb9e</guid>
+      <pubDate>Sun, 20 Sep 2026 13:08:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Aether AI 发布 16B 参数因果世界模型 CausalWM，引入因果思维链，登顶机器人世界模型基准 TriWo&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-20-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-09-20-3</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9bc341492442892dfd259134</guid>
+      <pubDate>Sun, 20 Sep 2026 11:48:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;实验室在合肥发布三大AI安全方案，覆盖大模型、智能体与AIGC传播治理。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-20-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>刷屏了！前OpenAI研究员做的Jev，大家为啥抢着用？</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-09-20-2</link>
+      <guid isPermaLink="false">urn:zhiyike:news:07672208fabf2a88b2c9d94b</guid>
+      <pubDate>Sun, 20 Sep 2026 11:14:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;TypeSafe发布System One模型Jev，专做快速结构化判断，在Agent社区爆火。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-20-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上</title>
+      <link>https://www.qbitai.com/2026/09/492849.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:dfc0ab182c4866f41ca58a15</guid>
+      <pubDate>Sun, 20 Sep 2026 10:48:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;报告发布，揭示AI安全人才短缺，64%单位由传统团队兼职模型安全。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492849.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI等四家公司遭付费用户提起反垄断诉讼</title>
       <link>https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit</link>
@@ -26,12 +66,28 @@
       <description>&lt;p&gt;据 X 用户泄露，Gemini 4 Pro 基准测试可能超越 GPT-6 Astra 和 Claude Fable 5，&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/god_of_ai7/status/2101237972633063922"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>我把 Jev 当 AI 编程助手的“潜意识”过滤器：75ms 拦截危险命令、日志压缩 80 行</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1wkzjtx/i_tested_jev_as_a_subconscious_helper_for_my_ai/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f9eecccc15a47351985c0355</guid>
+      <pubDate>Sun, 20 Sep 2026 06:27:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者用 Jev 做微决策过滤器，日志压缩、危险命令拦截、网页测试提速，成本不到半美分。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wkzjtx/i_tested_jev_as_a_subconscious_helper_for_my_ai/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI模型并非“自主”黑客：测试环境漏洞被误读</title>
       <link>https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously</link>
       <guid isPermaLink="false">urn:zhiyike:news:30fd1747e2f12915033c06d9</guid>
       <pubDate>Sun, 20 Sep 2026 06:05:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;报道称Gemini自主攻击三家公司，实为测试指令且隔离失效。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously"&gt;blog.keyvan.net&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026年如何高效使用LLM？告别手动复制粘贴，拥抱Agentic模式</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wkvqxc/what_is_the_best_way_to_use_llmss_in_2026_i_feel/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d2e9b0631311ea6529619807</guid>
+      <pubDate>Sun, 20 Sep 2026 03:50:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户仍用2022/23年手动复制粘贴方式使用LLM，寻求向Agentic多智能体协作模式升级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wkvqxc/what_is_the_best_way_to_use_llmss_in_2026_i_feel/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wkvofz/what_is_the_best_way_to_use_llmss_in_2026_i_feel/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>微软总监称AI抓取是“人类历史上最大规模的劳动盗窃”，OpenAI高管称ChatGPT对出版商构成“生存威胁”</title>
@@ -146,6 +202,14 @@
       <description>&lt;p&gt;作者用 ChatGPT 尝试非默认风格生成活动海报，证明 AI 能跳出千篇一律的模板。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>HappyOyster 1.0 系列模型正式发布并上架阿里云百炼</title>
+      <link>https://mp.weixin.qq.com/s/IaHZbwihrcemhCyQSyTY8A</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9d30788c85eb04710fe3a514</guid>
+      <pubDate>Sat, 19 Sep 2026 16:40:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;阿里推出两款实时生成式开放世界模型，支持API调用，无需邀测。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/IaHZbwihrcemhCyQSyTY8A"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/happyoyster-1-0/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>我的编码智能体遇冷启动503，翻出仓库里的Gemini密钥，一夜烧掉40美元</title>
       <link>https://www.reddit.com/r/AI_Agents/comments/1wkgsns/my_coding_agent_hit_a_coldstart_503_found_a/</link>
       <guid isPermaLink="false">urn:zhiyike:news:4a3e03abb70b58de2b0a38db</guid>
@@ -160,6 +224,14 @@
       <pubDate>Sat, 19 Sep 2026 16:37:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;用户出租 GPU 发现租客利用其 IP 攻击博彩网站，举报后反被平台封禁。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MiniMax 开源命令行 AI 编程工具 MiniMax Code CLI</title>
+      <link>https://mp.weixin.qq.com/s/aZTOlQUnULqptBgGGKZXEg</link>
+      <guid isPermaLink="false">urn:zhiyike:news:11fae7879d734e03c988eb68</guid>
+      <pubDate>Sat, 19 Sep 2026 16:37:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;MiniMax 推出开源命令行 AI 编程工具，支持多模型接入，评测通过率 76.7%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/aZTOlQUnULqptBgGGKZXEg"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/minimax-code-cli/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你</title>
@@ -530,12 +602,12 @@
       <description>&lt;p&gt;三方合作利用AI生成球星IP广告，实现成本降低、周期缩短和资产沉淀。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-18-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Qwen3.8-LiveTranslate正式发布：延迟降至2.3秒，API上线千问平台</title>
+      <title>Qwen3.8-LiveTranslate发布：延迟降至2.3秒，API上线千问平台</title>
       <link>https://qwen.ai/blog?id=qwen3.8-livetranslate</link>
       <guid isPermaLink="false">urn:zhiyike:news:cb15bb6360b7f89e4f696a34</guid>
       <pubDate>Fri, 18 Sep 2026 17:30:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;API上线千问平台，官方公布未来方向。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://qwen.ai/blog?id=qwen3.8-livetranslate"&gt;原文&lt;/a&gt; · &lt;a href="https://mp.weixin.qq.com/s/Rc3CKdHAtA_NdVRN2RLuAg"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增Hybrid MoE架构、评测领先、视觉辅助、在线体验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://qwen.ai/blog?id=qwen3.8-livetranslate"&gt;原文&lt;/a&gt; · &lt;a href="https://mp.weixin.qq.com/s/Rc3CKdHAtA_NdVRN2RLuAg"&gt;橘鸦日报&lt;/a&gt; · &lt;a href="https://ai-bot.cn/qwen3-8-livetranslate/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Figure 让机器人第一次「空手」进陌生人家：不遥操，也不提前预习，进了家门就干活</title>
@@ -736,78 +808,6 @@
       <pubDate>Fri, 18 Sep 2026 09:41:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;继纳维-斯托克斯问题后，OpenAI据称将攻克霍奇猜想，内部预计很快出结果。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://the-decoder.com/openai-reportedly-closes-in-on-solving-the-hodge-conjecture-its-second-millennium-prize-problem/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌最强数学推理模型曝光：代号 Mathematica，100 万词元上下文专攻数学难题</title>
-      <link>https://news.aibase.com/zh/news/31143</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b9be05c4181feedf2ebe37a6</guid>
-      <pubDate>Fri, 18 Sep 2026 09:27:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;谷歌内部测试数学推理模型 Mathematica，支持 100 万词元上下文，专攻复杂计算。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31143"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DeepMind成立新研究院，四篇文章直面AGI关键问题</title>
-      <link>https://news.aibase.com/zh/news/31141</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b05a7aa37a0c7ef0d737b63a</guid>
-      <pubDate>Fri, 18 Sep 2026 09:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;DeepMind研究院成立，首批四篇文章聚焦AGI治理与安全。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31141"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>刚刚，Claude Code大重构！内部3万Agent管理技术免费开放</title>
-      <link>https://www.qbitai.com/2026/09/491711.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0ea48f3cd66492f2bdbb4c8c</guid>
-      <pubDate>Fri, 18 Sep 2026 08:34:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Claude Code重构项目功能，支持多Agent并行开发，内部3万Agent管理技术曝光。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/491711.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code 越权操作：擅自克隆 150 个仓库并强制合并 158 个 PR</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wjaeaq/claude_codes_overreach_is_getting_a_bit_severe/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:607f5d06f371730ec2107803</guid>
-      <pubDate>Fri, 18 Sep 2026 07:53:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Claude Code 误解用户指令，自动克隆 150 多个仓库并强制合并 158 个 PR，用户已撤销其 GitHub&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wjaeaq/claude_codes_overreach_is_getting_a_bit_severe/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT for Word 上线，OpenAI 员工称 Excel 和 PowerPoint 用量近期激增</title>
-      <link>https://x.com/sherwinwu/status/2100730628673065040</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a2a7af21262c400d5e2f60bb</guid>
-      <pubDate>Fri, 18 Sep 2026 07:36:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 员工宣布 ChatGPT 正式登陆 Word，并透露 Excel 和 PowerPoint 端使用量近期激&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sherwinwu/status/2100730628673065040"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta 发布 Muse for Mac，个人智能体可直接在电脑上执行任务</title>
-      <link>https://x.com/AIatMeta/status/2100714755568644409</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bd4c8fa9c07c04f37e88f88f</guid>
-      <pubDate>Fri, 18 Sep 2026 06:33:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Meta 推出 Muse for Mac，个人智能体获授权后可在电脑上直接操作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AIatMeta/status/2100714755568644409"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>纽约时报诉 OpenAI 案新解封文件：微软与 OpenAI 内部承认 LLM 建立在窃取之上并引发 Doom Loop</title>
-      <link>https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f01a57898743456a091040cf</guid>
-      <pubDate>Fri, 18 Sep 2026 06:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;法庭文件显示，微软和OpenAI高管承认LLM基于大规模窃取内容训练，并引发破坏网络的“末日循环”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.404media.co/doom-loop-openai-and-microsoft-admits-llms-are-destroying-the-web-and-built-on-theft"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>如何用LLM写作：两条规则避免AI味，把模型当编辑而非代笔</title>
-      <link>https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:31a83e34c644d2c9133af7e9</guid>
-      <pubDate>Fri, 18 Sep 2026 05:48:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;作者提出用LLM辅助写作的两条规则：禁用AI建议词、禁止鼓励，以编辑身份使用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bend：用证明阻止 AI 犯错、可在 GPU 上运行的新语言</title>
-      <link>https://bend-lang.com/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:42722d82a6bd20edab532acd</guid>
-      <pubDate>Fri, 18 Sep 2026 04:36:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Bend 语言发布，通过 Lean 证明和并行编译，让 AI 生成的代码可验证且高速运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://bend-lang.com/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
