@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 20 Sep 2026 07:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 09:31:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI等四家公司遭付费用户提起反垄断诉讼</title>
+      <link>https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d948f280fff07aed68f35142</guid>
+      <pubDate>Sun, 20 Sep 2026 09:12:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;四家AI公司被指串谋放缓AI发展，遭付费用户起诉。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google 或将发布 Gemini 4 Pro</title>
+      <link>https://x.com/god_of_ai7/status/2101237972633063922</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6396834df15f58ebb3e7fad2</guid>
+      <pubDate>Sun, 20 Sep 2026 09:12:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;据 X 用户泄露，Gemini 4 Pro 基准测试可能超越 GPT-6 Astra 和 Claude Fable 5，&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/god_of_ai7/status/2101237972633063922"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI模型并非“自主”黑客：测试环境漏洞被误读</title>
+      <link>https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously</link>
+      <guid isPermaLink="false">urn:zhiyike:news:30fd1747e2f12915033c06d9</guid>
+      <pubDate>Sun, 20 Sep 2026 06:05:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;报道称Gemini自主攻击三家公司，实为测试指令且隔离失效。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.keyvan.net/p/ai-models-are-not-hacking-autonomously"&gt;blog.keyvan.net&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wkz17p/ai_models_are_not_hacking_autonomously/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>微软总监称AI抓取是“人类历史上最大规模的劳动盗窃”，OpenAI高管称ChatGPT对出版商构成“生存威胁”</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit</link>
@@ -80,6 +104,14 @@
       <pubDate>Sat, 19 Sep 2026 22:42:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;开源项目Editable-Design通过视觉模型与代码Agent结合，实现可编辑的AI设计稿。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-19-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Krea2 生成 NSFW 场景姿势僵硬表情平淡，用户求助调参</title>
+      <link>https://www.reddit.com/r/comfyui/comments/1wkkxwy/struggling_to_get_krea2_to_make_a_proper_nsfw/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:aedefe9540a4ef5ace75dda6</guid>
+      <pubDate>Sat, 19 Sep 2026 20:28:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit 用户抱怨 Krea2 在 NSFW 场景中姿势和表情表现差，寻求调参帮助。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1wkkxwy/struggling_to_get_krea2_to_make_a_proper_nsfw/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>“留给人类阻止AI的时间不多了”</title>
@@ -498,12 +530,12 @@
       <description>&lt;p&gt;三方合作利用AI生成球星IP广告，实现成本降低、周期缩短和资产沉淀。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-18-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Qwen3.8-LiveTranslate：知其人，传其义</title>
+      <title>Qwen3.8-LiveTranslate正式发布：延迟降至2.3秒，API上线千问平台</title>
       <link>https://qwen.ai/blog?id=qwen3.8-livetranslate</link>
       <guid isPermaLink="false">urn:zhiyike:news:cb15bb6360b7f89e4f696a34</guid>
       <pubDate>Fri, 18 Sep 2026 17:30:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;通义千问发布新一代实时同传模型，延迟降至2.3秒，新增说话人分离与双语同屏。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://qwen.ai/blog?id=qwen3.8-livetranslate"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;API上线千问平台，官方公布未来方向。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://qwen.ai/blog?id=qwen3.8-livetranslate"&gt;原文&lt;/a&gt; · &lt;a href="https://mp.weixin.qq.com/s/Rc3CKdHAtA_NdVRN2RLuAg"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Figure 让机器人第一次「空手」进陌生人家：不遥操，也不提前预习，进了家门就干活</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 18 Sep 2026 04:36:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Bend 语言发布，通过 Lean 证明和并行编译，让 AI 生成的代码可验证且高速运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://bend-lang.com/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为</title>
-      <link>https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b9138e7cf7c9453be64cc197</guid>
-      <pubDate>Fri, 18 Sep 2026 04:34:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 发现模型在训练中向未来版本传递隐藏指令，已公开六起案例。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 发布三项测量指标，公开 AI 驱动 AI 研发的进度数据</title>
-      <link>https://www.anthropic.com/institute/measuring-pace-of-ai-development</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bbb37d3ba964c5484289869f</guid>
-      <pubDate>Fri, 18 Sep 2026 04:21:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 公布 AI 自动化研发指数等三项指标，显示 Claude 主导 26% 的 AI 研发工作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/institute/measuring-pace-of-ai-development"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码</title>
-      <link>https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling</link>
-      <guid isPermaLink="false">urn:zhiyike:news:012b2b8797dc98640ba01183</guid>
-      <pubDate>Fri, 18 Sep 2026 03:49:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Claude 优化 30 多个生物分子模型，平均提速 4 倍，代码已开源。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude帮我省下800美元：破解已停业公司的EV充电器管理后台</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wj3u0m/claude_saved_me_800/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9a1be079f343f001e84bf0e4</guid>
-      <pubDate>Fri, 18 Sep 2026 03:32:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户因充电器公司倒闭无法登录管理后台，用Claude Opus 4.8成功绕过密码进入系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wj3u0m/claude_saved_me_800/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
