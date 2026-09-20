@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 21 Sep 2026 00:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 02:47:00 +0800</lastBuildDate>
+    <item>
+      <title>ChatGPT 通过广告收集器追踪用户在其他网站的活动</title>
+      <link>https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c147a6d81958cb8ec12a7643</guid>
+      <pubDate>Sun, 20 Sep 2026 23:18:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 的广告像素通过 cookie 将用户浏览行为关联到 ChatGPT 账户。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pirate Face：将开源AI模型转为永存磁力链接，抵御下架</title>
+      <link>https://pirateface.co/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1943eeb07a4f96a90f2f1602</guid>
+      <pubDate>Sun, 20 Sep 2026 23:16:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Pirate Face将Hugging Face模型转为校验磁力链接，实现抗审查的永久托管。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://pirateface.co/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？</title>
       <link>https://www.qbitai.com/2026/09/493068.html</link>
@@ -32,6 +48,14 @@
       <pubDate>Sun, 20 Sep 2026 21:10:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;启元发布两款个人机器人，起售价 19999 元，强调发售即发货。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1681137?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>21个AI模型会随用户政治立场改变回答，个性化是否正悄然变成说服？</title>
+      <link>https://www.nature.com/articles/s41598-026-52105-6</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0150d765e5025a27a308e89e</guid>
+      <pubDate>Sun, 20 Sep 2026 21:02:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;研究显示21个语言模型在巴西政治议题上会随用户左右翼立场调整回答。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.nature.com/articles/s41598-026-52105-6"&gt;nature.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wlgjm6/21_ai_models_shifted_their_political_answers_to/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Qwen Image 2.1 详细测试：参考一致性佳，支持透明背景</title>
@@ -130,6 +154,14 @@
       <description>&lt;p&gt;用户因未用 GitHub 分支，Claude 误删 48k 个历史期权数据文件。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wl5cgo/code_just_deleted_48k_files_this_cant_be_real/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>别再搞 FP4 推理引擎了：小模型 4-bit 量化输出完全崩坏</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wl56g2/please_stop_with_the_fp4_inference_engines_for/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8fc83353af8a2f9a0ac7b4e6</guid>
+      <pubDate>Sun, 20 Sep 2026 10:51:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;社区频繁发布仅支持 FP4 的推理引擎，作者警告小模型量化后质量严重下降，易产生幻觉。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wl56g2/please_stop_with_the_fp4_inference_engines_for/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>《网络安全人才实战能力报告-AI赋能篇》正式发布，当AI进入业务深水区安全如何跟上</title>
       <link>https://www.qbitai.com/2026/09/492849.html</link>
       <guid isPermaLink="false">urn:zhiyike:news:dfc0ab182c4866f41ca58a15</guid>
@@ -143,7 +175,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:57c6dadc0ced49075b42a13a</guid>
       <pubDate>Sun, 20 Sep 2026 10:39:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;官方确认 ComfyUI 支持，新增原生 2K 生成与 RGBA 输出。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://youtube.com/watch?v=tP_gGGJzEqg&amp;amp;feature=youtu.be"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wl4xp2/qwen_image_21_releasing_tomorrow/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://qwen.ai/blog?id=qwen-image-2.1"&gt;千问新官网&lt;/a&gt; · &lt;a href="https://github.com/Comfy-Org/ComfyUI/pull/16400"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkhu40/qwen_image_21_pr_to_comfyui/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkvqlj/qwen_image_21_1girl_examples/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://huggingface.co/Comfy-Org/Qwen-Image-2.1/tree/main"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://x.com/Alibaba_Qwen/status/2101670814953455780"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;官方确认 ComfyUI 支持，新增原生 2K 生成与 RGBA 输出。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://youtube.com/watch?v=tP_gGGJzEqg&amp;amp;feature=youtu.be"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wl4xp2/qwen_image_21_releasing_tomorrow/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://qwen.ai/blog?id=qwen-image-2.1"&gt;千问新官网&lt;/a&gt; · &lt;a href="https://github.com/Comfy-Org/ComfyUI/pull/16400"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkhu40/qwen_image_21_pr_to_comfyui/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wkvqlj/qwen_image_21_1girl_examples/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://huggingface.co/Comfy-Org/Qwen-Image-2.1/tree/main"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://x.com/Alibaba_Qwen/status/2101670814953455780"&gt;原文&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI等四家公司遭付费用户提起反垄断诉讼</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 18 Sep 2026 15:25:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;3人团队利用前沿模型，以不到3000美元token成本，在72小时内入侵OpenAI员工账户。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/haider1/status/2100848578340220987"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>中山大学、南洋理工大学、混沌摆实验室提出 ProSA 多模态文档解析评测框架｜EMNLP 2026</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-18-10</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0d0d8bbf2ef7dc8bc2271331</guid>
-      <pubDate>Fri, 18 Sep 2026 14:50:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;ProSA 框架通过受控干扰对比解析结果，量化文档解析错误并评估其对问答的影响。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-18-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品</title>
-      <link>https://news.aibase.com/zh/news/31162</link>
-      <guid isPermaLink="false">urn:zhiyike:news:fca70bcd8e9cf379f22d0b71</guid>
-      <pubDate>Fri, 18 Sep 2026 14:28:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 披露 Claude 已主导内部 26% 研发工作，并运行约 3 万个 AI Agent。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31162"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Laya：基于RLCD的421M开源决策模型，超越所有Jev基准</title>
-      <link>https://huggingface.co/spaces/convaiinnovations/laya-demo</link>
-      <guid isPermaLink="false">urn:zhiyike:news:23c63da48eddd834a9bb7fa6</guid>
-      <pubDate>Fri, 18 Sep 2026 14:25:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;开发者发布Laya模型，采用RLCD训练，在多个基准上超越Jev，并提供在线演示。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/spaces/convaiinnovations/laya-demo"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>智谱推出高速推理模型 GLM-5.3-FlashX</title>
-      <link>https://mp.weixin.qq.com/s/ZJHhQrDeiwOGkkaqHw7kqA</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c848f8883bb04560ecb98adc</guid>
-      <pubDate>Fri, 18 Sep 2026 14:15:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;智谱发布GLM-5.3-FlashX，速度较Flash提升5倍，价格2.5倍，基于10万张国产芯片。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/ZJHhQrDeiwOGkkaqHw7kqA"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/glm-5-3-flashx/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
