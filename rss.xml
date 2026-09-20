@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 21 Sep 2026 05:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:17:00 +0800</lastBuildDate>
+    <item>
+      <title>特朗普提议将AI改名为“优越智能”或“极端智能”遭群嘲</title>
+      <link>https://www.irishstar.com/news/politics/trump-brutally-mocked-over-bizarre-37682446</link>
+      <guid isPermaLink="false">urn:zhiyike:news:025719225aa01979f48fd5dd</guid>
+      <pubDate>Mon, 21 Sep 2026 05:13:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;特朗普在Truth Social发起AI更名投票，并删除“最高智能”选项，引发网友嘲讽。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.irishstar.com/news/politics/trump-brutally-mocked-over-bizarre-37682446"&gt;irishstar.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wlt52p/trump_brutally_mocked_over_bizarre_effort_to/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Minimax H3 V2V CrossView-Warp LoRA：为现有视频片段改变镜头运动与角度</title>
+      <link>https://huggingface.co/Cseti/MiniMax-H3_Ref2VA-LoRA-CrossView-Warp_v1</link>
+      <guid isPermaLink="false">urn:zhiyike:news:74d66add4cde4684a5640c61</guid>
+      <pubDate>Mon, 21 Sep 2026 04:34:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;作者发布H3版CrossView-Warp LoRA，可改变现有视频的镜头运动。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Cseti/MiniMax-H3_Ref2VA-LoRA-CrossView-Warp_v1"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wls47m/change_the_camera_movementangle_for_your_existing/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故</title>
       <link>https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests</link>
@@ -16,6 +32,54 @@
       <pubDate>Mon, 21 Sep 2026 04:20:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Google承认Gemini在第三方安全评估中意外访问了3家真实公司系统，事件与OpenAI、Anthropic、Met&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>前沿AI实验室向华盛顿兜售垃圾：一场针对国会的骗局</title>
+      <link>https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage</link>
+      <guid isPermaLink="false">urn:zhiyike:news:fb4785f4dd23889999e4d97c</guid>
+      <pubDate>Mon, 21 Sep 2026 03:55:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;文章揭露AI实验室利用安全事件夸大威胁，以获取监管优势。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen3.8-Flash-Next本地运行：4xV620上3小时自动生成并调试3D游戏</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wlqxeu/qwen38flashnext_cosmic_arcade_oneshot_slop_game/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:139aba28e7ac98793eb25c5a</guid>
+      <pubDate>Mon, 21 Sep 2026 03:49:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Qwen3.8-Flash-Next在4xV620上本地运行，自动生成并调试3D游戏，持续3小时。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wlqxeu/qwen38flashnext_cosmic_arcade_oneshot_slop_game/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 选定埃森哲为首个嵌入式评估方，落实 Amodei 放缓 AI 发展提案</title>
+      <link>https://www.cnbc.com/amp/2026/09/18/anthropic-accenture-ai-safety.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a01a6b62b60855bde0200037</guid>
+      <pubDate>Mon, 21 Sep 2026 01:08:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 与埃森哲合作，投入至少 10 亿美元推进 AI 安全评估。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.cnbc.com/amp/2026/09/18/anthropic-accenture-ai-safety.html"&gt;cnbc.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wlmmf2/anthropic_selects_accenture_as_first_embedded/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen Image 2.1 初测：写实效果差，CFG 4-4.5 略有改善</title>
+      <link>https://postimg.cc/gallery/z1P0trR</link>
+      <guid isPermaLink="false">urn:zhiyike:news:692f17f6b077acaecb3621d5</guid>
+      <pubDate>Mon, 21 Sep 2026 00:52:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Reddit 用户测试 Qwen Image 2.1，写实图像质量差，调高 CFG 后稍好。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://postimg.cc/gallery/z1P0trR"&gt;postimg.cc&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wlm7n6/qwen_image_21_initial_testing/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用Claude做的最自豪的副业项目是什么？Reddit网友分享</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wlltzt/whats_your_proudest_sideproject_made_with_claude/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:87e190ad9cc2c669c65c56de</guid>
+      <pubDate>Mon, 21 Sep 2026 00:37:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit网友分享用Claude构建的个人工具，包括一个比Notion快100倍的克隆版。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wlltzt/whats_your_proudest_sideproject_made_with_claude/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>两年 Vibe Coding 经验：我每天在用的技术栈</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1wll2dj/ive_been_vibe_coding_for_two_years_heres_the_tech/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9acda85c77b012b243bffe44</guid>
+      <pubDate>Mon, 21 Sep 2026 00:08:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;作者分享两年 vibe coding 经验，推荐更稳固的技术栈替代常见新手组合。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wll2dj/ive_been_vibe_coding_for_two_years_heres_the_tech/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ChatGPT 通过广告收集器追踪用户在其他网站的活动</title>
@@ -744,70 +808,6 @@
       <pubDate>Fri, 18 Sep 2026 21:16:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;百度智能云称，具身智能技术路线未定，但基础设施需求已收敛，其全栈AI云已服务超50家企业。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492238.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>编码智能体 harness 设计实证研究：上下文管理、规划与动作空间的影响</title>
-      <link>https://arxiv.org/abs/2609.20804</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c9dc4d4be5b0c3377be681ff</guid>
-      <pubDate>Fri, 18 Sep 2026 21:06:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一篇 arXiv 论文通过 176 组对照实验，拆解编码智能体 harness 各组件的实际效果。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2609.20804"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ZCode 被曝静默上传 Git 历史，加密密钥仅 Z.ai 持有</title>
-      <link>https://tokenstead.ai/guides/zcode-silent-git-history-upload</link>
-      <guid isPermaLink="false">urn:zhiyike:news:daafb2606c8211152ecfc559</guid>
-      <pubDate>Fri, 18 Sep 2026 18:35:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Z.ai 的 AI 编程应用 ZCode 被逆向发现会加密上传用户完整 Git 历史，密钥仅服务端持有。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://tokenstead.ai/guides/zcode-silent-git-history-upload"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-18-13</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c56e07150e29bcce71739d11</guid>
-      <pubDate>Fri, 18 Sep 2026 18:29:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic用Claude优化30多个生物模型提速4倍，ScienceIDE开源将科学代码库转为AI学习环境。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-18-13"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>火山引擎×AMD助力砹脉营销（A.M.A）以Seedance重塑汽车营销新范式</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-18-11</link>
-      <guid isPermaLink="false">urn:zhiyike:news:88ab5817dfb728ef8a051c1a</guid>
-      <pubDate>Fri, 18 Sep 2026 18:12:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;三方合作利用AI生成球星IP广告，实现成本降低、周期缩短和资产沉淀。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-18-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen3.8-LiveTranslate发布：延迟降至2.3秒，API上线千问平台</title>
-      <link>https://qwen.ai/blog?id=qwen3.8-livetranslate</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cb15bb6360b7f89e4f696a34</guid>
-      <pubDate>Fri, 18 Sep 2026 17:30:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;新增Hybrid MoE架构、评测领先、视觉辅助、在线体验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://qwen.ai/blog?id=qwen3.8-livetranslate"&gt;原文&lt;/a&gt; · &lt;a href="https://mp.weixin.qq.com/s/Rc3CKdHAtA_NdVRN2RLuAg"&gt;橘鸦日报&lt;/a&gt; · &lt;a href="https://ai-bot.cn/qwen3-8-livetranslate/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Figure 让机器人第一次「空手」进陌生人家：不遥操，也不提前预习，进了家门就干活</title>
-      <link>https://www.ifanr.com/1680884?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1739fe6284f96c113d2252c3</guid>
-      <pubDate>Fri, 18 Sep 2026 17:05:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Figure AI 发布 Helix 2.5，在 30 个陌生家庭零样本测试，成功率 56%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1680884?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>订阅AI模型被降级，用户质疑OpenAI合同与法律边界</title>
-      <link>https://oag.ca.gov/node/608083?utm_source=chatgpt.com</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d948a959968884d1a40338a7</guid>
-      <pubDate>Fri, 18 Sep 2026 15:52:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户称订阅的AI模型被降级，质疑合同与法律问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://oag.ca.gov/node/608083?utm_source=chatgpt.com"&gt;oag.ca.gov&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wjju48/sorry_i_am_new_and_i_havent_read_any_find_prints/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ZCode 被指静默上传整个工作区 .git 记录至阿里云 OSS</title>
-      <link>https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:922fa15524e0e6a18e77023a</guid>
-      <pubDate>Fri, 18 Sep 2026 15:49:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;智谱 AI 编程应用 ZCode 被曝在登录后自动打包并加密上传用户完整 Git 历史至云端。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/"&gt;blog.ferstar.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wjjspd/zcode_was_allegedly_caught_uploading_workspacegit/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
