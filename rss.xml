@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 21 Sep 2026 07:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:16:00 +0800</lastBuildDate>
+    <item>
+      <title>Google开源Agentic编排器AX，支持有状态任务暂停与恢复</title>
+      <link>https://github.com/google/ax</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d51af028d8c4cb7b8c9602bc</guid>
+      <pubDate>Mon, 21 Sep 2026 09:04:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Google发布开源编排器AX，用于在Kubernetes集群上运行数十亿级自主Agent任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/google/ax"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WebCraftBench以真实交互和代码覆盖率评估AI网页应用</title>
+      <link>https://arxiv.org/abs/2609.15387</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8139db0b34792a2e7e79ad95</guid>
+      <pubDate>Mon, 21 Sep 2026 09:04:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;新基准用代码覆盖率引导交互测试，评估AI生成网页应用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2609.15387"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>智谱MaaS平台将上线数据内容不留存功能</title>
+      <link>https://mp.weixin.qq.com/s/e7kLxQKhkOrLdsmgyF5U0Q</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f29aeb8ff1d03edec1428afe</guid>
+      <pubDate>Mon, 21 Sep 2026 09:04:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;智谱MaaS平台即将推出数据不留存功能，用户可申请开通，增强隐私保护。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/e7kLxQKhkOrLdsmgyF5U0Q"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google 开源 AX：声明式智能体编排器，支持单集群数十亿任务</title>
+      <link>https://agentexecutor.io</link>
+      <guid isPermaLink="false">urn:zhiyike:news:eb16079c5030b9fe27e47640</guid>
+      <pubDate>Mon, 21 Sep 2026 06:32:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Google 发布开源 AX，用于大规模运行声明式智能体任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://agentexecutor.io"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>特朗普提议将AI改名为“优越智能”或“极端智能”遭群嘲</title>
       <link>https://www.irishstar.com/news/politics/trump-brutally-mocked-over-bizarre-37682446</link>
@@ -152,6 +184,14 @@
       <pubDate>Sun, 20 Sep 2026 20:20:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;作者认为聊天式大模型的智能错觉，本质是通灵师常用的冷读术的自动化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://softwarecrisis.dev/letters/llmentalist/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用Claude模拟油画、水彩、金箔等传统艺术材料，开发者发布iOS应用</title>
+      <link>https://apps.apple.com/app/id6806519927</link>
+      <guid isPermaLink="false">urn:zhiyike:news:73f93637412bb122b4b4bdf6</guid>
+      <pubDate>Sun, 20 Sep 2026 19:20:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者用Claude辅助实现多种传统艺术材料的数字模拟，并发布iOS应用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://apps.apple.com/app/id6806519927"&gt;apps.apple.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wlegk4/simulating_traditional_art_materials_with_claude/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策</title>
@@ -768,46 +808,6 @@
       <pubDate>Fri, 18 Sep 2026 23:25:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;作者从零构建的MiniMax H3工作流，支持多参考、LLM管道，并发布v1.1修复。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1wjt8q4/everything_is_melting_my_first_music_video_made/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://civitai.com/models/2947601/simply-advanced-minimax-h3"&gt;civitai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wk9qmg/simply_advanced_minimax_h3_workflow/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit用户因本地代理问题触发自动标记，账号遭永久停用</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1wjrx8a/account_deactivated_after_an_automated_flag_on_a/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:70a83613bd26a91f7aa6cdf7</guid>
-      <pubDate>Fri, 18 Sep 2026 22:34:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;CS学生因询问本地代理配置被AI误判为网络攻击，账号永久停用，申诉被自动拒绝。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wjrx8a/account_deactivated_after_an_automated_flag_on_a/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>研究团队用 Claude Opus 5 入侵 OpenAI，获 6500 美元漏洞赏金</title>
-      <link>https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1665b6670fab88002ec88c20</guid>
-      <pubDate>Fri, 18 Sep 2026 22:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;安全团队利用 Anthropic 的 Claude 攻破 OpenAI，暴露其防御漏洞并获赏金。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>免费开源DnD战役工具被r/DnD以“不允许AI”为由拒绝发布</title>
-      <link>https://pw-tf.github.io/taphou5e/v2/index.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:40e95a07b9157400e62cc16e</guid>
-      <pubDate>Fri, 18 Sep 2026 21:58:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;开发者自制免费DnD工具遭Reddit版块拒绝，去年同款曾获准发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://pw-tf.github.io/taphou5e/v2/index.html"&gt;pw-tf.github.io&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wjqywo/not_being_able_to_post_a_fully_free_and_open/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Justin Cormack 用 35 万行 Rust 复盘 AI Agent 评估：从证据开始</title>
-      <link>https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b0fbdb70c31deecf78c609d9</guid>
-      <pubDate>Fri, 18 Sep 2026 21:38:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Justin Cormack 分享用 AI 构建 35 万行 Rust 对象存储的经验，强调测试与证据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://tessl.io/blog/ai-agent-evaluation-starts-with-evidence"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>具身智能技术路线尚未定型，基础设施却先收敛</title>
-      <link>https://www.qbitai.com/2026/09/492238.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a454053efb727f8fa75befc7</guid>
-      <pubDate>Fri, 18 Sep 2026 21:16:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;百度智能云称，具身智能技术路线未定，但基础设施需求已收敛，其全栈AI云已服务超50家企业。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/492238.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
