@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 23 Sep 2026 03:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:16:00 +0800</lastBuildDate>
+    <item>
+      <title>Opus 5.5 与 GPT-6 Sol 同日发布：基准测试全面对比，Opus 全胜但成本更高</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wnk30g/opus_55_and_gpt6_sol_dropped_on_the_same_day_so_i/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e8b150afcb4fd19fac82f7c5</guid>
+      <pubDate>Wed, 23 Sep 2026 03:55:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 和 OpenAI 同日发布新模型，Opus 5.5 基准全胜，但 GPT-6 Sol 成本减半。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wnk30g/opus_55_and_gpt6_sol_dropped_on_the_same_day_so_i/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降</title>
+      <link>https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6bf072f26fb1cde2c9b15db0</guid>
+      <pubDate>Wed, 23 Sep 2026 03:41:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 发布 GPT-6 Sol 和 Luna，价格减半，智能指数持平，部分评测提升，部分回退。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价降低 50%</title>
+      <link>https://www.ithome.com/1/006/001.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a0d2120f9795b5039c577fbe</guid>
+      <pubDate>Wed, 23 Sep 2026 03:25:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 推出 GPT-6 Sol 和 Luna，性能接近 Astra，成本大幅降低。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/006/001.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>蚂蚁开源 Ming-Image-0.1-Design 系列 6B 图像模型，登顶 UI/UX 设计榜</title>
+      <link>https://huggingface.co/inclusionAI/Ming-Image-0.1-Design</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0abcfe445600018006700e58</guid>
+      <pubDate>Wed, 23 Sep 2026 03:06:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;蚂蚁开源 6B 图像模型及两个 Agent 技能，UI/UX 设计榜开源权重第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/inclusionAI/Ming-Image-0.1-Design"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wnipcz/new_6b_image_model_coming_antling_just_open/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Sam Altman将向联合国安理会简报AI，引发质疑</title>
       <link>https://garymarcus.substack.com/p/breaking-arsonist-to-write-fire-code</link>
@@ -18,28 +50,12 @@
       <description>&lt;p&gt;OpenAI CEO将向联合国安理会简报AI，引发对其资质和动机的质疑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/breaking-arsonist-to-write-fire-code"&gt;Gary Marcus 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sam Altman 称 GPT-6 Sol 和 Luna 按任务定价在市场上没有对手</title>
-      <link>https://x.com/sama/status/2102465143997440308</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f62603cef4a4b6a4c3f1270e</guid>
-      <pubDate>Wed, 23 Sep 2026 02:28:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Altman 称 GPT-6 系列性能大幅提升，价格减半，按任务计费无竞品。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sama/status/2102465143997440308"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 发布 GPT-6 Sol 与 Luna，API 价格永久下调 50%</title>
-      <link>https://x.com/thsottiaux/status/2102463847714247142</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1586527b5ed58f04074c0efb</guid>
-      <pubDate>Wed, 23 Sep 2026 02:23:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 推出 GPT-6 两个版本，并永久降价 50%，Plus/Pro/Business 用户获赠重置额度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2102463847714247142"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter</title>
+      <title>OpenAI发布GPT-6 Sol与Luna，性能大幅提升，API价格永久下调50%</title>
       <link>https://x.com/OpenRouter/status/2102463839283617992</link>
       <guid isPermaLink="false">urn:zhiyike:news:0b7130b5b3d48b0fc2f0aede</guid>
       <pubDate>Wed, 23 Sep 2026 02:23:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;OpenAI 新一代模型 GPT-6 Sol 和 Luna 已在 OpenRouter 上线，价格较前代减半。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenRouter/status/2102463839283617992"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-6性能大幅提升，API价格永久减半，订阅用户获赠额度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenRouter/status/2102463839283617992"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/thsottiaux/status/2102463847714247142"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/sama/status/2102465143997440308"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平</title>
@@ -56,6 +72,14 @@
       <pubDate>Wed, 23 Sep 2026 02:19:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;OpenAI 发布 GPT-6 Sol 和 Luna，API 价格较 GPT-5.6 降低一半。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sherwinwu/status/2102462783707344907"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unreal Agent：异步工具管理降低 AI Agent 成本，最高节省 40%</title>
+      <link>https://unreallabs.ai/blog/unreal-agent/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:084f7c04fe20df360e48c5f0</guid>
+      <pubDate>Wed, 23 Sep 2026 02:15:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Unreal Labs 推出 Unreal Agent，通过异步工具调用管理，在真实负载下比 Codex 节省最高 40&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://unreallabs.ai/blog/unreal-agent/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Agent时代，CPU的价值该重估了</title>
@@ -360,6 +384,14 @@
       <pubDate>Tue, 22 Sep 2026 10:22:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;浪潮信息在AICC 2026发布两款新品，分别提升智算能力上限与Token产能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/493363.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Minimax H3 用作图像编辑模型：ComfyUI 工作流设置疑问</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1wmwi9z/how_do_i_use_minimax_h3_as_an_image_edit_model/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d3638df10cb16fa0c6db899e</guid>
+      <pubDate>Tue, 22 Sep 2026 10:02:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户询问如何用 H3 生成单帧图像，并遇到条带问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wmwi9z/how_do_i_use_minimax_h3_as_an_image_edit_model/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini Notebook 开放 Interactive Learning Overviews</title>
@@ -776,38 +808,6 @@
       <pubDate>Mon, 21 Sep 2026 10:55:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Qwen 2.1 T2I与编辑工作流在Civitai发布，提供配置文件下载。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.com/models/2952669/qwen-21-t2i-and-edit-workflow"&gt;civitai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wm0t2f/qwen_21_t2i_edit_test/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布</title>
-      <link>https://www.qbitai.com/2026/09/493114.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a48a3d92cb0e5aacb96ba0e3</guid>
-      <pubDate>Mon, 21 Sep 2026 10:28:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;报告定义AIVC为生命科学新型基础设施，梳理技术路线与产业格局。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/493114.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>森海塞尔 MOMENTUM 5 体验：AI 时代的稳重选择</title>
-      <link>https://www.ifanr.com/1681181?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0855e39f73558020ce09d4bd</guid>
-      <pubDate>Mon, 21 Sep 2026 10:24:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;爱范儿深度体验森海塞尔 MOMENTUM 5，称其在音质、降噪与 AI 交互场景中找到平衡。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1681181?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>IDC评估中国AI算力管理平台：范式综合评分位列第一，四项关键维度获满分</title>
-      <link>https://www.qbitai.com/2026/09/493109.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4894c73b109fd7ece1c83c34</guid>
-      <pubDate>Mon, 21 Sep 2026 10:17:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;IDC最新评估显示，范式在AI算力管理平台综合评分第一，四项维度满分。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/493109.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ZCode 正式开源，已修复社区报告的安全问题</title>
-      <link>https://github.com/zai-org/ZCode</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f6835cb7990778834312b97e</guid>
-      <pubDate>Mon, 21 Sep 2026 10:09:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;ZCode 开源并完成安全修复，第三方评估确认数据已清零。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/zai-org/ZCode"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wlzvcx/zcode_is_now_open_source/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
