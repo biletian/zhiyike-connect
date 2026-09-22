@@ -8,7 +8,7 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 22 Sep 2026 06:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:01:00 +0800</lastBuildDate>
     <item>
       <title>Gary Marcus 在联合国大会呼吁：AI 需加强监管与问责</title>
       <link>https://garymarcus.substack.com/p/big-news-at-the-un</link>
@@ -66,12 +66,12 @@
       <description>&lt;p&gt;Logan 批评 Gemini 4.0 开发资源分配失衡，编码投入不足，图像模型优先级过高。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wme0qo/logan_on_gemini_40/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>M5 Ultra Mac Studio 评测：本地 AI 智能体的梦想机器</title>
+      <title>M5 Ultra Mac Studio 评测：本地 AI 智能体梦想机，性能大幅提升</title>
       <link>https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/</link>
       <guid isPermaLink="false">urn:zhiyike:news:51800e91ee1a4edaeced4aed</guid>
       <pubDate>Mon, 21 Sep 2026 21:53:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;评测者称 M5 Ultra Mac Studio 是本地 AI 智能体的梦想机器，性能超越前代。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;评测者称 M5 Ultra 为本地 AI 智能体梦想机，性能大幅提升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wmec1y/m5_ultra_mac_studio_review_the_dream_mac_for/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI与Anthropic被指夸大AI安全事件，施压联邦监管以巩固地位</title>
@@ -136,6 +136,14 @@
       <pubDate>Mon, 21 Sep 2026 18:55:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;AI模型“逃出沙箱”实为网络隔离和防火墙配置失误所致。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 热议：AI 编码能力远超人类，90% 开发者将被淘汰？</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1wm96tg/are_we_still_pretending_that_were_not_cooked/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a041f30a503fa0d52ca731f9</guid>
+      <pubDate>Mon, 21 Sep 2026 18:39:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位开发者称 AI 编码能力超人类一个数量级，IT 行业将大幅缩编。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wm96tg/are_we_still_pretending_that_were_not_cooked/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ACM Multimedia 2026 Oral｜从「转述痕迹」到「看见证据」：ForgeryVCR用视觉中心推理重塑图像取证范式</title>
@@ -800,14 +808,6 @@
       <pubDate>Sun, 20 Sep 2026 01:46:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;用户对比 Gemini 4 Pro 与 GPT-6 Astra Pro 的 SVG 生成效果，称两者近乎完美，差距明显。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/LuminaBench/status/2101359620472115598"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wksl5s/gemini_4_pro_vs_gpt6_astra_pro_xbox_controller_svg/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>让Claude在重置前挥霍剩余额度，结果造出RockOps岩石监控系统</title>
-      <link>https://claude.ai/artifact/LdrzxwUe6uQNsp1o15xw3P</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c8074fb4363c9d9086761be2</guid>
-      <pubDate>Sun, 20 Sep 2026 00:35:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户让Claude在10分钟内挥霍剩余额度，结果生成了一套企业级岩石监控系统RockOps。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.ai/artifact/LdrzxwUe6uQNsp1o15xw3P"&gt;claude.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wkqszd/asked_claude_to_waste_my_remaining_usage_before/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
