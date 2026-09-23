@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 23 Sep 2026 06:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:47:00 +0800</lastBuildDate>
+    <item>
+      <title>Qwen 2.1 数据集生成器：基于 ComfyUI 工作流适配，保持人物身份一致性</title>
+      <link>https://civitai.red/models/2957451/dataset-generator-qwen21</link>
+      <guid isPermaLink="false">urn:zhiyike:news:44cd113fc49760c6c2cb1e5a</guid>
+      <pubDate>Wed, 23 Sep 2026 04:45:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Reddit 用户分享适配 Qwen-Image 2.1 的数据集生成工作流，可免费生成人脸数据集。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.red/models/2957451/dataset-generator-qwen21"&gt;civitai.red&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wnlgko/qwen_21_dataset_generator/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opus 5.5 初体验：一位训练有素哲学家的印象</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wnkgie/opus_55_first_impressions_by_a_trained_philosopher/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:24d770bba57c094641875216</guid>
+      <pubDate>Wed, 23 Sep 2026 04:08:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;哲学家以苏格拉底式提问测试 Opus 5.5，称其更流畅、敢于挑战用户。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wnkgie/opus_55_first_impressions_by_a_trained_philosopher/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Opus 5.5 与 GPT-6 Sol 同日发布：基准测试全面对比，Opus 全胜但成本更高</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1wnk30g/opus_55_and_gpt6_sol_dropped_on_the_same_day_so_i/</link>
@@ -16,14 +32,6 @@
       <pubDate>Wed, 23 Sep 2026 03:55:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic 和 OpenAI 同日发布新模型，Opus 5.5 基准全胜，但 GPT-6 Sol 成本减半。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wnk30g/opus_55_and_gpt6_sol_dropped_on_the_same_day_so_i/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Artificial Analysis 评测 GPT-6 Sol 和 Luna：成本减半但各评测有升有降</title>
-      <link>https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6bf072f26fb1cde2c9b15db0</guid>
-      <pubDate>Wed, 23 Sep 2026 03:41:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 发布 GPT-6 Sol 和 Luna，价格减半，智能指数持平，部分评测提升，部分回退。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 促销价降低 50%</title>
@@ -50,20 +58,12 @@
       <description>&lt;p&gt;OpenAI CEO将向联合国安理会简报AI，引发对其资质和动机的质疑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/breaking-arsonist-to-write-fire-code"&gt;Gary Marcus 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI发布GPT-6 Sol与Luna，性能大幅提升，API价格永久下调50%</title>
-      <link>https://x.com/OpenRouter/status/2102463839283617992</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0b7130b5b3d48b0fc2f0aede</guid>
-      <pubDate>Wed, 23 Sep 2026 02:23:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;GPT-6性能大幅提升，API价格永久减半，订阅用户获赠额度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenRouter/status/2102463839283617992"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/thsottiaux/status/2102463847714247142"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/sama/status/2102465143997440308"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平</title>
+      <title>GPT-6 Sol/Luna 成本减半，智能持平，评测有升有降</title>
       <link>https://x.com/ArtificialAnlys/status/2102462962758033624</link>
       <guid isPermaLink="false">urn:zhiyike:news:daa7f23b240450da962efaa6</guid>
       <pubDate>Wed, 23 Sep 2026 02:20:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;GPT-6 系列成本大幅降低，智能指数持平，但部分评测有升有降。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ArtificialAnlys/status/2102462962758033624"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>产品</category>
+      <description>&lt;p&gt;GPT-6 成本减半，智能持平，评测有升有降&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ArtificialAnlys/status/2102462962758033624"&gt;原文&lt;/a&gt; · &lt;a href="https://artificialanalysis.ai/articles/gpt-6-sol-and-luna-push-the-cost-efficiency-frontier"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%</title>
@@ -71,7 +71,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:de9bc6bf35ab1378d095b7d3</guid>
       <pubDate>Wed, 23 Sep 2026 02:19:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;OpenAI 发布 GPT-6 Sol 和 Luna，API 价格较 GPT-5.6 降低一半。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sherwinwu/status/2102462783707344907"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;GPT-6 Sol和Luna发布，性能大幅提升，API价格永久减半，订阅用户获赠额度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/sherwinwu/status/2102462783707344907"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/OpenRouter/status/2102463839283617992"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/thsottiaux/status/2102463847714247142"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/sama/status/2102465143997440308"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unreal Agent：异步工具管理降低 AI Agent 成本，最高节省 40%</title>
@@ -80,6 +80,14 @@
       <pubDate>Wed, 23 Sep 2026 02:15:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Unreal Labs 推出 Unreal Agent，通过异步工具调用管理，在真实负载下比 Codex 节省最高 40&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://unreallabs.ai/blog/unreal-agent/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户质疑：这些评论全是 AI 机器人发的吗？</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wnf162/am_i_going_insane_for_thinking_that_these_are_all/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:00438339d1cf3a020e06907a</guid>
+      <pubDate>Wed, 23 Sep 2026 00:56:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户发帖怀疑评论区大量 AI 生成内容，附截图求证。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wnf162/am_i_going_insane_for_thinking_that_these_are_all/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Agent时代，CPU的价值该重估了</title>
@@ -402,6 +410,14 @@
       <description>&lt;p&gt;Gemini Notebook 推出交互式学习概览，所有用户可用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/Gemini_Notebook/status/2102112369677844967"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OpenAI 解错了纳维-斯托克斯问题？百万美元证明被指利用漏洞</title>
+      <link>https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d764d01cdf3158a438317f27</guid>
+      <pubDate>Tue, 22 Sep 2026 08:24:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 的纳维-斯托克斯证明被指利用外力漏洞，未解决核心问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Qwen 2.1 实现人脸/头部替换：无需蒙版，仅靠提示词</title>
       <link>https://www.reddit.com/r/comfyui/comments/1wmuasu/facehead_swap_with_qwen_21/</link>
       <guid isPermaLink="false">urn:zhiyike:news:b065320b24c69a332b9ee909</guid>
@@ -479,7 +495,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:da31183c2e764be426050421</guid>
       <pubDate>Tue, 22 Sep 2026 04:51:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;小米开源 9B 智能体模型，基于 Qwen3.5 微调，覆盖代码、智能体、视觉编码与网络安全。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wmp2di/xiaomimimomimov26distillqwen9b/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;小米开源 9B 智能体模型，基于 Qwen3.5 微调，覆盖代码、智能体、视觉编码与网络安全。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wmp2di/xiaomimimomimov26distillqwen9b/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wmtjqu/mimov26_distilled_themselves_into_qwen_9b/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wn59vj/xiaomimimomimov26distillqwen9b_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>美国政府首次批准专用语音AI供应商，联邦电话系统将迎升级</title>
@@ -792,22 +808,6 @@
       <pubDate>Mon, 21 Sep 2026 11:23:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;快看推出AI互动叙事产品Livo，用户进入持续运转的故事世界，NPC拥有记忆和情感。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-21-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 准备推出新 Codex Cloud：集成 Tailscale 与 Azure 工作负载身份</title>
-      <link>https://runtimewire.com/article/openai-is-preparing-a-new-codex-cloud-with-tailscale-and-azure-workload-identity</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4ad2a30f9b89ed73ced0ae79</guid>
-      <pubDate>Mon, 21 Sep 2026 11:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 桌面版代码显示正在开发新 Codex Cloud，支持 Tailscale 和云身份。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://runtimewire.com/article/openai-is-preparing-a-new-codex-cloud-with-tailscale-and-azure-workload-identity"&gt;runtimewire.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wm0xb6/openai_is_preparing_a_new_codex_cloud_with/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen 2.1 T2I与编辑工作流发布：支持文本生成图像与编辑</title>
-      <link>https://civitai.com/models/2952669/qwen-21-t2i-and-edit-workflow</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b1b189502f55524eb0d481dc</guid>
-      <pubDate>Mon, 21 Sep 2026 10:55:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Qwen 2.1 T2I与编辑工作流在Civitai发布，提供配置文件下载。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.com/models/2952669/qwen-21-t2i-and-edit-workflow"&gt;civitai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wm0t2f/qwen_21_t2i_edit_test/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
