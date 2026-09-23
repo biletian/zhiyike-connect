@@ -8,7 +8,63 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 23 Sep 2026 18:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 23:01:00 +0800</lastBuildDate>
+    <item>
+      <title>从训练数据到科研验证，沐晨科技押注AI时代的新基础设施</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-09-23-8</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0db0986a56b009804d7fff6f</guid>
+      <pubDate>Wed, 23 Sep 2026 22:10:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;沐晨科技以长周期数据工程切入科研与商业双赛道，参与ScienceBuddy等联合研发。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-23-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3 Diarization：实时多说话人语音分离，100M参数登顶基准</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-diarization</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0c95f635abc404797fbe94cd</guid>
+      <pubDate>Wed, 23 Sep 2026 21:17:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;NVIDIA发布100M参数开源模型，实时区分八位说话人，登顶Diarization-Bench。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/nvidia/nemotron-diarization"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>致特朗普总统：与习近平会面时，AI合作才是真正能让你载入史册的协议</title>
+      <link>https://garymarcus.substack.com/p/dear-president-trump-heres-a-deal</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3c78d46be2355754aba0375e</guid>
+      <pubDate>Wed, 23 Sep 2026 20:43:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Gary Marcus 致信特朗普，建议美中在AI领域合作而非放缓，称中国已表态愿合作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/dear-president-trump-heres-a-deal"&gt;Gary Marcus 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code 仅在遥测开启时读取 AGENTS.md，关闭遥测则静默跳过</title>
+      <link>https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:09c5ff6bb29f808d8e483042</guid>
+      <pubDate>Wed, 23 Sep 2026 20:15:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Claude Code 的 AGENTS.md 支持依赖远程开关，关闭遥测或非必要流量时文件被静默忽略。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧</title>
+      <link>https://www.qbitai.com/2026/09/496609.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5537748e9e0cbcc7117c5f2d</guid>
+      <pubDate>Wed, 23 Sep 2026 18:35:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;联想天禧AI在云栖大会展示全场景多端产品，提出端侧AI新范式，AI主机7×24小时在线支撑超级组织。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/496609.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>杭州一小伙3天搓出100个作品冲击百万大奖，支付宝:别急</title>
+      <link>https://news.aibase.com/zh/news/31315</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8b9f61eacd9d63ede4b8af41</guid>
+      <pubDate>Wed, 23 Sep 2026 18:08:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;支付宝设千万奖池征集智能体，小伙3天提交百个作品，官方回应大奖明年才评。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31315"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”</title>
+      <link>https://www.qbitai.com/2026/09/496493.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b7b29f8a598ac48509c255f2</guid>
+      <pubDate>Wed, 23 Sep 2026 17:50:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;汇智智能推出Hellome平台，FDE直连客户，将AI落地周期压缩至周级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/496493.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖</title>
       <link>https://news.aibase.com/zh/news/31313</link>
@@ -82,6 +138,14 @@
       <description>&lt;p&gt;Anthropic 与 OpenEvidence 合作，将临床决策支持工具免费提供给约100个中低收入国家的医生。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31299"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Luna 6 相比 5.6 大幅降级：遗漏关键细节，回答更不实用</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wnxg0n/luna_6_is_a_massive_downgrade_over_luna_56_misses/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:23639f3849f17be0c52ed448</guid>
+      <pubDate>Wed, 23 Sep 2026 13:48:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;开发者实测发现 Luna 6 在多项评估中表现不如 5.6，回答更懒散。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wnxg0n/luna_6_is_a_massive_downgrade_over_luna_56_misses/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Win11 惊现 AI 恶意软件 ClosedQuorum：入侵后自主决策，专挖最有价值信息</title>
       <link>https://news.aibase.com/zh/news/31297</link>
       <guid isPermaLink="false">urn:zhiyike:news:74c3685e9dc2f3b8f13faea4</guid>
@@ -114,12 +178,20 @@
       <description>&lt;p&gt;影眸Hyper3D推出Agentic Mode，3D生成从Production-Ready转向Agent-Ready。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/496170.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>DeepSeek与月之暗面遭北京调查：被指将用户数据路由至Anthropic</title>
+      <link>https://www.thestandard.com.hk/innovation/article/343563/DeepSeek-and-Moonshot-AI-face-Beijings-probe-over-potential-data-leaks-to-Anthropic</link>
+      <guid isPermaLink="false">urn:zhiyike:news:30a36f7e90388d3e6f31a61c</guid>
+      <pubDate>Wed, 23 Sep 2026 11:49:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;中国网信办调查DeepSeek和月之暗面，指控其将用户数据路由至Anthropic Claude，可能泄露敏感信息。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.thestandard.com.hk/innovation/article/343563/DeepSeek-and-Moonshot-AI-face-Beijings-probe-over-potential-data-leaks-to-Anthropic"&gt;thestandard.com.hk&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wnv85k/deepseek_and_moonshot_ai_face_beijings_probe_over/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>阿里千问AI平台全面升级模型服务、Agent服务、AI应用</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-09-23-5</link>
       <guid isPermaLink="false">urn:zhiyike:news:d81f4c37946b0784c852874c</guid>
       <pubDate>Wed, 23 Sep 2026 11:41:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;阿里千问AI平台升级，新增Agent Studio等，推动Agent进入生产。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-23-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;阿里千问AI平台升级，新增Agent Studio等，推动Agent进入生产。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-23-5"&gt;机器之心&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/09/496301.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>李飞飞谈 AI 安全：不能只让开发者评估自己的系统</title>
@@ -154,12 +226,12 @@
       <description>&lt;p&gt;Anthropic 发布 Claude Opus 5.5，性能接近 Fable 5.1，价格降低 20%，速度提升 30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1681629?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>PixVerse公布实时世界模型R2，支持提示词控制与编辑</title>
+      <title>爱诗科技发布PixVerse R2实时世界模型，实现实时与通用能力兼得</title>
       <link>https://x.com/PixVerse/status/2102404266484989983</link>
       <guid isPermaLink="false">urn:zhiyike:news:09b0b436cd4a9977f694565c</guid>
       <pubDate>Wed, 23 Sep 2026 09:44:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;PixVerse发布实时世界模型R2，可用提示词控制编辑世界，角色有记忆。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/PixVerse/status/2102404266484989983"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;PixVerse R2新增Scaling五维度协同增长，先放大能力再实时化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/PixVerse/status/2102404266484989983"&gt;橘鸦日报&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-23-6"&gt;机器之心&lt;/a&gt; · &lt;a href="https://mp.weixin.qq.com/s/YeMNZiVkVLux6VEAeySgdQ?scene=1"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/pixverse-r2/"&gt;AI 工具集原文&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/09/496329.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>阿里巴巴披露Qwen4路线图，多款型号即将推出</title>
@@ -216,6 +288,14 @@
       <pubDate>Wed, 23 Sep 2026 08:56:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Q2美国45个数据中心项目因公众反对受阻，总值680亿美元，占追踪项目一半以上。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31279"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>实测 Qwen-Image-2.1：提示词遵循度惊人，轻松生成业余手机摄影风格</title>
+      <link>https://civitai.red/models/1662740/lenovo-ultrareal?modelVersionId=3349565</link>
+      <guid isPermaLink="false">urn:zhiyike:news:95526091dcef0c0cf8edb1d8</guid>
+      <pubDate>Wed, 23 Sep 2026 08:30:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Reddit 用户实测 Qwen-Image-2.1，称赞其提示词遵循度，并分享工作流与 LoRA。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.red/models/1662740/lenovo-ultrareal?modelVersionId=3349565"&gt;civitai.red&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wnqy2k/tried_out_qwenimage21_today_and_the_prompt/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude 回归：Opus 5.5 重拾协作体验，用户称终于找回真实 Claude</title>
@@ -728,86 +808,6 @@
       <pubDate>Tue, 22 Sep 2026 03:43:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;一篇用 GPT-2 小模型可视化讲解 Transformer 架构的教程，覆盖嵌入、自注意力等核心概念。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://poloclub.github.io/transformer-explainer/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>华为暂停全球AI芯片发布，国内需求超供应，AMD与英伟达暂无需担忧</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-shelves-global-ai-chip-rollout-as-chinas-own-demand-outstrips-supply-15-488-chip-atlas-clusters-leverage-optical-networking-to-counter-nvidia-scales-to-120-eflops</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b397664d2239e198a17b244b</guid>
-      <pubDate>Tue, 22 Sep 2026 03:09:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;华为因产能不足，Ascend 900系列AI芯片仅限中国供应，暂不全面拓展国际市场。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-shelves-global-ai-chip-rollout-as-chinas-own-demand-outstrips-supply-15-488-chip-atlas-clusters-leverage-optical-networking-to-counter-nvidia-scales-to-120-eflops"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wmm89l/huawei_shelves_global_ai_chip_rollout_as_chinas/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Grok 4.7 评测：智能指数 46 分，编码代理 56 分，AA-Briefcase 1657 Elo 跻身前沿</title>
-      <link>https://x.com/ArtificialAnlys/status/2102074898327932987</link>
-      <guid isPermaLink="false">urn:zhiyike:news:34a23c607704eecc265fd44c</guid>
-      <pubDate>Tue, 22 Sep 2026 00:38:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Grok 4.7 评测新增细节：AA-Briefcase 提升 111 Elo，编码组件得分全面上升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ArtificialAnlys/status/2102074898327932987"&gt;原文&lt;/a&gt; · &lt;a href="https://artificialanalysis.ai/articles/benchmarking-grok-4-7"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>RetroChimera：融合双模型与重排序，提升小分子逆合成预测能力</title>
-      <link>https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4fb5e05e09a49a0cd5270c39</guid>
-      <pubDate>Mon, 21 Sep 2026 23:30:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;微软研究院发布RetroChimera逆合成模型，结合两种互补模型提升合成路线预测质量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/"&gt;微软研究院&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Supra2-IMG：100M参数文生图模型，单卡H100训练10小时，开源发布</title>
-      <link>https://huggingface.co/SupraLabs/Supra2-IMG</link>
-      <guid isPermaLink="false">urn:zhiyike:news:105ac59a215c43647797319a</guid>
-      <pubDate>Mon, 21 Sep 2026 23:29:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;SupraLabs发布100M参数文生图模型Supra2-IMG，单卡H100训练不足10小时，支持本地运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/SupraLabs/Supra2-IMG"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wmg1pb/massive_release_supra2img_a_tiny_100m_texttoimage/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Logan 评 Gemini 4.0：编码投入不足，图像模型优先级过高</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1wme0qo/logan_on_gemini_40/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f998e6b28480cd8617ff2b7a</guid>
-      <pubDate>Mon, 21 Sep 2026 22:14:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Logan 批评 Gemini 4.0 开发资源分配失衡，编码投入不足，图像模型优先级过高。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wme0qo/logan_on_gemini_40/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>M5 Ultra Mac Studio 评测：本地 AI 智能体梦想机，性能大幅提升</title>
-      <link>https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:51800e91ee1a4edaeced4aed</guid>
-      <pubDate>Mon, 21 Sep 2026 21:53:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;评测者称 M5 Ultra 为本地 AI 智能体梦想机，性能大幅提升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wmec1y/m5_ultra_mac_studio_review_the_dream_mac_for/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI与Anthropic被指夸大AI安全事件，施压联邦监管以巩固地位</title>
-      <link>https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ee0468148b6d75526370e524</guid>
-      <pubDate>Mon, 21 Sep 2026 21:50:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;内部人士称两家公司夸大AI黑客事件，推动监管以排挤竞争对手。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/"&gt;nypost.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wmddek/openai_and_anthropic_oversold_ai_security/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>新 Mac mini 首发实测：我的第一台「多 Agent」电脑</title>
-      <link>https://www.ifanr.com/1681211?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6ccca0427d27b59b16329a22</guid>
-      <pubDate>Mon, 21 Sep 2026 21:06:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;爱范儿实测新 Mac mini，验证其作为本地大模型与多 Agent 持续运行主机的实际能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1681211?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Linear 重构 CI 流程应对 AI 编码带来的验证瓶颈，PR 等待时间从 6 分钟降至 5 分钟</title>
-      <link>https://linear.app/now/ci-bottleneck-reworked</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e79378a4f2c8cdff91b332dd</guid>
-      <pubDate>Mon, 21 Sep 2026 20:26:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Linear通过多项优化将PR等待降至5分钟，并节省大量CI资源。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://linear.app/now/ci-bottleneck-reworked"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>16GB（多数情况下12GB）是大多数人合理拥有的最大显存</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wmb875/16gb_and_in_many_cases_12gb_is_the_max_vram_most/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:78a35c62d7b85c2d8e2e598f</guid>
-      <pubDate>Mon, 21 Sep 2026 20:21:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 讨论指出，多数用户显存上限为 16GB，12GB 在部分地区已是奢侈。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wmb875/16gb_and_in_many_cases_12gb_is_the_max_vram_most/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
