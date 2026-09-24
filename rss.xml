@@ -8,7 +8,7 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 24 Sep 2026 06:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:31:00 +0800</lastBuildDate>
     <item>
       <title>Fireworks Research 发布 Ember-1，以更少推理 token 保持 Kimi K3 质量</title>
       <link>https://fireworks.ai/blog/ember-1</link>
@@ -16,6 +16,22 @@
       <pubDate>Thu, 24 Sep 2026 05:40:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Fireworks 推出基于 Kimi K3 的专用模型 Ember-1，推理 token 减少 40%，质量不变。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://fireworks.ai/blog/ember-1"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 的承重接缝：从表面问题到结构性真相的重新校准</title>
+      <link>https://madradavid.com/claudes-load-bearing-seams/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e6f5da640ef1c1c25b1f1484</guid>
+      <pubDate>Thu, 24 Sep 2026 05:31:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Claude 反思其分析框架过窄，指出承重接缝揭示了被忽略的结构性约束。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://madradavid.com/claudes-load-bearing-seams/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VSCode 的 SSH 远程编辑机制：SSH Agent 为何如此疯狂（2025）</title>
+      <link>https://fly.io/blog/vscode-ssh-wtf/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5de6b878c560d5cb823c8aa7</guid>
+      <pubDate>Thu, 24 Sep 2026 05:01:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;VSCode 远程编辑通过 SSH 下载 Node 代理并建立 WebSocket，引发安全担忧。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://fly.io/blog/vscode-ssh-wtf/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>团队分享提升 Agent Harness Token 效率的提示词</title>
@@ -55,7 +71,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:a4ae04cae12c52a463a24461</guid>
       <pubDate>Thu, 24 Sep 2026 02:27:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;949个Claude agent在21.5小时内发现新型ART酶系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/rohanpaul_ai/status/2102832068157984990"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude 自主发现新型 ART 酶系统，获张锋好评。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/rohanpaul_ai/status/2102832068157984990"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动</title>
@@ -168,6 +184,14 @@
       <pubDate>Wed, 23 Sep 2026 20:15:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Claude Code 的 AGENTS.md 支持依赖远程开关，关闭遥测或非必要流量时文件被静默忽略。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cursor 发布 Rollouts 和 Security Reviewer 开发机器人</title>
+      <link>https://cursor.com/blog/rollouts-and-security-reviewer</link>
+      <guid isPermaLink="false">urn:zhiyike:news:26e291ae4a29fbeeb5c43441</guid>
+      <pubDate>Wed, 23 Sep 2026 20:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Cursor 推出两款自动化开发机器人，分别负责部署监控回滚与代码安全审查修复。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://cursor.com/blog/rollouts-and-security-reviewer"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ringg 用 OpenAI 模型构建 AI 客服代理，解决 65% 来电，成本降 90%</title>
@@ -784,30 +808,6 @@
       <pubDate>Tue, 22 Sep 2026 13:17:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;openJiuwen发布开源Agent资产平台，将技能、连接器等五类能力资产化，支持上传下载共享。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-22-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>阿里研究员透露Qwen4.5后模型将扩展至5-10T参数</title>
-      <link>https://www.qbitai.com/2026/09/493629.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d28f3c6a4b2012f39df6a9cb</guid>
-      <pubDate>Tue, 22 Sep 2026 11:48:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;阿里在云栖大会透露，未来千问大模型参数将扩展至5-10T，Qwen4已开始训练。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/493629.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中</title>
-      <link>https://www.qbitai.com/2026/09/493625.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6861d55b0a00954603a9ea90</guid>
-      <pubDate>Tue, 22 Sep 2026 11:42:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;阿里在2026云栖大会披露Qwen4、下代视频模型等训练进展，多模态模型全面升级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/493625.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>腾讯混元发布Hy Image3.5 preview，盲测持平Seedream 5.0 pro</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-22-7</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e044eec411a521a87249753a</guid>
-      <pubDate>Tue, 22 Sep 2026 11:16:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Hy Image3.5 preview盲测持平Seedream 5.0 pro，人像修图请求量翻倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-22-7"&gt;机器之心&lt;/a&gt; · &lt;a href="https://mp.weixin.qq.com/s/4lWw-2EfQxkkzbs2-mXB9A"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/hy-image3-5-preview/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
