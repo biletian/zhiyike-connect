@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 24 Sep 2026 18:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 23:16:00 +0800</lastBuildDate>
+    <item>
+      <title>NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集</title>
+      <link>https://blogs.nvidia.com/blog/open-protein-dataset</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ced802a7f7c3fe3ac3c071a5</guid>
+      <pubDate>Thu, 24 Sep 2026 22:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;开放超2800种病毒蛋白复合物预测结构，助力疫情应对。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blogs.nvidia.com/blog/open-protein-dataset"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>00 后开发者，给我安利了这几个超好用的鸿蒙新能力</title>
       <link>https://www.ifanr.com/1682109?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -16,6 +24,14 @@
       <pubDate>Thu, 24 Sep 2026 17:58:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;三位00后鸿蒙开发者分享AI在开发中的帮助及细节打磨。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1682109?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI承包商因用AI训练ChatGPT被解雇：人类反馈不可替代</title>
+      <link>https://www.tomsguide.com/ai/openai-contractors-were-reportedly-fired-for-using-ai-to-train-chatgpt-heres-how-they-got-caught?utm_source=chatgpt.com</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f41e09b9f68b8631aff266d7</guid>
+      <pubDate>Thu, 24 Sep 2026 17:44:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI承包商因使用AI完成标注工作被解雇，AI检测器未参与识别。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomsguide.com/ai/openai-contractors-were-reportedly-fired-for-using-ai-to-train-chatgpt-heres-how-they-got-caught?utm_source=chatgpt.com"&gt;tomsguide.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wox93g/human_in_the_loop_has_left_the_chat/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动</title>
@@ -106,6 +122,14 @@
       <description>&lt;p&gt;腾讯发布一站式翻译助手Hy翻译，覆盖33种语言及离线翻译，面向出境游等场景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31345"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>CLM开源模型对比JEV：功能持平，速度提升4-13倍</title>
+      <link>https://github.com/Contrastive-LM/CLM</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e3fae11b7d6323721c822b4d</guid>
+      <pubDate>Thu, 24 Sep 2026 14:40:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开源CLM模型宣称全面兼容JEV接口，速度提升4-13倍，但零样本泛化略逊。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Contrastive-LM/CLM"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wouby6/jev_almost_dead_clm_vs_jev/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>智元第两万台远征A3 Ultra下线交付长隆，六千台半年填满，具身机器人第一次在主题乐园里常态上岗</title>
       <link>https://news.aibase.com/zh/news/31344</link>
       <guid isPermaLink="false">urn:zhiyike:news:72714009a57e610979110629</guid>
@@ -154,6 +178,14 @@
       <description>&lt;p&gt;新增开源地址、文档及RLinf-USER论文信息。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/496767.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-24-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Multishot动漫风格序列：用Minimax H3 Ref2Vid生成多镜头动画</title>
+      <link>https://drive.google.com/file/d/1M1XgXv8h4NQDSikVpAebB7FGu-TeHZQT/view?usp=drive_link</link>
+      <guid isPermaLink="false">urn:zhiyike:news:54e9d971ff27d03fea5813ed</guid>
+      <pubDate>Thu, 24 Sep 2026 11:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit用户用Minimax H3 Ref2Vid为每个镜头生成参考图，制作了12秒动漫蒙太奇，验证了角色和风格一致&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://drive.google.com/file/d/1M1XgXv8h4NQDSikVpAebB7FGu-TeHZQT/view?usp=drive_link"&gt;drive.google.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1woray9/multishot_anime_style_sequence_using_minimax_h3/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Gemini 4 Pro 预览版临近发布，早期版本性能或不及正式版</title>
       <link>https://www.theinformation.com/articles/google-nears-release-flagship-gemini-4-ai-model</link>
       <guid isPermaLink="false">urn:zhiyike:news:b4a619bad62ab19b726b92a4</guid>
@@ -184,14 +216,6 @@
       <pubDate>Thu, 24 Sep 2026 11:02:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI与Grab合作，为司机、商户和骑手提供ChatGPT技能培训，计划两年培训3万人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31333"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>​Claude 自主发现全新类 CRISPR DNA 酶系统，彻底改写生命科学科研范式</title>
-      <link>https://news.aibase.com/zh/news/31331</link>
-      <guid isPermaLink="false">urn:zhiyike:news:372505ac1aa20c62fc211d9f</guid>
-      <pubDate>Thu, 24 Sep 2026 10:53:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 用 950 个 AI Agent 集群，21 小时自主发现全新 DNA 酶系统 ART。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31331"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>从AI Build AI到真正RSI：这场张江塔尖会把「自进化」拆到细节</title>
@@ -410,12 +434,12 @@
       <description>&lt;p&gt;Cursor官方博客披露优化细节，包括系统提示词削减66%等。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ericzakariasson/status/2102853511637774551"&gt;原文&lt;/a&gt; · &lt;a href="https://cursor.com/blog/improved-token-efficiency"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍</title>
+      <title>Anthropic 详解 Claude 辅助两周提速 claude.ai 3倍：新增多旅程性能数据与优化细节</title>
       <link>https://claude.dev/blog/how-we-made-claude-ai-faster</link>
       <guid isPermaLink="false">urn:zhiyike:news:6b2dc7a44a8af4dfaa8cfa94</guid>
       <pubDate>Thu, 24 Sep 2026 03:23:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;Anthropic 用 Claude 辅助，两周内将 claude.ai 核心体验提速约 3 倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.dev/blog/how-we-made-claude-ai-faster"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;补充 Claude Code 会话提速、静态 composer、V8 缓存等新细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.dev/blog/how-we-made-claude-ai-faster"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic CEO 详述 Claude 发现新型基因编辑酶系统，基于逆转录酶并展望 AI 驱动生物医学</title>
@@ -439,7 +463,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:a4ae04cae12c52a463a24461</guid>
       <pubDate>Thu, 24 Sep 2026 02:27:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;Claude 自主发现新型 ART 酶系统，获张锋好评。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/rohanpaul_ai/status/2102832068157984990"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/AnthropicAI/status/2102824959827742916"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1woe138/claude_discovered_a_novel_enzyme_system_with/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Claude 自主发现新型 ART 酶系统，获张锋好评。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/rohanpaul_ai/status/2102832068157984990"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/AnthropicAI/status/2102824959827742916"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1woe138/claude_discovered_a_novel_enzyme_system_with/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/31331"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ChatGPT Voice升级：可调用邮件日历Slack插件，由GPT-6 Astra/Sol/Luna驱动</title>
@@ -578,12 +602,12 @@
       <description>&lt;p&gt;Ringg 基于 OpenAI 模型构建客服代理，解决 65% 来电，成本降 90%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/ringg"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI CEO 在联合国安理会发言：AI 应增强人类能力并确保安全可控</title>
+      <title>OpenAI CEO联合国安理会演讲：AI双刃剑，呼吁建立评估与监督标准</title>
       <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
       <guid isPermaLink="false">urn:zhiyike:news:deb6b77ca4eccd1bd20b0b09</guid>
       <pubDate>Wed, 23 Sep 2026 20:00:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;OpenAI CEO 在联合国安理会讨论 AI 的机遇与风险，强调国际合作与安全。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/sam-altman-un-security-council-remarks"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>事件</category>
+      <description>&lt;p&gt;奥尔特曼呼吁建立AI能力评估与人类监督标准，强调民主治理。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/sam-altman-un-security-council-remarks"&gt;OpenAI&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/31328"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧</title>
@@ -784,30 +808,6 @@
       <pubDate>Wed, 23 Sep 2026 10:25:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Anthropic 发布 Claude Opus 5.5，性能接近 Fable 5.1，价格降低 20%，速度提升 30&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1681629?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>观点：GPT-6 Sol 定价减半，应对比 Sonnet 而非 Opus</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1wntdu3/theory_sol_is_the_new_terra_and_should_be/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:931eda7152f04c158a6da4a6</guid>
-      <pubDate>Wed, 23 Sep 2026 10:20:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户认为 Sol 降价后定位清晰，Anthropic 产品线混乱。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wntdu3/theory_sol_is_the_new_terra_and_should_be/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>爱诗科技发布PixVerse R2实时世界模型，实现实时与通用能力兼得</title>
-      <link>https://x.com/PixVerse/status/2102404266484989983</link>
-      <guid isPermaLink="false">urn:zhiyike:news:09b0b436cd4a9977f694565c</guid>
-      <pubDate>Wed, 23 Sep 2026 09:44:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;PixVerse R2新增Scaling五维度协同增长，先放大能力再实时化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/PixVerse/status/2102404266484989983"&gt;橘鸦日报&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-23-6"&gt;机器之心&lt;/a&gt; · &lt;a href="https://mp.weixin.qq.com/s/YeMNZiVkVLux6VEAeySgdQ?scene=1"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/pixverse-r2/"&gt;AI 工具集原文&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/09/496329.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>阿里巴巴披露Qwen4路线图，多款型号即将推出</title>
-      <link>https://x.com/testingcatalog/status/2102324410468245529</link>
-      <guid isPermaLink="false">urn:zhiyike:news:dcc70f05fb827ae0b5bbdc18</guid>
-      <pubDate>Wed, 23 Sep 2026 09:44:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;阿里在云栖大会公布Qwen4系列四款型号，并计划扩展至5-10T参数。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/testingcatalog/status/2102324410468245529"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
