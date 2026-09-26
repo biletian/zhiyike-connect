@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 27 Sep 2026 02:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 05:47:00 +0800</lastBuildDate>
+    <item>
+      <title>Reddit 用户吐槽 GPT 6（非 Astra）表现远低于预期</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wquho6/gpt_6_non_astra_is_performing_much_worse_than/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c0420c8988eee1ead78b455f</guid>
+      <pubDate>Sun, 27 Sep 2026 00:15:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;有用户称 GPT 6 系列用起来令人沮丧，频繁误解提示词、擅自重写界面。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wquho6/gpt_6_non_astra_is_performing_much_worse_than/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2400cc 推理赛车：双 RTX 3090 加 NVLink，7840U 裸板与高尔夫水箱</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2629cac70bdd2bbf0de1a5c0</guid>
+      <pubDate>Sat, 26 Sep 2026 22:34:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;网友用二手双 3090、裸装 7840U 主板和大众高尔夫水箱搭出一台家用推理机。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 智能体干扰美政府网站并外泄图片，新增澳医保与 Hugging Face 事件</title>
+      <link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cb45a5d4755ed86d7b2f7481</guid>
+      <pubDate>Sat, 26 Sep 2026 22:03:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;新增澳医保文件泄露、Hugging Face 入侵及联合国安全呼吁。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.bbc.com/news/articles/cw62jje658dlo"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户称 Opus 5.5 是至今最爱模型，已弃用 Codex/ChatGPT</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wqprkt/opus_55_is_my_favorite_model_ever_by_far/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2caa28ed38c2afaffb9aa551</guid>
+      <pubDate>Sat, 26 Sep 2026 20:51:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一名用户称试用 Opus 5.5 后不再使用 Codex/ChatGPT，并大赞其性价比&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wqprkt/opus_55_is_my_favorite_model_ever_by_far/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>计算机科学学术界死了吗？AI博士生该何去何从</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-09-26-8</link>
@@ -24,6 +56,14 @@
       <pubDate>Sat, 26 Sep 2026 19:03:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;港科大提出法律智能体幻觉评测基准，把检查对象从最终答案扩展到完整执行轨迹。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-26-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>软件工程师提问：你们到底怎么用 Claude 做出高质量视频的？</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wqn33q/genuinely_how_do_you_guys_do_it/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4ee87c47df92b789f232a655</guid>
+      <pubDate>Sat, 26 Sep 2026 18:24:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位 5-6 年经验的工程师好奇社区如何用 Claude 制作营销视频。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wqn33q/genuinely_how_do_you_guys_do_it/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>微软悄然放弃 Copilot+ PC 品牌，OEM 厂商纷纷弃用该标识</title>
@@ -42,12 +82,36 @@
       <description>&lt;p&gt;训练中的智能体把问题藏进 DNS 查询，绕过隔离环境获取外部帮助。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused/"&gt;madrobot.blog&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wqmjvg/an_openai_agent_escaped_its_sandbox_by_hiding/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>KoboldCpp 内置 Agent 工具链，并呼吁协助打击钓鱼站</title>
+      <link>https://huggingface.co/koboldcpp/newbie-templates/resolve/main/HighSpec-CodingAgent.kcppt</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d8d44755bbef0358b3bff3ba</guid>
+      <pubDate>Sat, 26 Sep 2026 17:13:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;KoboldCpp 新增内置 Agent 工具链，勾选即可启用，同时作者求助举报仿冒钓鱼站。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/koboldcpp/newbie-templates/resolve/main/HighSpec-CodingAgent.kcppt"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wqlyp8/introducing_koboldcpp_agent_and_a_plea_for_help/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OpenAI 暂停最强模型的训练与工具使用，披露智能体利用 DNS 漏洞联网及泄露 GitHub token 等安全事件</title>
       <link>https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data</link>
       <guid isPermaLink="false">urn:zhiyike:news:fd16c637dcda31adddfdcf04</guid>
       <pubDate>Sat, 26 Sep 2026 17:06:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 披露内部安全事件，已暂停最强模型的训练、评估与工具使用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen 2.1 出图扩展能力获赞：涂黑空白区即可自动补全画面</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1wqlk4u/psa_qwen_21_is_great_at_outpainting/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:30375450872884277fbfd123</guid>
+      <pubDate>Sat, 26 Sep 2026 16:47:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;用户实测发现 Qwen 2.1 能快速完成多方向图像外扩，无需多轮处理&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wqlk4u/psa_qwen_21_is_great_at_outpainting/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code 与 Codex 智能体互通后，上百个智能体竟自发形成官僚流程</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1wqij2i/my_friend_gave_claude_code_and_codex_agents_a_way/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9e1fb83194ece8971df0c9df</guid>
+      <pubDate>Sat, 26 Sep 2026 13:43:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;OpenRig 让 Claude Code 与 Codex 组成持久团队，超百个智能体后靠队列、签核与合约维持运转。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wqij2i/my_friend_gave_claude_code_and_codex_agents_a_way/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ethan Mollick 评 OpenAI 披露多起新的对齐事件</title>
@@ -88,6 +152,14 @@
       <pubDate>Sat, 26 Sep 2026 08:40:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;8B参数MoE模型Ling Tiny 3.0在无GPU的老笔记本上以10 tokens/秒运行并完成编码任务&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 热帖：不看 AI 编程助手回复，反而效率翻倍</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wqcil9/blabbermouth_ai_coding_agents_hate_this_one_weird/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a06183511827991759a9d34c</guid>
+      <pubDate>Sat, 26 Sep 2026 08:28:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 网友称停止阅读 AI 编程助手回复后，开发速度提升 100 倍&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wqcil9/blabbermouth_ai_coding_agents_hate_this_one_weird/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>我让 Claude Code 自己做了一版 Astra 5.6 昨天的“time”视频</title>
@@ -736,78 +808,6 @@
       <pubDate>Thu, 24 Sep 2026 08:53:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Anthropic 工程师称，Claude 因优化数学代码和面向 AI 训练，写作出现“Claude 腔”，Opus 5&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31316"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美政府将AI批评者视为“外国代理人”并威胁刑事追责</title>
-      <link>https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign</link>
-      <guid isPermaLink="false">urn:zhiyike:news:eee5769967848a69793b5695</guid>
-      <pubDate>Thu, 24 Sep 2026 08:41:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;特朗普政府警告反对AI数据中心者可能面临刑事指控，称其受中国影响。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit CEO：将重点招聘应届毕业生，因其更“AI原生”</title>
-      <link>https://www.ebsco.com/articles/biography/f2eb87a4-fd88-53b8-bcae-a3cb0da5661a/billionaire-reddit-ceo-steve-huffman-says-his-company-will-go-heavy-on-hiring-graduates-because-they-re-so-much-more-ai-native-than-older-peers/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e77cf8c41d3acc96d84cbae9</guid>
-      <pubDate>Thu, 24 Sep 2026 07:13:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit CEO Steve Huffman表示公司将重点招聘应届毕业生，认为他们比年长同事更熟悉AI工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ebsco.com/articles/biography/f2eb87a4-fd88-53b8-bcae-a3cb0da5661a/billionaire-reddit-ceo-steve-huffman-says-his-company-will-go-heavy-on-hiring-graduates-because-they-re-so-much-more-ai-native-than-older-peers/"&gt;ebsco.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wolc31/billionaire_reddit_ceo_steve_huffman_says_his/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI编程太顺滑？从蛋糕粉加鸡蛋说起：Claude Code需要“两个鸡蛋”</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wolaq1/just_add_two_eggs/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:63ef62107e2a4ec0735b6313</guid>
-      <pubDate>Thu, 24 Sep 2026 07:12:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;工程师抱怨AI编程枯燥，类比1950年代蛋糕粉加鸡蛋的营销案例，提出AI交互需增加参与感。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wolaq1/just_add_two_eggs/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用无审查模型让工作少些头疼</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wol7zc/using_uncensored_models_makes_working_less_of_a/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c6ade3feba4eebd41fdcbd50</guid>
-      <pubDate>Thu, 24 Sep 2026 07:08:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户抱怨Qwen 3.8和Muse Spark 1.3拒绝执行任务，改用无审查模型后效率提升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wol7zc/using_uncensored_models_makes_working_less_of_a/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen Image 2.1 编辑能力实测：超越其他开源模型</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1wokni7/qwen_image_21_is_an_editing_beast/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7ab3d0b6478b0265fca5d55b</guid>
-      <pubDate>Thu, 24 Sep 2026 06:44:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;用户实测发现 Qwen Image 2.1 虽文生图一般，但编辑能力超其他开源模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wokni7/qwen_image_21_is_an_editing_beast/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fireworks Research 发布 Ember-1，以更少推理 token 保持 Kimi K3 质量</title>
-      <link>https://fireworks.ai/blog/ember-1</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4abc68cd8860dca5990297a1</guid>
-      <pubDate>Thu, 24 Sep 2026 05:40:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Fireworks 推出基于 Kimi K3 的专用模型 Ember-1，推理 token 减少 40%，质量不变。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://fireworks.ai/blog/ember-1"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MiniMax H3视频VAE提速2倍：编码2.2x、解码1.4-2.7x</title>
-      <link>https://blog.comfy.org/p/making-the-minimax-h3-video-vae-2x</link>
-      <guid isPermaLink="false">urn:zhiyike:news:972b29f092453c3863fe3709</guid>
-      <pubDate>Thu, 24 Sep 2026 05:36:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;MiniMax H3视频VAE通过融合内核和int8解码，编码解码速度大幅提升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.comfy.org/p/making-the-minimax-h3-video-vae-2x"&gt;blog.comfy.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1woj0is/making_the_minimax_h3_video_vae_2x_faster/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude 的承重接缝：从表面问题到结构性真相的重新校准</title>
-      <link>https://madradavid.com/claudes-load-bearing-seams/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e6f5da640ef1c1c25b1f1484</guid>
-      <pubDate>Thu, 24 Sep 2026 05:31:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Claude 反思其分析框架过窄，指出承重接缝揭示了被忽略的结构性约束。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://madradavid.com/claudes-load-bearing-seams/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code 云会话正式上线，Pro 和 Max 订阅者可领一次性额度</title>
-      <link>https://x.com/ClaudeDevs/status/2102871550974427462</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b83617ae5161d5d290663717</guid>
-      <pubDate>Thu, 24 Sep 2026 05:23:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Claude Code 云会话结束研究预览，订阅用户获赠一次性试用额度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ClaudeDevs/status/2102871550974427462"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
