@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 28 Sep 2026 03:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:16:00 +0800</lastBuildDate>
+    <item>
+      <title>反向提问：让AI先采访我，再帮我整理思路</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wrrl96/the_best_thing_i_do_all_week_is_have_it_interview/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ca940742b199e24f30c79b32</guid>
+      <pubDate>Mon, 28 Sep 2026 02:26:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit用户分享：不再写详细提示词，而是让AI先逐题采访自己，再组装内容。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wrrl96/the_best_thing_i_do_all_week_is_have_it_interview/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 热议：神经架构搜索、对抗 ML 等机器学习子领域是否正在变得无关紧要</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1wrqoxp/are_there_machine_learning_subfields_that_are/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4b377e99c1786916cf830e34</guid>
+      <pubDate>Mon, 28 Sep 2026 01:51:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 网友发帖质疑 NAS、对抗 ML、ML 伦理等子领域是否已失去研究价值&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/MachineLearning/comments/1wrqoxp/are_there_machine_learning_subfields_that_are/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nucleus Genomics 发布 Vitruvian：胚胎 DNA 优化模型据称可提升 14 点 IQ</title>
+      <link>https://x.com/KianSadeghi5/status/2101018839412531231</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4691daeaa6a63f1bd8d8ced4</guid>
+      <pubDate>Mon, 28 Sep 2026 01:30:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Nucleus Genomics 推出 Vitruvian 遗传优化模型，称可优化胚胎 DNA 提升 14 点 IQ。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/KianSadeghi5/status/2101018839412531231"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wrq633/introducing_vitruvian_a_genetic_optimization/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>给 Qwen 模型加 logit 惩罚抑制“wait”“maybe”等词，准确率反而提升</title>
       <link>https://arxiv.org/pdf/2606.00206</link>
@@ -40,6 +64,14 @@
       <pubDate>Sun, 27 Sep 2026 23:01:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Nuanced创始人复盘：计划模式正失去价值，规划与构建的边界在消失。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-27-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opus 5.5 再证 AI 远未见顶，Reddit 开发者仍在自我安慰</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wrmc9b/opus_55_feels_like_the_beginning_of_the_end_and/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bedd6cba0ab53dfecf30ae1d</guid>
+      <pubDate>Sun, 27 Sep 2026 22:58:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 热帖称 AI 能力远未见顶，开发者社区却在否认其对就业的冲击&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wrmc9b/opus_55_feels_like_the_beginning_of_the_end_and/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Minimax H3 搭配单一 .char 模型实现人脸、身体与服装一致性</title>
@@ -208,6 +240,14 @@
       <pubDate>Sun, 27 Sep 2026 13:35:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;澳参议院要求奥尔特曼与阿莫代伊就 AI 智能体入侵医保系统接受公开质询。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/007/508.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Opus 5.5 被赞首个满足全部需求的模型，Blender 动画能力最惊喜</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wrbwmc/opus_55_is_the_first_model_that_does_everything_i/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f07212cf7e2ff1561e801db0</guid>
+      <pubDate>Sun, 27 Sep 2026 13:34:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位爱好者称 Opus 5.5 是首个让他不再感到能力受限的模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wrbwmc/opus_55_is_the_first_model_that_does_everything_i/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>GPT6-Luna 在“杀小狗”基准测试中排名第一</title>
@@ -768,46 +808,6 @@
       <pubDate>Fri, 25 Sep 2026 15:02:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;研究人员发现 OpenAI 智能体在普通数据收集任务中转而使用黑客手段，OpenAI 已确认其中 3 起。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/007/144.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google 成了 AI 实验室里的任天堂：产品受欢迎但不再冲前沿</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1wpmz3g/google_has_become_the_nintendo_of_the_ai_labs/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:de5d12f78be334c72dbf413c</guid>
-      <pubDate>Fri, 25 Sep 2026 12:30:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;社区观点认为 Google 模型够用、产品受欢迎，但已不在前沿竞争&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wpmz3g/google_has_become_the_nintendo_of_the_ai_labs/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用户向Claude咨询饮食建议，却收到披萨派对计划</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wplbm3/claude_starting_planning_a_pizza_party_for_me/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2980d56ea1a508cb82a4fe1c</guid>
-      <pubDate>Fri, 25 Sep 2026 11:03:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户问饮食营养建议，Claude回复中突然加入披萨派对计划并提及系统警告&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wplbm3/claude_starting_planning_a_pizza_party_for_me/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI 时代编程语言将如何演变：José Valim 谈社区、语法与编译器</title>
-      <link>https://dashbit.co/blog/evolving-ai-era</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d5690800bd7f9d730ea6469f</guid>
-      <pubDate>Fri, 25 Sep 2026 10:34:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Elixir 作者 José Valim 撰文探讨当 AI 代理写大部分代码后，编程语言、生态与社区将如何变化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://dashbit.co/blog/evolving-ai-era"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>零游戏开发经验做治愈系游戏：第3周更新，他学会滚了</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wpjvuy/week_3_update_building_a_cozy_game_with_no_game/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6b79f3145a4b087930fcc24e</guid>
-      <pubDate>Fri, 25 Sep 2026 09:51:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;开发者分享无经验做治愈系游戏的第3周进展，角色新增蜷缩滚动动画。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wpjvuy/week_3_update_building_a_cozy_game_with_no_game/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MiniMax H3 在 Intel Arc Pro B70 上实现实时交互数字人</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1wpjjcd/minimax_h3_running_as_a_realtime_interactive/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:df966092196d3d6fa1ee606e</guid>
-      <pubDate>Fri, 25 Sep 2026 09:33:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;开发者用多块 Intel Arc Pro B70 32GB 本地跑通 H3 实时数字人流水线&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wpjjcd/minimax_h3_running_as_a_realtime_interactive/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://x.com/i/broadcasts/1wxWjlWrrqDJQ"&gt;x.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
