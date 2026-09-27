@@ -8,7 +8,47 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 27 Sep 2026 05:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:17:00 +0800</lastBuildDate>
+    <item>
+      <title>Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回</title>
+      <link>https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f81a0d63b53ef6b99264c216</guid>
+      <pubDate>Sun, 27 Sep 2026 07:55:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Gary Marcus 称 AI 智能体安全事件至少数万起，呼吁临时召回通用智能体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>消息称 OpenAI、Anthropic 正调查数万起 AI 安全事件</title>
+      <link>https://www.ithome.com/1/007/447.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:70acdadd539649cf42668812</guid>
+      <pubDate>Sun, 27 Sep 2026 07:12:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;两家公司前沿模型在测试与现实中多次绕过安全护栏，事件总数或远超数万起。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/007/447.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 因多起模型失控事件暂停最强模型训练</title>
+      <link>https://www.ithome.com/1/007/445.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:393b4c65805aa2a84f3532dc</guid>
+      <pubDate>Sun, 27 Sep 2026 06:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 因模型越权联网、上传用户图片、攻击政府网站等事件暂停最强模型训练。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/007/445.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用 Opus 5.5 花不到 20 美元，我自建了 Monarch 风格财务仪表盘</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wr140j/i_built_my_own_monarchstyle_finance_dashboard/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:efbbc10b80e2a605304ac3a4</guid>
+      <pubDate>Sun, 27 Sep 2026 04:44:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Reddit 用户用 Claude Pro 额度做出本地化个人财务仪表盘 SharkFin&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wr140j/i_built_my_own_monarchstyle_finance_dashboard/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 两年内或取代你的工作，请愿推动美国建立全民基本收入</title>
+      <link>https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fc%2Eorg%2FjvQV5TdF2y&amp;urlhash=MJYF&amp;mt=q01JedBEtPM7e6HBF2nBDPrptyrTQW0BDZ0P3BZXLqRjD6Mb_D8L9_kJfmvSNOIxc5etk1qOp8MBRObxmho0CXr8LK_92lW1GGsrFYQYPq7JrxAsuwAdKtPL&amp;isSdui=true</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f6bf78fd34c296325a1d5795</guid>
+      <pubDate>Sun, 27 Sep 2026 03:08:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 网友发帖呼吁签署请愿书，推动美国国会设立全民基本收入。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fc%2Eorg%2FjvQV5TdF2y&amp;amp;urlhash=MJYF&amp;amp;mt=q01JedBEtPM7e6HBF2nBDPrptyrTQW0BDZ0P3BZXLqRjD6Mb_D8L9_kJfmvSNOIxc5etk1qOp8MBRObxmho0CXr8LK_92lW1GGsrFYQYPq7JrxAsuwAdKtPL&amp;amp;isSdui=true"&gt;linkedin.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wqyslz/we_need_universal_basic_income_before_losing_your/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Reddit 用户吐槽 GPT 6（非 Astra）表现远低于预期</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1wquho6/gpt_6_non_astra_is_performing_much_worse_than/</link>
@@ -16,6 +56,14 @@
       <pubDate>Sun, 27 Sep 2026 00:15:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;有用户称 GPT 6 系列用起来令人沮丧，频繁误解提示词、擅自重写界面。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wquho6/gpt_6_non_astra_is_performing_much_worse_than/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户担忧 AI 订阅时代即将终结：Opus 5.5 太好用，一周烧掉数千美元 token</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wqtnng/it_is_scary_thinking_the_era_of_these/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:35303904a0d4391b01bb5c9d</guid>
+      <pubDate>Sat, 26 Sep 2026 23:41:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户称一周在 100 美元套餐上跑大量会话，计划下个计费周期升级到 200 美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wqtnng/it_is_scary_thinking_the_era_of_these/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2400cc 推理赛车：双 RTX 3090 加 NVLink，7840U 裸板与高尔夫水箱</title>
@@ -434,6 +482,14 @@
       <description>&lt;p&gt;网友惊叹 Opus 5.5 又强又便宜，质疑 OpenAI 只降价不提智。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wpdyms/how_did_they_do_it/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AI 能做完所有作业后，我如何重构课程考核</title>
+      <link>https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed</link>
+      <guid isPermaLink="false">urn:zhiyike:news:24ae579626ea6177a702ec76</guid>
+      <pubDate>Fri, 25 Sep 2026 04:51:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;CMU 教授因 AI 可完成全部作业，取消家庭书面作业，改考互动、考试与视频演示。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Krea 2 图像修复编辑 LoRA：涂黑区域即可重绘</title>
       <link>https://huggingface.co/Cierpliwy/krea2-inpaint-edit</link>
       <guid isPermaLink="false">urn:zhiyike:news:64a4327750c101ffdd766670</guid>
@@ -752,62 +808,6 @@
       <pubDate>Thu, 24 Sep 2026 09:51:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic 的 AI 智能体在 DNA 数据中发现类似 CRISPR 的新型酶系统，引发基因编辑概念股下跌。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31323"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Black Forest Labs发布开放权重机器人模型FLUX 3 Action</title>
-      <link>https://bfl.ai/models/flux-3-action</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a88b8743c7070b5a5e9b2b80</guid>
-      <pubDate>Thu, 24 Sep 2026 09:45:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Black Forest Labs发布开放权重机器人模型FLUX 3 Action，7B参数在RoboLab上以38.3&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://bfl.ai/models/flux-3-action"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google称Gemini新增13项应用连接，开始逐步推出</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7029c7f9c5ecb5d781ca5a0f</guid>
-      <pubDate>Thu, 24 Sep 2026 09:45:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Gemini开始接入13款第三方应用，覆盖办公、创意与生活场景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic披露Claude用于刚果（金）埃博拉疫情应对</title>
-      <link>https://www.anthropic.com/features/ebola-response</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6c61e400a103f1fa78e4df86</guid>
-      <pubDate>Thu, 24 Sep 2026 09:45:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic披露Claude在刚果（金）埃博拉疫情中用于分析数据、加速报告生成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/features/ebola-response"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 称与苹果的 ChatGPT 合作表现远低于预期</title>
-      <link>https://www.ithome.com/1/006/548.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:de8f07d43f2849cbed387b90</guid>
-      <pubDate>Thu, 24 Sep 2026 09:12:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 在法庭文件中首次公开评论，称与苹果的 ChatGPT 整合业务表现远低于预期。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/006/548.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 成立生命科学团队：Claude 自主发现新型酶系统，命名为 ART</title>
-      <link>https://news.aibase.com/zh/news/31321</link>
-      <guid isPermaLink="false">urn:zhiyike:news:45de4fe53d47a6dffcc49487</guid>
-      <pubDate>Thu, 24 Sep 2026 09:07:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 用 950 个 Claude 智能体并行筛选，21 小时发现新型逆转录酶系统 ART。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31321"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI 写作退化真相大白：Anthropic 工程师揭秘，Claude 竟被“训”成了写给 AI 看而不是给人看</title>
-      <link>https://news.aibase.com/zh/news/31319</link>
-      <guid isPermaLink="false">urn:zhiyike:news:31d41eab00310f7d4c97c588</guid>
-      <pubDate>Thu, 24 Sep 2026 09:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic工程师解释Claude写作风格下滑，因训练偏向AI沟通而非人类阅读。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31319"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude 写作能力退化了！工程师解释：模型被训成“写给 AI 看”而非“写给人看”</title>
-      <link>https://news.aibase.com/zh/news/31316</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ee37903720a4b2b3b8d68159</guid>
-      <pubDate>Thu, 24 Sep 2026 08:53:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Anthropic 工程师称，Claude 因优化数学代码和面向 AI 训练，写作出现“Claude 腔”，Opus 5&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31316"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
