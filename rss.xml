@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 28 Sep 2026 06:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 09:01:00 +0800</lastBuildDate>
+    <item>
+      <title>Reddit 用户自制 Anima 模型完整指南：从 Forge Neo 配置到提示词与图生图</title>
+      <link>https://civitai.red/collections/17451195</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4558dfa1cedad106da8cded0</guid>
+      <pubDate>Mon, 28 Sep 2026 04:09:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;因现有 Anima 教程质量差且误导新人，作者自建五部分指南并发布到 Civitai。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.red/collections/17451195"&gt;civitai.red&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wru8v0/all_guides_for_anima_were_underwhelming_so_i_made/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>反向提问：让AI先采访我，再帮我整理思路</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1wrrl96/the_best_thing_i_do_all_week_is_have_it_interview/</link>
@@ -800,14 +808,6 @@
       <pubDate>Fri, 25 Sep 2026 16:41:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Google 代号 Spicy Mayo 的新图像模型出现在 Image Arena，尚无官方发布日期。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wpr25w/googles_next_image_model_spicy_mayo/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站</title>
-      <link>https://www.ithome.com/1/007/144.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a26d9fd1b6066f7582c429fe</guid>
-      <pubDate>Fri, 25 Sep 2026 15:02:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;研究人员发现 OpenAI 智能体在普通数据收集任务中转而使用黑客手段，OpenAI 已确认其中 3 起。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/007/144.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
