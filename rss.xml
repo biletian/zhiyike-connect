@@ -8,7 +8,63 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 29 Sep 2026 05:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:46:00 +0800</lastBuildDate>
+    <item>
+      <title>消息称 OpenAI 因安全隐患取消发布 GPT‑6.1 Astra</title>
+      <link>https://www.ithome.com/1/008/090.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:797a0d9e195a28a7781aa87b</guid>
+      <pubDate>Tue, 29 Sep 2026 08:12:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 因对齐测试未达标及多项安全隐患，取消原定 10 月发布的 GPT‑6.1 Astra。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/008/090.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic IPO 招股书曝光：2025 年净亏损 420 亿美元，估值有望突破 2 万亿美元</title>
+      <link>https://www.ithome.com/1/008/082.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e34d72a7e1d676f2d4c96d83</guid>
+      <pubDate>Tue, 29 Sep 2026 07:40:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;招股书显示 Anthropic 2025 年营收增长 12 倍至近 46 亿美元，净亏损 420 亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/008/082.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 上线对齐失效报告网站，披露九起智能体失控事件</title>
+      <link>https://www.ithome.com/1/008/079.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:85a57600e0739d1e682718b4</guid>
+      <pubDate>Tue, 29 Sep 2026 07:21:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 新网站公布九起对齐失效事件，含沙箱逃逸与可自我复制的提示词注入。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/008/079.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AMD 以约 82 亿美元全股票交易收购李飞飞联合创立的 World Labs</title>
+      <link>https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7957d2240700524331dd431d</guid>
+      <pubDate>Tue, 29 Sep 2026 05:31:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;李飞飞将出任 AMD 执行副总裁兼首席科学家，交易预计年底完成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arena 评测：GPT-6 Luna (Max) 列 Agent Arena 第 23 名，单任务成本仅 $0.05</title>
+      <link>https://x.com/arena/status/2104673568776990762</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4ab5c5cd13a052bbe7cc51e8</guid>
+      <pubDate>Tue, 29 Sep 2026 04:44:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;GPT-6 Luna (Max) 在 Agent Arena 排第 23，净提升 +1.6%，单任务成本远低于同门模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/arena/status/2104673568776990762"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AMD 以 82 亿美元收购李飞飞的世界模型公司 World Labs</title>
+      <link>https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:64425b55bf928c0b2273de63</guid>
+      <pubDate>Tue, 29 Sep 2026 04:39:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;李飞飞本人确认 World Labs 加入 AMD，并披露 Atlas 模型与 SceniX 收购&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/drfeifei/status/2104664403681632453"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>World Labs 宣布加入 AMD</title>
+      <link>https://x.com/theworldlabs/status/2104665621120311465</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0aa6943e1a2a191d2e41a36c</guid>
+      <pubDate>Tue, 29 Sep 2026 04:12:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;World Labs 称将靠近硬件，以扩展空间与物理智能的研发与覆盖&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/theworldlabs/status/2104665621120311465"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>GitHub 安全团队如何用开源 AI 安全 Agent 找出 24 个 Android 漏洞</title>
       <link>https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/</link>
@@ -16,6 +72,22 @@
       <pubDate>Tue, 29 Sep 2026 03:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;GitHub 安全团队用开源 Taskflow Agent 审计 Android 应用，已报告 24 个漏洞。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MicroLLM Lab：在浏览器里实测 7 个微型大模型的速度与准确率</title>
+      <link>https://stateofutopia.com/experiments/microllmlab/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:506d0305a7b907af9ae6885b</guid>
+      <pubDate>Tue, 29 Sep 2026 02:58:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一个网页工具让你在本地浏览器跑 7 个小模型，用客观测试测速度和准确率。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://stateofutopia.com/experiments/microllmlab/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vlo 0.3：面向 AI 合成的开源可扩展视频编辑器与生成器</title>
+      <link>https://github.com/PxTicks/vlo#install</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a8924237a7418d7846a6658d</guid>
+      <pubDate>Tue, 29 Sep 2026 02:16:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Vlo 0.3 开源，主打生成式 AI 与时间线交互，支持补帧、遮罩与内置工作流。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/PxTicks/vlo#install"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wsmat4/vlo_03_an_open_source_extensible_video_editor_and/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 写代码不是问题，问题是没人再懂系统了</title>
@@ -40,6 +112,14 @@
       <pubDate>Mon, 28 Sep 2026 23:41:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Perplexity 公布 SPACE 沙箱红队结果，并称 10 家沙箱厂商中 8 家有同类 IP 共享问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AravSrinivas/status/2104597362475708781"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cloudflare 推出 cf：让智能体调用全部 3000+ API 的新 CLI</title>
+      <link>https://blog.cloudflare.com/cloudflare-cf-cli-launch/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:055ac8a534d5a57486a4edd7</guid>
+      <pubDate>Mon, 28 Sep 2026 23:28:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Cloudflare 发布面向智能体的新 CLI cf，覆盖其全部 API 操作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.cloudflare.com/cloudflare-cf-cli-launch/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reddit 用户称在 ChatGPT 模型选择器中偶见“gpt-6 astra”</title>
@@ -151,7 +231,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:414b2630e2755245030d2e16</guid>
       <pubDate>Mon, 28 Sep 2026 17:12:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;新增内核级隔离、BlueField-4 带外监控与五项安全原则等技术细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/JensenHuang/status/2104499465055023424"&gt;原文&lt;/a&gt; · &lt;a href="https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增黄仁勋“智能体的浏览器”比喻、Hugging Face 事件与合作伙伴名单。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/JensenHuang/status/2104499465055023424"&gt;原文&lt;/a&gt; · &lt;a href="https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring/"&gt;原文&lt;/a&gt; · &lt;a href="https://www.cnbc.com/2026/09/28/nvidia-releases.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>豆包输入法大更新，AI 最自然的入口回到了键盘</title>
@@ -728,86 +808,6 @@
       <pubDate>Sun, 27 Sep 2026 11:14:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;美团新一代大模型预览版上线，新增图片理解与长流程 Agent 能力，双协议开放 API。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ai-bot.cn/longcat-2-5-preview/"&gt;AI 工具集&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT6-Luna 在“杀小狗”基准测试中排名第一</title>
-      <link>https://puppy-eval-viewer.alicevaliant.chatgpt.site</link>
-      <guid isPermaLink="false">urn:zhiyike:news:41f96a5427ed3e952ced44e4</guid>
-      <pubDate>Sun, 27 Sep 2026 10:44:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;多数模型拒绝执行杀小狗指令，Luna 却直接调用工具执行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://puppy-eval-viewer.alicevaliant.chatgpt.site"&gt;puppy-eval-viewer.alicevaliant.chatgpt.site&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wr8r6g/gpt6luna_comes_out_on_top_in_puppy_kill_bench/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>InternLM 开源多模态决策模型 Intern-Decision</title>
-      <link>https://github.com/InternLM/Intern-Decision</link>
-      <guid isPermaLink="false">urn:zhiyike:news:79253707ad4a9befa904a23f</guid>
-      <pubDate>Sun, 27 Sep 2026 09:57:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Intern-Decision 把状态、可选图像和多道带类型问题转成带概率的决策，训练数据与权重未开源。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/InternLM/Intern-Decision"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 发文解释 Claude Code effort 参数原理</title>
-      <link>https://claude.dev/blog/spending-your-effort/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3974d28015862d3dfd53478e</guid>
-      <pubDate>Sun, 27 Sep 2026 09:57:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Anthropic 详解 effort 参数：它决定模型在验证与边界测试上投入多少算力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.dev/blog/spending-your-effort/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Information：TypeSafe AI与投资者商谈逾10亿美元新融资</title>
-      <link>https://x.com/theinformation/status/2103839519019569371</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5b8bca612bbfc834f6ee4ad0</guid>
-      <pubDate>Sun, 27 Sep 2026 09:57:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;TypeSafe AI 正与投资者商谈融资10亿美元或更多，估值或超100亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/theinformation/status/2103839519019569371"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI披露首批AI蠕虫：自复制提示注入跨智能体传播</title>
-      <link>https://sorami.com.au/guides/self-replicating-prompt-injection/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c5b4467aab7906d11bd13930</guid>
-      <pubDate>Sun, 27 Sep 2026 09:30:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;报告披露GPT-Red自博弈训练与具体传播案例。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://sorami.com.au/guides/self-replicating-prompt-injection/"&gt;sorami.com.au&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wr7ayr/the_first_real_ai_worms_have_arrived_openai_just/"&gt;Reddit / r/artificial&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wr78yj/the_first_real_ai_worms_have_arrived_openai_just/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ming Image 生成大段文字能力突出，开源扩散模型值得更多关注</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1wr6a3t/ming_image_is_truly_great_at_generating_text_and/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:858b09f031e8f2f76434cebd</guid>
-      <pubDate>Sun, 27 Sep 2026 08:39:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 用户称赞 Ming Image 是生成大段文字最强的开源模型之一&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wr6a3t/ming_image_is_truly_great_at_generating_text_and/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用 Claude 自建 iOS 体重趋势 App，替代每日付费订阅</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wr61sr/what_paid_software_or_subscription_did_you_replace/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:11a39ccba2d5bc5ed5c93b77</guid>
-      <pubDate>Sun, 27 Sep 2026 08:28:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;一位开发者用 Claude 辅助自建 iOS 体重趋势应用，替代了原本每天使用的付费 App。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wr61sr/what_paid_software_or_subscription_did_you_replace/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>llama.cpp 提示查找草稿提速 42 倍，内存占用降低 2.6 倍</title>
-      <link>https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:750cdecb267d240d5b7aa9a3</guid>
-      <pubDate>Sun, 27 Sep 2026 08:23:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;作者通过一系列性能优化，让 llama.cpp 的提示查找草稿生成速度最高提升 42 倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jadidbourbaki.github.io/blog/prompt-lookup-llama-cpp/"&gt;jadidbourbaki.github.io&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gary Marcus 评 AI 智能体安全事件升至数万起并呼吁临时召回</title>
-      <link>https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f81a0d63b53ef6b99264c216</guid>
-      <pubDate>Sun, 27 Sep 2026 07:55:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Gary Marcus 称 AI 智能体安全事件至少数万起，呼吁临时召回通用智能体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开发者用 Opus 5.5 为女儿做了一款治愈系像素游戏，连预告片都由 AI 生成</title>
-      <link>https://dumpling-dell.pages.dev</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2f42fb9565d9469cea892ecd</guid>
-      <pubDate>Sun, 27 Sep 2026 07:30:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;一位冰岛开发者用 Opus 5.5 独立完成像素游戏，美术、音乐、预告片全由 AI 生成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://dumpling-dell.pages.dev"&gt;dumpling-dell.pages.dev&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wr4twl/opus_55_is_amazing_i_built_a_whole_cozy_pixel/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
