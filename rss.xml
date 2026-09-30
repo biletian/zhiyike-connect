@@ -8,7 +8,71 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 30 Sep 2026 06:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:47:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐</title>
+      <link>https://news.aibase.com/zh/news/31427</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2c5c5c9cc3b2e3f9633dfbc0</guid>
+      <pubDate>Wed, 30 Sep 2026 09:38:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 与 AWS 达成战略合作，用其基础设施运行托管式 AI 智能体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31427"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车</title>
+      <link>https://www.ifanr.com/1682644?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">urn:zhiyike:news:75eb668be14408a18356f416</guid>
+      <pubDate>Wed, 30 Sep 2026 09:34:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 一口气发布 Dot 智能体、GPT-6.1 Sol 模型、ChatGPT Space 等系列更新，但现场演&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1682644?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>腾讯入局Personal Agent赛道:代号"Handy Bot"，已在微信低调内测</title>
+      <link>https://news.aibase.com/zh/news/31426</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0737faa33975b8ab4acf73ce</guid>
+      <pubDate>Wed, 30 Sep 2026 09:29:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;腾讯内部代号Handy Bot的个人智能体已上线微信服务号，计划推出独立App。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31426"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>划时代的全天候 AI 助手正式登场：OpenAI 重磅发布 Dot 智能体，全面引爆 AI 应用商业化元年</title>
+      <link>https://news.aibase.com/zh/news/31424</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f4a576370457c27189e2855d</guid>
+      <pubDate>Wed, 30 Sep 2026 09:25:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 推出常驻型智能体 Dot，可自主操作已连接应用完成工作任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31424"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>奥尔特曼谈 OpenAI 上市：先把安全承诺做扎实，暂无时间表</title>
+      <link>https://news.aibase.com/zh/news/31423</link>
+      <guid isPermaLink="false">urn:zhiyike:news:790647d98360622ee7695ca9</guid>
+      <pubDate>Wed, 30 Sep 2026 09:16:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;奥尔特曼称 OpenAI 需先拿出过硬安全承诺，才会认真考虑上市，目前无明确时间节点。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31423"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenRouter 教程：提示词或模型变更后如何对 AI Agent 做回归测试</title>
+      <link>https://openrouter.ai/blog/tutorials/ai-agent-regression-testing-after-a-prompt-or-model-change/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ca8d4f534769c0954a1c68c8</guid>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenRouter 发布指南，讲 Agent 回归测试与代码测试的差异及落地方法。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openrouter.ai/blog/tutorials/ai-agent-regression-testing-after-a-prompt-or-model-change/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenRouter 教程：如何测试 AI Agent 的工具调用准确性</title>
+      <link>https://openrouter.ai/blog/tutorials/how-to-test-tool-calling-accuracy-in-ai-agents/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d7e6abffb7ed758d6bdf2fb6</guid>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;把工具选择错误和参数错误分开测，三种方法可跨模型对比。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openrouter.ai/blog/tutorials/how-to-test-tool-calling-accuracy-in-ai-agents/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了</title>
+      <link>https://www.qbitai.com/2026/09/499246.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1d510fdd0bfce6a5a1957cc9</guid>
+      <pubDate>Wed, 30 Sep 2026 07:01:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI一口气发布25项更新，推出常驻Agent Dots与GPT-6.1 Sol新模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/09/499246.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>帮大家总结了一下凌晨的OpenAI 2026开发者大会。</title>
       <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647686841&amp;idx=1&amp;sn=630c0dc22de47c9c2f58bd5253a91a9a</link>
@@ -50,14 +114,6 @@
       <description>&lt;p&gt;OpenAI 在 2026 开发者日活动上公布 ChatGPT 及企业产品最新用户规模。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/008/532.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI 推出 Codex 云环境，智能体可在合上笔记本后继续工作</title>
-      <link>https://x.com/OpenAIDevs/status/2104997619152130278</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7a0515fad2d4b873d5085f2e</guid>
-      <pubDate>Wed, 30 Sep 2026 02:11:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Codex 云环境上线，环境可复用，仓库、依赖、脚本和设置已预置。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenAIDevs/status/2104997619152130278"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use</title>
       <link>https://x.com/OpenAIDevs/status/2104993035507712318</link>
       <guid isPermaLink="false">urn:zhiyike:news:cc1d617518d37e0e7bdced73</guid>
@@ -74,12 +130,12 @@
       <description>&lt;p&gt;ChatGPT 订阅额度打通 60 多个第三方产品，用 ChatGPT 登录即可直接消耗已含用量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2104991529416999243"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI 推出新版 Codex Cloud，Agents API 开放预览并支持 computer use</title>
+      <title>OpenAI 推出 Codex 云环境，可跨设备跟进并干预任务</title>
       <link>https://x.com/thsottiaux/status/2104987594719461796</link>
       <guid isPermaLink="false">urn:zhiyike:news:2217d31db118b8f113e71fa5</guid>
       <pubDate>Wed, 30 Sep 2026 01:32:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;OpenAI 发布改进版 Codex Cloud，并开放支持 computer use 的 Agents API 预览。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2104987594719461796"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Codex 任务跑在可复用云环境，手机或另一台电脑可跟进干预，合盖仍运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2104987594719461796"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/OpenAIDevs/status/2104997619152130278"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/OpenAIDevs/status/2105073633731461197"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tibo 发布 Agent 产品 dots，由 Astra 模型驱动</title>
@@ -192,6 +248,14 @@
       <pubDate>Tue, 29 Sep 2026 17:19:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;匿名模型 Space Bunny Alpha 靠草图生成可交互网页，冲上 OpenRouter 日调用量第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1682401?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sarvam AI 发布从第一性原理构建 AI 智能体的入门指南</title>
+      <link>https://www.sarvam.ai/blogs/building-ai-agents</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d6d51048a2f6dd957d6f6c1f</guid>
+      <pubDate>Tue, 29 Sep 2026 17:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Sarvam AI 用 ShopBot 客服案例，从零讲清智能体循环与工具调用&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.sarvam.ai/blogs/building-ai-agents"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>苏姿丰550亿元买下李飞飞世界模型，AI 圈两位女王联手了</title>
@@ -744,70 +808,6 @@
       <pubDate>Mon, 28 Sep 2026 15:54:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;谷歌发现&amp;quot;LLM 劫持&amp;quot;攻击增多，暗网倒卖 AI 账号凭据、盗用算力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31384"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fireworks AI 发布 Ember-1：基于 Kimi K3 的后训练模型，推理 Token 减少约 40%</title>
-      <link>https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:87b9eeeacd56fa687f06408c</guid>
-      <pubDate>Mon, 28 Sep 2026 15:22:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Fireworks 用后训练让 Kimi K3 学会更短推理，准确率基本不变。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.marktechpost.com/2026/09/28/fireworks-ai-releases-ember-1-a-post-trained-kimi-k3-that-uses-about-40-fewer-tokens/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lenfest 研究所获 OpenAI 追加 500 万美元，扩大美国新闻业最大 AI  fellowship 计划</title>
-      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0021ba5a63b1869abe7836b3</guid>
-      <pubDate>Mon, 28 Sep 2026 15:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 将对该项目的支持翻倍，新增 500 万美元资金及最高 500 万美元软件额度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/lenfest-ai-collaborative-expansion"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>快手推出AI视频创作Agent「likli」</title>
-      <link>https://ai-bot.cn/likli/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c3dae17991ae0db255cc4e18</guid>
-      <pubDate>Mon, 28 Sep 2026 14:58:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;快手上线桌面端AI视频创作Agent，用大白话下指令即可产出可交付成片。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ai-bot.cn/likli/"&gt;AI 工具集&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 员工吐槽文化：每天转向、每周工作 7 天，只在乎活不在乎人</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1ws7dgr/openai_culture_is_shit/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6801c244614d21a8e47a4923</guid>
-      <pubDate>Mon, 28 Sep 2026 14:47:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;吐槽帖补充：公司只在乎工作完成，不在乎做工作的人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1ws7dgr/openai_culture_is_shit/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://prachub.com/companies/openai?utm_source=reddit&amp;amp;utm_campaign=andy"&gt;prachub.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用AI造的！刚刚，代季峰团队首个模型开源</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-28-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4302b443e5011a39142d990a</guid>
-      <pubDate>Mon, 28 Sep 2026 14:40:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Naive AI 发布首款模型，由 AI 参与研发，也被训练来承担 AI 研发工作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-28-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别</title>
-      <link>https://news.aibase.com/zh/news/31382</link>
-      <guid isPermaLink="false">urn:zhiyike:news:aabf8fe6746e54cc3fbc146a</guid>
-      <pubDate>Mon, 28 Sep 2026 14:28:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;该模型开放权重，在VoiceArena基准以14.72%错误率登顶。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31382"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态</title>
-      <link>https://news.aibase.com/zh/news/31380</link>
-      <guid isPermaLink="false">urn:zhiyike:news:35f8309c0dff7d953e0559b9</guid>
-      <pubDate>Mon, 28 Sep 2026 14:20:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;谷歌在印度小范围测试在 Gemini 与 AI Mode 界面内直接下单购买 Flipkart 商品。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31380"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0</title>
-      <link>https://news.aibase.com/zh/news/31378</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cfc3af19c3563fe974d7374a</guid>
-      <pubDate>Mon, 28 Sep 2026 14:12:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;费米宇宙推出 FermiQLLM 1.0，在五大环节引入量子物理方法增强大模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31378"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
