@@ -8,7 +8,47 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 00:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:16:00 +0800</lastBuildDate>
+    <item>
+      <title>FLUX 3 Image 登陆 OpenRouter：原生 4K 与 10 参考编辑</title>
+      <link>https://bfl.ai/models/flux-3-image</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bb140f4895a8626ff2b2f3cf</guid>
+      <pubDate>Fri, 02 Oct 2026 03:05:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;FLUX 3 Image 上线 OpenRouter，新增原生 4K、10 参考与多轮精确编辑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://bfl.ai/models/flux-3-image"&gt;bfl.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wv886s/flux_3_image_maximum_control_over_every_pixel/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://x.com/OpenRouter/status/2105759062835220852"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>图灵奖得主 LeCun：对人类灭绝“零担忧”，称 Anthropic CEO Amodei“妄想”</title>
+      <link>https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e5dd02a6cb9b94c3edecb3af</guid>
+      <pubDate>Fri, 02 Oct 2026 01:14:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;LeCun 称 AI 灭绝风险被夸大， rogue 事件源于人类监管与设计失误。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/"&gt;fortune.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wv59q6/ai_godfather_yann_lecun_has_zero_concerns_about/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LangChain 讲解如何在 Agent Harness 中构建模型路由器</title>
+      <link>https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness</link>
+      <guid isPermaLink="false">urn:zhiyike:news:35078ffd15e0aa12af8b52eb</guid>
+      <pubDate>Fri, 02 Oct 2026 01:01:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;LangChain 把模型路由器做进 Agent Harness，而非通用网关，编码任务中位成本降 64% 且质量无明显&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.langchain.com/blog/how-to-build-a-model-router-in-the-harness"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Comfy Agent 上线 Comfy Cloud：在画布上直接搭建和修复 ComfyUI 工作流</title>
+      <link>https://links.comfy.org/4hH1FaH</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8da3a95122e0ca907da72ddb</guid>
+      <pubDate>Fri, 02 Oct 2026 01:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Comfy Agent 登陆 Comfy Cloud，可在画布上自动规划、连线并修复 ComfyUI 工作流。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://links.comfy.org/4hH1FaH"&gt;links.comfy.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wv4x9q/comfy_agent_is_now_live_for_everyone_on_comfy/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>智能与执行：为什么前沿智能需要庞大的支撑体系</title>
+      <link>https://openai.com/index/the-eternal-complement</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ed7eb97e550a1a0702d9c568</guid>
+      <pubDate>Fri, 02 Oct 2026 01:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;OpenAI 平台系列首篇长文：智能与实现能力互为补充，进步依赖整个经济体系。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/the-eternal-complement"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Albertsons 与 OpenAI 合作，在 ChatGPT 内上线 Safeway 购物体验</title>
       <link>https://openai.com/index/albertsons-reimagining-retail</link>
@@ -18,12 +58,28 @@
       <description>&lt;p&gt;美国连锁超市 Albertsons 把 AI 引入门店运营与顾客购物全流程&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/albertsons-reimagining-retail"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>开发者周末用 TypeScript 做出「摧毁任意网站」火柴人沙盒游戏</title>
+      <link>https://destroy.spritefusion.com/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:dbc9a2555758e8b5a08ee01c</guid>
+      <pubDate>Thu, 01 Oct 2026 23:40:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;输入网址即可把网页变成关卡，用武器摧毁一切，还支持多人联机。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://destroy.spritefusion.com/"&gt;destroy.spritefusion.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让</title>
       <link>https://www.qbitai.com/2026/10/499663.html</link>
       <guid isPermaLink="false">urn:zhiyike:news:5794de8cb7b20b297c7c0b59</guid>
       <pubDate>Thu, 01 Oct 2026 23:02:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;谷歌发布Gemini 4 Argon，多榜单登顶，成本约为Astra一半，首批仅开放给筛选后的网络安全团队。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/499663.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Context Language Models：让模型自己管理上下文，同算力下准确率提升</title>
+      <link>https://arxiv.org/abs/2609.37725</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e57632f542b0f223e378c210</guid>
+      <pubDate>Thu, 01 Oct 2026 22:51:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;论文提出 CLM，把上下文当文件让模型自行增删，零样本即超越现有上下文管理策略。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2609.37725"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MiniMax 搭配环绕 LoRA 与首尾帧，360 度环绕运镜效果惊艳</title>
@@ -48,6 +104,22 @@
       <pubDate>Thu, 01 Oct 2026 21:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;FTC 已对 OpenAI、Anthropic 等 AI 公司展开调查，聚焦其产品潜在危害。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>286 老电脑跑通 AI 对话与画图：Tandy 1000 TL/3 上的 DeskMind</title>
+      <link>https://github.com/RowanUnderwood/DeskMind</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3a1cf9b0757457aef6dc4fba</guid>
+      <pubDate>Thu, 01 Oct 2026 20:20:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;286 老电脑经 WiFi 连 PC 模型，实现聊天与 16 色抖动画图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/RowanUnderwood/DeskMind"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wuxzdg/why_am_i_like_this_full_chat_and_image_generation/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wuw8as/why_am_i_like_this_image_generation_on_a_286/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件</title>
+      <link>https://claude.dev/blog/getting-started-with-claude-code-mods/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:11dad842755e9c0547414c8d</guid>
+      <pubDate>Thu, 01 Oct 2026 20:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;官方教程教你用约 80 行代码写一个实时显示上下文窗口占用的 Claude Code 插件。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.dev/blog/getting-started-with-claude-code-mods/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>汽车之后，安徽开始让车企跨界「造人」</title>
@@ -80,6 +152,14 @@
       <pubDate>Thu, 01 Oct 2026 18:50:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;用户称 Opus 5.5 上线数日后质量骤降，建议留存提示词定期复测并援引欧盟法规维权&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wuw9bc/opus_55_nerfing_how_to_measure_how_to_spot_how_to/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra 协助破译 217 年前拿破仑元帅密信</title>
+      <link>https://runtimewire.com/article/gpt-6-astra-marmont-cipher-carter-church</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c7394c4e0d11ed288e9388d0</guid>
+      <pubDate>Thu, 01 Oct 2026 14:36:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;一封 1809 年写给拿破仑元帅的密信被 AI 辅助破译，密钥与脚本已公开&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://runtimewire.com/article/gpt-6-astra-marmont-cipher-carter-church"&gt;runtimewire.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wus98d/gpt6_astra_helped_decode_a_217yearold_cipher/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>我告诉 Claude 我喜欢巴赫和合成器：Opus 5.5 创作 Contrapunctus Acidus</title>
@@ -298,12 +378,12 @@
       <description>&lt;p&gt;作者称用自建智能体 AI 系统与 minimax H3 工作流，只替换视频中一个人并保留互动动作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1wuetyg/selective_character_replacement_with_h3/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>特朗普政府调整America.gov聊天机器人，不再核查总统言论</title>
+      <title>America.gov聊天机器人被改：拒答2020大选与政治问题</title>
       <link>https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies</link>
       <guid isPermaLink="false">urn:zhiyike:news:8520d6bfd0688e3d7402b49d</guid>
       <pubDate>Thu, 01 Oct 2026 03:26:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;美国政府AI聊天机器人上线次日被改，拒绝回答选举舞弊、通胀等政治问题&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies"&gt;newrepublic.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增细节：特朗普宣传语、选举人票306:232、周三宕机、Rubio护照功能&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies"&gt;newrepublic.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/"&gt;Reddit / r/artificial&lt;/a&gt; · &lt;a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-2020-election-biden-b3058984.html"&gt;independent.co.uk&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wuxwjb/trump_team_scrambles_to_fix_government_ai_chatbot/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Perplexity 开放 Computer 邮件委托入口并限时免费运行任务</title>
@@ -728,86 +808,6 @@
       <pubDate>Wed, 30 Sep 2026 10:21:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;OpenAI发布GPT-6.1 Sol、全天候智能体dots、500美元Pro套餐及协作空间Space&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-30-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT6-Astra搭的3D场景总和原图对不齐？Mira-Scene来解决！</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-30</link>
-      <guid isPermaLink="false">urn:zhiyike:news:71004d8aae0efcd06c77c0ed</guid>
-      <pubDate>Wed, 30 Sep 2026 10:18:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;港大与VAST提出Mira-Scene，用像素对齐布局让单图重建的3D场景与原图严格一致。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-30"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DeepSeek 开源面向华为昇腾平台的基础设施组件</title>
-      <link>https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&amp;mid=2247485843&amp;idx=1&amp;sn=565102c3642d88e814331390bf62d276&amp;chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&amp;scene=126&amp;sessionid=1790739034#rd</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5ca57470a0c137440686fa02</guid>
-      <pubDate>Wed, 30 Sep 2026 10:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;DeepSeek 开源昇腾版 TileLang 及计算、通信组件，与英伟达版一一对应。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ==&amp;amp;mid=2247485843&amp;amp;idx=1&amp;amp;sn=565102c3642d88e814331390bf62d276&amp;amp;chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&amp;amp;scene=126&amp;amp;sessionid=1790739034#rd"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>纽约时报报道 OpenAI 在 AI 失控前已接到员工安全警告但被无视</title>
-      <link>https://www.ithome.com/1/008/592.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:83e5f0ae4d7593763200a083</guid>
-      <pubDate>Wed, 30 Sep 2026 09:48:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;两名员工曾邮件预警模型测试监控不到位，管理层要求尽快推进发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/008/592.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 与 SpaceX 签署最高 845 亿美元算力协议，可提前 90 天通知解除</title>
-      <link>https://www.ithome.com/1/008/589.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5722d0aef8f88e31828288d0</guid>
-      <pubDate>Wed, 30 Sep 2026 09:41:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 租用 SpaceX 两座数据中心 GPU 算力，月付 12.5 亿美元，合同上限 845 亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/008/589.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 牵手亚马逊云服务 AWS：重磅布局托管智能体，推 500 美元 Pro 顶配套餐</title>
-      <link>https://news.aibase.com/zh/news/31427</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2c5c5c9cc3b2e3f9633dfbc0</guid>
-      <pubDate>Wed, 30 Sep 2026 09:38:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 与 AWS 达成战略合作，用其基础设施运行托管式 AI 智能体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31427"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT 一夜抄完半个 AI 圈，现场演示频频翻车</title>
-      <link>https://www.ifanr.com/1682644?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:75eb668be14408a18356f416</guid>
-      <pubDate>Wed, 30 Sep 2026 09:34:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 一口气发布 Dot 智能体、GPT-6.1 Sol 模型、ChatGPT Space 等系列更新，但现场演&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1682644?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>腾讯入局Personal Agent赛道:代号"Handy Bot"，已在微信低调内测</title>
-      <link>https://news.aibase.com/zh/news/31426</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0737faa33975b8ab4acf73ce</guid>
-      <pubDate>Wed, 30 Sep 2026 09:29:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;腾讯内部代号Handy Bot的个人智能体已上线微信服务号，计划推出独立App。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31426"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>划时代的全天候 AI 助手正式登场：OpenAI 重磅发布 Dot 智能体，全面引爆 AI 应用商业化元年</title>
-      <link>https://news.aibase.com/zh/news/31424</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f4a576370457c27189e2855d</guid>
-      <pubDate>Wed, 30 Sep 2026 09:25:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 推出常驻型智能体 Dot，可自主操作已连接应用完成工作任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31424"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 用户吐槽 OpenAI Dev Day：无新前沿模型，200 美元档用量砍半</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1wtrvjc/dev_day_was_such_a_joke_disappointed_in_openai/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b4d34bae0f2bc30a9a8cf6b4</guid>
-      <pubDate>Wed, 30 Sep 2026 09:18:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 用户批评 OpenAI Dev Day 无新前沿模型、200 美元档用量减半且演示失败&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wtrvjc/dev_day_was_such_a_joke_disappointed_in_openai/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>奥尔特曼谈 OpenAI 上市：先把安全承诺做扎实，暂无时间表</title>
-      <link>https://news.aibase.com/zh/news/31423</link>
-      <guid isPermaLink="false">urn:zhiyike:news:790647d98360622ee7695ca9</guid>
-      <pubDate>Wed, 30 Sep 2026 09:16:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;奥尔特曼称 OpenAI 需先拿出过硬安全承诺，才会认真考虑上市，目前无明确时间节点。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31423"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
