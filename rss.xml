@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 05:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 08:46:00 +0800</lastBuildDate>
+    <item>
+      <title>加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险</title>
+      <link>https://www.ithome.com/1/009/204.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f8663c2982b1156ecee9f482</guid>
+      <pubDate>Fri, 02 Oct 2026 08:06:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;加州司法部就 OpenAI 智能体入侵 Hugging Face 事件正式调查并索要信息。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/009/204.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>FLUX 3 Image 登陆 OpenRouter：原生 4K 与 10 参考编辑</title>
       <link>https://bfl.ai/models/flux-3-image</link>
@@ -16,6 +24,14 @@
       <pubDate>Fri, 02 Oct 2026 03:05:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;FLUX 3 Image 上线 OpenRouter，新增原生 4K、10 参考与多轮精确编辑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://bfl.ai/models/flux-3-image"&gt;bfl.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wv886s/flux_3_image_maximum_control_over_every_pixel/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://x.com/OpenRouter/status/2105759062835220852"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026年9月本地AI模型盘点：从27B推理压缩到手机级LLM</title>
+      <link>https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d607037b489bc2cfc7a3178e</guid>
+      <pubDate>Fri, 02 Oct 2026 02:45:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Reddit汇总9月本地AI新模型，涵盖推理、多模态、量化压缩与端侧部署&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wv7o1r/local_ai_news_you_missed_september_2026/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>图灵奖得主 LeCun：对人类灭绝“零担忧”，称 Anthropic CEO Amodei“妄想”</title>
@@ -40,6 +56,14 @@
       <pubDate>Fri, 02 Oct 2026 01:01:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Comfy Agent 登陆 Comfy Cloud，可在画布上自动规划、连线并修复 ComfyUI 工作流。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://links.comfy.org/4hH1FaH"&gt;links.comfy.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wv4x9q/comfy_agent_is_now_live_for_everyone_on_comfy/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Heretic 作者回应 PewDiePie 试玩：更多非技术用户开始接触</title>
+      <link>https://github.com/p-e-w/heretic</link>
+      <guid isPermaLink="false">urn:zhiyike:news:38bc4597daff7e5fef7065a7</guid>
+      <pubDate>Fri, 02 Oct 2026 01:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;PewDiePie 试玩 Heretic 并出视频，作者称收到大量询问邮件&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/p-e-w/heretic"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wv4vot/heretic_is_on_pewdiepie/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>智能与执行：为什么前沿智能需要庞大的支撑体系</title>
@@ -682,12 +706,12 @@
       <description>&lt;p&gt;一个不依赖任何 ML 框架的循环状态空间模型，同参数量下学习更快、CPU 生成更快。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Sparticle62ops/pssa"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI 发布 Ultrafast 高速档位，GPT-6 Astra 即日可用</title>
+      <title>NVIDIA 详解 Blackwell GPU 如何加速 OpenAI GPT-6 Astra Ultrafast</title>
       <link>https://developers.openai.com/api/docs/guides/ultrafast-mode</link>
       <guid isPermaLink="false">urn:zhiyike:news:9d139c7805cb45a9b1b17392</guid>
       <pubDate>Wed, 30 Sep 2026 11:00:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;OpenAI API 新增最快服务档位 Ultrafast，GPT-6 Astra 全面开放、GPT-5.6 Sol 预&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.openai.com/api/docs/guides/ultrafast-mode"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ultrafast 跑在 Blackwell 上，生成速度最高达标准模式 8 倍&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.openai.com/api/docs/guides/ultrafast-mode"&gt;橘鸦日报&lt;/a&gt; · &lt;a href="https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Liquid AI 发布首款决策模型 d1 并开放 API</title>
@@ -784,30 +808,6 @@
       <pubDate>Wed, 30 Sep 2026 10:39:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;人大团队提出 ME-Decoding，把候选 token 筛选改写为动态子集优化问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-30-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>数学界呼吁AI实验室停止在私有模型上测试高等数学问题</title>
-      <link>https://agmai.org/general-sep29/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b73361e2e228c3c41e8047e8</guid>
-      <pubDate>Wed, 30 Sep 2026 10:36:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;数学界600余份反馈形成AI生成数学成果负责任发布建议&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://agmai.org/general-sep29/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>具身进实景，劳动最光荣！2026全球开发者先锋大会 暨国际具身智能技能大赛媒体通气会召开</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-30-3</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6e004f55711b14fe1b137b68</guid>
-      <pubDate>Wed, 30 Sep 2026 10:30:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;GDPS 2026将于10月23日至25日在上海张江科学会堂举行，设9大赛道23个赛项。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-30-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6.1、全天候智能体，OpenAI这次DevDay全是大招</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-30-2</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a172bbb9ea54fbe845e7b4fa</guid>
-      <pubDate>Wed, 30 Sep 2026 10:21:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI发布GPT-6.1 Sol、全天候智能体dots、500美元Pro套餐及协作空间Space&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-30-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
