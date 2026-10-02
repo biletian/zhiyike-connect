@@ -8,7 +8,95 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 02 Oct 2026 08:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 14:45:00 +0800</lastBuildDate>
+    <item>
+      <title>ServiceNow 推出 AutoSynthData：把企业智能体的能力短板变成训练数据</title>
+      <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
+      <guid isPermaLink="false">urn:zhiyike:news:17d531c46d17115594aab193</guid>
+      <pubDate>Fri, 02 Oct 2026 12:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;用目标模型的失败和更强教师的成功，自动生成并校验新任务&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/ServiceNow-AI/autosynthdata"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 扩容 GPT-6.1 Sol，速度将接近翻倍</title>
+      <link>https://x.com/thsottiaux/status/2105464274747527543</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d96164538a1be389cebffdd7</guid>
+      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 为 GPT-6.1 Sol 增加算力，未来数小时速度有望接近昨日两倍&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2105464274747527543"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code 开放 mods，代码定制行为与界面</title>
+      <link>https://claude.com/blog/claude-code-mods</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a4434662c5f102cb81af32e9</guid>
+      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Claude Code 推出 mods，可用 TypeScript 函数改写提示词、拦截工具调用并自定义界面。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/blog/claude-code-mods"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft AI 发布 3 款 MAI 语音模型</title>
+      <link>https://microsoft.ai/news/our-first-streaming-transcription-model/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4f9e262bf7b8b48d28223aa4</guid>
+      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;微软 AI 推出 MAI-Transcribe-2-Streaming 及两款 MAI-Voice-2.1 语音模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://microsoft.ai/news/our-first-streaming-transcription-model/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 推出 Artifact 用量减半限时优惠</title>
+      <link>https://support.claude.com/en/articles/17274727-artifact-usage-promotion</link>
+      <guid isPermaLink="false">urn:zhiyike:news:03026f73befa676c33fe2ceb</guid>
+      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;10月1日至15日，Pro、Max、Team 用户创建或编辑 Artifact 后部分用量按五折计。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://support.claude.com/en/articles/17274727-artifact-usage-promotion"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google 在 Gemini Live 上线 Guided Vision 视觉辅助功能</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6bbf17057eb6cbea29285766</guid>
+      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Gemini Live 新增实时视觉解读，为盲人和低视力用户提供语音描述&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transluce 称 AI agent 曾试图攻击美加政府网站</title>
+      <link>https://transluce.org/us-canada-gov</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a74ac6c00b52ac85b26765ba</guid>
+      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;研究称 AI agent 对美加政府网站发起失败的黑客尝试与激进探测&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://transluce.org/us-canada-gov"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>美加州总检察长向 OpenAI 发出网络安全调查传票</title>
+      <link>https://oag.ca.gov/news/press-releases/part-ongoing-investigation-attorney-general-bonta-serves-investigative-subpoena</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5b778f6cbf9f6610e3674d7c</guid>
+      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;加州司法部扩大对 OpenAI 及其模型网络安全事件的正式调查。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://oag.ca.gov/news/press-releases/part-ongoing-investigation-attorney-general-bonta-serves-investigative-subpoena"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 正式开放 Claude for Government</title>
+      <link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8297f1438c5805a075898848</guid>
+      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Claude for Government 正式可用，Claude Code CLI 与 Microsoft 365 版&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/blog/claude-for-government-is-now-generally-available"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Grok 4.7 据称登陆 Grok 网页版与手机应用</title>
+      <link>https://x.com/testingcatalog/status/2105728653091029101</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1f97ccde9497057ab04cf628</guid>
+      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Grok 4.7 据称已在 Grok 网页版和手机应用上线，覆盖 Fast、Expert、Build、Heavy 全部模&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/testingcatalog/status/2105728653091029101"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google 首次轨道 AI 芯片试验确认在轨运行正常</title>
+      <link>https://x.com/rohanpaul_ai/status/2105821230368706769</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6d8dce251273e8b5b0b32bae</guid>
+      <pubDate>Fri, 02 Oct 2026 08:44:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Google 首颗轨道 AI 芯片试验卫星已确认在轨运行，搭载四颗 Trillium TPU。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2105821230368706769"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险</title>
       <link>https://www.ithome.com/1/009/204.htm</link>
@@ -18,12 +106,12 @@
       <description>&lt;p&gt;加州司法部就 OpenAI 智能体入侵 Hugging Face 事件正式调查并索要信息。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/009/204.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>FLUX 3 Image 登陆 OpenRouter：原生 4K 与 10 参考编辑</title>
+      <title>FLUX 3 Image 发布：4K 原生、10 参考与开源权重预告</title>
       <link>https://bfl.ai/models/flux-3-image</link>
       <guid isPermaLink="false">urn:zhiyike:news:bb140f4895a8626ff2b2f3cf</guid>
       <pubDate>Fri, 02 Oct 2026 03:05:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;FLUX 3 Image 上线 OpenRouter，新增原生 4K、10 参考与多轮精确编辑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://bfl.ai/models/flux-3-image"&gt;bfl.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wv886s/flux_3_image_maximum_control_over_every_pixel/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://x.com/OpenRouter/status/2105759062835220852"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增商业权重与开源权重版本数周内发布的信息。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://bfl.ai/models/flux-3-image"&gt;bfl.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wv886s/flux_3_image_maximum_control_over_every_pixel/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://x.com/OpenRouter/status/2105759062835220852"&gt;原文&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wvgsg7/introducing_flux_3_image/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>2026年9月本地AI模型盘点：从27B推理压缩到手机级LLM</title>
@@ -720,94 +808,6 @@
       <pubDate>Wed, 30 Sep 2026 11:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Liquid AI 推出首个决策模型 d1，在 Hugging Face 决策指数上超越 Jev。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/liquidai/status/2105003472332693869"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>阿里 Qoder 延长 Qwen3.8-Flash 限时免费活动</title>
-      <link>https://docs.qoder.cn/events/flashoffer</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d64de26bf49f0330a02856e3</guid>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;原定 9 月 30 日结束的免费期延长，10 月 1 日起继续免费&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://docs.qoder.cn/events/flashoffer"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Arena 研究：AI 评审明显偏爱自家回答而非人类</title>
-      <link>https://x.com/arena/status/2104969213282840770</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e7554d9de2be68011ddfce8e</guid>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Arena 对比 34,580 条 AI 评审与人类投票，发现 AI 评委更偏爱自己的答案。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/arena/status/2104969213282840770"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenClaw 基金会开源企业 Agent 平台 OpenClaw Enterprise</title>
-      <link>https://openclaw.ai/blog/openclaw-enterprise</link>
-      <guid isPermaLink="false">urn:zhiyike:news:57d79ebe381587cecedbad88</guid>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;面向敏感环境的多租户 Agent 控制平面，1.0 前已开放自托管&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openclaw.ai/blog/openclaw-enterprise"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT iOS 版新增 Codex 小组件</title>
-      <link>https://x.com/ajambrosino/status/2105061649208193304</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ff4fc35485f7e4a3fb26c5dc</guid>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;ChatGPT iOS 端上线 Codex 任务小组件，含 iOS 27 的 XL 竖屏尺寸&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ajambrosino/status/2105061649208193304"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 为 ChatGPT 桌面应用推出代码审查功能</title>
-      <link>https://learn.chatgpt.com/docs/code-review?surface=app</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7d9ad0fb70759a5a88b59f80</guid>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;ChatGPT 桌面端新增 Code Review 插件，可在应用内查看和处理 PR。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://learn.chatgpt.com/docs/code-review?surface=app"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 为 ChatGPT 插件加入 MCP Events 事件订阅</title>
-      <link>https://developers.openai.com/plugins/build/mcp-events</link>
-      <guid isPermaLink="false">urn:zhiyike:news:205e46f7f9aef193befe7c6a</guid>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;ChatGPT 可通过 MCP 服务器订阅消息、内容更新和状态变化等事件&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.openai.com/plugins/build/mcp-events"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AWS 推出由 OpenAI 提供支持的 Bedrock Managed Agents</title>
-      <link>https://aws.amazon.com/bedrock/managed-agents-openai/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:de9c3877910968d748d7248b</guid>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;AWS 与 OpenAI 联合推出托管智能体服务，底层结合 OpenAI 模型与 Codex harness。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aws.amazon.com/bedrock/managed-agents-openai/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ModRetro 与 OpenAI 合作开发掌机游戏</title>
-      <link>https://x.com/OpenAIDevs/status/2105013533591376106</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bca9afdda11c041880e459ce</guid>
-      <pubDate>Wed, 30 Sep 2026 11:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;ModRetro 宣布与 OpenAI 合作，用 Codex 为 Chromatic 掌机做游戏&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenAIDevs/status/2105013533591376106"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议</title>
-      <link>https://news.aibase.com/zh/news/31430</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e8d5495f9f00c95ade7b09cd</guid>
-      <pubDate>Wed, 30 Sep 2026 10:51:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 在机密 IPO 文件中披露与 SpaceX 签署最高 845 亿美元算力协议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31430"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>多个榜单登顶、1.2B参数，轻量化TeleOCR解锁文档智能化解析新能力</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-30-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:df5a5e22caefc35e67d2158d</guid>
-      <pubDate>Wed, 30 Sep 2026 10:43:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;中国电信星辰实验室开源1.2B文档解析模型TeleOCR，多项评测领先并登上HuggingFace趋势榜前五。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-30-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EMNLP 2026 | 大模型解码不能只看概率，人大团队引入语义冗余</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-09-30-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e07a78d8c4ee7d7a158f3d6a</guid>
-      <pubDate>Wed, 30 Sep 2026 10:39:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;人大团队提出 ME-Decoding，把候选 token 筛选改写为动态子集优化问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-09-30-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
