@@ -8,7 +8,7 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 04 Oct 2026 00:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 03:15:00 +0800</lastBuildDate>
     <item>
       <title>ARC Prize Foundation 推出第二代抽象推理基准 ARC-AGI-2</title>
       <link>https://epoch.ai/benchmarks/arc-agi-2</link>
@@ -80,6 +80,14 @@
       <pubDate>Sat, 03 Oct 2026 18:11:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;作者用两套顺序工作流生成音频对齐视频，绕开 latent 退化，只处理接缝&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/roycho87/degrade_repo"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wwjok2/does_this_count_did_i_win/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用户实测：Opus 5.5 在室内导航等项目上远超 Astra</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wwjglp/astra_is_great_but_opus_55_is_next_level/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:223569655b9e0eaedc03df45</guid>
+      <pubDate>Sat, 03 Oct 2026 17:58:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位用户称用 Opus 5.5 零手写代码做出完整游戏，并在室内导航任务上以 9/10 对 2/10 碾压 Astra。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wwjglp/astra_is_great_but_opus_55_is_next_level/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师</title>
@@ -800,14 +808,6 @@
       <pubDate>Thu, 01 Oct 2026 20:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;官方教程教你用约 80 行代码写一个实时显示上下文窗口占用的 Claude Code 插件。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.dev/blog/getting-started-with-claude-code-mods/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>汽车之后，安徽开始让车企跨界「造人」</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-01-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:11825bcd62623cf8ec73e095</guid>
-      <pubDate>Thu, 01 Oct 2026 19:59:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;安徽出台23条举措推动车机协同，鼓励车企把机器人做成第二增长曲线。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-01-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
