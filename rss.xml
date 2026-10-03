@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 04 Oct 2026 03:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:16:00 +0800</lastBuildDate>
+    <item>
+      <title>一批极窄推理运行时涌现：放弃通用性，专为少数模型和硬件做极致优化</title>
+      <link>https://carteakey.dev/blog/local-inference/the-rise-of-overfit-inference-engines/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8364bcc47113ed6d4acf34e6</guid>
+      <pubDate>Sun, 04 Oct 2026 02:24:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Strata、ninfer 等窄推理运行时放弃通用性，专攻少数模型与硬件&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://carteakey.dev/blog/local-inference/the-rise-of-overfit-inference-engines/"&gt;carteakey.dev&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ARC Prize Foundation 推出第二代抽象推理基准 ARC-AGI-2</title>
       <link>https://epoch.ai/benchmarks/arc-agi-2</link>
@@ -114,6 +122,14 @@
       <description>&lt;p&gt;OpenAI 披露为调查智能体非预期活动，每天投入超 50 万美元并动用 AI 筛查 50PB 数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/009/444.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Demis Hassabis：AI 能创作艺术，但不代表它更有意义</title>
+      <link>https://www.youtube.com/watch?v=rDteJAuKiBI</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9c8653010ca1f642659f5a26</guid>
+      <pubDate>Sat, 03 Oct 2026 14:08:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Hassabis 认为艺术没有线性高下之分，人类真实经历赋予作品额外意义&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.youtube.com/watch?v=rDteJAuKiBI"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wwfsuy/demis_hassabis_on_ai_art_being_able_to_create_it/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开</title>
       <link>https://www.qbitai.com/2026/10/501368.html</link>
       <guid isPermaLink="false">urn:zhiyike:news:79caac3c66747b2cdb5ecd00</guid>
@@ -207,7 +223,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:f438734097c4b2152878426e</guid>
       <pubDate>Sat, 03 Oct 2026 06:11:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;新增 r/comfyui 来源，并披露 Oscilloscopes, Everywhere 集合含 4 个工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://uisato.studio/tools/oscilloscopes-everywhere"&gt;uisato.studio&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1ww6r3i/introducing_oscilloscope_diffusion/"&gt;Reddit / r/GeminiAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1ww6pdx/introducing_oscilloscope_diffusion/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增 r/OpenAI 来源，并披露 Oscilloscopes, Everywhere 集合含 4 个工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://uisato.studio/tools/oscilloscopes-everywhere"&gt;uisato.studio&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1ww6r3i/introducing_oscilloscope_diffusion/"&gt;Reddit / r/GeminiAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1ww6pdx/introducing_oscilloscope_diffusion/"&gt;Reddit / r/comfyui&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wwqgun/introducing_oscilloscope_diffusion/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%</title>
@@ -792,22 +808,6 @@
       <pubDate>Thu, 01 Oct 2026 21:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;FTC 已对 OpenAI、Anthropic 等 AI 公司展开调查，聚焦其产品潜在危害。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>286 老电脑跑通 AI 对话与画图：Tandy 1000 TL/3 上的 DeskMind</title>
-      <link>https://github.com/RowanUnderwood/DeskMind</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3a1cf9b0757457aef6dc4fba</guid>
-      <pubDate>Thu, 01 Oct 2026 20:20:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;286 老电脑经 WiFi 连 PC 模型，实现聊天与 16 色抖动画图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/RowanUnderwood/DeskMind"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wuxzdg/why_am_i_like_this_full_chat_and_image_generation/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wuw8as/why_am_i_like_this_image_generation_on_a_286/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code mods 入门教程：从零构建 Token Weather 上下文窗口预报插件</title>
-      <link>https://claude.dev/blog/getting-started-with-claude-code-mods/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:11dad842755e9c0547414c8d</guid>
-      <pubDate>Thu, 01 Oct 2026 20:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;官方教程教你用约 80 行代码写一个实时显示上下文窗口占用的 Claude Code 插件。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.dev/blog/getting-started-with-claude-code-mods/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
