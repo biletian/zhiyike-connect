@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 03 Oct 2026 06:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 09:16:00 +0800</lastBuildDate>
+    <item>
+      <title>Oscilloscope Diffusion 发布：扩散模型重塑视频纹理与视觉语言</title>
+      <link>https://uisato.studio/tools/oscilloscopes-everywhere</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f438734097c4b2152878426e</guid>
+      <pubDate>Sat, 03 Oct 2026 06:11:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;新增 r/comfyui 来源，并披露 Oscilloscopes, Everywhere 集合含 4 个工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://uisato.studio/tools/oscilloscopes-everywhere"&gt;uisato.studio&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1ww6r3i/introducing_oscilloscope_diffusion/"&gt;Reddit / r/GeminiAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1ww6pdx/introducing_oscilloscope_diffusion/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%</title>
       <link>https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/</link>
@@ -16,6 +24,14 @@
       <pubDate>Sat, 03 Oct 2026 05:09:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Baseten 工程师用 MetaInfer 技能框架生成定制推理引擎，单流解码速度最高超 vLLM 90%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6.1 Sol 需求空前，OpenAI 称速度将提升近一倍</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1ww4mvp/each_day_61_sol_throughput_keeps_on_improving/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0a2c2e737ad6108b1813f5c7</guid>
+      <pubDate>Sat, 03 Oct 2026 04:41:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 为 GPT-6.1 Sol 扩容，称未来数小时速度接近昨日两倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1ww4mvp/each_day_61_sol_throughput_keeps_on_improving/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>PewDiePie 尝试用 GPT-Sol 回复训练本地模型，称账号两度被封</title>
@@ -72,6 +88,14 @@
       <pubDate>Sat, 03 Oct 2026 02:01:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Redis 作者 antirez 发布 ds4，一个用 C 写的本地推理引擎，支持多款前沿开源模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://dwarfstar.sh/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google 开源内部智能体编排器 AX：用 Redis 存任务状态，不走 etcd</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1wvzaep/google_has_open_sourced_their_internal_agent/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1c529dbcf290f5754786eb76</guid>
+      <pubDate>Sat, 03 Oct 2026 01:08:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Google 开源智能体运行时 AX，用 Redis 替代 etcd 存储海量短生命周期任务状态&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wvzaep/google_has_open_sourced_their_internal_agent/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI 发布 GPT-6 系列模型指南：Astra、Sol、Luna 怎么选</title>
@@ -200,6 +224,14 @@
       <pubDate>Fri, 02 Oct 2026 15:27:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;丘成桐参与论文用AI辅助探索证明思路，宣称28种七维球面均可配正曲率度量&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/499991.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 的 Mythos 漏洞猎手，半年后为何没兑现承诺？</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wvmwys/whatever_happened_to_security_nightmare_mythos/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1cfceb13c2b4303398c81809</guid>
+      <pubDate>Fri, 02 Oct 2026 14:50:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 网友质疑 Anthropic 的 Mythos 模型未兑现漏洞挖掘承诺&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wvmwys/whatever_happened_to_security_nightmare_mythos/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>H3 ref2v MV《I Know What You Are》完成：误用 fl2av 模型效果反而更好</title>
@@ -776,38 +808,6 @@
       <pubDate>Thu, 01 Oct 2026 04:04:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;谷歌发布前沿模型 Gemini 4 Argon，输出上限提至 100 万 token，先经 Fairwind 计划开放。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放</title>
-      <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:da97e56309ca454446331645</guid>
-      <pubDate>Thu, 01 Oct 2026 04:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Gemini 4 Argon 先向 Fairwind 计划的可信网络防御者开放，暂未公开发布&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/officiallogank/status/2105388054274080946?s=46"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wufb0a/gemini_4_for_real/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用 H3 精准替换视频中一个人：保留拥抱、摘墨镜与唇形同步</title>
-      <link>https://www.reddit.com/r/comfyui/comments/1wuetyg/selective_character_replacement_with_h3/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cfb2a25d8e81f087b6365758</guid>
-      <pubDate>Thu, 01 Oct 2026 03:47:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;作者称用自建智能体 AI 系统与 minimax H3 工作流，只替换视频中一个人并保留互动动作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1wuetyg/selective_character_replacement_with_h3/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>America.gov聊天机器人被改：拒答2020大选与政治问题</title>
-      <link>https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8520d6bfd0688e3d7402b49d</guid>
-      <pubDate>Thu, 01 Oct 2026 03:26:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;新增细节：特朗普宣传语、选举人票306:232、周三宕机、Rubio护照功能&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://newrepublic.com/post/216016/trump-rigs-americagov-ai-chatbot-fact-check-lies"&gt;newrepublic.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wueara/trump_reprograms_government_ai_chatbot_to_stop/"&gt;Reddit / r/artificial&lt;/a&gt; · &lt;a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-ai-2020-election-biden-b3058984.html"&gt;independent.co.uk&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wuxwjb/trump_team_scrambles_to_fix_government_ai_chatbot/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Perplexity 开放 Computer 邮件委托入口并限时免费运行任务</title>
-      <link>https://x.com/AravSrinivas/status/2105369479190601754</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c94eb19e20c90053953260ab</guid>
-      <pubDate>Thu, 01 Oct 2026 02:49:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;无需 Perplexity 账号，转发或抄送邮件即可让 Computer 在后台完成任务&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AravSrinivas/status/2105369479190601754"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
