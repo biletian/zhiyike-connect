@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 04 Oct 2026 15:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 21:31:00 +0800</lastBuildDate>
+    <item>
+      <title>AlphaGo核心作者：十年了，LLM还没学到那场棋局「神之一手」的精华</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-04-5</link>
+      <guid isPermaLink="false">urn:zhiyike:news:89d2298a3055574fa19fef10</guid>
+      <pubDate>Sun, 04 Oct 2026 19:38:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;AlphaGo核心作者发文称LLM不会推理，离开DeepMind创业做可审计推理系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-04-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>终于有人管管屎山代码了！Tibo预告，Astra 6.1要来了？</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-04-4</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5505e5e58f4ecba06ab2927d</guid>
+      <pubDate>Sun, 04 Oct 2026 19:31:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI产品负责人Tibo预告新模型将更擅长删减代码，并称Astra 6.1即将到来。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-04-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>太卷了！DeepSeek假期更新，Harness有了新版本</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-04-2</link>
+      <guid isPermaLink="false">urn:zhiyike:news:62bf1757da3a610967fd997d</guid>
+      <pubDate>Sun, 04 Oct 2026 19:21:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;DeepSeek Harness 新增实验性兼容层，可桥接 Claude Code Mods 扩展&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-04-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jev火了，NeurIPS 2025的ConfTuner早已探索相似思路</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-04</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9efe7cd095cbaecb65be25c7</guid>
+      <pubDate>Sun, 04 Oct 2026 19:12:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;机器之心梳理Jev与ConfTuner在概率校准上的技术共识，并介绍开源延伸项目JevTuner。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-04"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相</title>
       <link>https://www.ifanr.com/1682922?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -24,6 +56,14 @@
       <pubDate>Sun, 04 Oct 2026 14:12:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;马斯克确认正与台积电讨论Terafab芯片制造合作，此前英特尔是唯一被点名伙伴。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/501605.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code 让我给自己写应用，过程有点吓人</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wx7nnw/claude_has_enabled_me_to_make_apps_for_personal/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:41bcbd55cdab2d2d9ff1f42c</guid>
+      <pubDate>Sun, 04 Oct 2026 13:28:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;有编程基础的用户用 Claude Code 自建 whisper 转录应用，替代终端命令行流程&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wx7nnw/claude_has_enabled_me_to_make_apps_for_personal/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>开源项目 image-blaster：一张照片 5 分钟生成可探索 3D 世界，含物理、高斯泼溅与音效</title>
@@ -56,6 +96,22 @@
       <pubDate>Sun, 04 Oct 2026 09:37:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;爆料称 Xpass 把 X、Grok、Cursor 打包成三档订阅，Plus 与 Premium 档位已互换。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/GrokInsider/status/2106302120450220502"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户实测 Opus5.5：Pro 套餐额度太紧，开发计划刚做完就触顶</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wx38l5/wow/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3431ef9360347568fecdc054</guid>
+      <pubDate>Sun, 04 Oct 2026 09:22:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Pro 用户用 Opus5.5 生成项目开发计划，计划质量不错但额度很快耗尽。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wx38l5/wow/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用户称 Pro 账号被路由到 Gemini 4，疑似提前体验新模型</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wx2ti9/well_thats_that_gemini_4_it_seems/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:45c650942677d194b8087174</guid>
+      <pubDate>Sun, 04 Oct 2026 09:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit 用户称在 Pro 账号下被路由到 Gemini 4，且未触发联网搜索。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wx2ti9/well_thats_that_gemini_4_it_seems/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>中科院团队具身模型 Maxwell 登顶 Meta-World，得分 91.9 创纪录</title>
@@ -96,6 +152,14 @@
       <pubDate>Sun, 04 Oct 2026 04:56:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;作者用代码渲染科学数据生成 106 张以纯黑为底的 4K 壁纸，未使用 AI 生图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://alistair-roberts.co.uk/blackbody"&gt;alistair-roberts.co.uk&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wwxsle/i_used_claude_to_make_106_almost_all_black_oled/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>16GB RTX 3080 笔记本 + 32GB 内存跑 Qwen3.8 Flash Next 176B</title>
+      <link>https://github.com/zhongkaifu/TensorSharp?utm_source=chatgpt.com</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7a1b7c777f3a656af0b00f61</guid>
+      <pubDate>Sun, 04 Oct 2026 04:06:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;TensorSharp 用分层调度让 176B MoE 模型在普通笔记本上跑起来&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/zhongkaifu/TensorSharp?utm_source=chatgpt.com"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wwwmy1/running_qwen38_flash_next_176b_on_a_16gb_rtx_3080/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>一批极窄推理运行时涌现：放弃通用性，专为少数模型和硬件做极致优化</title>
@@ -744,70 +808,6 @@
       <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Grok 4.7 据称已在 Grok 网页版和手机应用上线，覆盖 Fast、Expert、Build、Heavy 全部模&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/testingcatalog/status/2105728653091029101"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 用户盛赞 Gemini 3.8：角色有自杀念头、互相撕咬复仇，戏剧张力拉满</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1wvhau9/i_love_gemini/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ffe9767f75533cdcf7b19d91</guid>
-      <pubDate>Fri, 02 Oct 2026 09:38:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一位用户对比 Opus、Astra 与 Gemini 写同一剧情，称只有 Gemini 写出了真实的人性冲突。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wvhau9/i_love_gemini/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google 首次轨道 AI 芯片试验确认在轨运行正常</title>
-      <link>https://x.com/rohanpaul_ai/status/2105821230368706769</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6d8dce251273e8b5b0b32bae</guid>
-      <pubDate>Fri, 02 Oct 2026 08:44:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Google 首颗轨道 AI 芯片试验卫星已确认在轨运行，搭载四颗 Trillium TPU。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/rohanpaul_ai/status/2105821230368706769"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>加州检察长向 OpenAI 发出传票，调查 AI 智能体网络安全风险</title>
-      <link>https://www.ithome.com/1/009/204.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f8663c2982b1156ecee9f482</guid>
-      <pubDate>Fri, 02 Oct 2026 08:06:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;加州司法部就 OpenAI 智能体入侵 Hugging Face 事件正式调查并索要信息。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/009/204.htm"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用 GPT-6 Astra 把 dots 智能体做成 3D 高斯泼溅</title>
-      <link>https://superspl.at/scene/ca6a4c9b</link>
-      <guid isPermaLink="false">urn:zhiyike:news:30297eea2c175ac2e9c03536</guid>
-      <pubDate>Fri, 02 Oct 2026 08:02:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;英国用户用 Astra 加 Blender MCP 复刻 dots 智能体，并训练出可实时查看的高斯泼溅模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://superspl.at/scene/ca6a4c9b"&gt;superspl.at&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wvfapq/used_gpt6_astra_to_recreate_an_agent_dot_as_a_3d/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 用户实测 Gemini 4 数周：不惊艳，但不输 Fable 或 Opus</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1wvefb2/gemini_4/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b0e3924d6231be5524013931</guid>
-      <pubDate>Fri, 02 Oct 2026 07:22:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一位自称使用 Gemini 4 数周的用户给出评价：不算惊艳，但不输现有任何模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wvefb2/gemini_4/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 用户实测：100 美元套餐用量充裕，附省额度技巧</title>
-      <link>http://handoff.md</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c4b24d0c9ae4e9417581c656</guid>
-      <pubDate>Fri, 02 Oct 2026 06:48:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户从 20 美元套餐升级到 100 美元套餐后，不再为用量焦虑&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://handoff.md"&gt;handoff.md&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wvdodf/100_plan_holy_sh/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ComfyUI 视频加载与合成循环四次会累积偏色，画面变暗、粉色加重</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1wvcq2p/source_of_burn_issue_identified_sorry_if_this_was/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8b2d700ae8bcb17a37a3336c</guid>
-      <pubDate>Fri, 02 Oct 2026 06:06:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户实测发现，ComfyUI 视频加载导出循环本身就会累积改变颜色&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wvcq2p/source_of_burn_issue_identified_sorry_if_this_was/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anima-Lightning 发布：Anima 模型 4 步推理即可出图</title>
-      <link>https://huggingface.co/aina-tech/Anima-Lightning</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8c2ddc787999cb49f7b819a1</guid>
-      <pubDate>Fri, 02 Oct 2026 05:19:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Anima 的 4 步推理微调版 Anima-Lightning 已公开释出，模型权重上线 Hugging Face&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/aina-tech/Anima-Lightning"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wvbn0z/animalightning_was_just_released_you_can_now_run/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
