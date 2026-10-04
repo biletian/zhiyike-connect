@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 04 Oct 2026 21:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:46:00 +0800</lastBuildDate>
+    <item>
+      <title>GPT-6 Astra 不看画面通关《魔兽世界》兽人新手区：40 分钟零死亡</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data</link>
+      <guid isPermaLink="false">urn:zhiyike:news:134eced3d4cd3314e1cd3f64</guid>
+      <pubDate>Sun, 04 Oct 2026 23:37:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;AI 靠解析服务器网络包和 SQL 文件，在私服完成全部新手任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wxin4m/chatgpt6_astra_plays_world_of_warcraft_blind_and/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AlphaGo核心作者：十年了，LLM还没学到那场棋局「神之一手」的精华</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-10-04-5</link>
@@ -42,6 +50,22 @@
       <description>&lt;p&gt;机器之心梳理Jev与ConfTuner在概率校准上的技术共识，并介绍开源延伸项目JevTuner。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-04"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>用户指控 Perplexity 用虚假学生优惠诱导注册并收集学术数据</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1wxawol/perplexity_using_illegal_bait_advertising_to/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3c8f3fd0c985e38a9043a89e</guid>
+      <pubDate>Sun, 04 Oct 2026 16:51:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户称 Perplexity 首页横幅承诺学生免费一年，注册后却无法兑现&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wxawol/perplexity_using_illegal_bait_advertising_to/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>机器学习博士生纠结：目标公司产品价值观不合，但研究团队很强，该去实习吗</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5028d8dbfb6aeb082ee17588</guid>
+      <pubDate>Sun, 04 Oct 2026 16:41:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;欧盟 ML 博士生拿到实习机会，却因公司营销手段和产品价值观不合而犹豫&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相</title>
       <link>https://www.ifanr.com/1682922?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <guid isPermaLink="false">urn:zhiyike:news:61533df266568a3b0e6579d8</guid>
@@ -66,12 +90,36 @@
       <description>&lt;p&gt;有编程基础的用户用 Claude Code 自建 whisper 转录应用，替代终端命令行流程&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wx7nnw/claude_has_enabled_me_to_make_apps_for_personal/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>64GB 内存的诅咒：跑通 QFN 后却装不下 ComfyUI</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wx72ni/the_curse_of_64gb_system_ram/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:61d0c8798382f61d5f703970</guid>
+      <pubDate>Sun, 04 Oct 2026 12:54:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户实测 QFN 在 Strata 上从 21 t/s 提升到 60 t/s，但 64GB 内存被吃满。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wx72ni/the_curse_of_64gb_system_ram/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>开源项目 image-blaster：一张照片 5 分钟生成可探索 3D 世界，含物理、高斯泼溅与音效</title>
       <link>https://github.com/neilsonnn/image-blaster</link>
       <guid isPermaLink="false">urn:zhiyike:news:cd46e2f76a81716cae58ea27</guid>
       <pubDate>Sun, 04 Oct 2026 12:12:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;开源工具 image-blaster 用一张图在 5 分钟内生成带物理与音效的 3D 环境。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/neilsonnn/image-blaster"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wx6cri/its_over_guys_this_repo_turns_one_photo_into_a/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Opus 5.5 独立完成《失物博物馆》：MiniMax H3 生成视频与配音</title>
+      <link>https://youtu.be/dS5suoUiNnE?si=6U7bEVLxcWXcy4J3</link>
+      <guid isPermaLink="false">urn:zhiyike:news:fed0f242b65e38ae85ab3c74</guid>
+      <pubDate>Sun, 04 Oct 2026 11:43:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;新增各环节模型分工：Z-Image 出图、MiniMax H3 出视频配音、MiniMax Music 3 配乐。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://youtu.be/dS5suoUiNnE?si=6U7bEVLxcWXcy4J3"&gt;youtu.be&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wx5tqn/the_museum_of_lost_things_short_film_by_claude/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.youtube.com/playlist?list=PLNT-PQfU7jYo"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wx47jb/the_museum_of_lost_things_short_film_by_claude/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户称 Fable 能优化各类工作流，token 用量降至 1/10</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wx3xrq/ask_fable_to_optimize_everything_you_do/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:64e30338e54c633a3b235eef</guid>
+      <pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;有用户称把对话写作流程交给 Fable 分析后，token 用量降到原来的 1/10，质量反而更高。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wx3xrq/ask_fable_to_optimize_everything_you_do/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>德国 AI 公司 Aleph Alpha 发布开放权重模型 Kolibri</title>
@@ -760,54 +808,6 @@
       <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;微软 AI 推出 MAI-Transcribe-2-Streaming 及两款 MAI-Voice-2.1 语音模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://microsoft.ai/news/our-first-streaming-transcription-model/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude 推出 Artifact 用量减半限时优惠</title>
-      <link>https://support.claude.com/en/articles/17274727-artifact-usage-promotion</link>
-      <guid isPermaLink="false">urn:zhiyike:news:03026f73befa676c33fe2ceb</guid>
-      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;10月1日至15日，Pro、Max、Team 用户创建或编辑 Artifact 后部分用量按五折计。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://support.claude.com/en/articles/17274727-artifact-usage-promotion"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google 在 Gemini Live 上线 Guided Vision 视觉辅助功能</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6bbf17057eb6cbea29285766</guid>
-      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Gemini Live 新增实时视觉解读，为盲人和低视力用户提供语音描述&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Transluce 称 AI agent 曾试图攻击美加政府网站</title>
-      <link>https://transluce.org/us-canada-gov</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a74ac6c00b52ac85b26765ba</guid>
-      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;研究称 AI agent 对美加政府网站发起失败的黑客尝试与激进探测&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://transluce.org/us-canada-gov"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美加州总检察长向 OpenAI 发出网络安全调查传票</title>
-      <link>https://oag.ca.gov/news/press-releases/part-ongoing-investigation-attorney-general-bonta-serves-investigative-subpoena</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5b778f6cbf9f6610e3674d7c</guid>
-      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;加州司法部扩大对 OpenAI 及其模型网络安全事件的正式调查。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://oag.ca.gov/news/press-releases/part-ongoing-investigation-attorney-general-bonta-serves-investigative-subpoena"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 正式开放 Claude for Government</title>
-      <link>https://claude.com/blog/claude-for-government-is-now-generally-available</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8297f1438c5805a075898848</guid>
-      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Claude for Government 正式可用，Claude Code CLI 与 Microsoft 365 版&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/blog/claude-for-government-is-now-generally-available"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Grok 4.7 据称登陆 Grok 网页版与手机应用</title>
-      <link>https://x.com/testingcatalog/status/2105728653091029101</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1f97ccde9497057ab04cf628</guid>
-      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Grok 4.7 据称已在 Grok 网页版和手机应用上线，覆盖 Fast、Expert、Build、Heavy 全部模&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/testingcatalog/status/2105728653091029101"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
