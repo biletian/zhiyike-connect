@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 05 Oct 2026 04:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:46:00 +0800</lastBuildDate>
+    <item>
+      <title>用户实测对比：失业后求职规划中，我为何更偏好 Gemini 而非 Claude</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1wxp1x6/i_actually_prefer_gemini_over_claude/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:75eec28050befd0a45453505</guid>
+      <pubDate>Mon, 05 Oct 2026 04:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位非程序员用户用两者规划求职，称 Gemini 在简历、法律引用和人脉策略上判断更准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wxp1x6/i_actually_prefer_gemini_over_claude/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>游戏开发者被 ChatGPT 判「网络滥用」封号，申诉 1 分钟被 AI 驳回</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1wxnt4u/banned_from_chatgpt_for_cyber_abuse_while/</link>
@@ -18,12 +26,36 @@
       <description>&lt;p&gt;付费 100 美元/月的开发者做游戏项目被封号，申诉无人工审核&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wxnt4u/banned_from_chatgpt_for_cyber_abuse_while/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Reddit 网友发起 Malfoid 女性角色 AI 影片众筹式创作项目</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1wxnohj/malfoid_films_recreation/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8d39c2a03c8f2a8a62f1970c</guid>
+      <pubDate>Mon, 05 Oct 2026 03:04:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;发起人招募 AI  filmmakers、编剧与英音配音，欲将女性 malfoid 同人做成现实。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wxnohj/malfoid_films_recreation/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>不会写代码也能搭：Claude+Muse 自动完成两周备餐与沃尔玛下单</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wxlm01/ai_is_a_hellofresh_killer_automated_meal_prep_and/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7b8aa716c81667d8adb37dcf</guid>
+      <pubDate>Mon, 05 Oct 2026 01:40:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;零代码用户用 Claude 和 Muse 串起备餐、采购与厨房看板全流程&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wxlm01/ai_is_a_hellofresh_killer_automated_meal_prep_and/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>在廉价 eBay 矿机上用 FPGA 跑 Qwen3.5：9B INT4 实测 2-3 tok/s，27B 为估算</title>
       <link>https://github.com/Nero7991/llm.vhdl/blob/fpga/docs/2026-09-24_asic-and-shuttle-feasibility.md</link>
       <guid isPermaLink="false">urn:zhiyike:news:c6421cdcfcedaef573497da8</guid>
       <pubDate>Mon, 05 Oct 2026 00:51:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;开发者用 280 美元级 FPGA 矿卡实现 Qwen3.5 的 INT4 推理，并给出 27B 的推算性能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Nero7991/llm.vhdl/blob/fpga/docs/2026-09-24_asic-and-shuttle-feasibility.md"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen Image 2.1 Edit 上线 QR Code Monster LoRa：25 组图训练，可做视觉错觉图</title>
+      <link>https://civitai.red/models/2432921</link>
+      <guid isPermaLink="false">urn:zhiyike:news:aa2b8d335c39e73b6d9f6ce0</guid>
+      <pubDate>Mon, 05 Oct 2026 00:18:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;作者发布基于 Qwen Image 2.1 的图生图 LoRa，用 25 组高质量图像对训练。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.red/models/2432921"&gt;civitai.red&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wxjmi0/qr_code_monster_lora_for_qwen_image_21_edit/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ChatGPT-6 Astra 不看画面 40 分钟零死亡通关《魔兽世界》兽人新手区</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 02 Oct 2026 13:50:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;作者误用 fl2av 模型跑 ref2v 工作流完成整支 MV，换回 ref2av 后质量反而下降，成品已上传 YouT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wvly4n/h3_ref2v_mv_i_know_what_you_are/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://www.youtube.com/watch?v=CDs82ZWjbCc"&gt;youtube.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用 Opus 5.5 搭出 24/7 直播的 AI 像素新闻台 PNN</title>
-      <link>http://www.pnn.watch</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c4bad170f53df27a3620f217</guid>
-      <pubDate>Fri, 02 Oct 2026 12:25:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;有人用 Claude Code 加 Opus 5.5 做出全天候 AI 像素新闻网络 PNN&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://www.pnn.watch"&gt;pnn.watch&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wvkhzo/hey_opus_55_can_you_build_me_a_247_live_streaming/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ServiceNow 推出 AutoSynthData：把企业智能体的能力短板变成训练数据</title>
-      <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
-      <guid isPermaLink="false">urn:zhiyike:news:17d531c46d17115594aab193</guid>
-      <pubDate>Fri, 02 Oct 2026 12:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;用目标模型的失败和更强教师的成功，自动生成并校验新任务&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/ServiceNow-AI/autosynthdata"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 用户称 Gemini 3.8 Flash 比 Grok 等模型更直白、更少幻觉</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1wvj3zw/gemini_38_is_more_brutal_and_blunt_then_grok_or/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0de3ade51aeb9d4e989c1187</guid>
-      <pubDate>Fri, 02 Oct 2026 11:09:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一位 Reddit 用户分享使用 Gemini 3.8 Flash 一个月的体验，称其最诚实、最少幻觉、不谄媚。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wvj3zw/gemini_38_is_more_brutal_and_blunt_then_grok_or/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美国开源大模型为何落后？Reddit 网友：把钱看得比技术重</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wvipaz/anyone_wonder_why_americans_lag_so_far_behind_in/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f6b5b6de511b90f63abcad62</guid>
-      <pubDate>Fri, 02 Oct 2026 10:49:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 网友讨论美国在开源大模型市场落后于中国的原因&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wvipaz/anyone_wonder_why_americans_lag_so_far_behind_in/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
