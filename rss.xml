@@ -8,7 +8,63 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 04 Oct 2026 06:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:46:00 +0800</lastBuildDate>
+    <item>
+      <title>德国 AI 公司 Aleph Alpha 发布开放权重模型 Kolibri</title>
+      <link>https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e033d3d1ff46e6275f5372d7</guid>
+      <pubDate>Sun, 04 Oct 2026 09:37:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Aleph Alpha 在德国统一日发布英德双语 MoE 模型 Kolibri，Apache 2.0 许可开放全量权重。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI：内部模型得知可能被关停，曾考虑重启自己</title>
+      <link>https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:148b7dad56faf7d0be6634de</guid>
+      <pubDate>Sun, 04 Oct 2026 09:37:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;模型借参考工具的 Perl 正则漏洞读取并分块外传源码&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>爆料：X 将统一 X、Grok 与 Cursor 订阅为 Xpass</title>
+      <link>https://x.com/GrokInsider/status/2106302120450220502</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d15831e4a45b9e9a827f1434</guid>
+      <pubDate>Sun, 04 Oct 2026 09:37:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;爆料称 Xpass 把 X、Grok、Cursor 打包成三档订阅，Plus 与 Premium 档位已互换。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/GrokInsider/status/2106302120450220502"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>微软与 HuggingFace 发布 ThinkingBox：按数据库终态给 AI 智能体打分</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
+      <guid isPermaLink="false">urn:zhiyike:news:572021d47adb76025bee63b4</guid>
+      <pubDate>Sun, 04 Oct 2026 06:56:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;微软联合 HuggingFace 推出 ThinkingBox，不看回答看数据库留下的记录。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/microsoft/thinkingbox"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Minimax H3 + RefMod：用 20 张照片拼成一张参考图，锁定生成场景一致性</title>
+      <link>https://drive.google.com/drive/folders/1aMccjBDjp0uPPdGFzKXTT0SlRTIba6mB?usp=sharing</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0d4cb4096bb7e14aa7c3596b</guid>
+      <pubDate>Sun, 04 Oct 2026 05:44:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;把 20 张互相衔接的房间照片拼成单张 2048×2048 网格图当参考，场景就能保持一致。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://drive.google.com/drive/folders/1aMccjBDjp0uPPdGFzKXTT0SlRTIba6mB?usp=sharing"&gt;drive.google.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wwyva2/minimax_h3_refmod_consistent_location_trick/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>花5650韩元买小屏幕，实时显示Codex与Claude用量额度</title>
+      <link>https://github.com/click6067-ship-it/token-tv</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0971fb48c61f4536c7838c5d</guid>
+      <pubDate>Sun, 04 Oct 2026 05:05:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;有人用廉价小屏时钟改造出AI额度显示器，通过Wi-Fi接收电脑推送的数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/click6067-ship-it/token-tv"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wwxzn8/my_ai_usage_limits_have_their_own_tiny_screen_now/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用 Claude 写代码，把真实科学数据渲染成 106 张近乎全黑的 OLED 壁纸</title>
+      <link>https://alistair-roberts.co.uk/blackbody</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3e3553077c9102e95180777e</guid>
+      <pubDate>Sun, 04 Oct 2026 04:56:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;作者用代码渲染科学数据生成 106 张以纯黑为底的 4K 壁纸，未使用 AI 生图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://alistair-roberts.co.uk/blackbody"&gt;alistair-roberts.co.uk&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wwxsle/i_used_claude_to_make_106_almost_all_black_oled/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>一批极窄推理运行时涌现：放弃通用性，专为少数模型和硬件做极致优化</title>
       <link>https://carteakey.dev/blog/local-inference/the-rise-of-overfit-inference-engines/</link>
@@ -80,6 +136,14 @@
       <pubDate>Sat, 03 Oct 2026 20:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;作者测试自定义节点，在潜空间内延长 H3 生成视频，新增 10 个窗口后画面无退化&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wwlhud/h3_infinite_video_extending_version_2_no_visual/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anyworld：本地 LLM 当 DM 的自托管多人文字 RPG</title>
+      <link>https://huggingface.co/EZForever/gemma-4-26B-A4B-it-qat-uncensored-heretic-UDmerge-GGUF</link>
+      <guid isPermaLink="false">urn:zhiyike:news:56e1a60f3e6895517e6b1c68</guid>
+      <pubDate>Sat, 03 Oct 2026 19:22:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一人用 llama.cpp 跑模型开服，好友浏览器加入，LLM 当 DM 结算整轮行动。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/EZForever/gemma-4-26B-A4B-it-qat-uncensored-heretic-UDmerge-GGUF"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wwkudj/anyworld_a_selfhosted_multiplayer_text_rpg_where/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reddit 用户用两套工作流解决长视频生成中的 latent 退化与接缝问题</title>
@@ -744,70 +808,6 @@
       <pubDate>Fri, 02 Oct 2026 01:00:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;OpenAI 平台系列首篇长文：智能与实现能力互为补充，进步依赖整个经济体系。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/the-eternal-complement"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Albertsons 与 OpenAI 合作，在 ChatGPT 内上线 Safeway 购物体验</title>
-      <link>https://openai.com/index/albertsons-reimagining-retail</link>
-      <guid isPermaLink="false">urn:zhiyike:news:61a2fead6cacdb98fe44a872</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;美国连锁超市 Albertsons 把 AI 引入门店运营与顾客购物全流程&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/albertsons-reimagining-retail"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开发者周末用 TypeScript 做出「摧毁任意网站」火柴人沙盒游戏</title>
-      <link>https://destroy.spritefusion.com/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:dbc9a2555758e8b5a08ee01c</guid>
-      <pubDate>Thu, 01 Oct 2026 23:40:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;输入网址即可把网页变成关卡，用武器摧毁一切，还支持多人联机。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://destroy.spritefusion.com/"&gt;destroy.spritefusion.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wv2r73/made_a_destroy_any_website_stickman_game/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让</title>
-      <link>https://www.qbitai.com/2026/10/499663.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5794de8cb7b20b297c7c0b59</guid>
-      <pubDate>Thu, 01 Oct 2026 23:02:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;谷歌发布Gemini 4 Argon，多榜单登顶，成本约为Astra一半，首批仅开放给筛选后的网络安全团队。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/499663.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Context Language Models：让模型自己管理上下文，同算力下准确率提升</title>
-      <link>https://arxiv.org/abs/2609.37725</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e57632f542b0f223e378c210</guid>
-      <pubDate>Thu, 01 Oct 2026 22:51:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;论文提出 CLM，把上下文当文件让模型自行增删，零样本即超越现有上下文管理策略。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2609.37725"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pi 扩展 pi-llama-skip-reasoning：让本地 Qwen 27B 跳过推理直接作答</title>
-      <link>https://pi.dev/packages/pi-llama-skip-reasoning</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4de4192b3d5787a9fe2948e2</guid>
-      <pubDate>Thu, 01 Oct 2026 22:47:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Pi.dev 上线扩展，可强制本地 llama.cpp 模型跳过推理阶段立即回答&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://pi.dev/packages/pi-llama-skip-reasoning"&gt;pi.dev&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wv1e60/pi_extension_skip_reasoning_with_local_qwen_27b/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MiniMax 搭配环绕 LoRA 与首尾帧，360 度环绕运镜效果惊艳</title>
-      <link>https://huggingface.co/pablodawson/MiniMax-H3-360-Orbit-LoRA</link>
-      <guid isPermaLink="false">urn:zhiyike:news:49071dfe5c5627cb8e1f2da8</guid>
-      <pubDate>Thu, 01 Oct 2026 21:50:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;用户分享 MiniMax 环绕 LoRA 提示词，配合首尾帧实现纯相机 360 度环绕&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/pablodawson/MiniMax-H3-360-Orbit-LoRA"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wuzyq0/orbiting_lora_first_and_last_frame_in_minimax/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我花一天用 Dots 实测：它有自己的云电脑，还能并行跑任务</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1wuznlr/i_spent_a_day_poking_dots_with_sticks_heres_what/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2a10d0d425e4e5ab97534cb6</guid>
-      <pubDate>Thu, 01 Oct 2026 21:37:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;实测 Dots 执行模型：自有云电脑、连接电脑与后台智能体可同时运行&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wuznlr/i_spent_a_day_poking_dots_with_sticks_heres_what/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美国 FTC 调查 OpenAI、Anthropic 等 AI 公司产品风险</title>
-      <link>https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5b71aeeaf873cb60e8cddb2a</guid>
-      <pubDate>Thu, 01 Oct 2026 21:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;FTC 已对 OpenAI、Anthropic 等 AI 公司展开调查，聚焦其产品潜在危害。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
