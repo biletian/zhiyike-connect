@@ -8,14 +8,30 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 05 Oct 2026 01:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:46:00 +0800</lastBuildDate>
     <item>
-      <title>GPT-6 Astra 不看画面通关《魔兽世界》兽人新手区：40 分钟零死亡</title>
+      <title>游戏开发者被 ChatGPT 判「网络滥用」封号，申诉 1 分钟被 AI 驳回</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1wxnt4u/banned_from_chatgpt_for_cyber_abuse_while/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7df284c2bf74e7859b54efe7</guid>
+      <pubDate>Mon, 05 Oct 2026 03:09:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;付费 100 美元/月的开发者做游戏项目被封号，申诉无人工审核&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1wxnt4u/banned_from_chatgpt_for_cyber_abuse_while/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>在廉价 eBay 矿机上用 FPGA 跑 Qwen3.5：9B INT4 实测 2-3 tok/s，27B 为估算</title>
+      <link>https://github.com/Nero7991/llm.vhdl/blob/fpga/docs/2026-09-24_asic-and-shuttle-feasibility.md</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c6421cdcfcedaef573497da8</guid>
+      <pubDate>Mon, 05 Oct 2026 00:51:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;开发者用 280 美元级 FPGA 矿卡实现 Qwen3.5 的 INT4 推理，并给出 27B 的推算性能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Nero7991/llm.vhdl/blob/fpga/docs/2026-09-24_asic-and-shuttle-feasibility.md"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT-6 Astra 不看画面 40 分钟零死亡通关《魔兽世界》兽人新手区</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data</link>
       <guid isPermaLink="false">urn:zhiyike:news:134eced3d4cd3314e1cd3f64</guid>
       <pubDate>Sun, 04 Oct 2026 23:37:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;AI 靠解析服务器网络包和 SQL 文件，在私服完成全部新手任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wxin4m/chatgpt6_astra_plays_world_of_warcraft_blind_and/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增：模型以次高档推理运行，终极目标是英雄难度冰冠堡垒。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wxin4m/chatgpt6_astra_plays_world_of_warcraft_blind_and/"&gt;Reddit / r/OpenAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wxinee/chatgpt6_astra_plays_world_of_warcraft_blind_and/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AlphaGo核心作者：十年了，LLM还没学到那场棋局「神之一手」的精华</title>
@@ -48,6 +64,22 @@
       <pubDate>Sun, 04 Oct 2026 19:12:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;机器之心梳理Jev与ConfTuner在概率校准上的技术共识，并介绍开源延伸项目JevTuner。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-04"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 网友用 Breeze 搭本地语音对话：500ms 出声，500k 上下文仍记得保持简短</title>
+      <link>https://www.live2d.com/en/learn/sample/niziiro-mao/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6a37dce9dbee8194968ada30</guid>
+      <pubDate>Sun, 04 Oct 2026 19:10:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户把本地 TTS 与 STT 结合，用 BLE 遥控器和无线麦克风实现沙发上的语音对话&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.live2d.com/en/learn/sample/niziiro-mao/"&gt;live2d.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wxd404/local_text_to_speech_with_breeze_is_truly/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SCM：macOS 本地 AI 搜索，逐帧检索照片与视频</title>
+      <link>https://github.com/allenv0/SCM</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3d89ccd531223508f8e45a00</guid>
+      <pubDate>Sun, 04 Oct 2026 17:24:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开源工具 SCM 在 macOS 本地用视觉模型搜索任意文件夹里的照片和视频画面&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/allenv0/SCM"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>用户指控 Perplexity 用虚假学生优惠诱导注册并收集学术数据</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 02 Oct 2026 10:49:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Reddit 网友讨论美国在开源大模型市场落后于中国的原因&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wvipaz/anyone_wonder_why_americans_lag_so_far_behind_in/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>6 块 BC-250 矿卡组成本地 AI 集群：跑 Qwen 与 3.6 35b 实测</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wviphh/update_on_the_monstrosity_6_bc250_board_cluster/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a48794dcd020c85d3f5960c7</guid>
-      <pubDate>Fri, 02 Oct 2026 10:49:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;网友用 6 块退役矿卡搭集群，实测本地大模型推理速度与上下文表现&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wviphh/update_on_the_monstrosity_6_bc250_board_cluster/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 扩容 GPT-6.1 Sol，速度将接近翻倍</title>
-      <link>https://x.com/thsottiaux/status/2105464274747527543</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d96164538a1be389cebffdd7</guid>
-      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 为 GPT-6.1 Sol 增加算力，未来数小时速度有望接近昨日两倍&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2105464274747527543"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code 开放 mods，代码定制行为与界面</title>
-      <link>https://claude.com/blog/claude-code-mods</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a4434662c5f102cb81af32e9</guid>
-      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Claude Code 推出 mods，可用 TypeScript 函数改写提示词、拦截工具调用并自定义界面。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/blog/claude-code-mods"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft AI 发布 3 款 MAI 语音模型</title>
-      <link>https://microsoft.ai/news/our-first-streaming-transcription-model/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4f9e262bf7b8b48d28223aa4</guid>
-      <pubDate>Fri, 02 Oct 2026 10:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;微软 AI 推出 MAI-Transcribe-2-Streaming 及两款 MAI-Voice-2.1 语音模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://microsoft.ai/news/our-first-streaming-transcription-model/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
