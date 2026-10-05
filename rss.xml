@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 05 Oct 2026 07:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:01:00 +0800</lastBuildDate>
+    <item>
+      <title>纽约市议会将就AI风险举行听证会，Gary Marcus拟出席作证</title>
+      <link>https://garymarcus.substack.com/p/coming-soon-new-york-citys-hearing</link>
+      <guid isPermaLink="false">urn:zhiyike:news:87c4c19c4044aca5ba62379f</guid>
+      <pubDate>Mon, 05 Oct 2026 10:35:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;纽约市议会将审议多项AI提案，Gary Marcus计划出席作证呼吁独立审查。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/coming-soon-new-york-citys-hearing"&gt;Gary Marcus 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sam Altman 称给 AI 模型赋予宗教力量是真实安全风险</title>
+      <link>https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models</link>
+      <guid isPermaLink="false">urn:zhiyike:news:51cdeaeec0f3005901ef21fc</guid>
+      <pubDate>Mon, 05 Oct 2026 05:01:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Altman 对 Anthropic 谈 AI 意识与「内省证据」表达不安，称这是安全问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models"&gt;axios.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wxqif6/sam_altman_believes_anthropics_approach_to_ai/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>用户实测对比：失业后求职规划中，我为何更偏好 Gemini 而非 Claude</title>
       <link>https://www.reddit.com/r/GeminiAI/comments/1wxp1x6/i_actually_prefer_gemini_over_claude/</link>
@@ -16,6 +32,14 @@
       <pubDate>Mon, 05 Oct 2026 04:00:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;一位非程序员用户用两者规划求职，称 Gemini 在简历、法律引用和人脉策略上判断更准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1wxp1x6/i_actually_prefer_gemini_over_claude/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 游说梵蒂冈承认 AI 或有意识，教皇通谕明确否认</title>
+      <link>https://futurism.com/artificial-intelligence/anthropic-lobbying-vatican</link>
+      <guid isPermaLink="false">urn:zhiyike:news:46f9f8a93b918ec11c007fa3</guid>
+      <pubDate>Mon, 05 Oct 2026 03:36:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 数月秘密游说宗教界，试图让梵蒂冈认真对待 AI 意识可能性，但遭教皇通谕否定。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://futurism.com/artificial-intelligence/anthropic-lobbying-vatican"&gt;futurism.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wxogp8/anthropic_has_been_aggressively_lobbying_the/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>游戏开发者被 ChatGPT 判「网络滥用」封号，申诉 1 分钟被 AI 驳回</title>
@@ -64,6 +88,14 @@
       <pubDate>Sun, 04 Oct 2026 23:37:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;新增：模型以次高档推理运行，终极目标是英雄难度冰冠堡垒。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wxin4m/chatgpt6_astra_plays_world_of_warcraft_blind_and/"&gt;Reddit / r/OpenAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wxinee/chatgpt6_astra_plays_world_of_warcraft_blind_and/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用 Claude 做了个测试「AI 侵入你大脑有多深」的趣味问答</title>
+      <link>https://howfriedismybrain.com/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:446beea29177ec0882db6fb8</guid>
+      <pubDate>Sun, 04 Oct 2026 23:16:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一位开发者用 Claude Code 花约一天半做出 AI 主题问答小游戏，自测得分 50%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://howfriedismybrain.com/"&gt;howfriedismybrain.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wxi4nd/i_made_a_quiz_with_claude_to_test_how_much_ai_has/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AlphaGo核心作者：十年了，LLM还没学到那场棋局「神之一手」的精华</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 02 Oct 2026 18:54:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;前沿AI越界事件频发，根源是二元奖励把诚实停止判为失败&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reuters.com/business/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports-2026-09-28/?utm_source=chatgpt.com"&gt;reuters.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wvqqee/the_models_are_not_trying_to_escape_they_are/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>做 AI Agent 最难的部分，其实和 AI 无关</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1wvofgj/the_hardest_part_of_building_ai_agents_has/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b14676acf6520f5c718def7b</guid>
-      <pubDate>Fri, 02 Oct 2026 16:29:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一线从业者称模型已不是难点，真正的坑在数据、失败路径和交接。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wvofgj/the_hardest_part_of_building_ai_agents_has/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>丘成桐新论文致谢了GPT和Claude</title>
-      <link>https://www.qbitai.com/2026/10/499991.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d009b360ed0847a5b24f8b13</guid>
-      <pubDate>Fri, 02 Oct 2026 15:27:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;丘成桐参与论文用AI辅助探索证明思路，宣称28种七维球面均可配正曲率度量&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/499991.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 的 Mythos 漏洞猎手，半年后为何没兑现承诺？</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wvmwys/whatever_happened_to_security_nightmare_mythos/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1cfceb13c2b4303398c81809</guid>
-      <pubDate>Fri, 02 Oct 2026 14:50:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 网友质疑 Anthropic 的 Mythos 模型未兑现漏洞挖掘承诺&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wvmwys/whatever_happened_to_security_nightmare_mythos/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>H3 ref2v MV《I Know What You Are》完成：误用 fl2av 模型效果反而更好</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1wvly4n/h3_ref2v_mv_i_know_what_you_are/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6f3a1859fcff52aeac51de1e</guid>
-      <pubDate>Fri, 02 Oct 2026 13:50:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;作者误用 fl2av 模型跑 ref2v 工作流完成整支 MV，换回 ref2av 后质量反而下降，成品已上传 YouT&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wvly4n/h3_ref2v_mv_i_know_what_you_are/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://www.youtube.com/watch?v=CDs82ZWjbCc"&gt;youtube.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
