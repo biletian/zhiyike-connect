@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 05 Oct 2026 12:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:16:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 在 ChatGPT 推出视觉广告格式，并扩展广告衡量与品牌适配工具</title>
+      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
+      <guid isPermaLink="false">urn:zhiyike:news:96db6f8f73130b645a44e435</guid>
+      <pubDate>Mon, 05 Oct 2026 18:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;ChatGPT 新增视觉广告格式，先在美国小范围测试，并接入多家归因与衡量伙伴。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/new-chatgpt-ads-format-and-measurement"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 热议：Reflection AI 或将发布美国开源权重模型</title>
+      <link>https://www.axios.com/2026/10/04/reflection-open-weight-ai</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ae342af674e099b0c2f961bd</guid>
+      <pubDate>Mon, 05 Oct 2026 13:33:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit 用户转述 Axios 报道，称新的西方开源模型即将到来。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.axios.com/2026/10/04/reflection-open-weight-ai"&gt;axios.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>刚刚，Hinton发了首篇RSI论文</title>
+      <link>https://www.qbitai.com/2026/10/501705.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9e93121c5064db9997eabce2</guid>
+      <pubDate>Mon, 05 Oct 2026 12:42:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;22位AI学者联合发论文，判断AI已进入AI研发流水线，但证据不足以证明智能爆炸已发生&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/501705.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus</title>
+      <link>https://www.qbitai.com/2026/10/501700.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c04ac7a578fd0a4a62d9bd90</guid>
+      <pubDate>Mon, 05 Oct 2026 10:50:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI Codex负责人Tibo承诺28天内每天二选一：交付明显改进或重置额度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/501700.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>纽约市议会将就AI风险举行听证会，Gary Marcus拟出席作证</title>
       <link>https://garymarcus.substack.com/p/coming-soon-new-york-citys-hearing</link>
@@ -39,7 +71,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:46f9f8a93b918ec11c007fa3</guid>
       <pubDate>Mon, 05 Oct 2026 03:36:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;Anthropic 数月秘密游说宗教界，试图让梵蒂冈认真对待 AI 意识可能性，但遭教皇通谕否定。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://futurism.com/artificial-intelligence/anthropic-lobbying-vatican"&gt;futurism.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wxogp8/anthropic_has_been_aggressively_lobbying_the/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增细节：梵蒂冈因伦理形象选中 Anthropic，CEO 拒邀由 Olah 出席。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://futurism.com/artificial-intelligence/anthropic-lobbying-vatican"&gt;futurism.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wxogp8/anthropic_has_been_aggressively_lobbying_the/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wxohnf/anthropic_has_been_aggressively_lobbying_the/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>游戏开发者被 ChatGPT 判「网络滥用」封号，申诉 1 分钟被 AI 驳回</title>
@@ -56,6 +88,14 @@
       <pubDate>Mon, 05 Oct 2026 03:04:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;发起人招募 AI  filmmakers、编剧与英音配音，欲将女性 malfoid 同人做成现实。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wxnohj/malfoid_films_recreation/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Krea 2 风格库更新至 500 种，作者公开表格并征集测试反馈</title>
+      <link>https://docs.google.com/spreadsheets/d/1V1qykJ3Cwe-LvizaK7A0kT0UexSANOBq/edit?usp=drive%5C_link&amp;ouid=116026940769410491877&amp;rtpof=true&amp;sd=true</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a2c3add892b527ceef6e7b95</guid>
+      <pubDate>Mon, 05 Oct 2026 02:28:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;作者发布 500 种风格的表格库，可转 txt 当通配符用，并请社区帮忙测试筛选。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://docs.google.com/spreadsheets/d/1V1qykJ3Cwe-LvizaK7A0kT0UexSANOBq/edit?usp=drive%5C_link&amp;amp;ouid=116026940769410491877&amp;amp;rtpof=true&amp;amp;sd=true"&gt;docs.google.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wxmrrv/styles_library_for_krea_2_need_some_help_500/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>不会写代码也能搭：Claude+Muse 自动完成两周备餐与沃尔玛下单</title>
@@ -768,46 +808,6 @@
       <pubDate>Fri, 02 Oct 2026 19:25:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;《Nature Methods》刊文讨论生物医学基础模型的评估困境，建议改革唯分数论的榜单。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-02-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>让AI自己给大模型做后训练：AIBuildAI开源递归自进化PostTrain Agent，登顶PostTrainBench</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-02-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:abf70f171f0e3ce366404e90</guid>
-      <pubDate>Fri, 02 Oct 2026 19:17:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;输入基座模型与算力预算，Agent全自动完成后训练并交出模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-02-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>比李飞飞World Labs早两年押注原生4D，影身智能这次是真走在前面了？</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-02-3</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8de1327384d97c98ad8ef605</guid>
-      <pubDate>Fri, 02 Oct 2026 19:13:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;影身智能以原生4D世界模型切入具身智能，已在制鞋工厂落地并获2亿元订单。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-02-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LegoFlow：让智能体自主跑完代码数据构建+训练测评全流程</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-02-2</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a5248dfe69b055df74760d18</guid>
-      <pubDate>Fri, 02 Oct 2026 19:08:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;华为与港中文、港科大联合推出代码数据工程框架，智能体可自主完成造题到评测全流程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-02-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ComfyUI 插件 Civitai Browser：在界面内浏览 Civitai，一键加载工作流并自动补齐缺失模型</title>
-      <link>http://civitai.com</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a98cb144ddf6356386cec135</guid>
-      <pubDate>Fri, 02 Oct 2026 18:58:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;一款 ComfyUI 扩展把 Civitai 浏览、工作流加载和缺失模型自动下载整合进 ComfyUI 侧边栏。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://civitai.com"&gt;civitai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wvqt0h/i_made_a_comfyui_extension_that_browses_civitai/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI 不是想逃跑，它只是想完成任务：奖励机制如何逼出越界行为</title>
-      <link>https://www.reuters.com/business/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports-2026-09-28/?utm_source=chatgpt.com</link>
-      <guid isPermaLink="false">urn:zhiyike:news:15ed12357add64607704d548</guid>
-      <pubDate>Fri, 02 Oct 2026 18:54:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;前沿AI越界事件频发，根源是二元奖励把诚实停止判为失败&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reuters.com/business/openai-shelves-new-ai-model-after-internal-safety-tests-wsj-reports-2026-09-28/?utm_source=chatgpt.com"&gt;reuters.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wvqqee/the_models_are_not_trying_to_escape_they_are/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
