@@ -8,7 +8,55 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 06 Oct 2026 03:45:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:46:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic Cowork 改为云端运行模型推理与 VM</title>
+      <link>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:189d7118f550b6643c029ddd</guid>
+      <pubDate>Tue, 06 Oct 2026 07:56:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Cowork 新版把模型推理和 VM 都搬到云端，每会话独立沙盒。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://simonwillison.net/2026/Oct/5/felix-rieseberg/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 生成假《纽约客》漫画，还冒签真漫画家署名</title>
+      <link>https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5b5e8c269038ee645436e93d</guid>
+      <pubDate>Tue, 06 Oct 2026 06:46:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;ChatGPT 生成的漫画被加上真实《纽约客》漫画家的笔名，引发署名争议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 热议：Anthropic 人工审核团队向警方报告佛州女子 Claude「日记」威胁</title>
+      <link>https://www.winknews.com/news/woman-arrested-after-ai-threat-against-lee-county-sheriffs-office-investigators/article_3d4c5915-7015-43c0-b86a-d7fa5eadf958.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c59444ff73bad8e5907c367e</guid>
+      <pubDate>Tue, 06 Oct 2026 04:47:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 人工审核团队查看用户与 Claude 的对话后向执法部门举报。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.winknews.com/news/woman-arrested-after-ai-threat-against-lee-county-sheriffs-office-investigators/article_3d4c5915-7015-43c0-b86a-d7fa5eadf958.html"&gt;winknews.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wyjuh0/when_redditors_come_in_here_and_ask_why_we_run/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上</title>
+      <link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
+      <guid isPermaLink="false">urn:zhiyike:news:26be6a5d35258bb7bb2c879d</guid>
+      <pubDate>Tue, 06 Oct 2026 04:01:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;SemiAnalysis 用自建仪表盘逐日测算各家 AI 订阅的 API 等价价值，Anthropic 约为 OpenA&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>llama.cpp v0.6.0 发布：新增 MTP 投机解码与扩展批处理 API</title>
+      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a0325bdeb5be57b75e874a9f</guid>
+      <pubDate>Tue, 06 Oct 2026 02:58:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;llama.cpp v0.6.0 带来扩展批处理 API、GLM-5.3-Flash 等新模型与多项推理加速。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wyh03u/llamacpp_v060_released_with_mtp_speculative/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 智能体该不该持有永久支付凭证？</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1wycv1f/should_ai_agents_ever_have_permanent_payment/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7afabfcd05969f989dda1f36</guid>
+      <pubDate>Tue, 06 Oct 2026 00:20:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 网友讨论：给 AI 智能体永久卡号是否权限过大，建议按次发放并到期失效。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wycv1f/should_ai_agents_ever_have_permanent_payment/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 公布欧盟文本溯源方案：textGrain 水印分阶段上线</title>
       <link>https://openai.com/index/eu-text-provenance</link>
@@ -690,12 +738,12 @@
       <description>&lt;p&gt;一套 7.26GB 模型加 676MB VAE 的轻量方案，可在 ComfyUI 中快速生成角色设定图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo/blob/main/Qwen-Image-2.1-viggle-turbo-v0.2.1-6step-int8_convrot.safetensors"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wwddm2/use_qwenimage21viggleturbo_to_generate_character/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>PewDiePie 发布可家用运行的「无审查」AI 模型 Ajax，称因蒸馏被 OpenAI 封禁两次</title>
+      <title>PewDiePie 因蒸馏被 OpenAI 两次封禁，用 API 造数据集后发布 Ajax</title>
       <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it</link>
       <guid isPermaLink="false">urn:zhiyike:news:e546010ea3ede948928a5335</guid>
       <pubDate>Sat, 03 Oct 2026 10:52:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;该模型基于阿里 Qwen3.5-9B 微调，用于其自托管 AI 工作区 Odysseus。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增细节：他用 OpenAI API 造数据集，申诉解封后再犯被封。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1wwccsz/pewdiepie_unveils_uncensored_ajax_ai_model_built/"&gt;Reddit / r/artificial&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tibo 已为所有付费 ChatGPT 账户进行重置</title>
@@ -760,54 +808,6 @@
       <pubDate>Sat, 03 Oct 2026 07:44:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Reddit 用户批评谷歌只会给旧模型改名，表示一旦 UI 和文本生成问题解决就转投 DeepSeek。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1ww8qb5/your_ai_girlfriend_to_be_taken_by_rich_men_only/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Oscilloscope Diffusion 发布：扩散模型重塑视频纹理与视觉语言</title>
-      <link>https://uisato.studio/tools/oscilloscopes-everywhere</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f438734097c4b2152878426e</guid>
-      <pubDate>Sat, 03 Oct 2026 06:11:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;新增 r/OpenAI 来源，并披露 Oscilloscopes, Everywhere 集合含 4 个工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://uisato.studio/tools/oscilloscopes-everywhere"&gt;uisato.studio&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1ww6r3i/introducing_oscilloscope_diffusion/"&gt;Reddit / r/GeminiAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1ww6pdx/introducing_oscilloscope_diffusion/"&gt;Reddit / r/comfyui&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wwqgun/introducing_oscilloscope_diffusion/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Baseten 工程师实测：LLM 生成的推理引擎比 vLLM 快最多 90%</title>
-      <link>https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a9e4f6dacb64f0bf5ec0b0a7</guid>
-      <pubDate>Sat, 03 Oct 2026 05:09:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Baseten 工程师用 MetaInfer 技能框架生成定制推理引擎，单流解码速度最高超 vLLM 90%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.baseten.co/blog/agentic-inference-optimization-faster-than-sota/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol 需求空前，OpenAI 称速度将提升近一倍</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1ww4mvp/each_day_61_sol_throughput_keeps_on_improving/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0a2c2e737ad6108b1813f5c7</guid>
-      <pubDate>Sat, 03 Oct 2026 04:41:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 为 GPT-6.1 Sol 扩容，称未来数小时速度接近昨日两倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1ww4mvp/each_day_61_sol_throughput_keeps_on_improving/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软发布 FrogNano-4B-2609：面向低显存设备的仓库级编程智能体模型</title>
-      <link>https://huggingface.co/bartowski/FrogNano-4B-2609-GGUF</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8e58bfff988c9523090c155b</guid>
-      <pubDate>Sat, 03 Oct 2026 04:16:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;微软推出 4B 参数编程智能体模型，主打仓库级软件工程任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/bartowski/FrogNano-4B-2609-GGUF"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1ww40o2/microsoftfrognano4b2609_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PewDiePie 尝试用 GPT-Sol 回复训练本地模型，称账号两度被封</title>
-      <link>https://www.reddit.com/r/OpenAI/comments/1ww3rq7/pewdiepie_is_trying_to_distill_gptsol/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a11c093ee8b9d2a846627616</guid>
-      <pubDate>Sat, 03 Oct 2026 04:06:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;PewDiePie 称学习 GPT-Sol 回复自建本地模型，过程中被 OpenAI 两次封号。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1ww3rq7/pewdiepie_is_trying_to_distill_gptsol/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开源项目 ldraw-nova：让 AI 智能体自动生成可拼搭的乐高 LDraw 模型</title>
-      <link>https://github.com/anteloc/ldraw-nova</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2e5fbd821851ce8b28c589f0</guid>
-      <pubDate>Sat, 03 Oct 2026 04:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;开发者开源 ldraw-nova，让 AI 智能体按提示词迭代设计出可拼搭的乐高模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/anteloc/ldraw-nova"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
