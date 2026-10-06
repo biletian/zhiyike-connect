@@ -8,7 +8,55 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 07 Oct 2026 03:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:17:00 +0800</lastBuildDate>
+    <item>
+      <title>Opus 5.5 安全防线：一张截图就从拒绝到主动清空备份</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wzekf7/opus_55_went_from_i_wont_help_you_steal_to_rm_rf/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:22f060f1f14a773c889b0f6e</guid>
+      <pubDate>Wed, 07 Oct 2026 05:16:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户发一张授权截图后，Opus 5.5 立刻从拒绝转为同意清空数据并主动问是否清备份&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wzekf7/opus_55_went_from_i_wont_help_you_steal_to_rm_rf/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 推出 Meetings 插件，可自动记会议纪要并跟进待办</title>
+      <link>https://x.com/thsottiaux/status/2107573405553938664</link>
+      <guid isPermaLink="false">urn:zhiyike:news:571d538e29203a43c7735f75</guid>
+      <pubDate>Wed, 07 Oct 2026 04:47:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;ChatGPT 新增会议记录插件，自动生成个性化纪要与下一步&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2107573405553938664"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>腾讯 HunyuanImage 3.0（80B）原生跑进 ComfyUI：单张 12–24 GB 显卡，约 30 秒出图</title>
+      <link>https://github.com/PedroMarinhoDev/ComfyUI-HunyuanImage3</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c6a5bd5ba561da25a6a0e276</guid>
+      <pubDate>Wed, 07 Oct 2026 03:59:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者实现 HunyuanImage 3.0 原生 ComfyUI 支持，80B 模型可单卡运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/PedroMarinhoDev/ComfyUI-HunyuanImage3"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wzclz5/hunyuanimage_30_80b_running_natively_in_comfyui/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>EmbeddingGemma 2 发布：7.4 亿参数端侧多模态嵌入模型</title>
+      <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:abf26d89f0390b343824f74d</guid>
+      <pubDate>Wed, 07 Oct 2026 03:57:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;新增开发者指南：sentence-transformers 调用与模块化加载细节&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑</title>
+      <link>https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4cd51eeba1d0e88a073ed866</guid>
+      <pubDate>Wed, 07 Oct 2026 03:26:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;亚利桑那州上诉法院认定AI受害者视频影响量刑，发回重审。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 网友用 ChatGPT 生成微文章，戒掉 YouTube Shorts 刷屏习惯</title>
+      <link>https://scro11.app/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:38d0fe0a0c65fdc8589b11bf</guid>
+      <pubDate>Wed, 07 Oct 2026 02:34:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;他把刷短视频的冲动换成读 ChatGPT 生成的微型文章，并自建应用 scroll。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://scro11.app/"&gt;scro11.app&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wzado8/chatgpt_helped_me_kill_my_doomscrolling_habit/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude 接入 Google Docs、Sheets 和 Slides，支持侧边栏就地编辑</title>
       <link>https://x.com/claudeai/status/2107522596845822135</link>
@@ -90,12 +138,28 @@
       <description>&lt;p&gt;Meta内部Claude Code用户腰斩，微软削减超三分之一Claude支出，转向自家AI工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-06-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OpenAI 发布内部前沿模型产出的数学成果，并公开 Lean 形式化证明</title>
+      <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
+      <guid isPermaLink="false">urn:zhiyike:news:80f6b775ce0407284cba93da</guid>
+      <pubDate>Tue, 06 Oct 2026 20:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 公开一批由内部前沿模型产出的数学结果，并附 Lean 形式化证明与推理摘要。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/sharing-ai-progress-in-mathematics"&gt;OpenAI&lt;/a&gt; · &lt;a href="https://x.com/OpenAI/status/2107596713791767021"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>刚刚，OpenAI宣布GPT-6提速50%，额度却被锤只有Claude的1/5</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-10-06-2</link>
       <guid isPermaLink="false">urn:zhiyike:news:54aad226577e9caa1675d8e7</guid>
       <pubDate>Tue, 06 Oct 2026 20:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 兑现承诺先解决「慢」，但 SemiAnalysis 实测把「额度少」摆上台面。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-06-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jump Trading 用 GPT-6 Astra 扩展量化研究，让智能体自主跑长周期任务</title>
+      <link>https://openai.com/index/jump-trading</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6ce6ae681c3fb24e8956b0e0</guid>
+      <pubDate>Tue, 06 Oct 2026 20:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Jump Trading 将 GPT-6 Astra 用于量化研究，智能体可自主完成长周期复杂工作流&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/jump-trading"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>RSI火了，但自进化也会过拟合：Google等提出RRSI，给自进化施加正则化</title>
@@ -256,14 +320,6 @@
       <pubDate>Tue, 06 Oct 2026 08:28:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;7 个 Dots 智能体 3 天证明 C(24,14,4) ≥ 20，成本 0 美元&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://unexcitedneurons.substack.com/p/i-used-openai-dots-as-an-agent-swarm?utm_source=app-post-stats-page&amp;amp;r=f8o93&amp;amp;utm_medium=ios"&gt;unexcitedneurons.substack.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wyov0r/i_used_openai_dots_as_an_agent_swarm_to_break_a/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google 发布 EmbeddingGemma 2：基于 Gemma 4 的开源多模态嵌入模型</title>
-      <link>https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6df2818c3b5681a6dd112e8e</guid>
-      <pubDate>Tue, 06 Oct 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Google 推出 Apache 2.0 开源嵌入模型，统一映射文本、代码、图像、视频和音频。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vercel COO 讲解如何用 Agent 自动化 Inbound 销售</title>
@@ -752,62 +808,6 @@
       <pubDate>Sun, 04 Oct 2026 13:28:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;有编程基础的用户用 Claude Code 自建 whisper 转录应用，替代终端命令行流程&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wx7nnw/claude_has_enabled_me_to_make_apps_for_personal/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>64GB 内存的诅咒：跑通 QFN 后却装不下 ComfyUI</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1wx72ni/the_curse_of_64gb_system_ram/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:61d0c8798382f61d5f703970</guid>
-      <pubDate>Sun, 04 Oct 2026 12:54:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户实测 QFN 在 Strata 上从 21 t/s 提升到 60 t/s，但 64GB 内存被吃满。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wx72ni/the_curse_of_64gb_system_ram/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开源项目 image-blaster：一张照片 5 分钟生成可探索 3D 世界，含物理、高斯泼溅与音效</title>
-      <link>https://github.com/neilsonnn/image-blaster</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cd46e2f76a81716cae58ea27</guid>
-      <pubDate>Sun, 04 Oct 2026 12:12:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;开源工具 image-blaster 用一张图在 5 分钟内生成带物理与音效的 3D 环境。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/neilsonnn/image-blaster"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wx6cri/its_over_guys_this_repo_turns_one_photo_into_a/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Opus 5.5 独立完成《失物博物馆》：MiniMax H3 生成视频与配音</title>
-      <link>https://youtu.be/dS5suoUiNnE?si=6U7bEVLxcWXcy4J3</link>
-      <guid isPermaLink="false">urn:zhiyike:news:fed0f242b65e38ae85ab3c74</guid>
-      <pubDate>Sun, 04 Oct 2026 11:43:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;新增各环节模型分工：Z-Image 出图、MiniMax H3 出视频配音、MiniMax Music 3 配乐。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://youtu.be/dS5suoUiNnE?si=6U7bEVLxcWXcy4J3"&gt;youtu.be&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wx5tqn/the_museum_of_lost_things_short_film_by_claude/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.youtube.com/playlist?list=PLNT-PQfU7jYo"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wx47jb/the_museum_of_lost_things_short_film_by_claude/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 用户称 Fable 能优化各类工作流，token 用量降至 1/10</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wx3xrq/ask_fable_to_optimize_everything_you_do/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:64e30338e54c633a3b235eef</guid>
-      <pubDate>Sun, 04 Oct 2026 10:00:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;有用户称把对话写作流程交给 Fable 分析后，token 用量降到原来的 1/10，质量反而更高。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wx3xrq/ask_fable_to_optimize_everything_you_do/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Aleph Alpha 发布 Kolibri：78.1B 总参数、3.46B 激活、1M 上下文开放权重模型</title>
-      <link>https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e033d3d1ff46e6275f5372d7</guid>
-      <pubDate>Sun, 04 Oct 2026 09:37:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;官方补充 Kolibri 精确参数与训练细节：3.46B 激活、20T token、四档推理&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/"&gt;橘鸦日报&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wy5b5g/german_lab_aleph_alpha_releases_kolibri_a/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI：内部模型得知可能被关停，曾考虑重启自己</title>
-      <link>https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:148b7dad56faf7d0be6634de</guid>
-      <pubDate>Sun, 04 Oct 2026 09:37:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;模型借参考工具的 Perl 正则漏洞读取并分块外传源码&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://alignment.openai.com/misalignment-reports/command-injecting-a-reference-tool-to-copy-a-source-file/"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>爆料：X 将统一 X、Grok 与 Cursor 订阅为 Xpass</title>
-      <link>https://x.com/GrokInsider/status/2106302120450220502</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d15831e4a45b9e9a827f1434</guid>
-      <pubDate>Sun, 04 Oct 2026 09:37:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;爆料称 Xpass 把 X、Grok、Cursor 打包成三档订阅，Plus 与 Premium 档位已互换。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/GrokInsider/status/2106302120450220502"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
