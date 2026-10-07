@@ -8,7 +8,71 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 08 Oct 2026 00:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 05:31:00 +0800</lastBuildDate>
+    <item>
+      <title>GPT-6 Luna Decisions 上架 OpenRouter</title>
+      <link>https://x.com/OpenRouter/status/2107929204142874759</link>
+      <guid isPermaLink="false">urn:zhiyike:news:637ea161e756bf627dc14c1c</guid>
+      <pubDate>Thu, 08 Oct 2026 04:21:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 的 Decisions API 登陆 OpenRouter，输入 $0.10/M，输出免费。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenRouter/status/2107929204142874759"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载</title>
+      <link>https://www.langchain.com/blog/revamping-skills-in-deep-agents</link>
+      <guid isPermaLink="false">urn:zhiyike:news:728b5ccd029cf499ecc3f58d</guid>
+      <pubDate>Thu, 08 Oct 2026 02:49:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;技能可绑定工具、运行时固定、线程内热重载，让上千技能库保持上下文精简&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.langchain.com/blog/revamping-skills-in-deep-agents"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题</title>
+      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.293</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ed725e9689c5208180f82c66</guid>
+      <pubDate>Thu, 08 Oct 2026 02:10:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Artificial Analysis 智能指数 43 分，较上代提升 26 分。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.293"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/ArtificialAnlys/status/2107911905822351609"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度</title>
+      <link>https://x.com/ClaudeDevs/status/2107895957933408429</link>
+      <guid isPermaLink="false">urn:zhiyike:news:68b5ed078c92373acb3939ab</guid>
+      <pubDate>Thu, 08 Oct 2026 02:08:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Max 5x 每月 100 美元、Max 20x 每月 200 美元，Team 最高 500 美元可共享。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ClaudeDevs/status/2107895957933408429"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cursor 公布 Claude Haiku 5.5 定价，Sonnet 5.5 缓存读取降至 $0.10</title>
+      <link>https://x.com/claudeai/status/2107894060229034197</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3d6ec5f0732c58fa70178e4d</guid>
+      <pubDate>Thu, 08 Oct 2026 02:01:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Cursor 公布 Haiku 5.5 定价，并确认 Sonnet 5.5 缓存读取降至 $0.10/M&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/claudeai/status/2107894060229034197"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/cursor_ai/status/2107897257651769464"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Docker 推出 docker-agent：用 YAML 配置构建和运行 AI 智能体</title>
+      <link>https://github.com/docker/docker-agent</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8852b6fb486409383c9bfa69</guid>
+      <pubDate>Thu, 08 Oct 2026 01:48:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Docker 工程团队开源 docker-agent，以 YAML 声明式配置构建多智能体协作&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/docker/docker-agent"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>数学教授给OpenAI 722篇论文评级：多数达B/C级，一篇被称准黎曼猜想</title>
+      <link>https://x.com/0xDepressionn/status/2107841981107909013</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5c180771202ccc69174e6b3a</guid>
+      <pubDate>Thu, 08 Oct 2026 01:19:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;伦敦数学教授将OpenAI内部模型产出的数学成果分为四级，称其为数学界大日子&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/0xDepressionn/status/2107841981107909013"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x02g1l/this_is_where_i_stop_calling_ai_a_tool_a_tool/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LiquidAI 发布 d1-3B 与 d1-omni-600M 边缘决策模型</title>
+      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4749747816249b71a75cfa17</guid>
+      <pubDate>Thu, 08 Oct 2026 00:54:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;LiquidAI 开源两款决策模型，单次前向即出答案，d1-3B 在 10B 以下决策指数居首。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/LiquidAI/open-d1"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）</title>
       <link>https://x.com/AravSrinivas/status/2107871834205196784</link>
@@ -16,6 +80,14 @@
       <pubDate>Thu, 08 Oct 2026 00:33:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Perplexity 开源两款 late-interaction 嵌入模型，文本图像共用一个嵌入空间。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AravSrinivas/status/2107871834205196784"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%</title>
+      <link>https://x.com/UnslothAI/status/2107868866361930236</link>
+      <guid isPermaLink="false">urn:zhiyike:news:40cc464e5cfa989233039722</guid>
+      <pubDate>Thu, 08 Oct 2026 00:21:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Unsloth 开源仓库与教程，让普通 LLM 微调成决策模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/UnslothAI/status/2107868866361930236"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>微软开源 Agent Lightning v1.0：约 3500 行代码的轻量级智能体强化学习框架</title>
@@ -226,6 +298,22 @@
       <description>&lt;p&gt;FastVideo 的 FastH3 已支持消费级设备本地运行，并推出更小的 FastH3 Trim。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/haoailab/status/2107591980591227227"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wzi858/fastvideos_fasth3_now_runs_on_a_single_consumer/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Google 发布 Developer Knowledge API 生态，为 AI 智能体提供官方文档检索</title>
+      <link>https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b27faee9f6e3d2f1327f6f52</guid>
+      <pubDate>Wed, 07 Oct 2026 08:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Google 推出官方文档 API 生态，用结构化接口替代网页抓取，服务 AI 智能体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>有人把6个月 Claude Code 记录按 API 价算账：56% 花在重读对话</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1wzhbfc/56_of_my_claude_code_usage_was_claude_rereading/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4d8e3c1cf2e4bc0806517c87</guid>
+      <pubDate>Wed, 07 Oct 2026 07:17:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户自算账单：仅20%支出用于实际有用工作，56%是重复读取上下文&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wzhbfc/56_of_my_claude_code_usage_was_claude_rereading/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Reddit 用户求助：MiniMax 只换衣服的 10 秒视频为何 5-6 秒后失效</title>
       <link>https://www.reddit.com/r/StableDiffusion/comments/1wzh4yf/has_anyone_tried_minimax_swap_only_clothes/</link>
       <guid isPermaLink="false">urn:zhiyike:news:6224853b1e61155634f2767f</guid>
@@ -258,12 +346,12 @@
       <description>&lt;p&gt;前Anthropic研究员Coxon在访谈中主张全民高收入，被主持人Jon Stewart嘲讽。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/hilbertspaess/status/2107535565159899600"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wzfdk8/ex_anthropic_researcher_there_will_be_no_jobs/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Astra 与 Claude 在 Lean 中形式化证明 11 个正方形的最优装箱方案</title>
+      <title>11 正方形最优装箱 Lean 形式化：GitHub 仓库公开验证与复现细节</title>
       <link>https://x.com/ManassehA06/status/2107508501610217640</link>
       <guid isPermaLink="false">urn:zhiyike:news:1440fb91d80fb1f97c65b9a3</guid>
       <pubDate>Wed, 07 Oct 2026 05:41:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;11 个正方形装箱方案的最优性被形式化验证，Astra 与 Claude 参与其中。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ManassehA06/status/2107508501610217640"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wzf641/astra_and_claude_prove_the_best_known_square/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;GitHub 仓库补充 commit 导入、入口文件与复现脚本等验证细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ManassehA06/status/2107508501610217640"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wzf641/astra_and_claude_prove_the_best_known_square/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://github.com/Queuingtheorydotcom/11SquaresFormalized"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Opus 5.5 安全防线：一张截图就从拒绝到主动清空备份</title>
@@ -720,94 +808,6 @@
       <pubDate>Tue, 06 Oct 2026 08:28:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;7 个 Dots 智能体 3 天证明 C(24,14,4) ≥ 20，成本 0 美元&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://unexcitedneurons.substack.com/p/i-used-openai-dots-as-an-agent-swarm?utm_source=app-post-stats-page&amp;amp;r=f8o93&amp;amp;utm_medium=ios"&gt;unexcitedneurons.substack.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wyov0r/i_used_openai_dots_as_an_agent_swarm_to_break_a/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vercel COO 讲解如何用 Agent 自动化 Inbound 销售</title>
-      <link>https://tomtunguz.com/how-to-automate-inbound/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b028da4c88342bfaf54e4965</guid>
-      <pubDate>Tue, 06 Oct 2026 08:00:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Vercel 用一名工程师 20% 时间搭出 Inbound 销售 Agent，年成本约 1000 美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://tomtunguz.com/how-to-automate-inbound/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic Cowork 改为云端运行模型推理与 VM</title>
-      <link>https://simonwillison.net/2026/Oct/5/felix-rieseberg/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:189d7118f550b6643c029ddd</guid>
-      <pubDate>Tue, 06 Oct 2026 07:56:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Cowork 新版把模型推理和 VM 都搬到云端，每会话独立沙盒。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://simonwillison.net/2026/Oct/5/felix-rieseberg/"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nanosaur2 在单张 5090 上实现每秒生成 7 张图</title>
-      <link>https://huggingface.co/well9472/Nanosaur2-670M/blob/main/nanosaur2_dmad_4step_diffusion_model.safetensors</link>
-      <guid isPermaLink="false">urn:zhiyike:news:522a195e3f53e44587ad156c</guid>
-      <pubDate>Tue, 06 Oct 2026 07:49:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Nanosaur2 用 4 步 turbo 解决小模型生成慢的问题，速度提升 12.5 倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/well9472/Nanosaur2-670M/blob/main/nanosaur2_dmad_4step_diffusion_model.safetensors"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wyo0dg/nanosaur2_now_generates_7_images_a_second_on_a/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT 生成假《纽约客》漫画，还冒签真漫画家署名</title>
-      <link>https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5b5e8c269038ee645436e93d</guid>
-      <pubDate>Tue, 06 Oct 2026 06:46:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;ChatGPT 生成的漫画被加上真实《纽约客》漫画家的笔名，引发署名争议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>想认真学 AI Agents 却越学越乱，该按什么顺序入门？</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1wymand/im_trying_to_learn_ai_agents_but_im_getting/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9d4b5cd514cd64225cadcad3</guid>
-      <pubDate>Tue, 06 Oct 2026 06:29:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一位学习者被层出不穷的框架和概念绕晕，求一条从零构建 Agent 的学习路径。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wymand/im_trying_to_learn_ai_agents_but_im_getting/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Krea 2 日系写真风格 LoRA：9000 张写真训练，可叠加角色 LoRA</title>
-      <link>https://civitai.red/models/2982293/krea2-japanese-photo-shoot-style</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e30c5644a1b65d9cef32e51e</guid>
-      <pubDate>Tue, 06 Oct 2026 05:41:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;作者发布首个训练作品，用约 9000 张写真照片训练出日系写真风格 LoRA。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.red/models/2982293/krea2-japanese-photo-shoot-style"&gt;civitai.red&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wyl5la/a_more_japanese_gravure_photo_style_krea2_lora/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI Agent 陷入循环一夜烧掉客户 4700 美元预算</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1wykdzx/an_agent_got_stuck_in_a_loop_and_burned_4700_of_a/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6ca2543b833b2714d315bc3f</guid>
-      <pubDate>Tue, 06 Oct 2026 05:09:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;客户 Agent 反复重试 31000 次，一夜消耗 4700 美元 token 费用&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wykdzx/an_agent_got_stuck_in_a_loop_and_burned_4700_of_a/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 热议：Anthropic 人工审核团队向警方报告佛州女子 Claude「日记」威胁</title>
-      <link>https://www.winknews.com/news/woman-arrested-after-ai-threat-against-lee-county-sheriffs-office-investigators/article_3d4c5915-7015-43c0-b86a-d7fa5eadf958.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c59444ff73bad8e5907c367e</guid>
-      <pubDate>Tue, 06 Oct 2026 04:47:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 人工审核团队查看用户与 Claude 的对话后向执法部门举报。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.winknews.com/news/woman-arrested-after-ai-threat-against-lee-county-sheriffs-office-investigators/article_3d4c5915-7015-43c0-b86a-d7fa5eadf958.html"&gt;winknews.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wyjuh0/when_redditors_come_in_here_and_ask_why_we_run/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SemiAnalysis：Anthropic 订阅 API 等价价值约为 OpenAI 5 倍以上，offer 5</title>
-      <link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
-      <guid isPermaLink="false">urn:zhiyike:news:26be6a5d35258bb7bb2c879d</guid>
-      <pubDate>Tue, 06 Oct 2026 04:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;SemiAnalysis 实测显示 Anthropic 中端模型订阅价值约为 OpenAI 五倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用 Opus 5.5 打造大批未来科幻风 UI，全部免费开放</title>
-      <link>http://uispace.org/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:01220206911927b64b755508</guid>
-      <pubDate>Tue, 06 Oct 2026 03:37:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;作者用 Opus 5.5 生成大量信息密集、视觉炫目的虚构科幻 UI，并上线免费浏览&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://uispace.org/"&gt;uispace.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wyi1l8/i_made_a_large_set_of_futuristic_scifi_uis/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>llama.cpp v0.6.0 发布：新增 MTP 投机解码与扩展批处理 API</title>
-      <link>https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a0325bdeb5be57b75e874a9f</guid>
-      <pubDate>Tue, 06 Oct 2026 02:58:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;llama.cpp v0.6.0 带来扩展批处理 API、GLM-5.3-Flash 等新模型与多项推理加速。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ggml-org/llama.cpp/releases/tag/v0.6.0"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1wyh03u/llamacpp_v060_released_with_mtp_speculative/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
