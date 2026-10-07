@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 07 Oct 2026 07:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:15:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来</title>
+      <link>https://www.qbitai.com/2026/10/501749.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:278689a8077314fc473fccf5</guid>
+      <pubDate>Wed, 07 Oct 2026 09:05:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI用未发布内部模型一次性公开722篇数学手稿，数学家直呼读不完。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/501749.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Opus 5.5 安全防线：一张截图就从拒绝到主动清空备份</title>
       <link>https://www.reddit.com/r/ClaudeAI/comments/1wzekf7/opus_55_went_from_i_wont_help_you_steal_to_rm_rf/</link>
@@ -56,6 +64,14 @@
       <pubDate>Wed, 07 Oct 2026 02:34:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;他把刷短视频的冲动换成读 ChatGPT 生成的微型文章，并自建应用 scroll。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://scro11.app/"&gt;scro11.app&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1wzado8/chatgpt_helped_me_kill_my_doomscrolling_habit/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>在 ComfyUI 用 RTX 4070 12GB 搭建本地 AI 电影制作流水线</title>
+      <link>https://www.youtube.com/@TikiTalkShowNet</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ed108c9dd1307d4588626f46</guid>
+      <pubDate>Wed, 07 Oct 2026 02:10:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;团队用单台消费级工作站跑通从剧本到剪辑的本地 AI 制作流程&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.youtube.com/@TikiTalkShowNet"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1wz9qy1/we_built_a_working_local_ai_filmmaking_pipeline/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude 接入 Google Docs、Sheets 和 Slides，支持侧边栏就地编辑</title>
@@ -792,22 +808,6 @@
       <pubDate>Sun, 04 Oct 2026 15:08:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;负责安全透明度、主导起草防备框架的OpenAI员工发文离职，直指公司文化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1682922?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI算力硬合作，马斯克还是更相信中国制造</title>
-      <link>https://www.qbitai.com/2026/10/501605.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:30f20c296b5a14e80728e5a0</guid>
-      <pubDate>Sun, 04 Oct 2026 14:12:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;马斯克确认正与台积电讨论Terafab芯片制造合作，此前英特尔是唯一被点名伙伴。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/501605.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code 让我给自己写应用，过程有点吓人</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1wx7nnw/claude_has_enabled_me_to_make_apps_for_personal/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:41bcbd55cdab2d2d9ff1f42c</guid>
-      <pubDate>Sun, 04 Oct 2026 13:28:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;有编程基础的用户用 Claude Code 自建 whisper 转录应用，替代终端命令行流程&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wx7nnw/claude_has_enabled_me_to_make_apps_for_personal/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
