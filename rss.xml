@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 08 Oct 2026 05:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:31:00 +0800</lastBuildDate>
+    <item>
+      <title>llama.cpp 登上 Windows 活动大舞台，Gerganov 称软硬件栈终于合流</title>
+      <link>https://x.com/ggerganov/status/2107908265032229261</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3a006f993dc43e8cb6ce53f2</guid>
+      <pubDate>Thu, 08 Oct 2026 04:25:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;llama.cpp 作者在 Windows 活动上亮相，称软硬件栈终于走到一起&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ggerganov/status/2107908265032229261"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>GPT-6 Luna Decisions 上架 OpenRouter</title>
       <link>https://x.com/OpenRouter/status/2107929204142874759</link>
@@ -16,6 +24,14 @@
       <pubDate>Thu, 08 Oct 2026 04:21:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;OpenAI 的 Decisions API 登陆 OpenRouter，输入 $0.10/M，输出免费。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenRouter/status/2107929204142874759"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 五分钟修复 1991 年 DOS 游戏 Bug，让儿子重温童年经典</title>
+      <link>https://www.mobygames.com/game/4314/operation-neptune/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4b902365a47f220b68284ca0</guid>
+      <pubDate>Thu, 08 Oct 2026 03:58:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Claude 反汇编 EXE 并打 3 字节补丁，解决老游戏因 MPU-401 检测死循环导致的死机。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.mobygames.com/game/4314/operation-neptune/"&gt;mobygames.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x06hmp/claude_fixed_a_bug_in_a_dos_game_from_1991_and/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载</title>
@@ -47,7 +63,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:3d6ec5f0732c58fa70178e4d</guid>
       <pubDate>Thu, 08 Oct 2026 02:01:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;Cursor 公布 Haiku 5.5 定价，并确认 Sonnet 5.5 缓存读取降至 $0.10/M&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/claudeai/status/2107894060229034197"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/cursor_ai/status/2107897257651769464"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Anthropic 官方发布 Haiku 5.5，成本较 4.5 降约 75%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/claudeai/status/2107894060229034197"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/cursor_ai/status/2107897257651769464"&gt;原文&lt;/a&gt; · &lt;a href="https://www.anthropic.com/claude-haiku-5-5"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Docker 推出 docker-agent：用 YAML 配置构建和运行 AI 智能体</title>
@@ -103,7 +119,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:0e6c3ce2c3ba982749ed21ab</guid>
       <pubDate>Wed, 07 Oct 2026 22:12:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;Google 上线 SynthID 检测门户，上传文件即可识别是否含 SynthID 水印。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/Google/status/2107836410254291345"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Google 上线 SynthID 检测门户，上传文件即可识别是否含 SynthID 水印。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/Google/status/2107836410254291345"&gt;原文&lt;/a&gt; · &lt;a href="https://news.google.com/rss/articles/CBMiREFVX3lxTFBTRlR0TlNlWUR3TUcyS0dpcFNVanY0WDFkVDBOdW1Rb0lpNXRJV3VsSTBOeDlNSTZSUVJ6SkI5THFBQU9C?oc=5"&gt;Digg（Google 中转）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>TII 发布 Falcon-ASR：1.6B 参数阿拉伯语语音识别模型，主打阿联酋方言</title>
@@ -351,7 +367,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:1440fb91d80fb1f97c65b9a3</guid>
       <pubDate>Wed, 07 Oct 2026 05:41:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;GitHub 仓库补充 commit 导入、入口文件与复现脚本等验证细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ManassehA06/status/2107508501610217640"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wzf641/astra_and_claude_prove_the_best_known_square/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://github.com/Queuingtheorydotcom/11SquaresFormalized"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;仓库补充 Wand125、Tasks、Sqpack 入口与致谢来源文件等细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ManassehA06/status/2107508501610217640"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wzf641/astra_and_claude_prove_the_best_known_square/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://github.com/Queuingtheorydotcom/11SquaresFormalized"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Opus 5.5 安全防线：一张截图就从拒绝到主动清空备份</title>
@@ -792,22 +808,6 @@
       <pubDate>Tue, 06 Oct 2026 09:45:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Claude Projects 云端会话获授权后可读取并就地编辑本地文件夹中的文件&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/dfeinition/status/2107174121213722661"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sam Altman 称硅谷有人主张 AI 只应由少数人掌控</title>
-      <link>https://gizmodo.com/sam-altman-thinks-hes-the-prometheus-of-silicon-valley-2000821673</link>
-      <guid isPermaLink="false">urn:zhiyike:news:915844645e3c866f48e74927</guid>
-      <pubDate>Tue, 06 Oct 2026 09:43:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Altman 批评硅谷内部主张 AI 只服务少数人的观点，称 OpenAI 想让大众获得 AI 能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://gizmodo.com/sam-altman-thinks-hes-the-prometheus-of-silicon-valley-2000821673"&gt;gizmodo.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wyqd8e/sam_altman_thinks_hes_the_prometheus_of_silicon/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用 OpenAI Dots 智能体集群免费攻破 47 年数学纪录，并通过 Lean 验证</title>
-      <link>https://unexcitedneurons.substack.com/p/i-used-openai-dots-as-an-agent-swarm?utm_source=app-post-stats-page&amp;r=f8o93&amp;utm_medium=ios</link>
-      <guid isPermaLink="false">urn:zhiyike:news:023e38068cf7ee00612de6cc</guid>
-      <pubDate>Tue, 06 Oct 2026 08:28:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;7 个 Dots 智能体 3 天证明 C(24,14,4) ≥ 20，成本 0 美元&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://unexcitedneurons.substack.com/p/i-used-openai-dots-as-an-agent-swarm?utm_source=app-post-stats-page&amp;amp;r=f8o93&amp;amp;utm_medium=ios"&gt;unexcitedneurons.substack.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1wyov0r/i_used_openai_dots_as_an_agent_swarm_to_break_a/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
