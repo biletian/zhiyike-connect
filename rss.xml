@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 08 Oct 2026 09:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:46:00 +0800</lastBuildDate>
+    <item>
+      <title>Codex 与 ChatGPT Work 活跃用户达 4000 万新高，付费账户重置已全部到账</title>
+      <link>https://x.com/thsottiaux/status/2108040921044639779</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0fbff279280bace78402cd0c</guid>
+      <pubDate>Thu, 08 Oct 2026 11:44:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Tibo 称 Codex 与 ChatGPT Work 活跃用户创新高，付费账户重置已全部到账。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2108040921044639779"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6全面开放：免费用户用上Luna，安全报告曝多项回退</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-08-2</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a4f59eed6e53b228751c514a</guid>
+      <pubDate>Thu, 08 Oct 2026 10:35:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;GPT-6 推送免费用户，同天发布 24 页安全报告&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-08-2"&gt;机器之心&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/10/501834.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>游戏粉丝译者称 AI 翻译质量超过自己，删除 3 年翻译成果</title>
+      <link>https://ayana0720.wordpress.com/2026/10/07/update-3/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bf065d7ebb3c41ba0ace37a5</guid>
+      <pubDate>Thu, 08 Oct 2026 10:22:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;粉丝译者承认 AI 译文优于自己的人类翻译，决定弃坑并删除全部文件&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ayana0720.wordpress.com/2026/10/07/update-3/"&gt;ayana0720.wordpress.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1x0f99n/video_game_fan_translator_says_ai_output_is/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>llama.cpp 登上 Windows 活动大舞台，Gerganov 称软硬件栈终于合流</title>
       <link>https://x.com/ggerganov/status/2107908265032229261</link>
@@ -63,7 +87,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:3d6ec5f0732c58fa70178e4d</guid>
       <pubDate>Thu, 08 Oct 2026 02:01:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;Anthropic 官方发布 Haiku 5.5，成本较 4.5 降约 75%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/claudeai/status/2107894060229034197"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/cursor_ai/status/2107897257651769464"&gt;原文&lt;/a&gt; · &lt;a href="https://www.anthropic.com/claude-haiku-5-5"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;官方补充 Haiku 5.5 基准、客户反馈与安全防护细节&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/claudeai/status/2107894060229034197"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/cursor_ai/status/2107897257651769464"&gt;原文&lt;/a&gt; · &lt;a href="https://www.anthropic.com/claude-haiku-5-5"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x03k4j/introducing_claude_haiku_55_the_cheapest_fastest/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Docker 推出 docker-agent：用 YAML 配置构建和运行 AI 智能体</title>
@@ -114,12 +138,12 @@
       <description>&lt;p&gt;微软研究院开源 Agent Lightning v1.0，让部署用的智能体框架直接参与强化学习训练。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/"&gt;微软研究院&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Google 开放 SynthID Detector 门户，可检测图片、视频和音频是否由 AI 生成</title>
+      <title>Google SynthID Detector 向所有人开放，可检测多家公司 AI 生成内容</title>
       <link>https://x.com/Google/status/2107836410254291345</link>
       <guid isPermaLink="false">urn:zhiyike:news:0e6c3ce2c3ba982749ed21ab</guid>
       <pubDate>Wed, 07 Oct 2026 22:12:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;Google 上线 SynthID 检测门户，上传文件即可识别是否含 SynthID 水印。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/Google/status/2107836410254291345"&gt;原文&lt;/a&gt; · &lt;a href="https://news.google.com/rss/articles/CBMiREFVX3lxTFBTRlR0TlNlWUR3TUcyS0dpcFNVanY0WDFkVDBOdW1Rb0lpNXRJV3VsSTBOeDlNSTZSUVJ6SkI5THFBQU9C?oc=5"&gt;Digg（Google 中转）&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;SynthID Detector 免费开放，但需登录账号，可识别多家公司 AI 内容。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/Google/status/2107836410254291345"&gt;原文&lt;/a&gt; · &lt;a href="https://news.google.com/rss/articles/CBMiREFVX3lxTFBTRlR0TlNlWUR3TUcyS0dpcFNVanY0WDFkVDBOdW1Rb0lpNXRJV3VsSTBOeDlNSTZSUVJ6SkI5THFBQU9C?oc=5"&gt;Digg（Google 中转）&lt;/a&gt; · &lt;a href="https://www.engadget.com/2279565/google-synth-id-detector-ai-detection-website-is-now-available/"&gt;engadget.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1x04kcf/googles_ai_detection_website_is_now_available/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>TII 发布 Falcon-ASR：1.6B 参数阿拉伯语语音识别模型，主打阿联酋方言</title>
@@ -362,12 +386,12 @@
       <description>&lt;p&gt;前Anthropic研究员Coxon在访谈中主张全民高收入，被主持人Jon Stewart嘲讽。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/hilbertspaess/status/2107535565159899600"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wzfdk8/ex_anthropic_researcher_there_will_be_no_jobs/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>11 正方形最优装箱 Lean 形式化：GitHub 仓库公开验证与复现细节</title>
+      <title>11 正方形最优装箱 Lean 形式化：仓库新增 Pending 入口与哈希记录细节</title>
       <link>https://x.com/ManassehA06/status/2107508501610217640</link>
       <guid isPermaLink="false">urn:zhiyike:news:1440fb91d80fb1f97c65b9a3</guid>
       <pubDate>Wed, 07 Oct 2026 05:41:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;仓库补充 Wand125、Tasks、Sqpack 入口与致谢来源文件等细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ManassehA06/status/2107508501610217640"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wzf641/astra_and_claude_prove_the_best_known_square/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://github.com/Queuingtheorydotcom/11SquaresFormalized"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;仓库补充 Pending 入口、证书哈希文件与 macOS 复现前置等细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ManassehA06/status/2107508501610217640"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1wzf641/astra_and_claude_prove_the_best_known_square/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://github.com/Queuingtheorydotcom/11SquaresFormalized"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Opus 5.5 安全防线：一张截图就从拒绝到主动清空备份</title>
@@ -538,12 +562,12 @@
       <description>&lt;p&gt;开源引擎把专家权重放 SSD，靠缓存流式读取，无 GPU 也能跑 230B MoE。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/benmaster82/picchio"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1wz67as/minimaxm2_230b_running_from_disk_on_a_32_gb/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Nano Banana 2.1 上线 Gemini App、Search AI Mode 等七平台</title>
+      <title>Nano Banana 2.1 实测：JSON 提示词生成难辨真假的写实人像</title>
       <link>https://x.com/testingcatalog/status/2107499443532530001</link>
       <guid isPermaLink="false">urn:zhiyike:news:5137939413a9727457492aaa</guid>
       <pubDate>Tue, 06 Oct 2026 23:53:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Nano Banana 2.1 当天起在 Gemini App、Search AI Mode 等七平台推出&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/testingcatalog/status/2107499443532530001"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/Google/status/2107501211532382687"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>事件</category>
+      <description>&lt;p&gt;用户用 JSON 提示词实测 Nano Banana 2.1，称难辨 AI 生成&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/testingcatalog/status/2107499443532530001"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/Google/status/2107501211532382687"&gt;原文&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x08axv/nano_banana_21_goes_crazy/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google DeepMind 发布 EmbeddingGemma 2：统一文本图像视频音频的多模态嵌入模型</title>
@@ -784,30 +808,6 @@
       <pubDate>Tue, 06 Oct 2026 09:45:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Tibo 称通过订阅使用两款模型的默认速度已优化约 50%，两小时内可感知。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/thsottiaux/status/2107158998495748264"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reka AI 发布全能模型 Rho-1 研究预览</title>
-      <link>https://reka.ai/news/rho-1-collapsing-the-multimodal-stack</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f2411e2f4b728fd6e6d2b1f2</guid>
-      <pubDate>Tue, 06 Oct 2026 09:45:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Reka AI 推出 19B 全能推理模型，单网络统一文本、图像、视频与动作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://reka.ai/news/rho-1-collapsing-the-multimodal-stack"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Cowork 新任务 10 月 6 日起全面转向云端</title>
-      <link>https://support.claude.com/zh-CN/articles/15520349-%E5%9C%A8%E7%BD%91%E9%A1%B5-%E6%A1%8C%E9%9D%A2%E5%92%8C%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E4%B8%8A%E4%BD%BF%E7%94%A8-claude-cowork</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e83df44f13779a18b2ee4179</guid>
-      <pubDate>Tue, 06 Oct 2026 09:45:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Pro 和 Max 计划的新 Cowork 任务将改在 Anthropic 服务器运行，本地选项被移除。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://support.claude.com/zh-CN/articles/15520349-%E5%9C%A8%E7%BD%91%E9%A1%B5-%E6%A1%8C%E9%9D%A2%E5%92%8C%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E4%B8%8A%E4%BD%BF%E7%94%A8-claude-cowork"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Projects 云端会话可按需读写本地文件夹</title>
-      <link>https://x.com/dfeinition/status/2107174121213722661</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e3bdab23037e4b7c9110615b</guid>
-      <pubDate>Tue, 06 Oct 2026 09:45:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Claude Projects 云端会话获授权后可读取并就地编辑本地文件夹中的文件&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/dfeinition/status/2107174121213722661"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
