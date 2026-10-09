@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 10 Oct 2026 03:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 07:30:00 +0800</lastBuildDate>
+    <item>
+      <title>用参考视频引导 Minimax 表演：让角色复刻说话者的节奏与语气</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1x1umis/the_power_of_reference_videos_for_believable/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:db77fbed16193740c6cd2cfb</guid>
+      <pubDate>Sat, 10 Oct 2026 03:30:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户分享用参考视频影响 Minimax 角色表演的提示词写法，称效果显著但原帖关注不多&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x1umis/the_power_of_reference_videos_for_believable/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Flash 现身：Google 或将推出整个 4.0 架构家族</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1x1rrxc/gemini_4_flash_is_coming_google_will_also_likely/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cba12e18f97c15d3438361d5</guid>
+      <pubDate>Sat, 10 Oct 2026 01:40:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Google 代码库出现 gemini-4-flash-preview 字符串，疑似新模型预告&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x1rrxc/gemini_4_flash_is_coming_google_will_also_likely/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>纯 CSS 跑神经网络玩 Flappy Bird：6→16→1 MLP，129 个可训练参数</title>
+      <link>https://github.com/veuler/flappynn</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d1d058929347c594822e5586</guid>
+      <pubDate>Sat, 10 Oct 2026 01:37:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;开发者用 CSS 的 calc()、max() 和 exp() 实现神经网络推理，让小鸟在浏览器里自己飞。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/veuler/flappynn"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1x1roxe/css_is_running_a_neural_network_to_play_flappy/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ai2 用 GPU 时间预算与层级公平分配重构集群调度</title>
       <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
@@ -784,30 +808,6 @@
       <pubDate>Thu, 08 Oct 2026 00:33:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Perplexity 开源两款 late-interaction 嵌入模型，文本图像共用一个嵌入空间。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AravSrinivas/status/2107871834205196784"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Unsloth 开源教程：本地训练 Qwen3.5 0.8B 决策模型，准确率从 20.7% 提升至 74.3%</title>
-      <link>https://x.com/UnslothAI/status/2107868866361930236</link>
-      <guid isPermaLink="false">urn:zhiyike:news:40cc464e5cfa989233039722</guid>
-      <pubDate>Thu, 08 Oct 2026 00:21:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Unsloth 开源仓库与教程，让普通 LLM 微调成决策模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/UnslothAI/status/2107868866361930236"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软开源 Agent Lightning v1.0：约 3500 行代码的轻量级智能体强化学习框架</title>
-      <link>https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c7d2778af8e5d1e8741ed748</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;微软研究院开源 Agent Lightning v1.0，让部署用的智能体框架直接参与强化学习训练。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/"&gt;微软研究院&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google SynthID Detector 向所有人开放，可检测多家公司 AI 生成内容</title>
-      <link>https://x.com/Google/status/2107836410254291345</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0e6c3ce2c3ba982749ed21ab</guid>
-      <pubDate>Wed, 07 Oct 2026 22:12:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;SynthID Detector 免费开放，但需登录账号，可识别多家公司 AI 内容。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/Google/status/2107836410254291345"&gt;原文&lt;/a&gt; · &lt;a href="https://news.google.com/rss/articles/CBMiREFVX3lxTFBTRlR0TlNlWUR3TUcyS0dpcFNVanY0WDFkVDBOdW1Rb0lpNXRJV3VsSTBOeDlNSTZSUVJ6SkI5THFBQU9C?oc=5"&gt;Digg（Google 中转）&lt;/a&gt; · &lt;a href="https://www.engadget.com/2279565/google-synth-id-detector-ai-detection-website-is-now-available/"&gt;engadget.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1x04kcf/googles_ai_detection_website_is_now_available/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
