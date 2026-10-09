@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 09 Oct 2026 22:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:31:00 +0800</lastBuildDate>
+    <item>
+      <title>Ai2 用 GPU 时间预算与层级公平分配重构集群调度</title>
+      <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
+      <guid isPermaLink="false">urn:zhiyike:news:52c11f0da5737a8aa0c3d76f</guid>
+      <pubDate>Fri, 09 Oct 2026 23:20:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Ai2 用预算制替代优先级调度，缓解 GPU 抢占与优先级通胀&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/allenai/impactful-scheduling"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen-Image-2.1-Turbo 发布：8 步去噪，附分辨率与采样计划细节</title>
+      <link>https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo</link>
+      <guid isPermaLink="false">urn:zhiyike:news:eaa245b7a9eab0e78edc2991</guid>
+      <pubDate>Fri, 09 Oct 2026 21:28:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;官方补充 8 步采样计划覆盖方式与分辨率预设等细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x1ldef/qwenqwenimage21turbo_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x1lcau/qwen_image_21_turbo_released_hugging_face/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1x1mdud/qwenimage21turbo_just_officially_published/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Simon Willison 用语音对话让 GPT-6 Astra 给博客加新闻邮件索引页</title>
       <link>https://simonwillison.net/2026/Oct/9/built-using-my-voice/</link>
@@ -322,6 +338,14 @@
       <description>&lt;p&gt;LemonSeed Studio 让 iPad 通过雷电外接 AMD GPU 跑本地大模型推理。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Geramy/LSE"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x18e95/qwen3827b_159_toks_on_r9700_64_toks_on_strix_halo/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>我给 AI 助理装上语音，现在已离不开它</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1x183wp/i_gave_my_ai_agent_a_voice_and_now_i_cant_live/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:440b9568e151209ef67c9b2b</guid>
+      <pubDate>Fri, 09 Oct 2026 09:06:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;系统架构师用 WhatsApp 语音指挥 AI 助理，自动建日程、发邮件、跑自动化&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1x183wp/i_gave_my_ai_agent_a_voice_and_now_i_cant_live/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI数学狂飙引发数学界震动：OpenAI一口气发布 722 份难题证明，人类学者陷入验证焦虑</title>
       <link>https://news.aibase.com/zh/news/31485</link>
       <guid isPermaLink="false">urn:zhiyike:news:47facae6d1f5920b8a7a5e28</guid>
@@ -367,7 +391,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:30ee5bc634a6340253bf1d78</guid>
       <pubDate>Fri, 09 Oct 2026 06:56:00 +0800</pubDate>
       <category>观点</category>
-      <description>&lt;p&gt;用户分享用 H3 让角色自由说胡话再后期替换音频的工作流&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://drive.google.com/file/d/13hpV3JAhfiL1sE8j3-5_cs2VOKdCr4GA/view?usp=drive_link"&gt;drive.google.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x15duy/minimaxh3_subtle_expressions_and_natural_pauses/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;同一原始片段可复用出不同造型，语音参考可单独给&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://drive.google.com/file/d/13hpV3JAhfiL1sE8j3-5_cs2VOKdCr4GA/view?usp=drive_link"&gt;drive.google.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x15duy/minimaxh3_subtle_expressions_and_natural_pauses/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1x15l4p/minimaxh3_subtle_expressions_and_natural_pauses/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Strata 重写 GitHub 提交历史，抹除 Claude 参与痕迹</title>
@@ -784,30 +808,6 @@
       <pubDate>Wed, 07 Oct 2026 22:12:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;SynthID Detector 免费开放，但需登录账号，可识别多家公司 AI 内容。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/Google/status/2107836410254291345"&gt;原文&lt;/a&gt; · &lt;a href="https://news.google.com/rss/articles/CBMiREFVX3lxTFBTRlR0TlNlWUR3TUcyS0dpcFNVanY0WDFkVDBOdW1Rb0lpNXRJV3VsSTBOeDlNSTZSUVJ6SkI5THFBQU9C?oc=5"&gt;Digg（Google 中转）&lt;/a&gt; · &lt;a href="https://www.engadget.com/2279565/google-synth-id-detector-ai-detection-website-is-now-available/"&gt;engadget.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1x04kcf/googles_ai_detection_website_is_now_available/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TII 发布 Falcon-ASR：1.6B 参数阿拉伯语语音识别模型，主打阿联酋方言</title>
-      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0f4cab34821d8195cbaf507d</guid>
-      <pubDate>Wed, 07 Oct 2026 21:21:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;阿布扎比 TII 推出 1.6B 参数语音识别模型，覆盖阿拉伯语及四种语言。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/tiiuae/falcon-asr"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI突破纳维-斯托克斯方程之后，物理学中发生了什么变化</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-07-9</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d274df64ebcb4c1750a6d6c4</guid>
-      <pubDate>Wed, 07 Oct 2026 21:06:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;AI 生成解析与 Lean 形式化证明，构造出三维不可压缩流体的有限时间奇点。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-07-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>翻完OpenAI的722篇数学手稿，我们挑出了最重的30道名题</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-07-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:df6298c16fd0a1f9358241a8</guid>
-      <pubDate>Wed, 07 Oct 2026 20:54:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI公开722篇未发布模型数学手稿，覆盖17个方向372个成果族&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-07-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
