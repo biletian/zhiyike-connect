@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 09 Oct 2026 04:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:46:00 +0800</lastBuildDate>
+    <item>
+      <title>不等Gemini 4了！谷歌发布办公Agent，支持调用Claude</title>
+      <link>https://www.qbitai.com/2026/10/502083.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6331b9a25ba396e8d48e1964</guid>
+      <pubDate>Fri, 09 Oct 2026 08:16:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;谷歌云发布Gemini Agent，可自主规划任务并动态调用Claude等模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/502083.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 新智能 UI 上线不到 24 小时被逆向，可用本地模型复刻</title>
+      <link>http://chatgpt.com</link>
+      <guid isPermaLink="false">urn:zhiyike:news:856bbaaa39acf0d5bd99d4f8</guid>
+      <pubDate>Fri, 09 Oct 2026 02:08:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;团队仅凭公开流量与前端 JS 逆向 ChatGPT 智能 UI，并开源可本地复刻的框架&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://chatgpt.com"&gt;chatgpt.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x0y4lv/chatgpts_new_intelligent_ui_was_reverse/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>哥哥近10年无法沟通，我用AI为他打造开关可操作的工具与游戏中心</title>
       <link>https://www.switchedgames.org</link>
@@ -16,6 +32,14 @@
       <pubDate>Fri, 09 Oct 2026 01:31:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;一位弟弟用Claude Code为患罕见病的哥哥搭建免费开源的无障碍工具与游戏平台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.switchedgames.org"&gt;switchedgames.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x0x5wo/my_brother_went_nearly_10_years_without_a_way_to/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 用我自己的 Reddit 旧帖回答我的 Linux 触控板问题</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1x0rpw4/chatgpt_uisng_my_own_linux_post_to_answer_my_own/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3c356d8dd071e691a554431f</guid>
+      <pubDate>Thu, 08 Oct 2026 22:01:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户问 ChatGPT 该换哪个发行版，结果它翻出了用户自己当年的求助帖。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1x0rpw4/chatgpt_uisng_my_own_linux_post_to_answer_my_own/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude 15分钟逆向 Maono DGM20 麦克风，做出 Linux 开源驱动</title>
@@ -120,6 +144,14 @@
       <pubDate>Thu, 08 Oct 2026 14:28:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;10月9日起，谷歌免费用户只能用Gemini3.5-Flash-Lite，4.99美元档也被压缩至轻量模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31471"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 帮你筛岗位、改简历、写求职信，只需审核后投递</title>
+      <link>https://www.promptwireai.com/100things</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f2533b72ebe5d4a6f3853228</guid>
+      <pubDate>Thu, 08 Oct 2026 14:21:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Reddit 网友分享一套提示词，让 ChatGPT 按条件搜岗、排序并生成定制简历和求职信&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.promptwireai.com/100things"&gt;promptwireai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/PromptEngineering/comments/1x0jkfu/chatgpt_will_find_jobs_that_actually_fit_you_rank/"&gt;Reddit / r/PromptEngineering&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Manus 母公司完成新一轮超5亿美元融资，腾讯红杉继续加码</title>
@@ -776,38 +808,6 @@
       <pubDate>Tue, 06 Oct 2026 22:58:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;用同长度安慰剂对照测试 9 个热门 Claude Code 技能，450 次运行后仅 2 个在成本上胜出。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/simonether/skill-placebo"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1wz4rfz/i_gave_the_9_most_popular_claude_code_skills_a/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>蚂蚁百灵团队推出新一代大模型 Ling-3.1-flash</title>
-      <link>https://mp.weixin.qq.com/s/-eHoHAYQXgPP-EUpkgoCcA</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a4575a708bc2c9c62d5c2735</guid>
-      <pubDate>Tue, 06 Oct 2026 22:50:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;蚂蚁百灵发布新模型，560B 总参数仅激活 25B，支持 1M 上下文并接入内部 Agent 客户端。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/-eHoHAYQXgPP-EUpkgoCcA"&gt;AI 工具集&lt;/a&gt; · &lt;a href="https://ai-bot.cn/ling-3-1-flash/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开发者给 Claude Code 做了个美化 mod glowup，还养了只宠物 Clawd</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1wz4fr0/glowup_a_mod_that_makes_claude_code_look_nicer/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8a541d1c8bb340fc9d31fe25</guid>
-      <pubDate>Tue, 06 Oct 2026 22:44:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;glowup 重绘 Claude Code 界面，并加入会随会话状态变化的宠物 Clawd。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1wz4fr0/glowup_a_mod_that_makes_claude_code_look_nicer/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MiniMax H3 长视频拼接工作流更新：接缝难辨、色彩不再漂移</title>
-      <link>https://www.reddit.com/r/comfyui/comments/1wz3s0q/minimax_h3_seamless_long_videos_no_color_shift/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9c2f38a792870ac5e28a3cbf</guid>
-      <pubDate>Tue, 06 Oct 2026 22:17:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;作者更新 ComfyUI 中 MiniMax H3 长视频拼接流程，接缝与色差明显改善。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1wz3s0q/minimax_h3_seamless_long_videos_no_color_shift/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>给ChatGPT打水印的人，是「统计学诺奖」得主苏炜杰</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-06-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6d240ae91dbeae17e9315eca</guid>
-      <pubDate>Tue, 06 Oct 2026 20:32:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI启用文本水印，技术报告通讯作者为考普斯会长奖得主苏炜杰。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-06-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
