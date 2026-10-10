@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 10 Oct 2026 23:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:31:00 +0800</lastBuildDate>
+    <item>
+      <title>开发者把 Claude Code 子智能体做成视频通话界面，实时看清每个 Agent 在干什么</title>
+      <link>https://atoll92.github.io/agent-standup/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cd745acad5e4006d1e249bc4</guid>
+      <pubDate>Sat, 10 Oct 2026 21:19:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一款开源 VS Code 扩展把 Claude Code 会话变成视频通话，每个子智能体是一个小人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://atoll92.github.io/agent-standup/"&gt;atoll92.github.io&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x2f59x/i_made_my_claude_code_subagents_a_video_call/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>9年级学生用 Claude 证明几何猜想：小斜方截半二十面体无法穿过自身副本</title>
+      <link>https://doi.org/10.5281/zenodo.23159625</link>
+      <guid isPermaLink="false">urn:zhiyike:news:99c5f55a1edafc665c67f66e</guid>
+      <pubDate>Sat, 10 Oct 2026 21:10:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;一名9年级学生借助 Claude 完成证明，并获原猜想提出者推荐上 arXiv。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://doi.org/10.5281/zenodo.23159625"&gt;doi.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x2eybb/im_a_9th_grader_and_i_used_claude_to_prove_a/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用AI智能体众包破解MD5：SolveAtHome开放协作挑战</title>
+      <link>https://github.com/openai/math/tree/main/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:75ffc7c06ea4a0f4cbd57a8d</guid>
+      <pubDate>Sat, 10 Oct 2026 20:20:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;新平台让任何人用闲置AI算力参与MD5密码分析，探索分布式AI能否超越单个前沿实验室。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/openai/math/tree/main/"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x2dyoe/can_ai_agents_completely_break_md5_lets_find_out/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>首张完整紫外全天图问世，Claude Science补全缺失的三分之一天空</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-10-10-10</link>
@@ -24,6 +48,14 @@
       <pubDate>Sat, 10 Oct 2026 18:52:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;开源个人 AI 助手 Talorys 上线，一条命令部署进自己的 Cloudflare 免费账号&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/rociiu/talorys"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>数据科学家发问：智能体时代，.ipynb 笔记本是否已经过时？</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c233022e2062527a674ede85</guid>
+      <pubDate>Sat, 10 Oct 2026 18:51:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位数据科学家质疑：LLM 能写大部分代码后，为何还要围绕代码单元组织工作流？&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>从记忆到自进化：Agent 走向 RSI 的关键一步</title>
@@ -288,6 +320,14 @@
       <pubDate>Sat, 10 Oct 2026 09:08:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;新增：Diogo Almeida 任 CEO，Jev 日处理数万亿 token&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31515"&gt;AIBase&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/31514"&gt;AIBase&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/011/170.htm"&gt;AI 工具集&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen Image 2.1 与 Turbo 版对比：25 步与 8 步采样设置实测</title>
+      <link>https://civitai.com/models/2980907/hdr-vae-for-qwen-image-21-comfyui-port</link>
+      <guid isPermaLink="false">urn:zhiyike:news:540248b1331f423b906d2ed0</guid>
+      <pubDate>Sat, 10 Oct 2026 08:34:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户用各自最优通用参数重跑 Qwen Image 2.1 与 Turbo 对比，修正此前 Turbo 采样设置过差的问…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.com/models/2980907/hdr-vae-for-qwen-image-21-comfyui-port"&gt;civitai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x21m29/another_set_of_qwen_image_21_vs_qwen_image_21/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>我花了5天时间，对公司进行了一场AI化改造。</title>
@@ -768,46 +808,6 @@
       <pubDate>Fri, 09 Oct 2026 09:46:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;官方 X 账号确认 Video 1.5 Lite 上线 Grok Imagine API，定位文生视频与图生视频主力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://docs.x.ai/developers/models/grok-imagine-video-1.5-lite"&gt;xAI&lt;/a&gt; · &lt;a href="https://x.com/imagine/status/2108280250673352929"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen3.8-27B 在 R9700 上达 159 tok/s，Strix Halo 上 64 tok/s</title>
-      <link>https://github.com/Geramy/LSE</link>
-      <guid isPermaLink="false">urn:zhiyike:news:189a4b2f5af211e61deced68</guid>
-      <pubDate>Fri, 09 Oct 2026 09:20:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;LemonSeed Studio 让 iPad 通过雷电外接 AMD GPU 跑本地大模型推理。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Geramy/LSE"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x18e95/qwen3827b_159_toks_on_r9700_64_toks_on_strix_halo/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我给 AI 助理装上语音，现在已离不开它</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1x183wp/i_gave_my_ai_agent_a_voice_and_now_i_cant_live/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:440b9568e151209ef67c9b2b</guid>
-      <pubDate>Fri, 09 Oct 2026 09:06:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;系统架构师用 WhatsApp 语音指挥 AI 助理，自动建日程、发邮件、跑自动化&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1x183wp/i_gave_my_ai_agent_a_voice_and_now_i_cant_live/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI数学狂飙引发数学界震动：OpenAI一口气发布 722 份难题证明，人类学者陷入验证焦虑</title>
-      <link>https://news.aibase.com/zh/news/31485</link>
-      <guid isPermaLink="false">urn:zhiyike:news:47facae6d1f5920b8a7a5e28</guid>
-      <pubDate>Fri, 09 Oct 2026 09:03:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;AI 批量产出可机器验证的证明，但人类难以读懂，验证负担反压学者。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31485"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI伦理治理再升级:Anthropic划定安全红线，重塑大模型人机交互边界</title>
-      <link>https://news.aibase.com/zh/news/31481</link>
-      <guid isPermaLink="false">urn:zhiyike:news:42db977e7fd3e58281064636</guid>
-      <pubDate>Fri, 09 Oct 2026 08:51:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic更新Claude使用政策，新增“不得破坏民主进程”专章并首次禁止持续辱骂模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31481"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>陶哲轩带头宣战！人类数学家联合抵制OpenAI</title>
-      <link>https://www.qbitai.com/2026/10/502089.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2ad18ac089f20b4bbadf4d23</guid>
-      <pubDate>Fri, 09 Oct 2026 08:35:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;菲尔兹奖得主陶哲轩牵头AHM发联合声明，呼吁数学家停止与OpenAI合作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/502089.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
