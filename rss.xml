@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 11 Oct 2026 03:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 06:46:00 +0800</lastBuildDate>
+    <item>
+      <title>英伟达据报停产 RTX 5090，转向 AI 数据中心与专业 GPU</title>
+      <link>https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship</link>
+      <guid isPermaLink="false">urn:zhiyike:news:268f5bf397178535b9281b8e</guid>
+      <pubDate>Sat, 10 Oct 2026 23:16:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;RTX 5090 据报停产，供应短缺或推高价格，RTX 5080 24GB 传为新游戏旗舰。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>David Silver 离职创办 Ineffable，押注纯试错学习的超级学习者</title>
+      <link>https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?shareType%3Dnongift</link>
+      <guid isPermaLink="false">urn:zhiyike:news:dc1181220cdee6ea4f853280</guid>
+      <pubDate>Sat, 10 Oct 2026 23:07:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;AlphaGo 主创 David Silver 离开谷歌，创办 Ineffable，主张让 AI 靠试错自学。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?shareType%3Dnongift"&gt;ft.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x2hl29/computer_scientist_david_silver_where_are_we/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>开发者把 Claude Code 子智能体做成视频通话界面，实时看清每个 Agent 在干什么</title>
       <link>https://atoll92.github.io/agent-standup/</link>
@@ -32,6 +48,14 @@
       <pubDate>Sat, 10 Oct 2026 20:20:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;新平台让任何人用闲置AI算力参与MD5密码分析，探索分布式AI能否超越单个前沿实验室。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/openai/math/tree/main/"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x2dyoe/can_ai_agents_completely_break_md5_lets_find_out/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen-Image-2.1 Turbo 简易工作流：用 Turbo LoRA 减小下载体积</title>
+      <link>https://comfyui.nomadoor.net/en/basic-workflows/qwen-image-2-1/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:49dd84b1f9557732f28ab834</guid>
+      <pubDate>Sat, 10 Oct 2026 19:17:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;作者为每个 Qwen-Image-2.1 工作流新增 Turbo 版本，画质损失很小&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://comfyui.nomadoor.net/en/basic-workflows/qwen-image-2-1/"&gt;comfyui.nomadoor.net&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x2csbl/some_very_simple_qwenimage21_turbo_workflows/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>首张完整紫外全天图问世，Claude Science补全缺失的三分之一天空</title>
@@ -176,6 +200,14 @@
       <pubDate>Sat, 10 Oct 2026 14:39:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;腾讯元宝PC端上线Beta版桌宠，可贴边驻留、主动问候并拖拽文件生成摘要。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31530"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 自动选设计风格、建站并自查 AI 味，你只需挑个调性</title>
+      <link>http://DESIGN.md</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f3641a60a6e28c43600d2d52</guid>
+      <pubDate>Sat, 10 Oct 2026 14:29:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一套提示词让 Claude 先定设计系统再建页，最后自查并修掉通用 AI 风格&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://DESIGN.md"&gt;design.md&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/PromptEngineering/comments/1x2849r/claude_will_pick_a_design_style_that_fits_your/"&gt;Reddit / r/PromptEngineering&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI 公布大批数学研究成果引发学界震荡，学者担忧破坏学术合作传统</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 09 Oct 2026 10:09:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;新政策2026年11月12日生效，首次禁止持续且不必要的虐待行为&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31494"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化</title>
-      <link>https://www.qbitai.com/2026/10/502096.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5a7b50378e20a37ed59e2147</guid>
-      <pubDate>Fri, 09 Oct 2026 10:03:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;MirroS发布AgentGarten，用代码环境加神经渲染器让智能体实时试错进化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/502096.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hunyuan Image 3、Qwen Image 2.1、Krea 2 Turbo 消费级 T2I 实测对比</title>
-      <link>https://postimg.cc/gallery/gmR7dbs</link>
-      <guid isPermaLink="false">urn:zhiyike:news:474be8641883b0675165a03e</guid>
-      <pubDate>Fri, 09 Oct 2026 09:57:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;同一作者在 RTX 3090 上用轻量量化版跑三类模型，Krea 2 Turbo 综合第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://postimg.cc/gallery/gmR7dbs"&gt;postimg.cc&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x194ir/hunyuan_image_3_vs_qwen_image_21_vs_krea_2_turbo/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Odyssey-3 发布：最强基础世界模型，物理预测登顶</title>
-      <link>https://odyssey.systems/meet-odyssey-3</link>
-      <guid isPermaLink="false">urn:zhiyike:news:57b3163271bb439208cd5187</guid>
-      <pubDate>Fri, 09 Oct 2026 09:46:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Odyssey 推出 Odyssey-3 世界模型，Pro 版在 Physics-IQ 基准取得最高分 66.1&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://odyssey.systems/meet-odyssey-3"&gt;odyssey.systems&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>xAI 官方宣布 Grok Imagine Video 1.5 Lite 上线 API，1080p 每秒 0.14 美元</title>
-      <link>https://docs.x.ai/developers/models/grok-imagine-video-1.5-lite</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4429b867b62c0d9cb8285c3b</guid>
-      <pubDate>Fri, 09 Oct 2026 09:46:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;官方 X 账号确认 Video 1.5 Lite 上线 Grok Imagine API，定位文生视频与图生视频主力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://docs.x.ai/developers/models/grok-imagine-video-1.5-lite"&gt;xAI&lt;/a&gt; · &lt;a href="https://x.com/imagine/status/2108280250673352929"&gt;橘鸦日报&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
