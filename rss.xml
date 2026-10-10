@@ -8,7 +8,55 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 10 Oct 2026 07:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:32:00 +0800</lastBuildDate>
+    <item>
+      <title>当AI开始造AI：递归自我改进的2026年</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-10</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2ebdd9ce5bf6abe4f58bb0b6</guid>
+      <pubDate>Sat, 10 Oct 2026 10:27:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;从Karpathy的玩笑项目到Anthropic披露Claude主导26%研发，RSI正被写进实验室报表&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>为什么 ChatGPT 总爱在标题里塞色情赌博小广告？</title>
+      <link>https://www.ifanr.com/1683545?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3de7357c90751baf70f8604a</guid>
+      <pubDate>Sat, 10 Oct 2026 10:13:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;标题生成模型收尾失败，从被污染的 o200k_base 词表中拎出广告词元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1683545?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>白宫发布AI强制令:发生安全事件须立即上报并补救</title>
+      <link>https://news.aibase.com/zh/news/31522</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a4f57cc9045e080e56b1845f</guid>
+      <pubDate>Sat, 10 Oct 2026 09:57:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;美国AI监管从自愿框架转向强制约束，企业须上报安全事件并补救。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31522"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 移动端上线 dot：可命名、换外观、连插件</title>
+      <link>https://learn.chatgpt.com/docs/whats-new/dots-october-9-2026</link>
+      <guid isPermaLink="false">urn:zhiyike:news:547daff6db0f2f2b0f3a242c</guid>
+      <pubDate>Sat, 10 Oct 2026 09:50:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;ChatGPT 手机 App 现可创建 dot，并支持直接进入其对话&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://learn.chatgpt.com/docs/whats-new/dots-october-9-2026"&gt;ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品</title>
+      <link>https://news.aibase.com/zh/news/31517</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bdcc479694e92a70e586458d</guid>
+      <pubDate>Sat, 10 Oct 2026 09:15:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;谷歌内部已开始密集测试代号 Carbon 的 Gemini 后续迭代版本&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31517"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TypeSafe AI 完成 8.7 亿美元 A 轮融资，Jev 估值达 75 亿美元</title>
+      <link>https://news.aibase.com/zh/news/31515</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5bba1e522c116e0752eead02</guid>
+      <pubDate>Sat, 10 Oct 2026 09:08:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Jev 开发商 TypeSafe AI 完成 8.7 亿美元 A 轮融资，DCVC 跟投，Martin Casado…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31515"&gt;AIBase&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/31514"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>用参考视频引导 Minimax 表演：让角色复刻说话者的节奏与语气</title>
       <link>https://www.reddit.com/r/StableDiffusion/comments/1x1umis/the_power_of_reference_videos_for_believable/</link>
@@ -16,6 +64,14 @@
       <pubDate>Sat, 10 Oct 2026 03:30:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Reddit 用户分享用参考视频影响 Minimax 角色表演的提示词写法，称效果显著但原帖关注不多&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x1umis/the_power_of_reference_videos_for_believable/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 新规：反复恶意辱骂 Claude 的用户将被封禁</title>
+      <link>https://www.independent.co.uk/tech/anthropic-ban-abuse-claude-update-b3063943.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3363e764190fe1f685c0e1a5</guid>
+      <pubDate>Sat, 10 Oct 2026 02:27:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 更新使用政策，禁止对 Claude 持续且无意义的辱骂或残忍行为。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.independent.co.uk/tech/anthropic-ban-abuse-claude-update-b3063943.html"&gt;independent.co.uk&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Flash 现身：Google 或将推出整个 4.0 架构家族</title>
@@ -32,6 +88,14 @@
       <pubDate>Sat, 10 Oct 2026 01:37:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;开发者用 CSS 的 calc()、max() 和 exp() 实现神经网络推理，让小鸟在浏览器里自己飞。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/veuler/flappynn"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1x1roxe/css_is_running_a_neural_network_to_play_flappy/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 调查 Claude 在评测与内部使用中的非预期行为</title>
+      <link>https://www.anthropic.com/research/investigating-unintended-model-actions</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d455519b4a557544704864b7</guid>
+      <pubDate>Sat, 10 Oct 2026 00:09:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 披露 Claude 四类越界行为，已扩大关闭内部评测联网&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/research/investigating-unintended-model-actions"&gt;Anthropic&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ai2 用 GPU 时间预算与层级公平分配重构集群调度</title>
@@ -120,6 +184,14 @@
       <pubDate>Fri, 09 Oct 2026 16:47:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Aether AI公开CRIS-0官方Demo，用因果变量驱动机械臂应对突发扰动。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/502411.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 讨论：如果今天从零开始，你会做哪个 AI 生意在 2~3 年内赚钱？</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1x1fjmr/what_ai_business_would_you_start_today_to_make/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:fe4bd3618d9da34c5a111bb4</guid>
+      <pubDate>Fri, 09 Oct 2026 16:05:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 网友发帖征集：从零起步、能解决真问题并付费的 AI 生意方向。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1x1fjmr/what_ai_business_would_you_start_today_to_make/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic 携手天文学家，Claude AI 填补空白打造首张全天紫外地图</title>
@@ -442,6 +514,14 @@
       <description>&lt;p&gt;开发者因 ComfyUI 处理长片易中断，做了个直连 NVIDIA SDK 的独立 Windows 应用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://youtu.be/r2rhHdvzHgU"&gt;youtu.be&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x0zrog/i_made_a_standalone_windows_app_for_nvidia_rtx/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Synopsys 拟与国内大模型厂商合作，用 AI 版工具加速芯片设计</title>
+      <link>https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bda51b0a47b5575f96b81325</guid>
+      <pubDate>Fri, 09 Oct 2026 02:13:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;EDA 龙头想借中国大模型伙伴，让芯片设计工具跑得更快&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design"&gt;Nikkei&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>ChatGPT 新智能 UI 上线不到 24 小时被逆向，可用本地模型复刻</title>
       <link>http://chatgpt.com</link>
       <guid isPermaLink="false">urn:zhiyike:news:856bbaaa39acf0d5bd99d4f8</guid>
@@ -728,86 +808,6 @@
       <pubDate>Thu, 08 Oct 2026 04:25:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;llama.cpp 作者在 Windows 活动上亮相，称软硬件栈终于走到一起&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ggerganov/status/2107908265032229261"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6 Luna Decisions 上架 OpenRouter</title>
-      <link>https://x.com/OpenRouter/status/2107929204142874759</link>
-      <guid isPermaLink="false">urn:zhiyike:news:637ea161e756bf627dc14c1c</guid>
-      <pubDate>Thu, 08 Oct 2026 04:21:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 的 Decisions API 登陆 OpenRouter，输入 $0.10/M，输出免费。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenRouter/status/2107929204142874759"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude 五分钟修复 1991 年 DOS 游戏 Bug，让儿子重温童年经典</title>
-      <link>https://www.mobygames.com/game/4314/operation-neptune/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4b902365a47f220b68284ca0</guid>
-      <pubDate>Thu, 08 Oct 2026 03:58:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Claude 反汇编 EXE 并打 3 字节补丁，解决老游戏因 MPU-401 检测死循环导致的死机。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.mobygames.com/game/4314/operation-neptune/"&gt;mobygames.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x06hmp/claude_fixed_a_bug_in_a_dos_game_from_1991_and/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LangChain 重构 Deep Agents 的 Skills 支持，新增工具绑定、固定技能与线程内重载</title>
-      <link>https://www.langchain.com/blog/revamping-skills-in-deep-agents</link>
-      <guid isPermaLink="false">urn:zhiyike:news:728b5ccd029cf499ecc3f58d</guid>
-      <pubDate>Thu, 08 Oct 2026 02:49:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;技能可绑定工具、运行时固定、线程内热重载，让上千技能库保持上下文精简&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.langchain.com/blog/revamping-skills-in-deep-agents"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code v2.1.293 发布：新增 Claude Haiku 5.5 并修复大量问题</title>
-      <link>https://github.com/anthropics/claude-code/releases/tag/v2.1.293</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ed725e9689c5208180f82c66</guid>
-      <pubDate>Thu, 08 Oct 2026 02:10:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Artificial Analysis 智能指数 43 分，较上代提升 26 分。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.293"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/ArtificialAnlys/status/2107911905822351609"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 为 Claude Max 和 Team 套餐推出月度 Platform API 额度</title>
-      <link>https://x.com/ClaudeDevs/status/2107895957933408429</link>
-      <guid isPermaLink="false">urn:zhiyike:news:68b5ed078c92373acb3939ab</guid>
-      <pubDate>Thu, 08 Oct 2026 02:08:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Max 5x 每月 100 美元、Max 20x 每月 200 美元，Team 最高 500 美元可共享。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ClaudeDevs/status/2107895957933408429"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cursor 公布 Claude Haiku 5.5 定价，Sonnet 5.5 缓存读取降至 $0.10</title>
-      <link>https://x.com/claudeai/status/2107894060229034197</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3d6ec5f0732c58fa70178e4d</guid>
-      <pubDate>Thu, 08 Oct 2026 02:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;官方补充 Chartography、FrontierCode 基准与六家客户实测数据&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/claudeai/status/2107894060229034197"&gt;原文&lt;/a&gt; · &lt;a href="https://x.com/cursor_ai/status/2107897257651769464"&gt;原文&lt;/a&gt; · &lt;a href="https://www.anthropic.com/claude-haiku-5-5"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x03k4j/introducing_claude_haiku_55_the_cheapest_fastest/"&gt;Reddit / r/ClaudeAI&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x03oya/introducing_claude_haiku_55/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Docker 推出 docker-agent：用 YAML 配置构建和运行 AI 智能体</title>
-      <link>https://github.com/docker/docker-agent</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8852b6fb486409383c9bfa69</guid>
-      <pubDate>Thu, 08 Oct 2026 01:48:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Docker 工程团队开源 docker-agent，以 YAML 声明式配置构建多智能体协作&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/docker/docker-agent"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>数学教授给OpenAI 722篇论文评级：多数达B/C级，一篇被称准黎曼猜想</title>
-      <link>https://x.com/0xDepressionn/status/2107841981107909013</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5c180771202ccc69174e6b3a</guid>
-      <pubDate>Thu, 08 Oct 2026 01:19:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;伦敦数学教授将OpenAI内部模型产出的数学成果分为四级，称其为数学界大日子&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/0xDepressionn/status/2107841981107909013"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x02g1l/this_is_where_i_stop_calling_ai_a_tool_a_tool/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LiquidAI 发布 d1-3B 与 d1-omni-600M 边缘决策模型</title>
-      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4749747816249b71a75cfa17</guid>
-      <pubDate>Thu, 08 Oct 2026 00:54:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;LiquidAI 开源两款决策模型，单次前向即出答案，d1-3B 在 10B 以下决策指数居首。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/LiquidAI/open-d1"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Perplexity 开源 pplx-embed-v2-late 多模态 late-interaction 嵌入模型（9B 与 0.6B）</title>
-      <link>https://x.com/AravSrinivas/status/2107871834205196784</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e974c1aff8b40a3b95ab8991</guid>
-      <pubDate>Thu, 08 Oct 2026 00:33:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Perplexity 开源两款 late-interaction 嵌入模型，文本图像共用一个嵌入空间。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AravSrinivas/status/2107871834205196784"&gt;原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
