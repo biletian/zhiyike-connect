@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 11 Oct 2026 09:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 15:46:00 +0800</lastBuildDate>
+    <item>
+      <title>Gemini Pro 订阅附赠 Google Colab 每月 200 免费额度，可跑 96GB 显存 GPU</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1x2uoz1/i_just_found_this_out/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1fc12557998f9e017d8b669f</guid>
+      <pubDate>Sun, 11 Oct 2026 08:45:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;用户发现 Gemini Pro 订阅每月送 Colab 200 额度，可跑大模型约 30 小时&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x2uoz1/i_just_found_this_out/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>18k 美元 4 卡 R9700 工作站：10 人团队跑 Qwen 3.8 与 DSV4 Flash</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2c3644f0dda08e949d87a8ef</guid>
+      <pubDate>Sun, 11 Oct 2026 08:20:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一套 4 卡 R9700 的 18k 美元整机方案，实测 16 路并发推理数据&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Krea 2 检查点尺度难拿捏：要么完全不响应，要么彻底放飞</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1x2smkv/krea_2_is_a_bit_too_help_me_please/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0b0428a8547b6ad109841301</guid>
+      <pubDate>Sun, 11 Oct 2026 07:03:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户求助推荐尺度适中的 Krea 2 检查点，吐槽现有模型两极分化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x2smkv/krea_2_is_a_bit_too_help_me_please/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>菲尔兹奖得主谈 OpenAI 数学成果发布：我彻底被击垮了</title>
       <link>https://www.reddit.com/r/OpenAI/comments/1x2rufy/fields_medalist_on_the_openai_math_release/</link>
@@ -16,6 +40,14 @@
       <pubDate>Sun, 11 Oct 2026 06:25:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;菲尔兹奖得主称 OpenAI 一次性攻破其毕生公开提及的全部主要未解问题&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1x2rufy/fields_medalist_on_the_openai_math_release/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Qwen 2.1 Turbo 默认 sigmas 致网格伪影，用户改用自定义 sigmas 改善细节</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1x2ls0v/qwen_21_turbo_gride_effect_remove_and_details/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bc366fef026cf68fa997ba75</guid>
+      <pubDate>Sun, 11 Oct 2026 02:03:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户实测发现改 sigmas 可消除 Qwen 2.1 Turbo 网格伪影并提升皮肤细节&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x2ls0v/qwen_21_turbo_gride_effect_remove_and_details/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>英伟达据报停产 RTX 5090，转向 AI 数据中心与专业 GPU</title>
@@ -32,6 +64,14 @@
       <pubDate>Sat, 10 Oct 2026 23:07:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;AlphaGo 主创 David Silver 离开谷歌，创办 Ineffable，主张让 AI 靠试错自学。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ft.com/content/462c303b-b96c-4262-a7ca-e9ae7e440828?shareType%3Dnongift"&gt;ft.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x2hl29/computer_scientist_david_silver_where_are_we/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 讨论：搭建 AI 智能体为何比演示中难得多</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1x2fc3u/is_it_just_me_or_is_building_ai_agents_harder/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5b8b63a3b8bc43c19128485c</guid>
+      <pubDate>Sat, 10 Oct 2026 21:28:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;开发者称 AI 智能体落地难在对接旧软件、脏数据和真实业务流程，而非模型本身。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1x2fc3u/is_it_just_me_or_is_building_ai_agents_harder/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>开发者把 Claude Code 子智能体做成视频通话界面，实时看清每个 Agent 在干什么</title>
@@ -136,6 +176,14 @@
       <pubDate>Sat, 10 Oct 2026 16:28:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;AI 抢走内存产能推高 PC 成本，厂商被迫延长 DDR4 平台寿命，开源项目则试图让旧电脑跑大模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1683688?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>开发者花三个月自建本地 Agent Harness，可接任意模型 Key</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1x29w1n/did_you_guys_build_your_own_agent_harness/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:89a9e70898dd78120f85f513</guid>
+      <pubDate>Sat, 10 Oct 2026 16:18:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位开发者用三个月自建本地 Agent Harness，支持多家模型供应商，并询问他人经验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1x29w1n/did_you_guys_build_your_own_agent_harness/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？</title>
@@ -424,6 +472,14 @@
       <pubDate>Sat, 10 Oct 2026 06:44:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;一位非新手也非专家的用户自制术语速查表，帮人理清 ComfyUI 与 AI 生成术语。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x1zaa3/comfyuiminimax_cheat_sheet_for_beginners/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新评测 InnovationEval：前沿模型难复现人类 ML 算法创新</title>
+      <link>https://epoch.ai/publications/innovationeval</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7ecabea407572b5742a8d1ce</guid>
+      <pubDate>Sat, 10 Oct 2026 06:14:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;新基准测试 AI 能否独立发现人类级机器学习新方法，前沿模型进展甚微。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://epoch.ai/publications/innovationeval"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reddit 热议：开发者悄悄变成了“智能体操作员”？</title>
@@ -752,62 +808,6 @@
       <pubDate>Fri, 09 Oct 2026 12:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Utopai Studios 以 AI 制片平台 PAI 与自研模型 Utopai X 推进多部院线长片，预售收入最高…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1683309?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>直击零售场景“人机协作”需求，正行创新发布全球首个零售物理智能24/7服务解决方案</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-09-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:fd13e064b4b8ffaaec809eb6</guid>
-      <pubDate>Fri, 09 Oct 2026 10:53:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;正行创新在APRCE 2026发布零售Physical AI方案，含双足人形H1与轮臂式C1，计划2027年商业化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-09-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code 会在缓存过期前自动压缩上下文，用户直呼感谢</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1x1a6ym/claude_code_compacts_automatically_before_cache/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d8e0da3f94e7bfbea0f90fbc</guid>
-      <pubDate>Fri, 09 Oct 2026 10:51:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;用户发现 Claude Code 已能自动压缩上下文，不再需要手动操作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x1a6ym/claude_code_compacts_automatically_before_cache/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>中科大团队把会「倒推」的世界模型塞进了机器人，成立三个月拿下数千万融资！</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-09-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ab6e915d0f2e1a3f6944768e</guid>
-      <pubDate>Fri, 09 Oct 2026 10:49:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;白泽通境发布溯因式世界模型AWM与端侧推理引擎BAIZ-RUN，成立不到三个月完成首轮数千万元融资。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-09-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>全球竞逐RSI，这支华人团队已跑通规模化闭环</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-09-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:42d015e422319414aaa7760d</guid>
-      <pubDate>Fri, 09 Oct 2026 10:45:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Novix 将协同进化式 RSI 嵌入前沿科研任务，已服务 20 万名专家。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-09-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌云重磅发布通用Gemini智能体，可自主拆解并执行复杂多步骤任务</title>
-      <link>https://news.aibase.com/zh/news/31496</link>
-      <guid isPermaLink="false">urn:zhiyike:news:239cf54cca0f09dfbbccc9fa</guid>
-      <pubDate>Fri, 09 Oct 2026 10:41:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;谷歌云面向全球企业客户推出通用工作智能体，支持多模型动态切换&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31496"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>视频生成也能查资料、做模拟：8B智能体学会自主调用工具</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-09-3</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f6c9e0db972e3e82047085fe</guid>
-      <pubDate>Fri, 09 Oct 2026 10:40:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;VideoGen-Agent 用强化学习让 8B 智能体自主调用检索、生成与验证工具，VABench 得分从 56.5&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-09-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业</title>
-      <link>https://www.qbitai.com/2026/10/502106.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5b37e4ca75418a8f76442f51</guid>
-      <pubDate>Fri, 09 Oct 2026 10:37:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;openJiuwen开源企业级AgentOS，把多智能体协同、自演进与安全能力装进统一底座。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/502106.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
