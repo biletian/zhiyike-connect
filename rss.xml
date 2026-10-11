@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 11 Oct 2026 06:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:31:00 +0800</lastBuildDate>
+    <item>
+      <title>菲尔兹奖得主谈 OpenAI 数学成果发布：我彻底被击垮了</title>
+      <link>https://www.reddit.com/r/OpenAI/comments/1x2rufy/fields_medalist_on_the_openai_math_release/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1de594a0e519dabf964b34e4</guid>
+      <pubDate>Sun, 11 Oct 2026 06:25:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;菲尔兹奖得主称 OpenAI 一次性攻破其毕生公开提及的全部主要未解问题&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1x2rufy/fields_medalist_on_the_openai_math_release/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>英伟达据报停产 RTX 5090，转向 AI 数据中心与专业 GPU</title>
       <link>https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship</link>
@@ -32,6 +40,14 @@
       <pubDate>Sat, 10 Oct 2026 21:19:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;一款开源 VS Code 扩展把 Claude Code 会话变成视频通话，每个子智能体是一个小人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://atoll92.github.io/agent-standup/"&gt;atoll92.github.io&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x2f59x/i_made_my_claude_code_subagents_a_video_call/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户吐槽 Gemini 版块被免费额度抱怨刷屏，呼吁回归实用内容</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1x2f0zk/where_are_the_mods/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9785875a80322cfae3c509f7</guid>
+      <pubDate>Sat, 10 Oct 2026 21:14:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位 Gemini 日活用户发帖抱怨该版块充斥免费账户功能受限的抱怨，呼吁多分享技巧与协作内容。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x2f0zk/where_are_the_mods/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>9年级学生用 Claude 证明几何猜想：小斜方截半二十面体无法穿过自身副本</title>
@@ -216,6 +232,14 @@
       <pubDate>Sat, 10 Oct 2026 14:27:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 一次性公开 700 多份 AI 生成的数学研究文稿，数学界反应两极。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31529"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>求推荐可本地跑在ComfyUI的ElevenLabs替代TTS模型</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1x27ic7/are_there_any_good_elevenlabs_alternatives_tts/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2b059584f0bf13713340de40</guid>
+      <pubDate>Sat, 10 Oct 2026 13:53:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位RTX 3080用户发帖求推荐能本地跑在ComfyUI、支持语音克隆和多语言的TTS模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x27ic7/are_there_any_good_elevenlabs_alternatives_tts/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI搅乱数学界！科研项目没了，数学家遭毁灭性打击，学界还要数年消化</title>
@@ -432,6 +456,14 @@
       <pubDate>Sat, 10 Oct 2026 02:27:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic 更新使用政策，禁止对 Claude 持续且无意义的辱骂或残忍行为。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.independent.co.uk/tech/anthropic-ban-abuse-claude-update-b3063943.html"&gt;independent.co.uk&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1x1t03v/anthropic_to_ban_users_who_bully_claude/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cloudflare 发布 Clef-omni：支持音视频多模态，Clef 提速、Clef-flash 降价</title>
+      <link>https://blog.cloudflare.com/clef-faster-cheaper-multimodal/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3510f14f3a6d8916a684b891</guid>
+      <pubDate>Sat, 10 Oct 2026 02:27:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Cloudflare 推出多模态决策模型 Clef-omni，同时让 Clef 更快、Clef-flash 更便宜。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.cloudflare.com/clef-faster-cheaper-multimodal/"&gt;cloudflare.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Flash 现身：Google 或将推出整个 4.0 架构家族</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 09 Oct 2026 10:37:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;openJiuwen开源企业级AgentOS，把多智能体协同、自演进与安全能力装进统一底座。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/502106.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>刚刚，GPT-6.1 Sol Ultrafast 来了！</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-09-2</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ab3297b7f57184350bc90e68</guid>
-      <pubDate>Fri, 09 Oct 2026 10:35:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 发布 GPT-6.1 Sol 的 Ultrafast 版本，速度提升 8 倍，但 ChatGPT 端仅限&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-09-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>陶哲轩警示 OpenAI 批量生成证明，数学界面临“证明消化不良”</title>
-      <link>https://news.aibase.com/zh/news/31495</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0c55c7a031e0fcdb71400480</guid>
-      <pubDate>Fri, 09 Oct 2026 10:24:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;OpenAI 发布 719 份 AI 生成数学手稿，遭陶哲轩等学者批评&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31495"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>把人类双手的「手感」移植给机器人：500 小时真实操作数据，任务成功率翻番</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-09</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b682e88b7c5273d359affcfd</guid>
-      <pubDate>Fri, 09 Oct 2026 10:18:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;15 家机构联合发布 500 小时统一采集的人类视觉-触觉数据集 TouchScale&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-09"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic更新使用政策，首次明令禁止“虐待”Claude</title>
-      <link>https://news.aibase.com/zh/news/31494</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e1c605fdf79b977a2485d66a</guid>
-      <pubDate>Fri, 09 Oct 2026 10:09:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;新政策2026年11月12日生效，首次禁止持续且不必要的虐待行为&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31494"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
