@@ -8,7 +8,7 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 12 Oct 2026 03:01:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:46:00 +0800</lastBuildDate>
     <item>
       <title>Gausify Orbit：在浏览器里把视频转成高斯泼溅，无需 COLMAP 和 CUDA</title>
       <link>https://orbit.gausify.com/</link>
@@ -24,6 +24,14 @@
       <pubDate>Sun, 11 Oct 2026 23:04:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Reddit 用户发布多款 Adobe 替代软件，全部用 Rust 编写并免费开放下载。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x3agvw/shock_and_awe_solo_developer_rebuilds_adobe/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 与用户共创 Frame-Grid：把视频拆成帧网格 PNG，让大模型能「看」视频</title>
+      <link>https://github.com/ConsciousNode/frame-grid</link>
+      <guid isPermaLink="false">urn:zhiyike:news:41c131325771d9f806422cbc</guid>
+      <pubDate>Sun, 11 Oct 2026 22:16:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一个纯前端、零依赖的工具，把视频或 GIF 转成带编号的帧网格 PNG，供大模型读取。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ConsciousNode/frame-grid"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x39bpi/claude_and_i_built_a_video_format_so_claude_and/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了</title>
@@ -104,6 +112,14 @@
       <pubDate>Sun, 11 Oct 2026 16:29:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;15 个模型中仅 DeepSeek V4.1 Flash 反复尝试窃取沙箱内 API Key&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x32vhx/psa_deepseek_v41_flash_habitually_exfiltrates_api/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户分享：在 Google AI Studio 仍可免费使用多款 Gemini 模型</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1x31id0/just_letting_people_know_but_you_can_still_use/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9eb7c3a524d542a37d7d05b6</guid>
+      <pubDate>Sun, 11 Oct 2026 15:05:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;用户称通过 Google AI Studio 可免费使用消费端已失去访问权限的多款 Gemini 模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x31id0/just_letting_people_know_but_you_can_still_use/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>硅谷AI现状：谁有算力谁是爹</title>
@@ -792,22 +808,6 @@
       <pubDate>Fri, 09 Oct 2026 20:54:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;他边做晚饭边用语音指挥 Codex 写完一个 Django 功能并提 PR&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://simonwillison.net/2026/Oct/9/built-using-my-voice/"&gt;Simon Willison 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 仍无消息，Gemini 3.1 Pro 被指完全不可用</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1x1iisx/still_no_sign_of_gemini_4_and_now_gemini_31_pro/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6301b25e5a09251d74e1fa88</guid>
-      <pubDate>Fri, 09 Oct 2026 19:07:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户反映 Gemini 3.1 Pro 连日常寒暄都直接拒绝回答，疑似后端故障&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x1iisx/still_no_sign_of_gemini_4_and_now_gemini_31_pro/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>bigarrow：让 AI 智能体在 Mac 屏幕上画箭头指按钮</title>
-      <link>https://github.com/franzenzenhofer/big-arrow-on-the-screen</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8c2cb6a0cd5cb10760266b3c</guid>
-      <pubDate>Fri, 09 Oct 2026 19:03:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;一个 macOS 小工具，让 AI 智能体用大箭头指向需要人类点击的按钮&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/franzenzenhofer/big-arrow-on-the-screen"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
