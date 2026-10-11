@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 11 Oct 2026 22:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:01:00 +0800</lastBuildDate>
+    <item>
+      <title>Gausify Orbit：在浏览器里把视频转成高斯泼溅，无需 COLMAP 和 CUDA</title>
+      <link>https://orbit.gausify.com/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ed76a7fad85b884ff2d22e52</guid>
+      <pubDate>Sun, 11 Oct 2026 23:08:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者推出 WebGPU 网页工具，上传视频即可本地训练并导出高斯泼溅模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://orbit.gausify.com/"&gt;orbit.gausify.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x3akoo/i_am_building_a_web_application_to_transform/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>开发者用 Claude 在 Rust 中重写 Adobe 全家桶并免费发布，称一个月内做到 100% 对齐</title>
+      <link>https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6111cf93bcffb6df2dd5c45b</guid>
+      <pubDate>Sun, 11 Oct 2026 23:04:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit 用户发布多款 Adobe 替代软件，全部用 Rust 编写并免费开放下载。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x3agvw/shock_and_awe_solo_developer_rebuilds_adobe/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ChatGPT共同创造者Liam Fedus：数学之后，AI该去实验室了</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-10-11-4</link>
@@ -32,6 +48,14 @@
       <pubDate>Sun, 11 Oct 2026 20:19:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;斯坦福、CMU、MIT等提出LIBERO-MAX，用配对仿真评测机器人执行中途环境变化下的可靠性。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sonora Studio：基于 ComfyUI 的 ACE-Step 1.5 本地音乐生成免费 Web UI</title>
+      <link>http://Vast.ai</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bd4c83bd85ee8695490196f9</guid>
+      <pubDate>Sun, 11 Oct 2026 19:36:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者 Barbara 用 AI 辅助写了个免费 MIT 授权的本地音乐生成界面，后端复用你自己的 ComfyUI。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://Vast.ai"&gt;vast.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1x35zz8/sonora_studio_a_free_local_web_ui_on_top_of/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>当普通 PC 能本地跑 Sonnet 级 AI，将是 AI 最大转折点之一</title>
@@ -96,6 +120,14 @@
       <pubDate>Sun, 11 Oct 2026 13:18:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI将于10月23日停用GPT-4o最早的API快照，粉丝仍在请愿保留权重。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/502550.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我在IoT公司做AI语音智能体：自动初筛线索并分配销售</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1x2zokk/with_my_experience_i_am_telling_you_you_can_make/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:588e3f68abdca1f95fff80c4</guid>
+      <pubDate>Sun, 11 Oct 2026 13:14:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;作者复盘在IoT公司把线索初筛做成AI语音智能体的经历&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1x2zokk/with_my_experience_i_am_telling_you_you_can_make/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek Bot来了！民间版，DSH装个插件就能用</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 09 Oct 2026 19:03:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;一个 macOS 小工具，让 AI 智能体用大箭头指向需要人类点击的按钮&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/franzenzenhofer/big-arrow-on-the-screen"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>陶哲轩转发抵制声明，数学界和OpenAI彻底撕破脸</title>
-      <link>https://www.ifanr.com/1683401?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5cb5f51701317c0b29e23016</guid>
-      <pubDate>Fri, 09 Oct 2026 18:21:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;人类数学协会呼吁抵制OpenAI，陶哲轩仅转载却被误传为领衔发起人&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1683401?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>全球首次！人形机器人用灵巧手自主叠衣，西湖机器人做到了</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-09-12</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c9e23d3604915bbd943ac662</guid>
-      <pubDate>Fri, 09 Oct 2026 17:46:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;西湖机器人发布通用大脑WR1，实现人形机器人灵巧手自主叠衣与跨房间长程家务作业。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-09-12"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>让自然语言成为世界模型的表征，英伟达Physis-Lang这样增强视频物理真实性</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-09-11</link>
-      <guid isPermaLink="false">urn:zhiyike:news:08b1e886856944ea7fb7f5e9</guid>
-      <pubDate>Fri, 09 Oct 2026 17:38:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;英伟达联合MIT、牛津提出Physis-Lang，把物理过程写进语言描述&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-09-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini Pro 突然对所有提问都回复“无法帮你”，用户求助</title>
-      <link>https://www.reddit.com/r/GeminiAI/comments/1x1gi3l/gemini_stopped_working_for_reasons/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:73ea43c105131d38edee1c24</guid>
-      <pubDate>Fri, 09 Oct 2026 17:06:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户称 Gemini Pro 连续数日对所有提问都只回“无法帮你”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x1gi3l/gemini_stopped_working_for_reasons/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
