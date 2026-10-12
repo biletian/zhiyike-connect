@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 12 Oct 2026 06:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:01:00 +0800</lastBuildDate>
+    <item>
+      <title>AI 绘画创作者自建免费动漫角色与提示词库 Senpai's Waifu Library</title>
+      <link>https://senpaiswaifulibrary.com/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c98836850c1edb39714daaac</guid>
+      <pubDate>Mon, 12 Oct 2026 03:31:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一位 AI 绘画创作者把自用的动漫角色提示词整理成免费公开网站&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://senpaiswaifulibrary.com/"&gt;senpaiswaifulibrary.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x3h6y5/i_built_a_free_anime_character_prompt_library_for/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10-16GB 显存能跑的模型排行：26-32GB 内存、64k 上下文</title>
+      <link>http://c.ai</link>
+      <guid isPermaLink="false">urn:zhiyike:news:fc47ff5e05f90f1b82ff685f</guid>
+      <pubDate>Mon, 12 Oct 2026 03:12:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户按速度、连贯性、抗审查等维度实测 10-16GB 显存可跑的模型并排名&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://c.ai"&gt;c.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gausify Orbit：在浏览器里把视频转成高斯泼溅，无需 COLMAP 和 CUDA</title>
       <link>https://orbit.gausify.com/</link>
@@ -22,8 +38,8 @@
       <link>https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings</link>
       <guid isPermaLink="false">urn:zhiyike:news:6111cf93bcffb6df2dd5c45b</guid>
       <pubDate>Sun, 11 Oct 2026 23:04:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Reddit 用户发布多款 Adobe 替代软件，全部用 Rust 编写并免费开放下载。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x3agvw/shock_and_awe_solo_developer_rebuilds_adobe/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>产品</category>
+      <description>&lt;p&gt;同一开发者新增 Word、Excel、PowerPoint 开源替代品。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/software/video-editing-graphic-design/solo-developer-rebuilds-adobe-creative-suite-in-rust-using-claude-releases-it-free-to-all-targets-100-percent-parity-in-one-month-despite-piracy-claims-and-safety-warnings"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x3agvw/shock_and_awe_solo_developer_rebuilds_adobe/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1x3jidz/a_solo_developer_rebuilt_word_excel_and/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude 与用户共创 Frame-Grid：把视频拆成帧网格 PNG，让大模型能「看」视频</title>
@@ -72,6 +88,14 @@
       <pubDate>Sun, 11 Oct 2026 19:01:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Reddit 网友讨论：普通消费级 PC 本地运行 Sonnet 级模型还有多远&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x35dqe/the_day_we_can_run_sonnetlevel_ai_locally_on_a/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google Gemini 数据收集引争议：欧盟用户无法只关闭人工审核</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1x356gb/google_geminis_highly_intrusive_data_collection/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9996aa7860fc615ad7a2d26e</guid>
+      <pubDate>Sun, 11 Oct 2026 18:49:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;欧盟用户称 Gemini 只给全开或全关两个选项，关掉就失去历史与家居控制功能&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x356gb/google_geminis_highly_intrusive_data_collection/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>我让 Claude Code 写脚本生成梗图，8 小时烧掉 1900 美元 API 费</title>
@@ -784,30 +808,6 @@
       <pubDate>Fri, 09 Oct 2026 23:11:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;一位从业者吐槽AI炒作帖，并用自己的两个真实项目说明自动化到底有多难。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/OpenAI/comments/1x1nxom/i_build_mlai_systems_for_money_since_2019_and/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>自回归扩散模型能否生成市场数据？实习生用四年美股数据做了实验</title>
-      <link>https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ff1be5cf7f54d88d1618f920</guid>
-      <pubDate>Fri, 09 Oct 2026 22:56:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;实习生用自回归扩散建模市场事件流，发现全连续扩散难以拟合真实数据的尖峰分布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Qwen-Image-2.1-Turbo 发布：8 步去噪，附分辨率与采样计划细节</title>
-      <link>https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo</link>
-      <guid isPermaLink="false">urn:zhiyike:news:eaa245b7a9eab0e78edc2991</guid>
-      <pubDate>Fri, 09 Oct 2026 21:28:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;官方补充 8 步采样计划覆盖方式与分辨率预设等细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x1ldef/qwenqwenimage21turbo_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x1lcau/qwen_image_21_turbo_released_hugging_face/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1x1mdud/qwenimage21turbo_just_officially_published/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Simon Willison 用语音对话让 GPT-6 Astra 给博客加新闻邮件索引页</title>
-      <link>https://simonwillison.net/2026/Oct/9/built-using-my-voice/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d1b0bf4db36bf26be068a743</guid>
-      <pubDate>Fri, 09 Oct 2026 20:54:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;他边做晚饭边用语音指挥 Codex 写完一个 Django 功能并提 PR&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://simonwillison.net/2026/Oct/9/built-using-my-voice/"&gt;Simon Willison 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
