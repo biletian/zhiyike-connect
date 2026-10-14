@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 15 Oct 2026 03:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:17:00 +0800</lastBuildDate>
+    <item>
+      <title>美国八州起诉 OpenAI，称 ChatGPT 对儿童不安全</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9d828295e059adeceaf16793</guid>
+      <pubDate>Thu, 15 Oct 2026 05:11:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;八州分别起诉 OpenAI，指其重利润轻安全、误导公众并收集未成年人数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 新版本控制系统 Scion 被指高度模仿 Meta 的 Mononoke</title>
+      <link>https://sunshowers.io/posts/anthropic-mononoke/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ed88ee4248d5d242def60213</guid>
+      <pubDate>Thu, 15 Oct 2026 04:30:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Meta 前工程师称 Scion 的 derived data 设计与其 2017-18 年 Mononoke 几乎一…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://sunshowers.io/posts/anthropic-mononoke/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI 竞赛重启：谷歌 Meta 追赶 Anthropic 与 OpenAI</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on</link>
@@ -16,6 +32,14 @@
       <pubDate>Thu, 15 Oct 2026 03:06:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;谷歌发布 Gemini 4 Argon，Meta 推出 Muse Wonder Full，双双宣称对标前沿模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>KREA 3 即将发布：社区追问开源权重，发帖人代跑提示词</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1x5zo6a/krea_3_here/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5cdf10e8ec8ddf88bee8b631</guid>
+      <pubDate>Thu, 15 Oct 2026 02:51:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户称 KREA 3 将开放权重，并主动代社区测试提示词&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x5zo6a/krea_3_here/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Character.AI 申请破产，40 州总检察长要求保护用户聊天数据</title>
@@ -128,6 +152,14 @@
       <pubDate>Wed, 14 Oct 2026 21:46:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;努比亚为 NaviX Ultra 追加购机权益，新老用户均可获半年豆包标准版会员。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/013/109.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>网友用 Claude Opus 5.5 做出可循环像素动画场景，全靠代码驱动</title>
+      <link>https://www.spritefusion.com/blog/opus-5-5-for-pixel-art-scenes</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e3bc9ef02a529ff151470ad4</guid>
+      <pubDate>Wed, 14 Oct 2026 21:26:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;作者用 Claude Opus 5.5 生成纯 TS 代码，实现雨、火、水等像素特效&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.spritefusion.com/blog/opus-5-5-for-pixel-art-scenes"&gt;spritefusion.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x5r6nw/pixel_art_scene_made_with_opus_55/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>5499 → 3823 元：大疆 AI ROMO 2 超幅扫拖机器人 11.11 官方直降</title>
@@ -416,6 +448,14 @@
       <pubDate>Wed, 14 Oct 2026 12:50:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;豆包工作支持一键迁移对话、技能与记忆，历史会话可继续使用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/012/807.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>推理引擎 jitllm 实现回复中途迁移模型层：8 ms 停顿、0 token 重算</title>
+      <link>https://github.com/jitllm/jitllm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1d790ebfa69581fbdd835f02</guid>
+      <pubDate>Wed, 14 Oct 2026 12:40:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;jitllm 让运行中的模型层在 GPU 间迁移，KV 缓存随层分页移动，无需重新处理提示词。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/jitllm/jitllm"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x5i7o9/moving_a_running_models_layers_between_gpus/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地</title>
@@ -746,12 +786,12 @@
       <description>&lt;p&gt;面壁智能开源MiniCPM-V 4.7，35B-A3B模型在iPhone上断网运行仅占约3G内存&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/503109.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenAI 工程师涉在行政会议室安装录音设备被捕，新增设备型号与量刑细节</title>
+      <title>OpenAI 工程师涉装录音设备被捕，新增履历与 10 月 5-6 日行动细节</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
       <guid isPermaLink="false">urn:zhiyike:news:7e99deed5e9812f501a1c6e0</guid>
       <pubDate>Wed, 14 Oct 2026 04:45:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;新增嫌疑人背景、设备型号、第二台设备及量刑听证等细节&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"&gt;The Verge&lt;/a&gt; · &lt;a href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增嫌疑人履历、10 月 5-6 日行动及 FBI 与检方表态&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"&gt;The Verge&lt;/a&gt; · &lt;a href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>微软成立 Xbox Labs，探索 AI 驱动的游戏反编译与移植</title>
@@ -768,46 +808,6 @@
       <pubDate>Wed, 14 Oct 2026 02:32:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;非程序员视频编辑者靠 vibe coding 做出 ComfyUI 节点，用运动掩码把稳定像素前向粘贴，声称退化减半。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/roycho87/comfyui-h3-pullforward"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x54q07/i_swore_at_claude_until_he_made_a_nodegroup_that/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flox Intelligence 用 AI 驱离野生动物，保护火车、机场和公路</title>
-      <link>https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6008d2ebe5924d0e8b37f5b8</guid>
-      <pubDate>Wed, 14 Oct 2026 02:30:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;瑞典 KTH 孵化的 Flox 用边缘 AI 识别动物种类并播放针对性声音驱离。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Laplace Intelligence 为机器人和自动驾驶做部署前红队测试</title>
-      <link>https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:130414b53862d5955b09f05b</guid>
-      <pubDate>Wed, 14 Oct 2026 01:30:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;密歇根大学团队创立 Laplace，用 AI 智能体在仿真中自动寻找物理 AI 的失效场景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>LFM2.5-24B-A2B 发布：24B 参数仅 2B 激活，端侧跑推理智能体</title>
-      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
-      <guid isPermaLink="false">urn:zhiyike:news:add7bb151101a6a861903ef4</guid>
-      <pubDate>Wed, 14 Oct 2026 01:05:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;LiquidAI 推出推理型 MoE 模型，2B 激活参数即可在本地持续运行智能体&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Facebook 上线“你的算法”，可自然语言定制信息流</title>
-      <link>https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6a8ee8c0ab3bf0f1172fa682</guid>
-      <pubDate>Wed, 14 Oct 2026 01:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;TechCrunch 补充 Instagram 该功能的时间线：先在 Reels 上线，后扩展至 Feed 与…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"&gt;The Verge&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google Play 支持私密 AI 生成应用，美国 18 岁以上可直接启动</title>
-      <link>https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch</link>
-      <guid isPermaLink="false">urn:zhiyike:news:98e1d7ca907c2cbf73eaace0</guid>
-      <pubDate>Wed, 14 Oct 2026 01:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;TechCrunch 补充：该功能限美国 18 岁以上，应用不进搜索列表。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"&gt;The Verge&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
