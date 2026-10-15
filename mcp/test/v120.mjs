@@ -9,7 +9,7 @@ import { fileURLToPath } from 'node:url';
 import { Client } from '@modelcontextprotocol/sdk/client/index.js';
 import { StreamableHTTPClientTransport } from '@modelcontextprotocol/sdk/client/streamableHttp.js';
 import { createMcpHandler, VERSION } from '../server/mcp.ts';
-import { cutSentence, sourceNameFor } from '../server/mcp-data.ts';
+import { cutSentence, sourceNameFor, isPlaceholder, PLACEHOLDER_PATHS } from '../server/mcp-data.ts';
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 const repo = path.resolve(here, '../..');
@@ -34,6 +34,17 @@ ok(sourceNameFor('原文', 'https://www.ithome.com/0/1.htm') === 'IT之家', '�
 ok(sourceNameFor('reddit.com', 'https://www.reddit.com/r/x') === 'Reddit', 'reddit.com→Reddit');
 ok(sourceNameFor('', 'https://news.example.org/a') === 'news.example.org', '未知域名去 www');
 ok(sourceNameFor('HN 热议', 'https://news.ycombinator.com/') === 'HN 热议', '已有人名不改');
+// 1.2.0 验收修复：标签式来源名 → 网站名
+ok(sourceNameFor('核实来源', 'https://www.theguardian.com/a') === 'The Guardian', '核实来源→The Guardian');
+ok(sourceNameFor('本人发布（X）', 'https://x.com/a/status/1') === 'X', '本人发布（X）→X');
+ok(sourceNameFor('官方发布（X）') === 'X', '官方发布（X）无网址→X');
+ok(sourceNameFor('本人发布（X）') === 'X', '图源本人发布（X）→X');
+ok(sourceNameFor('AI 工具集原文', 'https://ai-bot.cn/x') === 'AI 工具集', 'AI 工具集原文→AI 工具集');
+ok(sourceNameFor('Gary Marcus 本人发布', 'https://garymarcus.substack.com/p/x') === 'Substack', '个人发布→网站名');
+ok(sourceNameFor('Anthropic 官方发布') === 'Anthropic', '无网址取前缀');
+ok(sourceNameFor('核实来源') === '', '无网址无前缀→空');
+ok(sourceNameFor('', 'https://fortune.com/x') === 'Fortune', 'fortune.com 进对照表');
+ok(isPlaceholder('media/2026.10.15/48.jpg') && isPlaceholder('media/2026.08.13/04.jpg') && PLACEHOLDER_PATHS.size === 25 && !isPlaceholder('media/2026.10.15/49.jpg'), '占位图识别 25 个');
 ok(cutSentence('一二三四五六七八九十，一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十多出来') === '一二三四五六七八九十', '按逗号截断');
 
 async function serve(dir) {
@@ -103,10 +114,17 @@ try {
     orig: sourceObjs.filter(s => s.name === '原文').length }));
   // 4. 无空串
   ok(!/:""/.test(dump), '仍有空串字段');
+  const emptyArr = [...dump.matchAll(/"(\w+)":\[\]/g)].map(m => m[1]).filter(k => k !== 'items' && k !== 'availableDates');
+  ok(emptyArr.length === 0, `仍有空数组：${[...new Set(emptyArr)]}`);
+  const LABELISH = /本人发布|官方发布|原文$|核实来源/;
+  const labelNames = [];
+  JSON.parse(dump, (k, v) => { if ((k === 'name' || k === 'credit' || k === 'source') && typeof v === 'string' && LABELISH.test(v)) labelNames.push(v); return v; });
+  ok(labelNames.length === 0, `仍有标签式来源名：${[...new Set(labelNames)].slice(0, 5)}`);
   // 6. 封面
   const covers = [];
   JSON.parse(dump, (k, v) => { if (k === 'cover' && v && typeof v === 'object') covers.push(v); return v; });
   if (real) ok(covers.length > 0, '没有任何 cover');
+  ok(!covers.some(c => PLACEHOLDER_PATHS.has(c.url.replace('https://zhiyike.cn/', ''))), '占位 logo 不作为封面');
   ok(covers.every(c => c.url.startsWith('https://zhiyike.cn/media/')), 'cover.url 必须是 https://zhiyike.cn/media/');
   ok(covers.every(c => ['source', 'ai_generated', 'poster'].includes(c.type)), 'cover.type 取值');
   ok(covers.filter(c => c.type !== 'source').every(c => !('credit' in c)), 'poster / AI 生成不带 credit');
@@ -146,6 +164,37 @@ try {
     ok(!BAD.test(text), '假数据：排除来源未被过滤');
     ok(text.includes('IT之家'), '假数据：正常来源保留并整理成 IT之家');
     ok(detail.cover && !('credit' in detail.cover), '假数据：排除来源的图源被去掉');
+  } finally { await fake.client.close(); await new Promise(r => fake.http.close(r)); }
+}
+
+// 1.2.0 验收修复：假数据补 poster / X 署名 / 占位 logo / 标签来源 / 空数组
+{
+  const dir = mkdtempSync(path.join(tmpdir(), 'zyk-fake2-'));
+  cpSync(path.resolve(here, '../sample-data'), dir, { recursive: true });
+  const data = JSON.parse(readFileSync(path.join(dir, 'data.json'), 'utf8'));
+  const day = data.days.find(d => (d.signals || []).length);
+  const base0 = day.signals[0];
+  const mk = (title, ts, extra) => ({ ...base0, title, originalTitle: title, ts, points: [], reader: { summary: title + '摘要', deep: [], watch: [] }, ...extra });
+  day.signals.push(
+    mk('假数据海报A', '2099-01-01T00:00:05Z', { img: 'media/2026.10.15/poster-a.png', _imageFallback: 'editorial', imageMeta: { source: 'IT之家' }, links: [{ name: '核实来源', url: 'https://www.theguardian.com/x' }] }),
+    mk('假数据海报B', '2099-01-01T00:00:04Z', { img: 'media/2026.10.15/poster-b.png', imageMeta: { type: 'poster' }, links: [{ name: '本人发布（X）', url: 'https://x.com/a/status/1' }] }),
+    mk('假数据X图', '2099-01-01T00:00:03Z', { img: 'media/2026.08.19/28.jpg', imageMeta: { type: 'screenshot', source: '本人发布（X）' }, links: [{ name: 'AI 工具集原文', url: 'https://ai-bot.cn/x' }] }),
+    mk('假数据占位logo', '2099-01-01T00:00:02Z', { img: 'media/2026.10.15/48.jpg', imageMeta: { type: 'article', source: '机器之心' }, links: [] }),
+  );
+  writeFileSync(path.join(dir, 'data.json'), JSON.stringify(data));
+  const fake = await serve(dir);
+  try {
+    const out = (await fake.client.callTool({ name: 'list_news', arguments: { date: day.date, query: '假数据', limit: 20 } })).structuredContent;
+    const by = Object.fromEntries(out.items.map(i => [i.title, i]));
+    ok(by['假数据海报A']?.cover?.type === 'poster' && !('credit' in by['假数据海报A'].cover) && by['假数据海报A'].cover.url === 'https://zhiyike.cn/media/2026.10.15/poster-a.png', 'poster（editorial）不带 credit');
+    ok(by['假数据海报B']?.cover?.type === 'poster' && !('credit' in by['假数据海报B'].cover), 'poster（imageMeta.type）不带 credit');
+    ok(by['假数据X图']?.cover?.credit === 'X', 'X 的图署名 X');
+    ok(by['假数据占位logo'] && !('cover' in by['假数据占位logo']), '占位 logo 不出 cover');
+    ok(!('sources' in by['假数据占位logo']), '空 sources 不输出');
+    ok(by['假数据海报A'].sources[0].name === 'The Guardian' && by['假数据海报B'].sources[0].name === 'X' && by['假数据X图'].sources[0].name === 'AI 工具集', '标签式来源名改网站名');
+    const detail = (await fake.client.callTool({ name: 'get_news_detail', arguments: { id: by['假数据X图'].id } })).structuredContent;
+    ok(!('points' in detail) && !('deep' in detail) && !('watch' in detail), '详情空数组不输出');
+    writeFileSync(path.join(outDir, 'fake-poster.json'), JSON.stringify({ out, detail }, null, 1));
   } finally { await fake.client.close(); await new Promise(r => fake.http.close(r)); }
 }
 console.log(`v1.2.0 断言全部通过：${pass} 条。输出目录 ${outDir}`);

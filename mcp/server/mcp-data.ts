@@ -1,5 +1,6 @@
 import { createHash } from 'node:crypto';
 import { readFile, realpath, stat } from 'node:fs/promises';
+import { readFileSync, statSync } from 'node:fs';
 import path from 'node:path';
 
 type Row = Record<string, unknown>;
@@ -63,11 +64,34 @@ const SOURCE_NAMES: Record<string, string> = {
   'qq.com': '腾讯', 'sina.com.cn': '新浪', 'sohu.com': '搜狐', '163.com': '网易', 'thepaper.cn': '澎湃新闻', 'jiemian.com': '界面新闻',
   'geekpark.net': '极客公园', 'infoq.cn': 'InfoQ', 'csdn.net': 'CSDN', 'juejin.cn': '稀土掘金', 'v2ex.com': 'V2EX', 'threads.net': 'Threads',
   'linkedin.com': 'LinkedIn', 'tiktok.com': 'TikTok', 'douyin.com': '抖音', 'xiaohongshu.com': '小红书', 'cnbeta.com.tw': 'cnBeta', 'wired.com': 'WIRED', 'arstechnica.com': 'Ars Technica',
+  // 1.2.0 验收补充：知名媒体 / 机构
+  'theguardian.com': 'The Guardian', 'fortune.com': 'Fortune', 'axios.com': 'Axios', 'gizmodo.com': 'Gizmodo', 'forbes.com': 'Forbes',
+  'washingtonpost.com': 'The Washington Post', 'economist.com': 'The Economist', 'theatlantic.com': 'The Atlantic', 'apnews.com': 'AP News',
+  'cnet.com': 'CNET', 'zdnet.com': 'ZDNET', 'semafor.com': 'Semafor', 'politico.com': 'Politico', 'vox.com': 'Vox', 'time.com': 'TIME',
+  'technologyreview.com': 'MIT Technology Review', 'nature.com': 'Nature', 'science.org': 'Science', 'theregister.com': 'The Register',
+  'semianalysis.com': 'SemiAnalysis', 'interconnects.ai': 'Interconnects', 'epoch.ai': 'Epoch AI', 'latent.space': 'Latent Space',
+  'pragmaticengineer.com': 'The Pragmatic Engineer', 'scottaaronson.blog': 'Scott Aaronson', 'a16z.com': 'a16z', 'stratechery.com': 'Stratechery',
+  'chatgpt.com': 'ChatGPT', 'instagram.com': 'Instagram', 'facebook.com': 'Facebook', 'fal.ai': 'fal', 'bfl.ai': 'Black Forest Labs',
+  'baseten.co': 'Baseten', 'modal.com': 'Modal', 'liquid.ai': 'Liquid AI', 'comfy.org': 'ComfyUI', 'opencode.ai': 'OpenCode', 'sarvam.ai': 'Sarvam AI',
+  'vast.ai': 'Vast', 'replicate.com': 'Replicate', 'together.ai': 'Together AI', 'perplexity.ai': 'Perplexity', 'cohere.com': 'Cohere',
+  'stability.ai': 'Stability AI', 'midjourney.com': 'Midjourney', 'zhipuai.cn': '智谱', 'bigmodel.cn': '智谱', 'minimaxi.com': 'MiniMax',
+  'xinhuanet.com': '新华网', 'people.com.cn': '人民网', 'caixin.com': '财新', 'yicai.com': '第一财经', 'huxiu.com': '虎嗅', 'leiphone.com': '雷峰网',
+  'tmtpost.com': '钛媒体', 'pingwest.com': '品玩', 'latepost.com': '晚点LatePost', 'mittrchina.com': 'MIT 科技评论中文版',
+  'nikkei.com': 'Nikkei', 'scmp.com': 'SCMP', 'theinformation.com.cn': 'The Information',
 };
 const bareHost = (host: string) => host.toLowerCase().replace(/^www\./, '').replace(/^m\./, '');
+// 1.2.0 验收：「核实来源」「本人发布（X）」「官方发布（X）」「AI 工具集原文」「Gary Marcus 本人发布」这类标签不是网站名。
+// 括号里写了平台（X）就用平台；否则按网址查对照表；都没有就用标签前面的名字，仍没有则返回空（调用方不输出）。
+const LABEL = /^(.*?)\s*(?:本人发布|官方发布|原文|核实来源|来源)\s*(?:[（(]\s*([^）)]*?)\s*[）)])?$/;
 export function sourceNameFor(name: string, url = ''): string {
   let host = '';
   try { host = bareHost(new URL(url).hostname); } catch { /* 无网址 */ }
+  const label = name.trim().match(LABEL);
+  if (label && name.trim() !== '原文') {
+    if (label[2]) return sourceNameFor(label[2]);
+    if (host) return sourceNameFor('', url);
+    return label[1] ? sourceNameFor(label[1]) : '';
+  }
   const cleaned = name.trim();
   const generic = !cleaned || cleaned === '原文' || /^(https?:\/\/)?[a-z0-9-]+(\.[a-z0-9-]+)+\/?$/i.test(cleaned);
   if (!generic) return cleaned;
@@ -90,6 +114,7 @@ function noteExcluded(where: string) {
   excludedHits++;
   console.warn(`[zhiyike-mcp] 已过滤排除来源 1 项（${where}）`);
 }
+const KEEP_EMPTY = new Set(['items', 'availableDates']);
 // 递归清理：含排除来源的对象（来源、图片等）整项去掉；普通文本里出现则删掉该词；空串字段不输出。
 export function scrubOutput<T>(value: T, where = 'output'): T {
   const walk = (input: unknown): unknown => {
@@ -108,6 +133,8 @@ export function scrubOutput<T>(value: T, where = 'output'): T {
         if ((key === 'cover' || key === 'credit') && isExcluded(entry)) { noteExcluded(where); continue; }
         const next = walk(entry);
         if (next === '' || next === undefined) continue;
+        // 1.2.0 验收：空数组不输出（items / availableDates 是分页结果本身，空也要保留）
+        if (Array.isArray(next) && next.length === 0 && !KEEP_EMPTY.has(key)) continue;
         out[key] = next;
       }
       return out;
@@ -123,7 +150,8 @@ function links(value: unknown) {
       const url = new URL(text(link.url));
       if (!['http:', 'https:'].includes(url.protocol) || url.username || url.password) return [];
       if (isExcluded([link.name, link.url])) { noteExcluded('sources'); return []; }
-      return [{ name: sourceNameFor(text(link.name), url.href), url: url.href }];
+      const name = sourceNameFor(text(link.name), url.href) || bareHost(url.hostname);
+      return [{ name, url: url.href }];
     } catch { return []; }
   });
 }
@@ -139,12 +167,44 @@ export function cutSentence(value: string, max = 40): string {
 
 // 第 6 条：封面图。只认 media/ 开头的站内相对路径，拼成 https://zhiyike.cn/...；外站地址一律丢弃。
 export const SITE_ORIGIN = 'https://zhiyike.cn';
+// 1.2.0 验收：媒体 logo / 字标被当作配图的占位图，不作为封面输出（当作没图）。
+// 按文件内容 md5 识别（服务器上能读到 media 文件时），并列出已知的 25 个路径兜底（测试数据和读不到文件时）。
+export const PLACEHOLDER_MD5 = new Set([
+  'b8a5197cf585baec247a59c684796a5e', // 机器之心 logo（22 处）
+  '55982dc0f649db00903a5d5fcd3c61cd', // ANTHROPIC 字标（3 处）
+]);
+export const PLACEHOLDER_PATHS = new Set([
+  ...['09.13/27', '09.13/34', '09.14/22', '09.15/26', '09.15/31', '09.15/56', '09.15/57', '09.18/52', '09.19/44', '09.23/35', '09.27/30',
+    '10.04/24', '10.08/23', '10.08/37', '10.14/18', '10.14/19', '10.15/48', '10.15/50', '10.15/57', '10.15/63', '10.15/64', '10.15/65',
+    '08.13/04', '09.11/03', '10.13/02'].map(p => `media/2026.${p}.jpg`),
+]);
+let mediaRoot = '';
+export const setMediaRoot = (root: string) => { mediaRoot = root; };
+const md5Cache = new Map<string, { sig: string; md5: string }>();
+export function isPlaceholder(img: string): boolean {
+  if (PLACEHOLDER_PATHS.has(img)) return true;
+  if (!mediaRoot) return false;
+  try {
+    const file = path.resolve(mediaRoot, img);
+    if (!file.startsWith(path.resolve(mediaRoot) + path.sep)) return false;
+    const info = statSync(file);
+    if (!info.isFile() || info.size > 2 * 1024 * 1024) return false;
+    const sig = `${info.mtimeMs}:${info.size}`;
+    let hit = md5Cache.get(img);
+    if (hit?.sig !== sig) {
+      hit = { sig, md5: createHash('md5').update(readFileSync(file)).digest('hex') };
+      if (md5Cache.size > 5000) md5Cache.clear();
+      md5Cache.set(img, hit);
+    }
+    return PLACEHOLDER_MD5.has(hit.md5);
+  } catch { return false; }
+}
 type ImageInfo = { img: string; meta: Row; fallback?: string };
 function coverOf(info: ImageInfo | undefined) {
   if (!info) return undefined;
   const img = info.img.trim();
   if (!/^media\/[A-Za-z0-9._\/-]+\.(jpe?g|png|webp|gif|avif)$/i.test(img) || img.includes('..')) return undefined;
-  if (/logo|brand|placeholder|favicon/i.test(img)) return undefined;
+  if (/logo|brand|placeholder|favicon/i.test(img) || isPlaceholder(img)) return undefined;
   const url = `${SITE_ORIGIN}/${img}`;
   const type = text(info.meta.type).toLowerCase();
   if (info.fallback === 'editorial' || /poster|editorial|template/.test(type)) return { url, type: 'poster' };
@@ -153,7 +213,8 @@ function coverOf(info: ImageInfo | undefined) {
   const raw = text(info.meta.source);
   if (raw && isExcluded([raw, info.meta.url])) { noteExcluded('cover.credit'); return { url, type: 'source' }; }
   // credit 只留网站名：多段说明取第一段（如「Reddit / r/xxx」→ Reddit），不带网址、作者、授权说明。
-  const head = raw.split(/\s+\/\s+|[；;（(，,|]/)[0].trim();
+  const labeled = raw.match(LABEL) ? sourceNameFor(raw, text(info.meta.url)) : '';
+  const head = labeled || raw.split(/\s+\/\s+|[；;（(，,|]/)[0].trim();
   const credit = head && !/https?:|\//i.test(head) && [...head].length <= 30 ? sourceNameFor(head, text(info.meta.url)) : '';
   return { url, type: 'source', ...(credit ? { credit } : {}) };
 }
@@ -228,7 +289,7 @@ const matches = (value: unknown, query = '') => query.toLocaleLowerCase().trim()
 export class PublishedContent {
   private cache = new Map<string, { signature: string; data: Row }>();
   readonly root: string;
-  constructor(root: string) { this.root = path.resolve(root); }
+  constructor(root: string) { this.root = path.resolve(root); setMediaRoot(this.root); }
 
   private async read(relative: string): Promise<Row> {
     try {
