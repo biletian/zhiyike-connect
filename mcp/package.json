@@ -1,14 +1,14 @@
 {
   "name": "zhiyike-read-only-mcp",
   "private": true,
-  "version": "1.1.0",
+  "version": "1.2.0",
   "type": "module",
   "engines": {
     "node": ">=22.18.0"
   },
   "scripts": {
     "start": "node server/mcp-standalone.ts",
-    "test": "node test/smoke.mjs"
+    "test": "node test/smoke.mjs && node test/v120.mjs"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "1.30.0",

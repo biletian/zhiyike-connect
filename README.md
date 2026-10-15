@@ -1,6 +1,6 @@
 # 知一刻｜更快看清 AI 行业正在发生什么
 
-[访问官网](https://zhiyike.cn/) · [连接 MCP](https://zhiyike.cn/mcp) · [安装 Skill](https://zhiyike.cn/skills/install.html) · [订阅 RSS](https://zhiyike.cn/rss.xml)
+[访问官网](https://zhiyike.cn/) · [连接 MCP](https://zhiyike.cn/connect/) · [安装 Skill](https://zhiyike.cn/skills/install.html) · [订阅 RSS](https://zhiyike.cn/rss.xml)
 
 **知一刻**是一款面向中文用户的 AI 信息判断工具。它持续收集国内外 AI 新闻、产品更新、模型发布、人物观点、技术概念与 GitHub 热门项目，并经过正文读取、信息核实、重复识别和多来源合并，整理成更容易阅读和判断的中文内容。
 
@@ -51,7 +51,7 @@
 
 | 方式 | 适合谁 | 可以做什么 | 正式入口 |
 | --- | --- | --- | --- |
-| **MCP** | 使用支持 MCP 的 AI 应用或开发工具 | 直接询问新闻、详情、日报、周报、产品、概念、GitHub 热榜和历史内容 | [连接 MCP](https://zhiyike.cn/mcp) |
+| **MCP** | 使用支持 MCP 的 AI 应用或开发工具 | 直接询问新闻、详情、日报、周报、产品、概念、GitHub 热榜和历史内容 | [连接 MCP](https://zhiyike.cn/connect/) |
 | **Skill** | 支持安装 Agent Skill 并能运行 Python 的 AI 应用 | 安装独立的知一刻读取能力，不修改用户已有的 MCP 配置 | [安装 Skill](https://zhiyike.cn/skills/install.html) |
 | **RSS** | 使用 RSS 阅读器，希望持续接收公开更新的用户 | 订阅最近公开的 AI 新闻、摘要、分类、时间和原始信息源 | [订阅 RSS](https://zhiyike.cn/rss.xml) |
 
@@ -86,7 +86,7 @@
 Skill 源码位于 [`skill/zhiyike-reader/`](skill/zhiyike-reader/)，安装包位于 [`skill/download/`](skill/download/)。正式安装说明请查看：
 
 - [知一刻 Skill 安装说明](https://zhiyike.cn/skills/install.html)
-- [GitHub Release 安装包](https://github.com/biletian/zhiyike-connect/releases/tag/v1.0.0)
+- [GitHub Release 安装包](https://github.com/biletian/zhiyike-connect/releases/latest)
 
 Skill 使用 Python 标准库连接正式只读 MCP，不要求用户提供知一刻密钥，也不会修改已有 MCP 配置。安装环境需要允许执行 Skill 附带的脚本，并能访问 `https://zhiyike.cn`。
 

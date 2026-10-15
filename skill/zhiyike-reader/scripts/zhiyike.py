@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import ssl
 import sys
@@ -12,7 +13,11 @@ from urllib.error import HTTPError, URLError
 from urllib.request import HTTPRedirectHandler, HTTPSHandler, Request, build_opener
 
 ENDPOINT = "https://zhiyike.cn/mcp"
-VERSION = "1.0.0"
+# 仅供交测：ZHIYIKE_MCP_ENDPOINT 可指向 HTTPS 或本机 127.0.0.1 的测试 /mcp 地址；不合规就仍用正式地址。
+_override = os.environ.get("ZHIYIKE_MCP_ENDPOINT", "")
+if re.fullmatch(r"https://[A-Za-z0-9.-]+/mcp|http://127\.0\.0\.1:\d{2,5}/mcp", _override):
+    ENDPOINT = _override
+VERSION = "1.2.0"
 PROTOCOLS = ("2025-11-25", "2025-06-18", "2025-03-26")
 TOOLS = frozenset(("list_news", "get_news_detail", "search_library", "list_reports", "get_report", "github_trending"))
 MAX_BYTES = 4 * 1024 * 1024
