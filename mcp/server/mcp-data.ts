@@ -16,6 +16,19 @@ export const todayInBeijing = (date = new Date()) => new Intl.DateTimeFormat('en
   timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit',
 }).format(date).replaceAll('-', '.');
 
+// 1003v2（小乐 10-13 定）：日报对外日期 = 发布日 = 内容日 + 1 天（纯日历日）。
+// 数据里 date 仍是内容日（网址 / 文件名）；pub_date 由发布器写入，缺失时在这里推算。
+export function publishDateOf(contentDate: string): string {
+  const d = new Date(contentDate.replaceAll('.', '-') + 'T00:00:00Z');
+  d.setUTCDate(d.getUTCDate() + 1);
+  return d.toISOString().slice(0, 10).replaceAll('-', '.');
+}
+
+function issuePubDate(issue: Row): string {
+  const pub = text(issue.pub_date);
+  return /^\d{4}\.\d{2}\.\d{2}$/.test(pub) ? pub : publishDateOf(text(issue.date));
+}
+
 export function normalizeDate(value: string): string {
   const normalized = value.replaceAll('-', '.');
   if (!/^\d{4}\.\d{2}\.\d{2}$/.test(normalized)) throw new Error('日期须为 YYYY-MM-DD 或 YYYY.MM.DD。');
@@ -46,6 +59,7 @@ function newsCard(item: Row, date: string) {
     category: text(item.cat), type: text(item.type), summary: text(reader.summary) || text(item.sum) || text(item.brief),
     heat: text(item.heat), heatDescription: text(item.trend), sources: links(item.links),
     publicationStatus: '网站已公开',
+    ...(text(item.pubDate) ? { originalPublishedAt: text(item.pubDate) } : {}),
   };
 }
 
@@ -65,6 +79,7 @@ function libraryEntry(item: Row, kind: 'products' | 'concepts') {
     updatedAt: text(item.ts), category: text(item.cat), categories: strings(item.cats),
     summary: text(row(item.reader).summary) || text(item.sum) || text(item.brief),
     points: strings(item.points), sources: links(item.links),
+    ...(kind === 'products' && item.oldNews === true ? { oldNews: true, label: '旧闻收录' } : {}),
     ...(kind === 'concepts' ? {
       status: text(item.status), aliases: strings(item.aliases), plainExplanation: text(item.plainExplanation),
       mechanism: strings(item.mechanism), useCases: strings(item.useCases), notThis: text(item.notThis),
@@ -180,14 +195,22 @@ export class PublishedContent {
   async listReports(args: { period: 'daily' | 'weekly'; limit?: number; offset?: number }) {
     const issues = await this.reportIndex(args.period);
     return { period: args.period, retrievedAt: utcNow(), ...page(issues.map(issue => ({
-      date: text(issue.date), no: Number(issue.no) || 0, excerpt: text(issue.excerpt), total: Number(issue.total) || 0,
+      // 日报：date = 发布日（期号日期，和网站一致），contentDate = 新闻所属日；周报不变
+      date: args.period === 'daily' ? issuePubDate(issue) : text(issue.date),
+      ...(args.period === 'daily' ? { contentDate: text(issue.date) } : {}),
+      no: Number(issue.no) || 0, excerpt: text(issue.excerpt), total: Number(issue.total) || 0,
       startDate: text(issue.start_date), endDate: text(issue.end_date),
     })), args.limit, args.offset) };
   }
 
   async getReport(args: { period: 'daily' | 'weekly'; date?: string; limit?: number; offset?: number }) {
     const issues = await this.reportIndex(args.period);
-    const date = args.date ? args.period === 'daily' ? normalizeDate(args.date) : args.date : text(issues[0]?.date);
+    let date = args.date ? args.period === 'daily' ? normalizeDate(args.date) : args.date : text(issues[0]?.date);
+    if (args.date && args.period === 'daily') {
+      // 先按发布日（用户看到的期号日期）找；找不到再按内容日，兼容旧调用
+      const byPub = issues.find(issue => issuePubDate(issue) === date);
+      if (byPub) date = text(byPub.date);
+    }
     if (!date || !issues.some(issue => issue.date === date)) throw new Error('这期日报或周报尚未发布，请先查询目录。');
     // Do not follow paths or URLs supplied by callers or embedded in the index.
     const file = args.period === 'daily' ? `${date}.json` : `week-${date}.json`;
@@ -197,7 +220,9 @@ export class PublishedContent {
       title: text(item.title), summary: text(item.sum), type: text(item.type), source: text(item.src),
       sources: links(item.links), heat: text(item.heat), section: text(item.section),
     }));
-    return { period: args.period, date, no: Number(report.no) || 0, summary: text(report.one_line),
+    return { period: args.period, date: args.period === 'daily' ? issuePubDate(report) : date,
+      ...(args.period === 'daily' ? { contentDate: date } : {}),
+      no: Number(report.no) || 0, summary: text(report.one_line),
       startDate: text(report.start_date), endDate: text(report.end_date), retrievedAt: utcNow(),
       coverageTotal: Number(report.total) || items.length, ...page(items, args.limit, args.offset),
       // Weekly issues may contain a historical GitHub snapshot; never substitute today's list.

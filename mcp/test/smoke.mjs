@@ -23,7 +23,16 @@ try {
   const response = await client.callTool({ name: 'list_news', arguments: { date: '2026-09-02', limit: 1 } });
   assert.equal(response.isError, undefined);
   assert.equal(response.structuredContent.total, 1);
-  console.log('MCP 公开源码检查通过：六个只读工具，示例新闻可读取。');
+  const newsText = JSON.stringify(response.structuredContent);
+  assert.ok(newsText.includes('"originalPublishedAt":"2026.08.31"'), '新闻卡应带原文发布日期');
+  const products = await client.callTool({ name: 'search_library', arguments: { kind: 'products', query: '示例' } });
+  assert.equal(products.isError, undefined);
+  const productText = JSON.stringify(products.structuredContent);
+  assert.ok(productText.includes('"oldNews":true') && productText.includes('"label":"旧闻收录"'), '旧闻产品应带旧闻收录标注');
+  assert.equal((productText.match(/旧闻收录/g) || []).length, 1, '只有旧闻产品带标注');
+  const concepts = await client.callTool({ name: 'search_library', arguments: { kind: 'concepts' } });
+  assert.ok(!JSON.stringify(concepts.structuredContent ?? {}).includes('oldNews'), '概念库不带旧闻标注');
+  console.log('MCP 公开源码检查通过：六个只读工具，示例新闻可读取，原文日期与旧闻收录字段正常。');
 } finally {
   await client.close();
   await new Promise(resolve => httpServer.close(resolve));

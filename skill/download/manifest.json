@@ -2,13 +2,13 @@
   "name": "zhiyike-reader",
   "version": "1.0.0",
   "archive": "/skills/zhiyike-reader.zip",
-  "bytes": 7448,
-  "sha256": "097b244b6b89ff8c106656fc02b8cb680a7b61e27085b8e10aff2ce543180c61",
+  "bytes": 7632,
+  "sha256": "9fd37241bd48210922227ae6912f329080c0ce2f8467afeb449b40247dfb0758",
   "files": [
     {
       "path": "zhiyike-reader/SKILL.md",
-      "bytes": 4931,
-      "sha256": "9d4f8b8efb6755f123caec5cad5be74a089b969c88af7273f0978a300d0dd797"
+      "bytes": 5304,
+      "sha256": "064c77bbe7bb63797f0ba3ab72d13bf4d40f24fd515008e7f7b1a419721f6c46"
     },
     {
       "path": "zhiyike-reader/scripts/zhiyike.py",

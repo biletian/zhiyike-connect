@@ -66,7 +66,7 @@ function createServer(data: PublishedContent) {
     inputSchema: { period, ...pagination }, annotations,
   }, args => result(() => data.listReports(args)));
   server.registerTool('get_report', {
-    title: '读取日报周报', description: '读取目录中的指定一期，省略 date 返回最新已发布一期（不一定是今天）。日报日期 YYYY-MM-DD，周报 YYYY-Www。支持分页。',
+    title: '读取日报周报', description: '读取目录中的指定一期，省略 date 返回最新已发布一期（不一定是今天）。日报日期 YYYY-MM-DD 为发布日（期号日期，内容是前一天的新闻，见 contentDate），周报 YYYY-Www。支持分页。',
     inputSchema: { period, date: z.string().max(10).optional(), ...pagination }, annotations,
   }, args => result(() => data.getReport(args)));
   server.registerTool('github_trending', {

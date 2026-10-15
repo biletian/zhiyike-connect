@@ -16,7 +16,8 @@
               "name": "示例来源",
               "url": "https://example.com/news"
             }
-          ]
+          ],
+          "pubDate": "2026.08.31"
         }
       ]
     }
@@ -30,6 +31,18 @@
         {
           "name": "产品页",
           "url": "https://example.com/product"
+        }
+      ]
+    },
+    {
+      "title": "示例旧闻产品",
+      "vendor": "示例厂商",
+      "sum": "较早发布、近期才收录的示例产品",
+      "oldNews": true,
+      "links": [
+        {
+          "name": "产品页",
+          "url": "https://example.com/old-product"
         }
       ]
     }
