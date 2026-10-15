@@ -4,10 +4,8 @@ import { StreamableHTTPServerTransport } from '@modelcontextprotocol/sdk/server/
 import { z } from 'zod';
 import { PublishedContent } from './mcp-data.ts';
 import { clientIp } from './client-ip.ts';
-import { readFileSync } from 'node:fs';
-
-// 第 1 条：版本号只从 package.json 读一处，不再写死。
-export const VERSION: string = JSON.parse(readFileSync(new URL('../package.json', import.meta.url), 'utf8')).version;
+import { VERSION } from './version.ts';
+export { VERSION };
 const INSTALL_URL = 'https://zhiyike.cn/connect/';
 
 const pagination = { limit: z.number().int().min(1).max(20).optional(), offset: z.number().int().min(0).max(100000).optional() };
