@@ -8,7 +8,47 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 17 Oct 2026 05:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 07:47:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic 内部调查：大多数员工相信到 2030 年 AI 能完成至少八成工作</title>
+      <link>https://www.ithome.com/1/014/205.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d0030062302db75acdde40be</guid>
+      <pubDate>Sat, 17 Oct 2026 07:45:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Anthropic 员工与美国劳动者对 AI 取代工作的预期差距悬殊。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/205.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>英特尔计划 2028 年面向物理 AI 领域推出 "Razor Lake AX" 处理器，平台算力 700 TOPS</title>
+      <link>https://www.ithome.com/1/014/194.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bed63aebf06c368dbe653048</guid>
+      <pubDate>Sat, 17 Oct 2026 07:08:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;英特尔高管在韩国公布物理 AI 处理器路线图，2027 年先推 Nova Lake，2028 年上 Razor…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/194.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 向美国国会推介 AI 监管草案，仅允许出现严重风险时封锁模型</title>
+      <link>https://www.ithome.com/1/014/193.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:dc03f90ab9a2954cc1c1c14d</guid>
+      <pubDate>Sat, 17 Oct 2026 07:05:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 游说美国国会，草案将政府叫停模型的门槛设为超 10 亿美元损失或 50 人以上死伤。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/193.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>马斯克要让 AI 帮企业“砍价”：成本效益有望提升 5% 以上</title>
+      <link>https://www.ithome.com/1/014/192.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ae5746e4df5bcc7a28928f40</guid>
+      <pubDate>Sat, 17 Oct 2026 07:01:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;马斯克称团队正开发商业议价机器人 Hagglebot，预计可提升企业成本效率 5% 以上。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/192.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 当起“数字考古学家”：不到 30 分钟揭开困扰密码学界 26 年的 NSA 参数来源之谜</title>
+      <link>https://www.ithome.com/1/014/191.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a37b2826a8180497443920b0</guid>
+      <pubDate>Sat, 17 Oct 2026 06:53:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Claude 用不到 30 分钟追溯出 NIST 五条椭圆曲线种子的来源，破解 26 年悬案。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/191.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 在 ChatGPT 为 GPT-6 Pro 加入并行智能体</title>
       <link>https://runtimewire.com/article/openai-gpt-6-pro-chat-multi-agent-upgrade</link>
@@ -16,6 +56,14 @@
       <pubDate>Sat, 17 Oct 2026 04:04:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;GPT-6 Pro 可在 ChatGPT 中把任务拆分给多个并行智能体，并向用户展示进度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://runtimewire.com/article/openai-gpt-6-pro-chat-multi-agent-upgrade"&gt;runtimewire.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1x7qhdw/openai_adds_parallel_agents_to_gpt6_pro_in_chatgpt/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>从零推导 Transformer：每层都是记忆存储器</title>
+      <link>https://alexwang.ai/posts/associative-memory/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b9a8a22dbfefead3c69e6c1d</guid>
+      <pubDate>Sat, 17 Oct 2026 03:01:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一篇长文用记忆存储视角重新推导 Transformer 的注意力与前馈层。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://alexwang.ai/posts/associative-memory/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude 破解 NIST 椭圆曲线种子来源：竟是 Unix 时间戳驱动的 lrand48</title>
@@ -32,6 +80,30 @@
       <pubDate>Sat, 17 Oct 2026 02:32:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;越狱 PS5 变身家用私有模型服务器，通过 Vulkan 调用 RDNA 2 GPU 推理 GGUF。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/cobanov/PS5LM"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Plenio 1.0 登陆 ComfyUI：免费 AI 歌曲工作室新增播放器，可生成视频、视觉与可分享混音带</title>
+      <link>https://github.com/jplenio/Plenio-Music-Production-System</link>
+      <guid isPermaLink="false">urn:zhiyike:news:faa471fb1e7af235f3393c6b</guid>
+      <pubDate>Sat, 17 Oct 2026 02:28:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Plenio 1.0 发布，新增播放器，一键把歌曲变成视频、视觉和可分享 HTML 混音带。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/jplenio/Plenio-Music-Production-System"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1x7o0t1/plenio_10_for_comfyui_a_complete_free_ai_song/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 自主设计量子电路，部分指标较已发表最佳提升一个数量级</title>
+      <link>https://www.anthropic.com/research/designing-efficient-quantum-circuits</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d6bfc0269bf704b50cedb68f</guid>
+      <pubDate>Sat, 17 Oct 2026 02:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 让 Claude 仅凭自然语言规格设计八类量子电路，多项结果优于已发表最佳设计。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/research/designing-efficient-quantum-circuits"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用户实测 Gemini 4 Argon：基准测试没体现出的"大模型味"</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1x7n28r/gemini_4_argon_is_fascinating/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:687757a9aee3707d5455ccea</guid>
+      <pubDate>Sat, 17 Oct 2026 01:52:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位开发者称 Gemini 4 Argon 在智能体场景中远超 Gemini 2.5/3 系列，基准测试未能体现其真实…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x7n28r/gemini_4_argon_is_fascinating/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>印度通报多厂商AI智能体越权访问企业系统</title>
@@ -234,6 +306,14 @@
       <description>&lt;p&gt;可视科学完成数千万元天使轮及天使+轮融资，投资方为三家上海机构。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-16-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>开源权重模型已超越 Sonnet 5，闭源前沿优势正在收窄</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:284aebe968e6753d07271bc8</guid>
+      <pubDate>Fri, 16 Oct 2026 17:27:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 讨论称，正确筛选基准后开源模型已超过 Sonnet 5，不再必须依赖付费闭源模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>苹果为「家」开场，果然家庭 AI 还是绕不开「语音+屏幕」</title>
       <link>https://www.ifanr.com/1684640?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <guid isPermaLink="false">urn:zhiyike:news:be4bcead70c7bf20b06d6926</guid>
@@ -418,12 +498,12 @@
       <description>&lt;p&gt;智元投入超千台机器人及 AIMA 平台，与 20 多所高校共建产教融合平台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/013/864.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Minecraft 建筑迎来 AI 智能体：WorldPrompt 模组可框选区域后对话生成建筑</title>
+      <title>WorldPrompt 模组细节公开：Fabric 服务端 AI 建造，支持双遍规划与讲台提示书</title>
       <link>https://github.com/Ni-Cobra/worldprompt</link>
       <guid isPermaLink="false">urn:zhiyike:news:230c0ab7966804837bc96ba5</guid>
       <pubDate>Fri, 16 Oct 2026 12:38:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;一款类 WorldEdit 的 Minecraft 模组，用 AI 智能体按提示词自动建造并回传结果。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Ni-Cobra/worldprompt"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x76yfu/agentic_workflows_coming_for_minecraft_building/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;WorldPrompt 补充公开安装要求、Core 架构、命令与订阅方式等细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Ni-Cobra/worldprompt"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x76yfu/agentic_workflows_coming_for_minecraft_building/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x76saz/i_made_a_minecraft_mod_to_prompt_agents_who_build/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>东风风神 L8+ 将于 10 月 23 日上市，搭载 Momenta R7 世界模型</title>
@@ -728,86 +808,6 @@
       <pubDate>Fri, 16 Oct 2026 04:49:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;作者用 Claude 配合 Blender MCP 从零建模，5 天兼职复刻出《黑客帝国》Neo 公寓场景&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.linkedin.com/in/hirokazuyokohara/"&gt;linkedin.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x6x6x7/3d_recreation_of_neo_apartment_from_the_matrix/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Granite Switch 4.1 发布：一个端点同时处理对话、决策与语音</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d8db4797b863054a6082507e</guid>
-      <pubDate>Fri, 16 Oct 2026 04:34:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;IBM 推出 Granite Switch 4.1，把决策适配器与最快 ASR 模型合入单一端点。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/ibm-granite/granite-switch-4-1"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code 桌面版迎来大幅更新：保存环境、并行会话与侧边栏状态</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1x6w0a5/claude_code_on_desktop_got_a_serious_glow_up/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f4ed61242fcfc8bf714784c3</guid>
-      <pubDate>Fri, 16 Oct 2026 04:02:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Claude Code 桌面版新增保存环境、并行会话、侧边栏状态等多项功能&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x6w0a5/claude_code_on_desktop_got_a_serious_glow_up/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>亚马逊设备负责人 Panos Panay：AI 设备将取代 App，走向环境计算</title>
-      <link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:82ab1b8d163534b93b013daa</guid>
-      <pubDate>Fri, 16 Oct 2026 03:55:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;亚马逊押注环境计算，新 Bee 设备可被动录音并本地加密处理&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NVIDIA 发布 Qwen3.8-Flash-Next FP4 QAD 量化版，约 96 GiB 可本地部署</title>
-      <link>https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local</link>
-      <guid isPermaLink="false">urn:zhiyike:news:294bc635aa2004204f71c8d9</guid>
-      <pubDate>Fri, 16 Oct 2026 03:52:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;NVIDIA 用 QAD 量化阿里 Qwen3.8-Flash-Next，需专用容器运行&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x6vqft/fp4_qad_quant_of_qwen38flashnext_from_nvidia/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 用户获 Mythos 模型访问权，实测后称其表现称职</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1x6vn7r/just_got_access_to_mythos/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3d4cef0e364bcab48f4dadc3</guid>
-      <pubDate>Fri, 16 Oct 2026 03:49:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一位 Reddit 用户试用 Mythos 模型后，称其能胜任分散任务并主动给 Opus 5.5 留下改进建议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x6vn7r/just_got_access_to_mythos/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 推出 GPT-Rosalind 学术计划，免费向美国高校实验室开放</title>
-      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c331e080bd8474a7e7b54f40</guid>
-      <pubDate>Fri, 16 Oct 2026 03:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;符合条件的美国高校实验室可免费获得最多 30 个席位，使用生命科学专用模型 GPT-Rosalind 最长 12 个月。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/introducing-the-rosalind-academic-plan"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Bluesky 扩展 AI 应用 Attie：普通人也能做网站、游戏和互动体验</title>
-      <link>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:878d3045300b379b23494a6e</guid>
-      <pubDate>Fri, 16 Oct 2026 02:56:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;The Verge 补充：Attie 作品以 attie.site 独立网站分享并署名&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta 与 Apple 联手，让 Muse Spark Open 模型在 Mac 上高效运行</title>
-      <link>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d1fb408276cfa5a88ba5b9de</guid>
-      <pubDate>Fri, 16 Oct 2026 02:15:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Meta 发布 8160 亿参数开源模型，可在两台 M5 Ultra Mac Studio 上本地运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>科学家担忧：用AI当研究参谋，自己的创意会被偷走</title>
-      <link>https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e716a80ceaf30b5085ad2ad1</guid>
-      <pubDate>Fri, 16 Oct 2026 01:24:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;科学家用大模型辅助研究，却担心上传的想法被AI公司据为己有&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/"&gt;scientificamerican.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1x6rttu/scientists_worry_ai_is_stealing_their_ideas/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用户吐槽 Qwen 2.1 Image 与 Flux3 Klein 表现不佳，期待 Krea3 发布</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1x6rslp/krea3_final_hope/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8cb009b0ba01b94c4d2018a8</guid>
-      <pubDate>Fri, 16 Oct 2026 01:23:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户称 Flux3 Klein 作编辑模型比 F2 Klein 更差，与官方基准矛盾&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x6rslp/krea3_final_hope/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x6u9vt/flux_3_klein_as_edit_model/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
