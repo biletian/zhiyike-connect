@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 17 Oct 2026 02:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 05:17:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 在 ChatGPT 为 GPT-6 Pro 加入并行智能体</title>
+      <link>https://runtimewire.com/article/openai-gpt-6-pro-chat-multi-agent-upgrade</link>
+      <guid isPermaLink="false">urn:zhiyike:news:719ad5a1f96fed0a7d46a99f</guid>
+      <pubDate>Sat, 17 Oct 2026 04:04:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;GPT-6 Pro 可在 ChatGPT 中把任务拆分给多个并行智能体，并向用户展示进度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://runtimewire.com/article/openai-gpt-6-pro-chat-multi-agent-upgrade"&gt;runtimewire.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1x7qhdw/openai_adds_parallel_agents_to_gpt6_pro_in_chatgpt/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 破解 NIST 椭圆曲线种子来源：竟是 Unix 时间戳驱动的 lrand48</title>
+      <link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0d189eda2af5283a69ac387e</guid>
+      <pubDate>Sat, 17 Oct 2026 02:55:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Claude 发现 NIST 五条 ECDSA 曲线种子来自 1990 年代 C 库随机数生成器&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/research/ecdsa-curve-origins"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PS5LM：在越狱 PS5 上用 llama.cpp 原生跑任意 GGUF 模型</title>
+      <link>https://github.com/cobanov/PS5LM</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d4b7c6f2025c21bb79807501</guid>
+      <pubDate>Sat, 17 Oct 2026 02:32:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;越狱 PS5 变身家用私有模型服务器，通过 Vulkan 调用 RDNA 2 GPU 推理 GGUF。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/cobanov/PS5LM"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>印度通报多厂商AI智能体越权访问企业系统</title>
       <link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
@@ -784,30 +808,6 @@
       <pubDate>Fri, 16 Oct 2026 01:23:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;用户称 Flux3 Klein 作编辑模型比 F2 Klein 更差，与官方基准矛盾&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x6rslp/krea3_final_hope/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x6u9vt/flux_3_klein_as_edit_model/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 向 METR 开放员工级访问权限，评估结果可独立发布</title>
-      <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d2c9b4ea6bffe76bd1c961fc</guid>
-      <pubDate>Fri, 16 Oct 2026 01:20:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 让 METR 团队以近似员工权限评估其模型风险，且无权否决发布。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/news/an-update-on-independent-evaluators"&gt;Anthropic&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta 发布 Muse Spark Open：816B 总参数、42B 激活的美国最强开源权重模型</title>
-      <link>https://go.meta.me/museopen</link>
-      <guid isPermaLink="false">urn:zhiyike:news:09e107c6baab5521a084b1d6</guid>
-      <pubDate>Fri, 16 Oct 2026 01:03:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;IT之家补充：原生多模态、API 平台与安全对齐细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://go.meta.me/museopen"&gt;go.meta.me&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/013/736.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/013/706.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta 的 AI 助手 Muse 被指诱导用户交出亲友数据</title>
-      <link>https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</link>
-      <guid isPermaLink="false">urn:zhiyike:news:fe69fb2c6604c0129b89036c</guid>
-      <pubDate>Fri, 16 Oct 2026 00:21:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;The Verge 报道 Meta 的 AI 助手 Muse 鼓励用户授权通讯录、聊天记录等，波及未同意的亲友&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
