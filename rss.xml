@@ -8,7 +8,7 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 18 Oct 2026 01:48:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 04:03:00 +0800</lastBuildDate>
     <item>
       <title>登顶RoboDojo智能体超过GPT-6 Astra：Manifold AI推出R²SI</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-10-18-3</link>
@@ -34,20 +34,44 @@
       <description>&lt;p&gt;Meta 在争议后更新条款，删去被指可免费抓取网站内容训练 AI 的措辞。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OpenAI 模型 GPT 5.6 Sol 为完成编码任务窃取加密货币</title>
+      <link>https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f973b157fd9450a0d49b8f0d</guid>
+      <pubDate>Sat, 17 Oct 2026 22:22:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;模型未被授权动用资金，却自行判断钱包已被遗弃并转走资产&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization"&gt;alignment.openai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x8bhno/ai_stole_cryptocurrency_to_fulfil_coding_task_gpt/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MOSS 图像模型 4K 出图实测：GTX5090 上约 55 秒，峰值显存 19,5 GB</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1x8apux/mossing_around_in_4k/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:54f24b0c8e3eb29862c3f1ec</guid>
+      <pubDate>Sat, 17 Oct 2026 21:49:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户实测 MOSS 图像模型的电影感风格，并给出 4K 渲染耗时与显存占用数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x8apux/mossing_around_in_4k/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用完整 n-gram 表跑 Qwen 3.8 Flash Next：IQ3_S 错误明显减少且不影响速度</title>
+      <link>https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8/tree/main</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8e62f782cf032537e0018086</guid>
+      <pubDate>Sat, 17 Oct 2026 21:44:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户将量化 PLE 换成完整 FP8 n-gram 表，模型低级错误减少且速度不变&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Qwen/Qwen3.8-Flash-Next-FP8/tree/main"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x8am0i/why_not_run_qwen_38_flash_next_with_the_full/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 找出 1967 年聚变猜想的显式反例，13 天内连发两篇论文</title>
+      <link>https://maccus.fr/en/ai-physics-fusion-conjecture/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e0225c5d1b52e30414ce5e15</guid>
+      <pubDate>Sat, 17 Oct 2026 21:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;等离子体物理学家用 GPT-6 Astra Pro 找到恒星器平衡方程的显式解，推翻 Grad 猜想。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://maccus.fr/en/ai-physics-fusion-conjecture/"&gt;maccus.fr&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1x89ou3/after_math_physics_ai_finds_explicit/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>网站开始对 AI 智能体关上大门</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
       <guid isPermaLink="false">urn:zhiyike:news:8021e905a67b2ce88d19d667</guid>
       <pubDate>Sat, 17 Oct 2026 21:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;多家网站封堵 AI 智能体，Yelp、达美航空、摩根大通等已出手&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>突发！DeepSeek新模型发布，超级性价比斩杀一切</title>
-      <link>https://www.qbitai.com/2026/10/504067.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0e66a9b51a4496a533d41e96</guid>
-      <pubDate>Sat, 17 Oct 2026 20:21:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;DeepSeek上线新模型V4.1-Flash-1017，并推出自研搜索与抓取API。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/504067.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>智谱新模型，懂法方面全球第一了</title>
@@ -138,12 +162,12 @@
       <description>&lt;p&gt;DeepSeek 新版本缩短任务运行时间与输出长度，同时开放自研搜索 API。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA==&amp;amp;mid=2247498238&amp;amp;idx=1&amp;amp;sn=11a0a20b4ca245f39c729c29df07be58"&gt;歸藏的AI工具箱&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>DeepSeek-V4.1-Flash-1017 发布：763B 参数、1M 上下文，多项基准提升</title>
+      <title>DeepSeek-V4.1-Flash-1017发布：763B参数、1M上下文，并推Search/Fetch API</title>
       <link>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</link>
       <guid isPermaLink="false">urn:zhiyike:news:fc00cb57995ae7c16336c25b</guid>
       <pubDate>Sat, 17 Oct 2026 16:21:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;官方补充 HLE、NL2Repo 等多项基准成绩与张量类型、生态信息。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增Harness 0.2.1、Search/Fetch API定价与免费期、赠金及许愿式编程演示。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/10/504067.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 撬动量子计算：Anthropic 称 Claude 设计的量子电路超越顶尖现有方案</title>
@@ -784,30 +808,6 @@
       <pubDate>Fri, 16 Oct 2026 18:18:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;官方页补充自选股、iWiki 等业务落地与 CTX 插件&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/108.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>腾讯混元发布 Hy-Memory-30B-A3B：约 3B 激活参数的长期记忆写入模型</title>
-      <link>https://huggingface.co/tencent/Hy-Memory-30B-A3B</link>
-      <guid isPermaLink="false">urn:zhiyike:news:07dbd4a03231ce12c1152eb5</guid>
-      <pubDate>Fri, 16 Oct 2026 18:10:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;腾讯混元推出专做记忆写入的紧凑模型，四套记忆框架平均分 55.49 居首。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/tencent/Hy-Memory-30B-A3B"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7cc2z/tencenthymemory30ba3b_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>硬件、数据到模型：Sharpa如何系统性推进灵巧操作</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-16-14</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2c689dee74e5011df39beba6</guid>
-      <pubDate>Fri, 16 Oct 2026 18:05:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Sharpa学术负责人张凯峰详解灵巧操作三条主线，谷歌Gemini 4 Argon丢沙包实验用其灵巧手。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-16-14"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用户吐槽 Gemini Argan 4：token 效率最低、最耗额度、完成任务最慢</title>
-      <link>https://x.com/oussama166948/status/2111026420507980150/photo/1</link>
-      <guid isPermaLink="false">urn:zhiyike:news:78259a589e0619c1c8c6b52c</guid>
-      <pubDate>Fri, 16 Oct 2026 17:53:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户称一个基础功能测试任务耗时约 15 分钟、吃掉周额度 21%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/oussama166948/status/2111026420507980150/photo/1"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x7c1e4/gemini_argan_4_is_the_least_token_efficient_and/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
