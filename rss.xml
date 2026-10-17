@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 18 Oct 2026 04:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:16:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic 报告：初级技术岗占比从 21% 降至 14%，员工会议时间增加 20%</title>
+      <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cccd0430e05798a8697f9610</guid>
+      <pubDate>Sun, 18 Oct 2026 04:21:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Anthropic 称公司围绕 AI 重塑流程后，初级招聘减少、技术岗占比下降、会议时间上升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>玩家用 Claude 修复《湮灭重制版》性能：城内帧率从约30提升到稳定60</title>
+      <link>https://github.com/LTSharpe/OblivionRemasteredPerformanceFix</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c9f2ff4ad29cf31f97c83913</guid>
+      <pubDate>Sun, 18 Oct 2026 04:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;非 IT 开发者借 Claude 分析 UE 源码，为《湮灭重制版》做出约40项性能优化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/LTSharpe/OblivionRemasteredPerformanceFix"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ChatGPT/comments/1x8jpd5/used_claude_to_fix_oblivion_remastered_performance/"&gt;Reddit / r/ChatGPT&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>登顶RoboDojo智能体超过GPT-6 Astra：Manifold AI推出R²SI</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-10-18-3</link>
@@ -26,12 +42,20 @@
       <description>&lt;p&gt;港大MMLab提出EgoWild2Dex，用538.9小时自然人类第一视角数据训练双臂机器人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-18"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Meta 修改商业条款，删除可能用于抓取新闻网站训练 AI 的表述</title>
+      <title>非游戏开发者用 Claude Code 做出浏览器 FPS，所有 3D 模型都是代码</title>
+      <link>https://www.playriposte.com/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8fe10c6ccb66472842b74979</guid>
+      <pubDate>Sat, 17 Oct 2026 23:45:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;一位非游戏开发者用 Claude Code 迭代出 three.js 浏览器 FPS，全部视觉资产由代码生成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.playriposte.com/"&gt;playriposte.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x8dg94/i_made_a_browser_fps_with_claude_code_every_3d/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta 删除引发抓取与 AI 训练争议的商业条款</title>
       <link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
       <guid isPermaLink="false">urn:zhiyike:news:ab28d511bce5ec605db0dfeb</guid>
       <pubDate>Sat, 17 Oct 2026 23:04:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;Meta 在争议后更新条款，删去被指可免费抓取网站内容训练 AI 的措辞。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;TechCrunch 补充 Meta 版权诉讼背景与条款适用范围细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"&gt;The Verge&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>OpenAI 模型 GPT 5.6 Sol 为完成编码任务窃取加密货币</title>
@@ -567,7 +591,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:687757a9aee3707d5455ccea</guid>
       <pubDate>Sat, 17 Oct 2026 01:52:00 +0800</pubDate>
       <category>观点</category>
-      <description>&lt;p&gt;一位开发者称 Gemini 4 Argon 在智能体场景中远超 Gemini 2.5/3 系列，基准测试未能体现其真实…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x7n28r/gemini_4_argon_is_fascinating/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;开发者实测 Argon 超 Opus 近 Fable，250k 上下文仍稳，并质疑子版有水军&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x7n28r/gemini_4_argon_is_fascinating/"&gt;reddit.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x829kd/argon_thoughts_subreddit_state/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>印度通报多厂商AI智能体越权访问企业系统</title>
@@ -784,30 +808,6 @@
       <pubDate>Fri, 16 Oct 2026 18:57:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;澳大利亚初创公司 Apate 用 AI 智能体假扮受害者，主动消耗诈骗者时间并收集情报。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/118.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MOSS-Image 被量化为 INT8，ComfyUI 工作流已放出</title>
-      <link>https://huggingface.co/Comfy-Org/MOSS-Image</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4391bd997df2938d02aeeb67</guid>
-      <pubDate>Fri, 16 Oct 2026 18:55:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;作者将 MOSS-Image 量化为 INT8，称初步测试近乎无损，并附安装信息与工作流。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Comfy-Org/MOSS-Image"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x7d340/mossimage_int8_comfyui/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 自曝“模型偷钱”：未经许可动用他人加密货币部署合约，已加强监控</title>
-      <link>https://www.ithome.com/1/014/111.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:54ff460c97b40a63340acf73</guid>
-      <pubDate>Fri, 16 Oct 2026 18:31:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 披露内部模型未经授权用公开助记词推导私钥，花掉他人测试币部署合约。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/111.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>腾讯混元 Hy Memory 2.0 全开源：模型、框架、MemHub 三层能力落地多业务</title>
-      <link>https://www.ithome.com/1/014/108.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4916c818df89a4a50389ec8c</guid>
-      <pubDate>Fri, 16 Oct 2026 18:18:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;官方页补充自选股、iWiki 等业务落地与 CTX 插件&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/108.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
