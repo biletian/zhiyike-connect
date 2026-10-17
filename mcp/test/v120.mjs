@@ -26,7 +26,7 @@ const pkg = JSON.parse(readFileSync(path.join(repo, 'mcp/package.json'), 'utf8')
 const skillMd = readFileSync(path.join(repo, 'skill/zhiyike-reader/SKILL.md'), 'utf8').match(/version: "([^"]+)"/)[1];
 const py = readFileSync(path.join(repo, 'skill/zhiyike-reader/scripts/zhiyike.py'), 'utf8').match(/VERSION = "([^"]+)"/)[1];
 const manifest = JSON.parse(readFileSync(path.join(repo, 'skill/download/manifest.json'), 'utf8')).version;
-ok([VERSION, skillMd, py, manifest].every(v => v === pkg) && pkg === '1.2.0', `版本号不一致 ${[pkg, VERSION, skillMd, py, manifest]}`);
+ok([VERSION, skillMd, py, manifest].every(v => v === pkg) && pkg === '1.2.1', `版本号不一致 ${[pkg, VERSION, skillMd, py, manifest]}`);
 ok(!/releases\/tag\/v1\.0\.0/.test(readFileSync(path.join(repo, 'README.md'), 'utf8')), 'README 仍指向 v1.0.0');
 
 // 单元：来源名、截句
@@ -65,7 +65,7 @@ const call = async (name, args) => {
   return r.structuredContent;
 };
 try {
-  ok(client.getServerVersion().version === '1.2.0', '握手版本应为 1.2.0');
+  ok(client.getServerVersion().version === '1.2.1', '握手版本应为 1.2.1');
   const tools = (await client.listTools()).tools;
   ok(tools.length === 6 && !JSON.stringify(tools).includes('热度'), '工具说明不再提热度');
 

@@ -5,6 +5,7 @@ import { z } from 'zod';
 import { PublishedContent } from './mcp-data.ts';
 import { clientIp } from './client-ip.ts';
 import { VERSION } from './version.ts';
+import { formatListNews, formatNewsDetail, formatReport, loadCoverImage } from './mcp-format.ts';
 export { VERSION };
 const INSTALL_URL = 'https://zhiyike.cn/connect/';
 
@@ -38,30 +39,53 @@ const instructions = `只读知一刻已发布内容。今天按北京时间计�
 标题使用返回的 title；简介缺失时写“简介暂未提供”，来源缺失时写“信息源暂未提供”，不得编造补全。查询为空时说明该日期暂无匹配的已发布新闻，不生成占位新闻，也不静默改查历史日期。发生读取错误时说明暂时无法读取，不等同于没有新闻。
 结果分页时根据 offset、items、total 说明实际展示范围；nextOffset 非空表示还有内容，不能把部分结果称为全部。用户要求当天全部新闻时继续读取后续页；受回复长度限制需分批时明确标注当前范围，不省略后声称完整。total 是站内匹配内容数，不是全网新闻总数。数据未更新到今天时，保留真实更新时间，不以“最新”掩盖延迟。
 
-封面图：条目带 cover 时，能显示图片的客户端用 ![标题](cover.url) 显示。cover.type 为 source 时在图下写「图源：{cover.credit}」（没有 credit 就不写）；ai_generated 时在图下写「AI 生成」，不写图源；poster 是站内海报，不写图源。没有 cover 就不显示图片，不自行搜图补上。
+封面图：服务端 text 通道已排好可读 Markdown（含有 cover 时的 ![标题](cover.url) 与图源说明）；能显示图片的客户端直接采用即可。cover.type 为 source 时图下为「图源：{cover.credit}」（没有 credit 就不写）；ai_generated 时为「AI 生成」；poster 是站内海报，不写图源。没有 cover 就不显示图片，不自行搜图补上。get_news_detail 在有 cover 时还可能附带 MCP image 内容块（站内图 base64）；没有 image 块时仍以 Markdown 外链为准。
 
 其他查询：
 日报、周报按实际返回的日期或期次说明时间，不把最新一期自动当作今天或本周；用户指定日期时查询对应期次，未发布就明确说明。GitHub AI 热榜注明 daily/weekly 对应的日榜/周榜及 dataUpdatedAt 快照时间，不称实时 GitHub 排名。产品和概念仅根据返回内容解释，保留来源；不把已收录范围说成全部产品或概念。用户明确提出其他格式时可调整排版，但日期、来源、缺失资料与只读边界不能省略或伪造。`;
 
 function createServer(data: PublishedContent) {
   const server = new McpServer({ name: 'zhiyike', version: VERSION }, { instructions });
-  const result = async (work: () => Promise<object>) => {
+  type TextBlock = { type: 'text'; text: string };
+  type ImageBlock = { type: 'image'; mimeType: string; data: string };
+  const result = async (
+    work: () => Promise<object>,
+    opts?: { format?: (value: object) => string; images?: (value: object) => Promise<ImageBlock[]> },
+  ) => {
     try {
       const value = await work();
-      return { content: [{ type: 'text' as const, text: JSON.stringify(value) }], structuredContent: value as Record<string, unknown> };
+      const text = opts?.format ? opts.format(value) : JSON.stringify(value);
+      const content: Array<TextBlock | ImageBlock> = [{ type: 'text', text }];
+      if (opts?.images) {
+        try {
+          const imgs = await opts.images(value);
+          for (const img of imgs) content.push(img);
+        } catch {
+          // 配图失败不挡主结果：只保留 Markdown text
+        }
+      }
+      return { content, structuredContent: value as Record<string, unknown> };
     } catch (error) {
       // Data reader errors are deliberately sanitized; never return stack traces or paths.
       return { isError: true, content: [{ type: 'text' as const, text: error instanceof Error ? error.message : '内容暂时无法读取。' }] };
     }
   };
   server.registerTool('list_news', {
-    title: '查询已发布新闻', description: '按日期和关键词查询公开新闻，默认北京时间今天，按发布时间从新到旧排序。有图的条目带 cover（站内图片地址与图源）。availableDates 为可查日期，nextOffset 非空表示还有下一页。',
+    title: '查询已发布新闻', description: '按日期和关键词查询公开新闻，默认北京时间今天，按发布时间从新到旧排序。有图的条目带 cover（站内图片地址与图源）。text 为已排版 Markdown（含封面图语法）。availableDates 为可查日期，nextOffset 非空表示还有下一页。',
     inputSchema: { date: z.string().max(10).optional(), query, ...pagination }, annotations,
-  }, args => result(() => data.listNews(args)));
+  }, args => result(() => data.listNews(args), { format: formatListNews }));
   server.registerTool('get_news_detail', {
-    title: '读取新闻详情', description: '用 list_news 返回的 id 获取文章摘要、变化、深入内容、后续观察和原文链接。',
+    title: '读取新闻详情', description: '用 list_news 返回的 id 获取文章摘要、变化、深入内容、后续观察和原文链接。text 为已排版 Markdown；有 cover 时尽量附带 image 内容块（失败则仅 Markdown 外链）。',
     inputSchema: { id: z.string().regex(/^news-[a-f0-9]{24}$/) }, annotations,
-  }, args => result(() => data.getNews(args.id)));
+  }, args => result(() => data.getNews(args.id), {
+    format: formatNewsDetail,
+    images: async (value) => {
+      const cover = (value as { cover?: { url?: string } }).cover;
+      if (!cover?.url) return [];
+      const img = await loadCoverImage(data.root, cover.url);
+      return img ? [img] : [];
+    },
+  }));
   server.registerTool('search_library', {
     title: '搜索产品或概念库', description: '查询已公开产品或已沉淀概念；可按名称或关键词筛选，返回定义、说明与来源，不包含待复核资料。',
     inputSchema: { kind: z.enum(['products', 'concepts']), query, ...pagination }, annotations,
@@ -71,9 +95,9 @@ function createServer(data: PublishedContent) {
     inputSchema: { period, ...pagination }, annotations,
   }, args => result(() => data.listReports(args)));
   server.registerTool('get_report', {
-    title: '读取日报周报', description: '读取目录中的指定一期，省略 date 返回最新已发布一期（不一定是今天）。日报日期 YYYY-MM-DD 为发布日（期号日期，内容是前一天的新闻，见 contentDate），周报 YYYY-Www。支持分页。',
+    title: '读取日报周报', description: '读取目录中的指定一期，省略 date 返回最新已发布一期（不一定是今天）。日报日期 YYYY-MM-DD 为发布日（期号日期，内容是前一天的新闻，见 contentDate），周报 YYYY-Www。支持分页。text 为已排版 Markdown（含封面图语法）。',
     inputSchema: { period, date: z.string().max(10).optional(), ...pagination }, annotations,
-  }, args => result(() => data.getReport(args)));
+  }, args => result(() => data.getReport(args), { format: formatReport }));
   server.registerTool('github_trending', {
     title: '读取 GitHub AI 热榜', description: '返回站内保存的 AI 项目日榜或周榜及快照更新时间，不是实时抓取。',
     inputSchema: { period, ...pagination }, annotations,
