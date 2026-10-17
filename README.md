@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/readme/logo.png" alt="知一刻" height="72">
+</p>
+
 # 知一刻｜更快看清 AI 行业正在发生什么
 
 [访问官网](https://zhiyike.cn/) · [连接 MCP](https://zhiyike.cn/mcp) · [安装 Skill](https://zhiyike.cn/skills/install.html) · [订阅 RSS](https://zhiyike.cn/rss.xml)
@@ -8,15 +12,27 @@
 
 用户可以直接在知一刻网站阅读，也可以通过 MCP、Skill 或 RSS，把已经公开的内容接入自己常用的 AI 应用和阅读器。
 
+<p align="center">
+  <img src="docs/readme/home.png" alt="知一刻首页 · 今日动态" width="900">
+</p>
+
 ## 知一刻提供什么
 
 ### 今日 AI 动态
 
 集中查看当天值得关注的 AI 事件、模型发布、产品更新、研究进展和行业变化。每条内容尽量说明发生了什么、有哪些具体变化，并保留原始来源，而不是只给一个吸引点击的标题。
 
+<p align="center">
+  <img src="docs/readme/detail.png" alt="新闻详情页" width="900">
+</p>
+
 ### AI 产品库
 
 长期整理已经公开的 AI 产品及其厂商、用途和重要更新。产品更新会归入对应产品，方便持续追踪，而不是随着新闻流消失。
+
+<p align="center">
+  <img src="docs/readme/products.png" alt="AI 产品库" width="900">
+</p>
 
 ### AI 概念库
 
@@ -25,6 +41,10 @@
 ### 日报与周报
 
 把已经发布的内容按日期和周期重新整理，帮助用户快速回顾一天或一周内值得关注的变化。报告保留实际日期和期次，不会把旧内容包装成今天的新报告。
+
+<p align="center">
+  <img src="docs/readme/daily.png" alt="日报与周报" width="900">
+</p>
 
 ### GitHub AI 热榜
 
