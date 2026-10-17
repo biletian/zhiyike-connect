@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 17 Oct 2026 23:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 01:48:00 +0800</lastBuildDate>
+    <item>
+      <title>登顶RoboDojo智能体超过GPT-6 Astra：Manifold AI推出R²SI</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-18-3</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d6871b0f8aaf679a646f21e1</guid>
+      <pubDate>Sun, 18 Oct 2026 01:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Manifold AI 以 WorldScape R²SI 框架登顶 RoboDojo 榜单，超越…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-18-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>538小时「极脏」人类数据，真机不到1小时：港大让机器人学会拆快递、打胶枪、做冷饮</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-18</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0d1aa5ecc40540da84ff3bdd</guid>
+      <pubDate>Sun, 18 Oct 2026 00:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;港大MMLab提出EgoWild2Dex，用538.9小时自然人类第一视角数据训练双臂机器人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-18"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Meta 修改商业条款，删除可能用于抓取新闻网站训练 AI 的表述</title>
       <link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
@@ -24,6 +40,30 @@
       <pubDate>Sat, 17 Oct 2026 21:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;多家网站封堵 AI 智能体，Yelp、达美航空、摩根大通等已出手&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>突发！DeepSeek新模型发布，超级性价比斩杀一切</title>
+      <link>https://www.qbitai.com/2026/10/504067.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0e66a9b51a4496a533d41e96</guid>
+      <pubDate>Sat, 17 Oct 2026 20:21:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;DeepSeek上线新模型V4.1-Flash-1017，并推出自研搜索与抓取API。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/504067.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>智谱新模型，懂法方面全球第一了</title>
+      <link>https://www.qbitai.com/2026/10/503965.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0ea1b85c3449ed3fc0dc4206</guid>
+      <pubDate>Sat, 17 Oct 2026 20:13:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;智谱发布法律专用开源模型GLM-Legal，在Vals AI法律测评中登顶双榜开放权重模型榜首。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/503965.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude半小时解开密码学悬案，学界集体走偏20年</title>
+      <link>https://www.qbitai.com/2026/10/503910.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8c2e2f5b022fa7106f665612</guid>
+      <pubDate>Sat, 17 Oct 2026 20:06:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Claude用不到半小时查明五条NIST标准椭圆曲线种子来自90年代时钟时间戳&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/503910.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS</title>
@@ -98,12 +138,12 @@
       <description>&lt;p&gt;DeepSeek 新版本缩短任务运行时间与输出长度，同时开放自研搜索 API。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA==&amp;amp;mid=2247498238&amp;amp;idx=1&amp;amp;sn=11a0a20b4ca245f39c729c29df07be58"&gt;歸藏的AI工具箱&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>DeepSeek-V4.1-Flash-1017 发布：推理、编程与智能体能力全面提升</title>
+      <title>DeepSeek-V4.1-Flash-1017 发布：763B 参数、1M 上下文，多项基准提升</title>
       <link>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</link>
       <guid isPermaLink="false">urn:zhiyike:news:fc00cb57995ae7c16336c25b</guid>
       <pubDate>Sat, 17 Oct 2026 16:21:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;DeepSeek 推出 V4.1-Flash 小幅更新版，多项基准提升且耗时与输出更短。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>产品</category>
+      <description>&lt;p&gt;官方补充 HLE、NL2Repo 等多项基准成绩与张量类型、生态信息。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 撬动量子计算：Anthropic 称 Claude 设计的量子电路超越顶尖现有方案</title>
@@ -768,46 +808,6 @@
       <pubDate>Fri, 16 Oct 2026 17:53:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;用户称一个基础功能测试任务耗时约 15 分钟、吃掉周额度 21%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/oussama166948/status/2111026420507980150/photo/1"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x7c1e4/gemini_argan_4_is_the_least_token_efficient_and/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>世界模型能不能上桌？WorldOracle给出了一场真实大考</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-16-13</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9dabdc8c9f5e48f4a7ff87ac</guid>
-      <pubDate>Fri, 16 Oct 2026 17:51:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;普林斯顿等团队推出WorldOracle，用真实执行记录检验世界模型预测&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-16-13"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2026 AI Cloud 100 China榜单发布：一目科技代表Physical AI赛道入选</title>
-      <link>https://aiera.com.cn/2026/10/16/other/admin/118947/2026-ai-cloud-100-china%e6%a6%9c%e5%8d%95%e5%8f%91%e5%b8%83%ef%bc%9a%e4%b8%80%e7%9b%ae%e7%a7%91%e6%8a%80%e4%bb%a3%e8%a1%a8physical-ai%e8%b5%9b%e9%81%93%e5%85%a5%e9%80%89/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e438e9cad7efc462d5deab3c</guid>
-      <pubDate>Fri, 16 Oct 2026 17:49:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;一目科技以仿生视触觉传感器入选AI Cloud 100 China，已规模量产并完成超10亿元E轮融资。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/16/other/admin/118947/2026-ai-cloud-100-china%e6%a6%9c%e5%8d%95%e5%8f%91%e5%b8%83%ef%bc%9a%e4%b8%80%e7%9b%ae%e7%a7%91%e6%8a%80%e4%bb%a3%e8%a1%a8physical-ai%e8%b5%9b%e9%81%93%e5%85%a5%e9%80%89/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NeurIPS 2026 | FlowMAS：让AI团队自己学会「排兵布阵」</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-16-12</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e30b9e2be1753b8ef4c50917</guid>
-      <pubDate>Fri, 16 Oct 2026 17:45:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;厦大团队用GFlowNet自动生成多智能体工作流拓扑，被NeurIPS 2026录用&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-16-12"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>融资数千万，这家合肥公司把大科学装置变成了 AI 能读的三维数据</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-16-11</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0938be97c872fe4e1bc5f6a8</guid>
-      <pubDate>Fri, 16 Oct 2026 17:31:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;可视科学完成数千万元天使轮及天使+轮融资，投资方为三家上海机构。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-16-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开源权重模型已超越 Sonnet 5，闭源前沿优势正在收窄</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:284aebe968e6753d07271bc8</guid>
-      <pubDate>Fri, 16 Oct 2026 17:27:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 讨论称，正确筛选基准后开源模型已超过 Sonnet 5，不再必须依赖付费闭源模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
