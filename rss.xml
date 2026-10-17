@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 17 Oct 2026 19:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:17:00 +0800</lastBuildDate>
+    <item>
+      <title>Meta 修改商业条款，删除可能用于抓取新闻网站训练 AI 的表述</title>
+      <link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ab28d511bce5ec605db0dfeb</guid>
+      <pubDate>Sat, 17 Oct 2026 23:04:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Meta 在争议后更新条款，删去被指可免费抓取网站内容训练 AI 的措辞。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>网站开始对 AI 智能体关上大门</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8021e905a67b2ce88d19d667</guid>
+      <pubDate>Sat, 17 Oct 2026 21:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;多家网站封堵 AI 智能体，Yelp、达美航空、摩根大通等已出手&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>华硕推出旗下首款英特尔 Arc Pro B70 显卡：32GB ECC 显存，AI 算力达 367 TOPS</title>
+      <link>https://www.ithome.com/1/014/390.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1c60418a8e1dc63ac862eea3</guid>
+      <pubDate>Sat, 17 Oct 2026 19:56:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;华硕重返英特尔独立显卡阵营，首款产品面向 AI 推理与工作站市场。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/390.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>科大讯飞 AI 词典笔 X9 上架：内置 85 本词典、支持小初高 9 科知识查询，744 元</title>
       <link>https://www.ithome.com/1/014/382.htm</link>
@@ -96,6 +120,14 @@
       <pubDate>Sat, 17 Oct 2026 15:26:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;索尼新专利拟用 AI 根据手柄操作预测画面并生成插值帧，降低延迟卡顿。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/310.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ComfyUI-Krea2T-Enhancer：用纯色虚拟画布替代参考图做条件编码</title>
+      <link>https://github.com/capitan01R/ComfyUI-Krea2T-Enhancer</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a822ce67bc950a24ec778da9</guid>
+      <pubDate>Sat, 17 Oct 2026 15:22:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;有人发现给 Krea2 的 Qwen3-VL 视觉编码器喂纯色虚拟画布，颜色本身就能明显影响生成风格。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/capitan01R/ComfyUI-Krea2T-Enhancer"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1x83yc3/comfyuikrea2tenhancer_encoder_virtual_image/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>李飞飞看了要点赞：15分钟，一台相机，把真实世界搬进了AI</title>
@@ -618,12 +650,12 @@
       <description>&lt;p&gt;一位参会者观察到大量 AI Agent 产品高度同质化，追问谁在真正赚钱。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1x7gyzp/are_aiagent_startups_actually_making_money_or_is/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Manga Screen：把插画转成印刷漫画分格的 ComfyUI 节点包</title>
+      <title>Manga Screen 节点包：插画转印刷漫画分格，参数与工作流细节公开</title>
       <link>https://github.com/ashukae/ComfyUI-MangaScreen</link>
       <guid isPermaLink="false">urn:zhiyike:news:1c32bd267aa0d2002067a9b2</guid>
       <pubDate>Fri, 16 Oct 2026 21:49:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;开源 ComfyUI 节点包，用 AI 重绘明暗并加 45° 网点，让插画变成周刊漫画页&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ashukae/ComfyUI-MangaScreen"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1x7gqm8/manga_screen_turn_finished_illustrations_into/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;GitHub 仓库补充参数默认值、安装方式与工作流细节&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ashukae/ComfyUI-MangaScreen"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1x7gqm8/manga_screen_turn_finished_illustrations_into/"&gt;Reddit / r/comfyui&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x86cki/i_made_a_custom_node_that_turns_illustrations/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>中国拟对23项AI技术实施出口管制，已开源技术获豁免</title>
@@ -776,38 +808,6 @@
       <pubDate>Fri, 16 Oct 2026 17:27:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Reddit 讨论称，正确筛选基准后开源模型已超过 Sonnet 5，不再必须依赖付费闭源模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>苹果为「家」开场，果然家庭 AI 还是绕不开「语音+屏幕」</title>
-      <link>https://www.ifanr.com/1684640?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:be4bcead70c7bf20b06d6926</guid>
-      <pubDate>Fri, 16 Oct 2026 17:00:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;苹果发布带屏中枢 HomeView，小度等厂商早已押注同一路线。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1684640?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>腾讯云回应 AI 智能体突破沙盒探测高德地图：来自第三方模型，已加强监控</title>
-      <link>https://www.ithome.com/1/013/996.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:10fefae076aef2aa414100c3</guid>
-      <pubDate>Fri, 16 Oct 2026 16:33:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;腾讯云称涉事智能体来自第三方开发者模型，非混元团队，已加强网络访问控制与监控。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/013/996.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>商务部答记者问：拟增列AI、生物医药、光伏40项技术，明确出海与登记口径</title>
-      <link>https://www.ithome.com/1/013/983.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e2dd68eeba345129fe29223d</guid>
-      <pubDate>Fri, 16 Oct 2026 16:23:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;官方答问补充禁止/限制出口具体条目、AI出海判定与登记情形&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/013/983.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/013/971.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://www.mofcom.gov.cn/syxwfb/art/2026/art_a4acff07e134447fbe7bbeb486df3ea6.html"&gt;mofcom.gov.cn&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历</title>
-      <link>https://www.qbitai.com/2026/10/503861.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8040650db0d2618a0cb8af85</guid>
-      <pubDate>Fri, 16 Oct 2026 16:07:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;网易有道投入10万元征集AI语音Agent产品建议，11个名额单人最高5万元，不设学历专业门槛。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/503861.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
