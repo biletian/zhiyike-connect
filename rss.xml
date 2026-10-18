@@ -8,14 +8,46 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 19 Oct 2026 05:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:17:00 +0800</lastBuildDate>
     <item>
-      <title>Anthropic 承诺捐出 5% 股份设立公共利益基金</title>
+      <title>消息称 AI 云厂商 Nscale IPO 估值目标遭投资者反对：砍半才有人买单</title>
+      <link>https://www.ithome.com/1/014/623.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e569268e1cb0f1c143a89c9e</guid>
+      <pubDate>Mon, 19 Oct 2026 07:09:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;知情人士称投资者认为 Nscale 估值需降至 160 亿至 190 亿美元才易获认购。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/623.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 拟设立“公共利益”基金，初始注入 5% 股份</title>
+      <link>https://www.ithome.com/1/014/622.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:071f3f8dafdde2b14e240b53</guid>
+      <pubDate>Mon, 19 Oct 2026 06:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 计划将 5% 股份划入公共利益基金，估值每涨 50% 再追加 2%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/622.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 设公共利益基金：5% 股份起步，约 20% 股份投向公益</title>
       <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
       <guid isPermaLink="false">urn:zhiyike:news:af82d9e18714fa0a18613423</guid>
       <pubDate>Mon, 19 Oct 2026 04:37:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;Anthropic 将 5% 股份投入公司全资的公共利益基金，并设增值追加条款。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;官方补充：约 20% 股份将用于公共利益，基金为全资 LLC。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.anthropic.com/news/public-benefit-fund"&gt;anthropic.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1x9a50t/anthropic_creates_a_public_benefit_fund_pledging/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>72小时四款开源权重发布：只有英伟达的模型能塞进24GB</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e7854f8d22e935a2fbf4199a</guid>
+      <pubDate>Mon, 19 Oct 2026 04:10:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;一周内Meta、英伟达、Reflection、DeepSeek接连放出大模型权重，仅英伟达Nemotron 3.5…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 估值 2 万亿美元，超 35 家 SaaS 公司合计 9480 亿美元？</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1x9ain3/anthropic_at_2_trillion_vs_35_saas_companies_at/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f93085640ddd613a95897d25</guid>
+      <pubDate>Mon, 19 Oct 2026 02:29:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一张对比图显示 Anthropic 估值超 35 家 SaaS 公司市值总和，但营收仅为其约五分之一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x9ain3/anthropic_at_2_trillion_vs_35_saas_companies_at/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Character.AI 破产后，迪士尼将聘用其大部分员工</title>
@@ -24,6 +56,14 @@
       <pubDate>Mon, 19 Oct 2026 00:30:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Character.AI 申请破产，迪士尼拟以 2000 万美元收购部分资产并接收多数员工。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LoRA 训练 3k 步后皮肤出现重复纹理，疑似数据集自带问题</title>
+      <link>https://www.reddit.com/r/comfyui/comments/1x96jyu/issue_with_the_skin_texture/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7a57f4223fbae365d730d2a4</guid>
+      <pubDate>Sun, 18 Oct 2026 23:51:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户训练 LoRA 3k 步后皮肤出现重复纹理，怀疑数据集本身就有类似图案&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/comfyui/comments/1x96jyu/issue_with_the_skin_texture/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>8年UI设计师用AI做副业工具，上线首月赚了130美元</title>
@@ -768,46 +808,6 @@
       <pubDate>Sat, 17 Oct 2026 16:56:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;DeepSeek 新版本缩短任务运行时间与输出长度，同时开放自研搜索 API。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA==&amp;amp;mid=2247498238&amp;amp;idx=1&amp;amp;sn=11a0a20b4ca245f39c729c29df07be58"&gt;歸藏的AI工具箱&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DeepSeek-V4.1-Flash-1017发布：763B参数、1M上下文，并推Search/Fetch API</title>
-      <link>https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</link>
-      <guid isPermaLink="false">urn:zhiyike:news:fc00cb57995ae7c16336c25b</guid>
-      <pubDate>Sat, 17 Oct 2026 16:21:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;新增Harness 0.2.1、Search/Fetch API定价与免费期、赠金及许愿式编程演示。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/10/504067.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI 撬动量子计算：Anthropic 称 Claude 设计的量子电路超越顶尖现有方案</title>
-      <link>https://www.ithome.com/1/014/317.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:259fb65265d9f0c38e052460</guid>
-      <pubDate>Sat, 17 Oct 2026 15:42:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Claude 在几乎无人工干预下为 8 类量子任务设计出更省量子比特和量子门的电路。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/317.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>索尼 SIE 申请全新“生成式超采样”专利：利用手柄输入预测画面变化，有望于 PS6 游戏机中引入</title>
-      <link>https://www.ithome.com/1/014/310.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2d6f5dfdd2889d6f33444669</guid>
-      <pubDate>Sat, 17 Oct 2026 15:26:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;索尼新专利拟用 AI 根据手柄操作预测画面并生成插值帧，降低延迟卡顿。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/310.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ComfyUI-Krea2T-Enhancer：用纯色虚拟画布替代参考图做条件编码</title>
-      <link>https://github.com/capitan01R/ComfyUI-Krea2T-Enhancer</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a822ce67bc950a24ec778da9</guid>
-      <pubDate>Sat, 17 Oct 2026 15:22:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;有人发现给 Krea2 的 Qwen3-VL 视觉编码器喂纯色虚拟画布，颜色本身就能明显影响生成风格。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/capitan01R/ComfyUI-Krea2T-Enhancer"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1x83yc3/comfyuikrea2tenhancer_encoder_virtual_image/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>李飞飞看了要点赞：15分钟，一台相机，把真实世界搬进了AI</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-17-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:14b1eb673fbee288a8a264c3</guid>
-      <pubDate>Sat, 17 Oct 2026 15:13:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;禾赛推出三维世界数据引擎Kosmo，用一台空间相机把真实门店搬进虚拟环境训练机器人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-17-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
