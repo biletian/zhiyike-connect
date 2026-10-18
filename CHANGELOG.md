@@ -1,5 +1,12 @@
 # 更新日志
 
+## 1.2.2（交测，未上线）
+
+- **Codex 配图适配（方案 A1）**：仅当本次结果含至少一块 MCP `image` 时省略 `structuredContent`，只返回 `content[]`（Markdown text + image）；无 image 时仍双通道（与 v1.2.1 一致）。根因：Codex 有 `structuredContent` 会丢弃整段 `content[]`（openai/codex#10334）。
+- 封面仍为站内原配图→base64，不生图；压缩上限维持约 350KB；列表/日报不加缩略图 base64。
+- Skill / instructions：补充「有图详情在部分宿主会省略 structuredContent」。
+- 版本号统一 **1.2.2**。
+
 ## 1.2.1（交测，未上线）
 
 - `list_news` / `get_news_detail` / `get_report`：保留 `structuredContent` JSON；**text 通道改为已排版可读 Markdown**（含有 cover 时的 `![标题](cover.url)` 与图源说明，规则与既有 instructions / Skill 一致）。

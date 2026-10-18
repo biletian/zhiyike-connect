@@ -1,14 +1,14 @@
 {
   "name": "zhiyike-reader",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "archive": "/skills/zhiyike-reader.zip",
-  "bytes": 7986,
-  "sha256": "ae709640a4f0ef8033d2dd21077dddc3446c0851505217afacfe03b2ae16feaa",
+  "bytes": 8085,
+  "sha256": "f301d5f49087ff95148c6876a94189b4fe62265337c9d3d7abe998a24d21bff8",
   "files": [
     {
       "path": "zhiyike-reader/SKILL.md",
-      "bytes": 5965,
-      "sha256": "6073ab0ff3e1297a3a09c0846b4ebc80a073a7327c84b114ca807331d0f51c73"
+      "bytes": 6150,
+      "sha256": "0899ae9b80c27856baea6c0cda8ca81957fb3e281ab4c4337f9a20902abac29a"
     },
     {
       "path": "zhiyike-reader/agents/openai.yaml",
@@ -18,7 +18,7 @@
     {
       "path": "zhiyike-reader/scripts/zhiyike.py",
       "bytes": 10649,
-      "sha256": "94b52b1bc3ed295073a52ff603b38d86116c7570c3d73c20aed0a56085d1d004"
+      "sha256": "54e063fff317e2679a3a0e0118c9eb6465876ff6760b22d373d1ef0759289ad6"
     }
   ]
 }

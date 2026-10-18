@@ -24,7 +24,7 @@ const pkg = JSON.parse(readFileSync(path.join(repo, 'mcp/package.json'), 'utf8')
 const skillMd = readFileSync(path.join(repo, 'skill/zhiyike-reader/SKILL.md'), 'utf8').match(/version: "([^"]+)"/)[1];
 const py = readFileSync(path.join(repo, 'skill/zhiyike-reader/scripts/zhiyike.py'), 'utf8').match(/VERSION = "([^"]+)"/)[1];
 const manifest = JSON.parse(readFileSync(path.join(repo, 'skill/download/manifest.json'), 'utf8')).version;
-ok([VERSION, skillMd, py, manifest].every(v => v === pkg) && pkg === '1.2.1', `版本号不一致 ${[pkg, VERSION, skillMd, py, manifest]}`);
+ok([VERSION, skillMd, py, manifest].every(v => v === pkg) && pkg === '1.2.2', `版本号不一致 ${[pkg, VERSION, skillMd, py, manifest]}`);
 ok(/服务端.*Markdown|text 通道已带排版/.test(readFileSync(path.join(repo, 'skill/zhiyike-reader/SKILL.md'), 'utf8')), 'SKILL 应说明服务端 Markdown');
 
 // 纯函数：封面 Markdown 规则
@@ -123,7 +123,7 @@ writeFileSync(path.join(fixture, 'data.json'), JSON.stringify(data));
 const { http, client } = await serve(fixture);
 const samples = {};
 try {
-  ok(client.getServerVersion().version === '1.2.1', '握手 1.2.1');
+  ok(client.getServerVersion().version === '1.2.2', '握手 1.2.2');
 
   const listRaw = await client.callTool({ name: 'list_news', arguments: { date: day.date, query: 'V121 配图', limit: 5 } });
   ok(!listRaw.isError, 'list_news 不应 error');
@@ -144,10 +144,11 @@ try {
   const detailText = detailRaw.content.find(c => c.type === 'text')?.text || '';
   const detailImg = detailRaw.content.find(c => c.type === 'image');
   const detailSC = detailRaw.structuredContent;
-  ok(detailSC && detailSC.cover?.url, 'get_news_detail structured 有 cover');
-  ok(/!\[.+\]\(https:\/\/zhiyike\.cn\/media\//.test(detailText), 'get_news_detail text 含 Markdown 图语法');
+  // A1：有 image 时省略 structuredContent；cover 已在 list_news SC / Markdown 中
   ok(detailImg && detailImg.mimeType && detailImg.data && detailImg.data.length > 20,
     `get_news_detail 应有 image 块（mime=${detailImg?.mimeType} len=${detailImg?.data?.length}）`);
+  ok(!detailSC, 'A1：有 image 时不应有 structuredContent');
+  ok(/!\[.+\]\(https:\/\/zhiyike\.cn\/media\//.test(detailText), 'get_news_detail text 含 Markdown 图语法');
   samples.get_news_detail = {
     text: detailText,
     image: detailImg ? {
@@ -156,13 +157,15 @@ try {
       b64Chars: detailImg.data.length,
       b64Prefix: detailImg.data.slice(0, 64),
     } : null,
-    cover: detailSC.cover,
+    cover: listSC.items[0].cover,
+    hasStructuredContent: !!detailSC,
   };
   writeFileSync(path.join(outDir, 'get_news_detail.content.json'), JSON.stringify({
     contentTypes: detailRaw.content.map(c => c.type),
     text: detailText,
     imageMeta: samples.get_news_detail.image,
-    structuredCover: detailSC.cover,
+    hasStructuredContent: !!detailSC,
+    listCover: listSC.items[0].cover,
   }, null, 2));
 
   // 缺图降级：cover url 指向不存在文件且不可达时，仍返回 Markdown，无 image 块、无 error
@@ -187,6 +190,7 @@ try {
       const t2 = raw2.content.find(c => c.type === 'text')?.text || '';
       ok(/!\[.+\]\(https:\/\/zhiyike\.cn\/media\/2099/.test(t2), '缺图时仍有 Markdown 外链');
       ok(!raw2.content.some(c => c.type === 'image'), '缺图时无 image 块（降级）');
+      ok(raw2.structuredContent && raw2.structuredContent.cover?.url, 'A1：无 image 时仍双通道（有 structuredContent）');
     } finally { await miss.client.close(); await new Promise(r => miss.http.close(r)); }
   }
 
@@ -229,4 +233,4 @@ try {
 
 writeFileSync(path.join(outDir, 'samples.json'), JSON.stringify(samples, null, 2));
 writeFileSync(path.join(outDir, 'pass.json'), JSON.stringify({ pass, outDir }, null, 2));
-console.log(`v1.2.1 断言全部通过：${pass} 条。输出目录 ${outDir}`);
+console.log(`v1.2.1 回归断言全部通过：${pass} 条。输出目录 ${outDir}`);

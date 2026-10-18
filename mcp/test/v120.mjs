@@ -26,7 +26,7 @@ const pkg = JSON.parse(readFileSync(path.join(repo, 'mcp/package.json'), 'utf8')
 const skillMd = readFileSync(path.join(repo, 'skill/zhiyike-reader/SKILL.md'), 'utf8').match(/version: "([^"]+)"/)[1];
 const py = readFileSync(path.join(repo, 'skill/zhiyike-reader/scripts/zhiyike.py'), 'utf8').match(/VERSION = "([^"]+)"/)[1];
 const manifest = JSON.parse(readFileSync(path.join(repo, 'skill/download/manifest.json'), 'utf8')).version;
-ok([VERSION, skillMd, py, manifest].every(v => v === pkg) && pkg === '1.2.1', `版本号不一致 ${[pkg, VERSION, skillMd, py, manifest]}`);
+ok([VERSION, skillMd, py, manifest].every(v => v === pkg) && pkg === '1.2.2', `版本号不一致 ${[pkg, VERSION, skillMd, py, manifest]}`);
 ok(!/releases\/tag\/v1\.0\.0/.test(readFileSync(path.join(repo, 'README.md'), 'utf8')), 'README 仍指向 v1.0.0');
 
 // 单元：来源名、截句
@@ -65,7 +65,7 @@ const call = async (name, args) => {
   return r.structuredContent;
 };
 try {
-  ok(client.getServerVersion().version === '1.2.1', '握手版本应为 1.2.1');
+  ok(client.getServerVersion().version === '1.2.2', '握手版本应为 1.2.2');
   const tools = (await client.listTools()).tools;
   ok(tools.length === 6 && !JSON.stringify(tools).includes('热度'), '工具说明不再提热度');
 
@@ -159,11 +159,15 @@ try {
   try {
     const out = (await fake.client.callTool({ name: 'list_news', arguments: { date: day.date, limit: 20 } })).structuredContent;
     const id = out.items[0].id;
-    const detail = (await fake.client.callTool({ name: 'get_news_detail', arguments: { id } })).structuredContent;
-    const text = JSON.stringify([out, detail]);
+    const detailRaw = await fake.client.callTool({ name: 'get_news_detail', arguments: { id } });
+    const detail = detailRaw.structuredContent;
+    // A1：若公网图加载成功会省略 structuredContent；cover 规则仍以 list_news 为准
+    const text = JSON.stringify([out, detail, detailRaw.content?.map(c => ({ type: c.type, text: c.type === 'text' ? c.text : undefined }))]);
     ok(!BAD.test(text), '假数据：排除来源未被过滤');
     ok(text.includes('IT之家'), '假数据：正常来源保留并整理成 IT之家');
-    ok(detail.cover && !('credit' in detail.cover), '假数据：排除来源的图源被去掉');
+    ok(out.items[0].cover && !('credit' in out.items[0].cover), '假数据：排除来源的图源被去掉（list）');
+    if (detail) ok(detail.cover && !('credit' in detail.cover), '假数据：排除来源的图源被去掉（detail SC）');
+    else ok(detailRaw.content.some(c => c.type === 'image'), 'A1：无 SC 时应有 image 块');
   } finally { await fake.client.close(); await new Promise(r => fake.http.close(r)); }
 }
 
@@ -192,9 +196,15 @@ try {
     ok(by['假数据占位logo'] && !('cover' in by['假数据占位logo']), '占位 logo 不出 cover');
     ok(!('sources' in by['假数据占位logo']), '空 sources 不输出');
     ok(by['假数据海报A'].sources[0].name === 'The Guardian' && by['假数据海报B'].sources[0].name === 'X' && by['假数据X图'].sources[0].name === 'AI 工具集', '标签式来源名改网站名');
-    const detail = (await fake.client.callTool({ name: 'get_news_detail', arguments: { id: by['假数据X图'].id } })).structuredContent;
-    ok(!('points' in detail) && !('deep' in detail) && !('watch' in detail), '详情空数组不输出');
-    writeFileSync(path.join(outDir, 'fake-poster.json'), JSON.stringify({ out, detail }, null, 1));
+    const detailRaw = await fake.client.callTool({ name: 'get_news_detail', arguments: { id: by['假数据X图'].id } });
+    const detail = detailRaw.structuredContent;
+    if (detail) {
+      ok(!('points' in detail) && !('deep' in detail) && !('watch' in detail), '详情空数组不输出');
+    } else {
+      // A1：有 image 时无 SC；空数组省略已在 list/Markdown 路径验证，此处确认有图或 Markdown
+      ok(detailRaw.content.some(c => c.type === 'image') || /假数据X图/.test(detailRaw.content.find(c => c.type === 'text')?.text || ''), 'A1 详情有 image 或 Markdown');
+    }
+    writeFileSync(path.join(outDir, 'fake-poster.json'), JSON.stringify({ out, detail, contentTypes: detailRaw.content.map(c => c.type) }, null, 1));
   } finally { await fake.client.close(); await new Promise(r => fake.http.close(r)); }
 }
 console.log(`v1.2.0 断言全部通过：${pass} 条。输出目录 ${outDir}`);

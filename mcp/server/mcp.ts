@@ -39,7 +39,7 @@ const instructions = `只读知一刻已发布内容。今天按北京时间计�
 标题使用返回的 title；简介缺失时写“简介暂未提供”，来源缺失时写“信息源暂未提供”，不得编造补全。查询为空时说明该日期暂无匹配的已发布新闻，不生成占位新闻，也不静默改查历史日期。发生读取错误时说明暂时无法读取，不等同于没有新闻。
 结果分页时根据 offset、items、total 说明实际展示范围；nextOffset 非空表示还有内容，不能把部分结果称为全部。用户要求当天全部新闻时继续读取后续页；受回复长度限制需分批时明确标注当前范围，不省略后声称完整。total 是站内匹配内容数，不是全网新闻总数。数据未更新到今天时，保留真实更新时间，不以“最新”掩盖延迟。
 
-封面图：服务端 text 通道已排好可读 Markdown（含有 cover 时的 ![标题](cover.url) 与图源说明）；能显示图片的客户端直接采用即可。cover.type 为 source 时图下为「图源：{cover.credit}」（没有 credit 就不写）；ai_generated 时为「AI 生成」；poster 是站内海报，不写图源。没有 cover 就不显示图片，不自行搜图补上。get_news_detail 在有 cover 时还可能附带 MCP image 内容块（站内图 base64）；没有 image 块时仍以 Markdown 外链为准。
+封面图：服务端 text 通道已排好可读 Markdown（含有 cover 时的 ![标题](cover.url) 与图源说明）；能显示图片的客户端直接采用即可。cover.type 为 source 时图下为「图源：{cover.credit}」（没有 credit 就不写）；ai_generated 时为「AI 生成」；poster 是站内海报，不写图源。没有 cover 就不显示图片，不自行搜图补上。get_news_detail 在有 cover 时还可能附带 MCP image 内容块（站内图 base64）；没有 image 块时仍以 Markdown 外链为准。有 image 块时服务端会省略 structuredContent（便于 Codex 等宿主显示图片）；无 image 时仍同时返回 content 与 structuredContent。
 
 其他查询：
 日报、周报按实际返回的日期或期次说明时间，不把最新一期自动当作今天或本周；用户指定日期时查询对应期次，未发布就明确说明。GitHub AI 热榜注明 daily/weekly 对应的日榜/周榜及 dataUpdatedAt 快照时间，不称实时 GitHub 排名。产品和概念仅根据返回内容解释，保留来源；不把已收录范围说成全部产品或概念。用户明确提出其他格式时可调整排版，但日期、来源、缺失资料与只读边界不能省略或伪造。`;
@@ -64,6 +64,10 @@ function createServer(data: PublishedContent) {
           // 配图失败不挡主结果：只保留 Markdown text
         }
       }
+      // A1（v1.2.2）：Codex 有 structuredContent 会丢弃整段 content[]（含 image）。
+      // 仅当本次含 MCP image 块时省略 structuredContent；无图仍双通道（与 v1.2.1 一致）。
+      const hasImage = content.some((b) => b.type === 'image');
+      if (hasImage) return { content };
       return { content, structuredContent: value as Record<string, unknown> };
     } catch (error) {
       // Data reader errors are deliberately sanitized; never return stack traces or paths.

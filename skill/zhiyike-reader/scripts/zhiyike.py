@@ -12,7 +12,7 @@ from urllib.error import HTTPError, URLError
 from urllib.request import HTTPRedirectHandler, HTTPSHandler, Request, build_opener
 
 ENDPOINT = "https://zhiyike.cn/mcp"
-VERSION = "1.2.1"
+VERSION = "1.2.2"
 PROTOCOLS = ("2025-11-25", "2025-06-18", "2025-03-26")
 TOOLS = frozenset(("list_news", "get_news_detail", "search_library", "list_reports", "get_report", "github_trending"))
 MAX_BYTES = 4 * 1024 * 1024
