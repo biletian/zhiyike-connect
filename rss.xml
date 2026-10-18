@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 19 Oct 2026 02:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 05:16:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic 承诺捐出 5% 股份设立公共利益基金</title>
+      <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:af82d9e18714fa0a18613423</guid>
+      <pubDate>Mon, 19 Oct 2026 04:37:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 将 5% 股份投入公司全资的公共利益基金，并设增值追加条款。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Character.AI 破产后，迪士尼将聘用其大部分员工</title>
       <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</link>
@@ -74,6 +82,14 @@
       <description>&lt;p&gt;英伟达通过上游 vLLM 优化，让 2.8 万亿参数 Kimi K3 推理提速 1.68 倍&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/595.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>用户反映 Gemini 角色扮演内容审查变严，此前可写的剧情现在被拒</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1x92sf5/gemini_censorship/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4a13dafd01ff47b8bd0d4a9f</guid>
+      <pubDate>Sun, 18 Oct 2026 21:06:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;有用户称 Gemini 近期在角色扮演场景中审查明显收紧，过去能写的内容现在被拒。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1x92sf5/gemini_censorship/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险</title>
       <link>https://www.ithome.com/1/014/589.htm</link>
       <guid isPermaLink="false">urn:zhiyike:news:eed2ffb766aaa3d383e80838</guid>
@@ -128,6 +144,14 @@
       <pubDate>Sun, 18 Oct 2026 18:25:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Reddit 用户称 Moss 轻量、零审查、易训练，看好其微调生态。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x8zukb/moss_is_the_new_sdxl/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 讨论：笔记本上 24/7 跑 Agent 到底怎么落地？</title>
+      <link>https://www.reddit.com/r/AI_Agents/comments/1x8zcex/agents_running_247_on_your_laptop/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:423fcd0ca70bdbf083030a16</guid>
+      <pubDate>Sun, 18 Oct 2026 17:54:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;网友质疑“睡一觉醒来 Agent 交付成品”的说法，追问真实工具与流程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1x8zcex/agents_running_247_on_your_laptop/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Krea 2 提示词技能包发布：含 289 种风格与 30 个姿势库</title>
@@ -642,12 +666,12 @@
       <description>&lt;p&gt;等离子体物理学家用 GPT-6 Astra Pro 找到恒星器平衡方程的显式解，推翻 Grad 猜想。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://maccus.fr/en/ai-physics-fusion-conjecture/"&gt;maccus.fr&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1x89ou3/after_math_physics_ai_finds_explicit/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>网站开始对 AI 智能体关上大门</title>
+      <title>网站封堵 AI 智能体：Cloudflare 出手，Muse 遭亚马逊封禁</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
       <guid isPermaLink="false">urn:zhiyike:news:8021e905a67b2ce88d19d667</guid>
       <pubDate>Sat, 17 Oct 2026 21:00:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;多家网站封堵 AI 智能体，Yelp、达美航空、摩根大通等已出手&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Cloudflare 封堵 AI 爬虫，Muse 等智能体遭亚马逊封禁&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI 代写邮件正在制造自信过头的投诉者，他们不知道自己有多冒犯</title>
@@ -784,30 +808,6 @@
       <pubDate>Sat, 17 Oct 2026 15:13:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;禾赛推出三维世界数据引擎Kosmo，用一台空间相机把真实门店搬进虚拟环境训练机器人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-17-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI“窃听”案迎来新进展：当事沙特工程师寻求保释，否认潜逃意图</title>
-      <link>https://www.ithome.com/1/014/303.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:54132a43c5471b760ceab42c</guid>
-      <pubDate>Sat, 17 Oct 2026 15:07:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;涉OpenAI办公室秘密录音设备的沙特工程师申请保释，称单程机票是习惯。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/303.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-17-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:17073c4f4cdf0cd502e4a64a</guid>
-      <pubDate>Sat, 17 Oct 2026 15:03:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;机器之心梳理Every深度报道，还原Codex从低谷到翻盘的全过程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-17-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>给多模态大模型选「眼睛」，两个简单改进让评测相关性接近翻倍</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-17-3</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1f722443c568e0b6052d9c5a</guid>
-      <pubDate>Sat, 17 Oct 2026 14:58:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;机器之心报道免训练评测方法 RAVEL，用两个简单改进提升视觉编码器筛选准确度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-17-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
