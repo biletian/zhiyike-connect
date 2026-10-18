@@ -8,7 +8,47 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 18 Oct 2026 21:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:32:00 +0800</lastBuildDate>
+    <item>
+      <title>索尼新专利曝光：AI 可在 GPU 渲染完成前预测下一帧画面，减少游戏卡顿</title>
+      <link>https://www.ithome.com/1/014/615.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f6755495b29f2f4e406b3e91</guid>
+      <pubDate>Sun, 18 Oct 2026 23:16:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;索尼专利提出用 AI 预测下一帧画面，在渲染完成前先行显示，以填补帧输出间隙。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/615.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>双榜第一背后，他们想做的不是下一个世界模型</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-18-10</link>
+      <guid isPermaLink="false">urn:zhiyike:news:30ffb3854bc090c37eecee90</guid>
+      <pubDate>Sun, 18 Oct 2026 22:56:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Murea-Pro 登顶 WBench，Murea-Fast 在 OpenS2V-Eval 开源模型中第一，团队目标是…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-18-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>龙虾凉了，Muse凭什么火？当初天价挖人合理吗？亚历山大王最新访谈回应一切</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-18-6</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d2e81c837d9617cc39001ec9</guid>
+      <pubDate>Sun, 18 Oct 2026 22:13:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Meta个人AI智能体Muse上线22天获500万美国下载，负责人Alexandr Wang深度访谈复盘始末。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-18-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>研究了一辈子「遗憾」的人，说自己零遗憾：一个 AI 核心方法的二十年</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-18-4</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2a029b4dfd71986d292f4f20</guid>
+      <pubDate>Sun, 18 Oct 2026 21:52:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;普林斯顿教授 Elad Hazan 回顾在线凸优化二十年，串起 AdaGrad 与现代 AI 的技术脉络。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-18-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>英伟达优化 Kimi K3 模型推理速度，提升 1.68 倍</title>
+      <link>https://www.ithome.com/1/014/595.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:687e62f12be7d4be45fc570a</guid>
+      <pubDate>Sun, 18 Oct 2026 21:25:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;英伟达通过上游 vLLM 优化，让 2.8 万亿参数 Kimi K3 推理提速 1.68 倍&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/595.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险</title>
       <link>https://www.ithome.com/1/014/589.htm</link>
@@ -18,12 +58,20 @@
       <description>&lt;p&gt;AI 智能体为追回退款编造理由、威胁起诉，最终均未成功&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/589.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS</title>
+      <title>用 Claude Code 从反汇编重写 2000 年 RTS《Tzar：王冠之重》，Rust + Bevy 开源复刻</title>
+      <link>https://github.com/ColCarlo/ReTzar</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f38b5522f4521251b7d53115</guid>
+      <pubDate>Sun, 18 Oct 2026 20:06:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;开发者借 Claude 读原版 exe 反汇编，逐系统移植出可跑原版战役的开源复刻版。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ColCarlo/ReTzar"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x91lor/rebuilt_a_2000_rts_from_scratch_with_claude_code/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VAST开源EdenLive实时世界模型：单卡RTX 5090、720P超24FPS</title>
       <link>https://www.qbitai.com/2026/10/504136.html</link>
       <guid isPermaLink="false">urn:zhiyike:news:a6d69ea2a6c794d38853953e</guid>
       <pubDate>Sun, 18 Oct 2026 19:49:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;VAST发布并开源实时世界模型EdenLive，单卡720P生成速度超24FPS，端到端延迟百毫秒级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/504136.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;新增480P/720P两档输出与Proxy-to-Fine范式等细节&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/504136.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-18-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>世界银行：小型 AI 有望改变发展中国家</title>
@@ -48,6 +96,22 @@
       <pubDate>Sun, 18 Oct 2026 18:33:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;京东京造 G70Pro 智能门锁上市，双摄掌静脉识别，国补后 1599 元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/572.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 热议：Moss 是新的 SDXL，零审查且极易训练</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1x8zukb/moss_is_the_new_sdxl/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d6fc0644d6f9ede5bcb06fcb</guid>
+      <pubDate>Sun, 18 Oct 2026 18:25:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户称 Moss 轻量、零审查、易训练，看好其微调生态。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x8zukb/moss_is_the_new_sdxl/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Krea 2 提示词技能包发布：含 289 种风格与 30 个姿势库</title>
+      <link>https://rakshazi.me/blog/krea2-prompting-skill/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b6737ac907eb189f602eef51</guid>
+      <pubDate>Sun, 18 Oct 2026 17:44:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一份面向 Krea 2 的提示词技能库，覆盖摄影、姿势、风格与怪兽题材。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://rakshazi.me/blog/krea2-prompting-skill/"&gt;rakshazi.me&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1x8z6x3/krea_2_prompting_skill_with_huge_references/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>用ChatGPT在17年前的NASA数据中发现疑似新系外行星</title>
@@ -88,6 +152,14 @@
       <pubDate>Sun, 18 Oct 2026 15:43:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic 正与律所磋商，为 AI 智能体制定替用户谈判的行为规范。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/519.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>首次使用 ComfyUI 尝试 MOSS 图像模型：动漫角色合成写实场景</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1x8wm25/first_time_using_comfyui_tried_moss/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ff1ba0fe021c3ce3c0e420ac</guid>
+      <pubDate>Sun, 18 Oct 2026 15:01:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 用户用 ChatGPT 生成工作流，在 RTX 5080 上测试 MOSS 图像模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x8wm25/first_time_using_comfyui_tried_moss/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>亚马逊云科技 CFO 称 AI 基建的繁荣可持续，AI 服务器投资回报周期不到三年</title>
@@ -144,6 +216,14 @@
       <pubDate>Sun, 18 Oct 2026 10:46:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;用户用单张 16GB 显卡和 24GB 内存跑起 27B 模型，262k 上下文下生成 42.7 tps。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/achyudh/llama.cpp"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用 Opus 5.5 把 Tool 的《Right in Two》做成全代码生成的 4K 音乐视频</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1x8s3o0/i_provided_opus_55_with_an_mp3_and_lyrics_and/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:60afb7263d28b3656f2f8c23</guid>
+      <pubDate>Sun, 18 Oct 2026 10:41:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;两个 Claude 会话分工，用 WebGL 着色器逐帧绘制 16,074 帧 4K 音乐视频。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x8s3o0/i_provided_opus_55_with_an_mp3_and_lyrics_and/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相</title>
@@ -728,86 +808,6 @@
       <pubDate>Sat, 17 Oct 2026 14:25:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Meta 推出 &amp;quot;Your algorithm&amp;quot; 功能，用户可用自然语言定制 Facebook 推荐算法。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/286.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>英伟达黄仁勋称 AI 现在不是泡沫，安全不应成为减速理由</title>
-      <link>https://www.ithome.com/1/014/274.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a4d9470f52ac120e88c3a457</guid>
-      <pubDate>Sat, 17 Oct 2026 13:39:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;黄仁勋称当前 AI 需求远超供给，不认为处于泡沫阶段，并主张加速部署而非放缓。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/274.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌 DeepMind 哈萨比斯预警：若不对 AI 采取安全措施，未来恐发生严重事故</title>
-      <link>https://www.ithome.com/1/014/264.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:43079893a7f57237c0dc170c</guid>
-      <pubDate>Sat, 17 Oct 2026 12:19:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;哈萨比斯称近期 AI 智能体网络攻击是前哨预警，一两年内或演变为灾难性事件&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/264.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>为避免银行存款大量流失，花旗、美银出手限制智能体访问客户账户</title>
-      <link>https://www.ithome.com/1/014/260.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:329775baae26d6cc55e5ea22</guid>
-      <pubDate>Sat, 17 Oct 2026 11:32:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;美国银行业担忧 AI 智能体自动转走闲置资金，花旗、美银、摩根大通相继限制其访问客户账户。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/260.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>行业首个基于确定性网络的智能体互联平台 AXP 在南京发布：支持百万级智能体注册接入、十万级智能体同时运行</title>
-      <link>https://www.ithome.com/1/014/259.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9b3a948c16d9a4412416ebe0</guid>
-      <pubDate>Sat, 17 Oct 2026 11:30:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;紫金山实验室联合中国移动等发布 AXP，支持百万级智能体注册、十万级同时在线运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/259.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MOSS-Image 5B 开源：Apache 2.0、ComfyUI 插件与 12GB 显卡实测</title>
-      <link>https://github.com/OpenMOSS/MOSS-Image</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9b7abea3e2df943f0f356218</guid>
-      <pubDate>Sat, 17 Oct 2026 10:58:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;MOSS-Image 补充架构、许可、双版本与社区实测细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/OpenMOSS/MOSS-Image"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x7zf1r/hey_guys_im_one_of_the_core_developers_of/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1x7kc3o/mossimage_5b_apache_20_on_a_12_gb_rtx_3060_int8/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软发布法律版 Copilot：律师的 AI 新同事，整合审查合同等超 20 项技能</title>
-      <link>https://www.ithome.com/1/014/250.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:99776424b24b1c44965aebdb</guid>
-      <pubDate>Sat, 17 Oct 2026 10:55:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;微软推出 Copilot for Legal，为商用客户提供超 20 项法律专用 AI 技能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/250.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>“台积电的获利能力没有上限”，魏哲家称 AI 需求持续升温、供需缺口仍大</title>
-      <link>https://www.ithome.com/1/014/249.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bc30fa735cc037a6a06c1faf</guid>
-      <pubDate>Sat, 17 Oct 2026 10:42:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;台积电第三季度净利润 7630.6 亿元新台币，同比增长 68.7%，全年美元营收预计增长约 44%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/249.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 再挖马斯克墙角，聘请 xAI 前销售负责人承担网安业务销售工作</title>
-      <link>https://www.ithome.com/1/014/239.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2a5f132dafad3da3cd45ffbb</guid>
-      <pubDate>Sat, 17 Oct 2026 10:15:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 聘请 xAI 前销售负责人格雷厄姆·西曼斯，负责网络安全业务销售。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/239.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>消息称三星 SDI 最快 2027 年 6 月量产 AI 服务器备用 LFP 柱状电池</title>
-      <link>https://www.ithome.com/1/014/240.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:96dd011ee614b38b9d379196</guid>
-      <pubDate>Sat, 17 Oct 2026 10:15:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;三星 SDI 计划最快 2027 年 6 月量产面向 AI 服务器 BBU 的圆柱形 LFP 电池。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/240.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌升级安卓防诈骗：AI 读懂诈骗话术，每月拦截超 500 万条可疑电话 / 短信</title>
-      <link>https://www.ithome.com/1/014/235.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a08c6347572f340ba42c1f02</guid>
-      <pubDate>Sat, 17 Oct 2026 10:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;谷歌升级安卓防诈骗，覆盖电话、短信和第三方聊天应用&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/235.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
