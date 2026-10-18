@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 19 Oct 2026 00:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 02:46:00 +0800</lastBuildDate>
+    <item>
+      <title>Character.AI 破产后，迪士尼将聘用其大部分员工</title>
+      <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7135fc0252afe1e9e64a298e</guid>
+      <pubDate>Mon, 19 Oct 2026 00:30:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Character.AI 申请破产，迪士尼拟以 2000 万美元收购部分资产并接收多数员工。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8年UI设计师用AI做副业工具，上线首月赚了130美元</title>
+      <link>https://shapefinder.cc/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2db268b1d4e64181f9279eb5</guid>
+      <pubDate>Sun, 18 Oct 2026 23:35:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位UI/UX设计师用Claude Code做外设推荐站，靠Reddit流量和联盟链接首月入账130美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://shapefinder.cc/"&gt;shapefinder.cc&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1x9668n/my_side_project_made_130_in_its_first_month_a_few/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>索尼新专利曝光：AI 可在 GPU 渲染完成前预测下一帧画面，减少游戏卡顿</title>
       <link>https://www.ithome.com/1/014/615.htm</link>
@@ -24,6 +40,14 @@
       <pubDate>Sun, 18 Oct 2026 22:56:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Murea-Pro 登顶 WBench，Murea-Fast 在 OpenS2V-Eval 开源模型中第一，团队目标是…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-18-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek-V4.1-Flash-1017 发布：推理与编程基准全面提升</title>
+      <link>https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF</link>
+      <guid isPermaLink="false">urn:zhiyike:news:19f2a726e3c838a9cf54761f</guid>
+      <pubDate>Sun, 18 Oct 2026 22:51:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;DeepSeek-V4.1-Flash 小幅更新版亮相，多项基准提升且输出更短&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/unsloth/DeepSeek-V4.1-Flash-1017-GGUF"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>龙虾凉了，Muse凭什么火？当初天价挖人合理吗？亚历山大王最新访谈回应一切</title>
@@ -784,30 +808,6 @@
       <pubDate>Sat, 17 Oct 2026 14:58:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;机器之心报道免训练评测方法 RAVEL，用两个简单改进提升视觉编码器筛选准确度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-17-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>刚刚，Claude半小时解开二十多年密码学谜题</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-17-2</link>
-      <guid isPermaLink="false">urn:zhiyike:news:daebe268fe6518ae3ff94bc0</guid>
-      <pubDate>Sat, 17 Oct 2026 14:52:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic称Claude用不到半小时追溯出NIST五条椭圆曲线种子的生成方式&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-17-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我国首个全自主可控气象 AI 集合预报系统“风清”正式投入业务运行</title>
-      <link>https://www.ithome.com/1/014/289.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d1bd3122c4ebf5706ae4da33</guid>
-      <pubDate>Sat, 17 Oct 2026 14:32:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;“风清”V1.0 通过业务化评审，成为我国首个数据、模型、算力全自主可控的业务级气象 AI 集合预报模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/289.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>你的算法你做主：Meta 为 Facebook 用户提供 AI 驱动推荐定制工具</title>
-      <link>https://www.ithome.com/1/014/286.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b9b193a55b816968c09bc4ce</guid>
-      <pubDate>Sat, 17 Oct 2026 14:25:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Meta 推出 &amp;quot;Your algorithm&amp;quot; 功能，用户可用自然语言定制 Facebook 推荐算法。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/014/286.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
