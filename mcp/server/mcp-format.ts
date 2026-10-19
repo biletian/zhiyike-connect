@@ -1,5 +1,5 @@
-// v1.2.1：把 structured 结果排成可读 Markdown（list_news / get_news_detail / get_report 的 text 通道），
-// 以及 get_news_detail 可选附带的 MCP image 内容块（站内 cover → base64，失败不挡主结果）。
+// v1.2.3：Markdown 排版 + MCP image（详情较大图；list_news / get_report 缩略图）。
+// 含 image 时由 mcp.ts 省略 structuredContent（A1）。加载/压缩失败不挡主结果。
 import { readFile, stat } from 'node:fs/promises';
 import { spawn } from 'node:child_process';
 import path from 'node:path';
@@ -156,8 +156,23 @@ export function formatReport(value: unknown): string {
 }
 
 const MEDIA_RE = /^media\/[A-Za-z0-9._\/-]+\.(jpe?g|png|webp|gif|avif)$/i;
-const MAX_IMAGE_BYTES = 350_000; // 嵌入上限约 350KB；更大则尝试压缩，仍超则跳过 image 块
+/** 详情单图上限约 350KB（v1.2.1 起）。 */
+export const DETAIL_MAX_IMAGE_BYTES = 350_000;
+/** 列表/日报缩略图：单张建议 ≤80–120KB，边长 ≤480。 */
+export const THUMB_MAX_IMAGE_BYTES = 100_000;
+export const THUMB_MAX_EDGE = 480;
+/** 整次响应全部 image 合计上限（约 800KB，落在 500KB–1MB）。 */
+export const THUMB_MAX_TOTAL_BYTES = 800_000;
+/** 列表/日报最多尝试前 N 条有 cover 的条目。 */
+export const THUMB_MAX_ITEMS = 8;
 const FETCH_MS = 6000;
+
+export type McpImageBlock = { type: 'image'; mimeType: string; data: string };
+export type LoadCoverOpts = {
+  maxBytes?: number;
+  maxEdge?: number;
+  qualities?: number[];
+};
 
 function mimeOf(rel: string): string {
   const ext = rel.split('.').pop()?.toLowerCase() || 'jpg';
@@ -176,7 +191,9 @@ function mediaRelFromUrl(coverUrl: string): string | null {
   return rel;
 }
 
-function compressJpeg(buf: Buffer, maxBytes: number): Promise<Buffer | null> {
+function compressJpeg(buf: Buffer, maxBytes: number, maxEdge: number, qualities: number[]): Promise<Buffer | null> {
+  const qs = qualities.length ? qualities : [72, 60, 48];
+  const qTuple = `(${qs.join(', ')})`;
   return new Promise(resolve => {
     let done = false;
     const finish = (value: Buffer | null) => { if (!done) { done = true; resolve(value); } };
@@ -187,9 +204,9 @@ import io
 raw = sys.stdin.buffer.read()
 im = Image.open(io.BytesIO(raw))
 im = im.convert("RGB")
-im.thumbnail((900, 900))
+im.thumbnail((${maxEdge}, ${maxEdge}))
 best = None
-for q in (72, 60, 48):
+for q in ${qTuple}:
     out = io.BytesIO()
     im.save(out, "JPEG", quality=q, optimize=True)
     data = out.getvalue()
@@ -212,11 +229,18 @@ sys.stdout.buffer.write(best or b"")
   });
 }
 
-/** 优先读 dataDir 下 media/；没有则短超时拉公网绝对 URL。失败返回 null（调用方只保留 Markdown）。 */
+/**
+ * 优先读 dataDir 下 media/；没有则短超时拉公网绝对 URL。
+ * opts 可压成缩略图（更小边长/更低 quality）；失败返回 null（调用方只保留 Markdown）。
+ */
 export async function loadCoverImage(
   dataDir: string,
   coverUrl: string,
-): Promise<{ type: 'image'; mimeType: string; data: string } | null> {
+  opts?: LoadCoverOpts,
+): Promise<McpImageBlock | null> {
+  const maxBytes = opts?.maxBytes ?? DETAIL_MAX_IMAGE_BYTES;
+  const maxEdge = opts?.maxEdge ?? 900;
+  const qualities = opts?.qualities ?? [72, 60, 48];
   try {
     const rel = mediaRelFromUrl(coverUrl);
     if (!rel) return null;
@@ -243,9 +267,10 @@ export async function loadCoverImage(
     }
     if (!buf) return null;
     let mime = mimeOf(rel);
-    if (buf.length > MAX_IMAGE_BYTES) {
-      const compressed = await compressJpeg(buf, MAX_IMAGE_BYTES);
-      if (!compressed || compressed.length > MAX_IMAGE_BYTES) return null;
+    const needCompress = buf.length > maxBytes || maxEdge < 900;
+    if (needCompress) {
+      const compressed = await compressJpeg(buf, maxBytes, maxEdge, qualities);
+      if (!compressed || compressed.length > maxBytes) return null;
       buf = compressed;
       mime = 'image/jpeg';
     }
@@ -253,4 +278,51 @@ export async function loadCoverImage(
   } catch {
     return null;
   }
+}
+
+const THUMB_OPTS: LoadCoverOpts = {
+  maxBytes: THUMB_MAX_IMAGE_BYTES,
+  maxEdge: THUMB_MAX_EDGE,
+  qualities: [58, 48, 38],
+};
+
+/**
+ * 为 list_news / get_report 的条目加载缩略图。
+ * 按顺序处理有 cover 的条目，最多 THUMB_MAX_ITEMS 张；合计超 THUMB_MAX_TOTAL_BYTES 则截断。
+ * textNote 供调用方追加到 Markdown（其余条目仅外链）。
+ */
+export async function loadCoverThumbnails(
+  dataDir: string,
+  items: Array<{ cover?: { url?: string } | null } | null | undefined>,
+  opts?: { maxItems?: number; maxTotalBytes?: number },
+): Promise<{ images: McpImageBlock[]; textNote?: string; attempted: number; loaded: number; truncated: boolean }> {
+  const maxItems = opts?.maxItems ?? THUMB_MAX_ITEMS;
+  const maxTotal = opts?.maxTotalBytes ?? THUMB_MAX_TOTAL_BYTES;
+  const images: McpImageBlock[] = [];
+  let totalBytes = 0;
+  let attempted = 0;
+  let truncated = false;
+  const withCover = (items || []).filter(it => it && typeof it === 'object' && it.cover?.url);
+  for (const item of withCover) {
+    if (images.length >= maxItems) { truncated = true; break; }
+    attempted++;
+    const url = item!.cover!.url!;
+    try {
+      const img = await loadCoverImage(dataDir, url, THUMB_OPTS);
+      if (!img) continue;
+      const bytes = Buffer.from(img.data, 'base64').length;
+      if (totalBytes + bytes > maxTotal) { truncated = true; break; }
+      images.push(img);
+      totalBytes += bytes;
+    } catch {
+      // 单张失败继续下一张
+    }
+  }
+  // 因条数/体积上限未纳入的有封面条目 → 在 text 注明
+  const remainingCovers = withCover.length - images.length;
+  let textNote: string | undefined;
+  if (truncated && remainingCovers > 0) {
+    textNote = `（缩略图已附前 ${images.length} 条；其余有封面的条目仅 Markdown 外链，完整图请用 get_news_detail。）`;
+  }
+  return { images, textNote, attempted, loaded: images.length, truncated };
 }

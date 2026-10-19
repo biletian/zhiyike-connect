@@ -26,7 +26,7 @@ const pkg = JSON.parse(readFileSync(path.join(repo, 'mcp/package.json'), 'utf8')
 const skillMd = readFileSync(path.join(repo, 'skill/zhiyike-reader/SKILL.md'), 'utf8').match(/version: "([^"]+)"/)[1];
 const py = readFileSync(path.join(repo, 'skill/zhiyike-reader/scripts/zhiyike.py'), 'utf8').match(/VERSION = "([^"]+)"/)[1];
 const manifest = JSON.parse(readFileSync(path.join(repo, 'skill/download/manifest.json'), 'utf8')).version;
-ok([VERSION, skillMd, py, manifest].every(v => v === pkg) && pkg === '1.2.2', `版本号不一致 ${[pkg, VERSION, skillMd, py, manifest]}`);
+ok([VERSION, skillMd, py, manifest].every(v => v === pkg) && pkg === '1.2.3', `版本号不一致 ${[pkg, VERSION, skillMd, py, manifest]}`);
 ok(!/releases\/tag\/v1\.0\.0/.test(readFileSync(path.join(repo, 'README.md'), 'utf8')), 'README 仍指向 v1.0.0');
 
 // 单元：来源名、截句
@@ -65,7 +65,7 @@ const call = async (name, args) => {
   return r.structuredContent;
 };
 try {
-  ok(client.getServerVersion().version === '1.2.2', '握手版本应为 1.2.2');
+  ok(client.getServerVersion().version === '1.2.3', '握手版本应为 1.2.3');
   const tools = (await client.listTools()).tools;
   ok(tools.length === 6 && !JSON.stringify(tools).includes('热度'), '工具说明不再提热度');
 
@@ -152,7 +152,7 @@ try {
   const day = data.days.find(d => (d.signals || []).length);
   const sig = day.signals[0];
   sig.links = [...(sig.links || []), { name, url: `https://${host}/issue/1` }, { name: '原文', url: 'https://www.ithome.com/0/1.htm' }];
-  sig.img = 'media/2026.09.02/01.jpg'; sig.imageMeta = { type: 'article', source: name, url: `https://${host}/x.jpg` };
+  sig.img = 'media/2099.01.01/excl-no-fetch.jpg'; sig.imageMeta = { type: 'article', source: name, url: `https://${host}/x.jpg` };
   sig.sum = `据${name}整理，这是测试摘要。`; if (sig.reader) sig.reader.summary = sig.sum;
   writeFileSync(path.join(dir, 'data.json'), JSON.stringify(data));
   const fake = await serve(dir);
@@ -180,9 +180,9 @@ try {
   const base0 = day.signals[0];
   const mk = (title, ts, extra) => ({ ...base0, title, originalTitle: title, ts, points: [], reader: { summary: title + '摘要', deep: [], watch: [] }, ...extra });
   day.signals.push(
-    mk('假数据海报A', '2099-01-01T00:00:05Z', { img: 'media/2026.10.15/poster-a.png', _imageFallback: 'editorial', imageMeta: { source: 'IT之家' }, links: [{ name: '核实来源', url: 'https://www.theguardian.com/x' }] }),
-    mk('假数据海报B', '2099-01-01T00:00:04Z', { img: 'media/2026.10.15/poster-b.png', imageMeta: { type: 'poster' }, links: [{ name: '本人发布（X）', url: 'https://x.com/a/status/1' }] }),
-    mk('假数据X图', '2099-01-01T00:00:03Z', { img: 'media/2026.08.19/28.jpg', imageMeta: { type: 'screenshot', source: '本人发布（X）' }, links: [{ name: 'AI 工具集原文', url: 'https://ai-bot.cn/x' }] }),
+    mk('假数据海报A', '2099-01-01T00:00:05Z', { img: 'media/2099.01.01/poster-a.png', _imageFallback: 'editorial', imageMeta: { source: 'IT之家' }, links: [{ name: '核实来源', url: 'https://www.theguardian.com/x' }] }),
+    mk('假数据海报B', '2099-01-01T00:00:04Z', { img: 'media/2099.01.01/poster-b.png', imageMeta: { type: 'poster' }, links: [{ name: '本人发布（X）', url: 'https://x.com/a/status/1' }] }),
+    mk('假数据X图', '2099-01-01T00:00:03Z', { img: 'media/2099.01.01/x-shot.jpg', imageMeta: { type: 'screenshot', source: '本人发布（X）' }, links: [{ name: 'AI 工具集原文', url: 'https://ai-bot.cn/x' }] }),
     mk('假数据占位logo', '2099-01-01T00:00:02Z', { img: 'media/2026.10.15/48.jpg', imageMeta: { type: 'article', source: '机器之心' }, links: [] }),
   );
   writeFileSync(path.join(dir, 'data.json'), JSON.stringify(data));
@@ -190,7 +190,7 @@ try {
   try {
     const out = (await fake.client.callTool({ name: 'list_news', arguments: { date: day.date, query: '假数据', limit: 20 } })).structuredContent;
     const by = Object.fromEntries(out.items.map(i => [i.title, i]));
-    ok(by['假数据海报A']?.cover?.type === 'poster' && !('credit' in by['假数据海报A'].cover) && by['假数据海报A'].cover.url === 'https://zhiyike.cn/media/2026.10.15/poster-a.png', 'poster（editorial）不带 credit');
+    ok(by['假数据海报A']?.cover?.type === 'poster' && !('credit' in by['假数据海报A'].cover) && by['假数据海报A'].cover.url === 'https://zhiyike.cn/media/2099.01.01/poster-a.png', 'poster（editorial）不带 credit');
     ok(by['假数据海报B']?.cover?.type === 'poster' && !('credit' in by['假数据海报B'].cover), 'poster（imageMeta.type）不带 credit');
     ok(by['假数据X图']?.cover?.credit === 'X', 'X 的图署名 X');
     ok(by['假数据占位logo'] && !('cover' in by['假数据占位logo']), '占位 logo 不出 cover');

@@ -1,7 +1,8 @@
-// v1.2.2：方案 A1 — 有 MCP image 时省略 structuredContent；无 image / list / report 仍双通道。
+// v1.2.2 A1 + v1.2.3：有 MCP image（含 list/report 缩略图）时省略 structuredContent；无 image 仍双通道。
 import assert from 'node:assert/strict';
 import { createServer } from 'node:http';
 import { mkdirSync, writeFileSync, readFileSync, mkdtempSync, cpSync, copyFileSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -22,7 +23,7 @@ const skillMd = readFileSync(path.join(repo, 'skill/zhiyike-reader/SKILL.md'), '
 const skillVer = skillMd.match(/version: "([^"]+)"/)[1];
 const py = readFileSync(path.join(repo, 'skill/zhiyike-reader/scripts/zhiyike.py'), 'utf8').match(/VERSION = "([^"]+)"/)[1];
 const manifest = JSON.parse(readFileSync(path.join(repo, 'skill/download/manifest.json'), 'utf8')).version;
-ok([VERSION, skillVer, py, manifest].every(v => v === pkg) && pkg === '1.2.2', `版本号不一致 ${[pkg, VERSION, skillVer, py, manifest]}`);
+ok([VERSION, skillVer, py, manifest].every(v => v === pkg) && pkg === '1.2.3', `版本号不一致 ${[pkg, VERSION, skillVer, py, manifest]}`);
 ok(/省略.*structuredContent|Codex/.test(skillMd), 'SKILL 应说明有图时省略 structuredContent / Codex');
 
 async function serve(dir) {
@@ -75,22 +76,25 @@ writeFileSync(path.join(fixture, 'data.json'), JSON.stringify(data));
 const samples = {};
 const { http, client } = await serve(fixture);
 try {
-  ok(client.getServerVersion().version === '1.2.2', '握手 1.2.2');
+  ok(client.getServerVersion().version === '1.2.3', '握手 1.2.3');
 
-  // list_news：无 image 块 → 必须有 structuredContent
+  // list_news：有本地 cover → 缩略图 image，省略 structuredContent（v1.2.3）
   const listRaw = await client.callTool({ name: 'list_news', arguments: { date: day.date, query: 'V122 A1', limit: 5 } });
   ok(!listRaw.isError, 'list_news 不应 error');
-  ok(listRaw.structuredContent && Array.isArray(listRaw.structuredContent.items), 'list_news 有 structuredContent');
-  ok(!listRaw.content.some(c => c.type === 'image'), 'list_news 不加缩略图 image 块');
+  const listImgs = listRaw.content.filter(c => c.type === 'image');
+  ok(listImgs.length >= 1, 'list_news 应有缩略图 image 块');
+  ok(listRaw.structuredContent == null, '有 image 的 list_news 省略 structuredContent');
   const listText = listRaw.content.find(c => c.type === 'text')?.text || '';
   ok(/!\[.+\]\(https:\/\/zhiyike\.cn\/media\//.test(listText), 'list_news text 含 Markdown 图语法');
   samples.list_news = {
     contentTypes: listRaw.content.map(c => c.type),
-    hasStructuredContent: true,
+    hasStructuredContent: listRaw.structuredContent != null,
+    imageCount: listImgs.length,
     textSnippet: listText.slice(0, 400),
   };
 
-  const id = listRaw.structuredContent.items[0].id;
+  const link0 = (sig.links && sig.links[0] && sig.links[0].url) || '';
+  const id = 'news-' + createHash('sha256').update(JSON.stringify([day.date, sig.originalTitle || sig.title, link0])).digest('hex').slice(0, 24);
 
   // get_news_detail 有 cover + 本地 media → 有 image、无 structuredContent
   const detailRaw = await client.callTool({ name: 'get_news_detail', arguments: { id } });
@@ -142,16 +146,18 @@ try {
     } finally { await miss.client.close(); await new Promise(r => miss.http.close(r)); }
   }
 
-  // get_report：无 image 块 → 有 structuredContent + Markdown
+  // get_report：有本地 cover → 缩略图 + 无 structuredContent
   const reportRaw = await client.callTool({ name: 'get_report', arguments: { period: 'daily', date: '2026.09.03', limit: 5 } });
   ok(!reportRaw.isError, `get_report 不应 error: ${JSON.stringify(reportRaw.content)}`);
-  ok(reportRaw.structuredContent && Array.isArray(reportRaw.structuredContent.items), 'get_report 有 structuredContent');
-  ok(!reportRaw.content.some(c => c.type === 'image'), 'get_report 不加 image 块');
+  const reportImgs = reportRaw.content.filter(c => c.type === 'image');
+  ok(reportImgs.length >= 1, 'get_report 应有缩略图 image 块');
+  ok(reportRaw.structuredContent == null, '有 image 的 get_report 省略 structuredContent');
   const reportText = reportRaw.content.find(c => c.type === 'text')?.text || '';
   ok(/!\[.+\]\(https:\/\/zhiyike\.cn\/media\//.test(reportText), 'get_report text 含 Markdown 图语法');
   samples.get_report = {
     contentTypes: reportRaw.content.map(c => c.type),
-    hasStructuredContent: true,
+    hasStructuredContent: reportRaw.structuredContent != null,
+    imageCount: reportImgs.length,
     textSnippet: reportText.slice(0, 400),
   };
   writeFileSync(path.join(outDir, 'list_news.json'), JSON.stringify(samples.list_news, null, 2));
@@ -193,4 +199,4 @@ try {
 
 writeFileSync(path.join(outDir, 'samples.json'), JSON.stringify(samples, null, 2));
 writeFileSync(path.join(outDir, 'pass.json'), JSON.stringify({ pass, outDir }, null, 2));
-console.log(`v1.2.2 A1 断言全部通过：${pass} 条。输出目录 ${outDir}`);
+console.log(`v1.2.2/1.2.3 A1+缩略图断言全部通过：${pass} 条。输出目录 ${outDir}`);

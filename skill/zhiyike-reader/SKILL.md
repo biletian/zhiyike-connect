@@ -2,7 +2,7 @@
 name: zhiyike-reader
 description: 查询知一刻已发布的 AI 新闻与详情、日报周报、产品与概念库、GitHub AI 日周榜及历史内容。用户提到知一刻，或希望从知一刻了解这些内容时使用。只读，不负责安装其他技能、修改网站或抓取任意网站。
 metadata:
-  version: "1.2.2"
+  version: "1.2.3"
   homepage: "https://zhiyike.cn/"
 ---
 
@@ -46,7 +46,7 @@ metadata:
 
 简介/来源缺失就说明未提供，不补造。没有当天匹配结果就说暂无，不偷换成历史新闻。读取失败要说暂时无法读取，不说没有新闻。传闻、预测保持原身份，不写成已发生事实。新闻按发布时间从新到旧排列。
 
-**封面图**：自 1.2.1 起，MCP 服务端 `list_news` / `get_news_detail` / `get_report` 的 text 通道已带排版好的 Markdown（含有 `cover` 时的 `![标题](cover.url)` 与图源说明）；Skill 脚本若拿到同一结构，同样按此显示。`cover.type` 为 `source` 时图下写「图源：{cover.credit}」（没有 credit 不写）；`ai_generated` 时图下写「AI 生成」，不写图源；`poster` 是站内海报，不写图源。没有 `cover` 就不显示图，不自己找图补上。`get_news_detail` 还可能附带 MCP image 内容块（站内图 base64）；没有 image 块时仍以 Markdown 外链为准。自 1.2.2 起：有图详情在部分宿主（如 Codex）会省略 `structuredContent`，只保留 `content[]`（Markdown + image），以便显示配图；无 image 时仍双通道。
+**封面图**：自 1.2.1 起，MCP 服务端 `list_news` / `get_news_detail` / `get_report` 的 text 通道已带排版好的 Markdown（含有 `cover` 时的 `![标题](cover.url)` 与图源说明）；Skill 脚本若拿到同一结构，同样按此显示。`cover.type` 为 `source` 时图下写「图源：{cover.credit}」（没有 credit 不写）；`ai_generated` 时图下写「AI 生成」，不写图源；`poster` 是站内海报，不写图源。没有 `cover` 就不显示图，不自己找图补上。`get_news_detail` 还可能附带 MCP image 内容块（站内图 base64）；`list_news` / `get_report` 也可能附缩略图 image 块；没有 image 块时仍以 Markdown 外链为准。自 1.2.2 起：有图详情在部分宿主（如 Codex）会省略 `structuredContent`，只保留 `content[]`（Markdown + image），以便显示配图。自 1.2.3 起：`list_news` / `get_report` 也会对前若干条有封面的条目附缩略图 image 块，同样在有 image 时省略 `structuredContent`；无 image 时仍双通道。
 
 产品/概念基于返回定义、介绍与来源，不能把收录范围说成全网完整范围。日报/周报保留实际期次；GitHub 榜单注明日榜/周榜和快照更新时间，不称实时排名。
 
