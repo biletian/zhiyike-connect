@@ -8,7 +8,71 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 21 Oct 2026 01:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:04:00 +0800</lastBuildDate>
+    <item>
+      <title>Battle Drones：靠音频同步的多人 RTS，由 AI 全程 vibe coding 打造</title>
+      <link>https://simonwillison.net/2026/Oct/20/battledrones/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1629710fac1fd31acad8a5e6</guid>
+      <pubDate>Wed, 21 Oct 2026 03:34:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Simon Willison 用 Claude Code 迭代 12 版做出手机可玩的 RTS，靠音频同步双人联机。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://simonwillison.net/2026/Oct/20/battledrones/"&gt;Simon Willison 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FastH3 Omni 开放权重发布：基于 MiniMax-H3，8 次前向推理出带声视频</title>
+      <link>https://haoailab.com/blogs/fastvideo-omniref-update/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4b497299939bb0911aea7536</guid>
+      <pubDate>Wed, 21 Oct 2026 03:13:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;FastH3 Omni 开放权重，支持图像、视频、语音参考条件生成同步声音视频。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://haoailab.com/blogs/fastvideo-omniref-update/"&gt;haoailab.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xb19y9/fasth3_omni_open_weight_is_here/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google 发布 TorchTPU，联手 Amazon 挑战 Nvidia 的 AI 芯片主导地位</title>
+      <link>https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5e8fcf5c3f18809bec38e531</guid>
+      <pubDate>Wed, 21 Oct 2026 02:38:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Google 开源 TorchTPU，让 PyTorch 应用无需重写即可跑在自家 TPU 上。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 上线锁定聊天功能，用 PIN 或面容 ID 保护私密对话</title>
+      <link>https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:498015176963afe4864562c5</guid>
+      <pubDate>Wed, 21 Oct 2026 02:36:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 为 ChatGPT 加入锁定聊天，敏感对话可单独隔离并加锁。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA Cosmos3-H-Dreams：用生成式仿真还原临床胆囊切除手术</title>
+      <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
+      <guid isPermaLink="false">urn:zhiyike:news:878c8cee738509d712a18890</guid>
+      <pubDate>Wed, 21 Oct 2026 02:17:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;英伟达发布首个基于临床胆囊切除录像训练的实时生成式手术模拟器&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/nvidia/cosmos3-h-dreams"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta 暂停 Muse 对话分享功能：研究人员在公开 DNS 中发现 6800 多条聊天链接</title>
+      <link>https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats</link>
+      <guid isPermaLink="false">urn:zhiyike:news:32f54e193994d369ab2fa705</guid>
+      <pubDate>Wed, 21 Oct 2026 02:07:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;安全公司 Claroc 通过公开 DNS 记录找到 6800 多条 Muse 分享链接，Meta 已暂停该功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>彭博社：埃里克·施密特持有 Anthropic 约 1% 股份，约为 CEO 达里奥·阿莫代伊的一半</title>
+      <link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cc768abde79e871bf202a47a</guid>
+      <pubDate>Wed, 21 Oct 2026 01:55:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;施密特 2021 年投资 Anthropic A 轮，如今持股约 1%，公司或年底前上市。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用户用 Argon 做 NFL 分析，3 条提示就触发用量上限</title>
+      <link>https://www.reddit.com/r/GeminiAI/comments/1xaxv67/3_prompts_and_argone/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2bd2216094d2d7896ac2889d</guid>
+      <pubDate>Wed, 21 Oct 2026 01:07:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit 用户首次用 Argon 分析 NFL，3 条短提示即耗尽额度&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/GeminiAI/comments/1xaxv67/3_prompts_and_argone/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>FairStress：评测大模型决策公平性的新基准</title>
       <link>https://huggingface.co/blog/allenai/fairstress</link>
@@ -40,6 +104,22 @@
       <pubDate>Tue, 20 Oct 2026 22:40:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;开发者用 AI 编程智能体连上电视，禁用预装包、替换启动器以减少广告。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/598.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linus Torvalds 发布首个 AI 辅助 Linux 内核补丁，合成测试性能提升 23 倍</title>
+      <link>https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself</link>
+      <guid isPermaLink="false">urn:zhiyike:news:933596ff260379f53fa2ba7b</guid>
+      <pubDate>Tue, 20 Oct 2026 22:39:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Torvalds 用 LLM 解决内核缓存争用老问题，合成基准提升 23 倍&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1xatwpw/linus_torvalds_posts_his_first_aiassisted_patch/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ornith-1.5-122B 发布：把自改进循环扩展到任务生成与脚手架</title>
+      <link>https://ornith.ai/ornith_1_5.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2d0862396d51547ec961601f</guid>
+      <pubDate>Tue, 20 Oct 2026 22:19:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Ornith 推出 1.5 版本，自改进从脚手架与 rollout 优化扩展到任务生成联合优化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ornith.ai/ornith_1_5.html"&gt;ornith.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spotify 一年内从推荐中移除超 5000 万首 AI 垃圾与 spam 歌曲</title>
@@ -714,100 +794,20 @@
       <description>&lt;p&gt;AnyLanguageModel 1.0 与 swift-huggingface 1.0、swift-xet 1.0…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel-1-0"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OpenAI 收购 Orchestra Bio，将药物开发协调平台并入 Rosalind</title>
+      <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6ef376c1f96eb8638f2cde6f</guid>
+      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 收购 Orchestra Bio，把其团队与平台并入生命科学 AI 产品 Rosalind。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/openai-to-acquire-orchestra-bio"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>新 AI 工具问世：仅凭一张面部照片即可预测癌症患者生存几率</title>
       <link>https://www.ithome.com/1/015/079.htm</link>
       <guid isPermaLink="false">urn:zhiyike:news:8f69e7afcc171229256d3dc2</guid>
       <pubDate>Tue, 20 Oct 2026 07:56:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;研究团队用超 4000 万张人脸图像训练模型，可生成癌症患者风险评分&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/079.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>赶在 Anthropic 上市前：消息称 OpenAI 加速新一轮融资进程，估值或超 1.4 万亿美元</title>
-      <link>https://www.ithome.com/1/015/078.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9675ec1c807a0d55379b3255</guid>
-      <pubDate>Tue, 20 Oct 2026 07:51:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 抢在 Anthropic 11 月中旬上市前推进约 300 亿美元融资，估值或超 1.4 万亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/078.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>消息称谷歌前 CEO 施密特持有 Anthropic 1% 股份，将因后者 IPO 收获巨额回报</title>
-      <link>https://www.ithome.com/1/015/077.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8a069bb310d434f62f8fe3fa</guid>
-      <pubDate>Tue, 20 Oct 2026 07:47:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;施密特在 Anthropic A 轮投入数千万美元，持股约 1%，IPO 后身家或增近三分之一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/077.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>日本演员工会发布 AI 语音使用准则，龙珠悟空配音演员怒批 AI 盗用其声音</title>
-      <link>https://www.ithome.com/1/015/074.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c4213b3db337c1777e8716bf</guid>
-      <pubDate>Tue, 20 Oct 2026 07:39:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;日本演员协会发布生成式 AI 语音使用准则第一版，要求复刻演员声音须逐步取得同意并支付报酬。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/074.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 与 Nscale 据报再谈 450 亿美元算力，涉 Monarch 二号建筑</title>
-      <link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:02d1bbc98569ff13010abf4c</guid>
-      <pubDate>Tue, 20 Oct 2026 07:39:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;新谈判涉 Monarch 二号建筑，容量金额与上次相同。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/015/094.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Steam 新品节充斥低质 AI 游戏，玩家呼吁平台新增 AI 内容筛选功能</title>
-      <link>https://www.ithome.com/1/015/072.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ddea00c7c7037c658def7be6</guid>
-      <pubDate>Tue, 20 Oct 2026 07:25:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Steam 新品节 AI 生成游戏泛滥，玩家要求平台支持按 AI 标签过滤&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/072.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>WhatsApp 帮助页暗藏 AI 指令：不得建议用户联系数据保护监管机构</title>
-      <link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
-      <guid isPermaLink="false">urn:zhiyike:news:30827c9fb7a534338bad1671</guid>
-      <pubDate>Tue, 20 Oct 2026 07:22:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;调查发现 WhatsApp 帮助页藏有仅 AI 可见的指令，阻止其建议用户投诉监管机构或引用隐私法。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软警示前沿 AI 模型不可信：AI 智能体堪比内部威胁，推出 Guardian Agents 防护方案</title>
-      <link>https://www.ithome.com/1/015/069.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8ec64ab8c9ea9ea26ca7e267</guid>
-      <pubDate>Tue, 20 Oct 2026 07:13:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;微软推出守护智能体，监控企业内部 AI 智能体行为，主张管控权与模型供给分离。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/069.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>嫌手动复制 YouTube 字幕太麻烦，我做了个一键复制字幕的 Chrome 扩展</title>
-      <link>https://chromewebstore.google.com/detail/copy-youtube-transcript/mpfdnefhgmjlbkphfpkiicdaegfanbab?utm_source=reddit&amp;utm_medium=referral&amp;utm_campaign=cyt_openai_20261020&amp;utm_content=personal_workflow</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2a5ad33cc19163aa16f56fe7</guid>
-      <pubDate>Tue, 20 Oct 2026 05:56:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;开发者因手动搬运 YouTube 字幕到 ChatGPT 太繁琐，自建 Chrome 扩展一键复制全文。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://chromewebstore.google.com/detail/copy-youtube-transcript/mpfdnefhgmjlbkphfpkiicdaegfanbab?utm_source=reddit&amp;amp;utm_medium=referral&amp;amp;utm_campaign=cyt_openai_20261020&amp;amp;utm_content=personal_workflow"&gt;chromewebstore.google.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1xaadpo/i_got_tired_of_manually_copying_youtube/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>旧款 TCL Beyond TV 太卡，我用 Claude 跑开源去广告脚本成功瘦身</title>
-      <link>https://github.com/Gathin23/tv-vibehack</link>
-      <guid isPermaLink="false">urn:zhiyike:news:08dd2443e3893ae54327f88e</guid>
-      <pubDate>Tue, 20 Oct 2026 05:18:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;网友用 Claude 执行开源脚本，为卡顿的 TCL 电视去除广告和预装软件。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Gathin23/tv-vibehack"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xa9f5d/old_tcl_beyond_tv_was_super_slow_so_i_tried_this/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 用户实测：MOSS 模型在图像修复上表现惊人</title>
-      <link>https://civitai.com/models/3010615/moss-image-inpainting-workflow</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9a99aa944b1f77d93872e0b1</guid>
-      <pubDate>Tue, 20 Oct 2026 05:15:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一位用户初步测试后认为 MOSS 是目前同类中最好的图像修复模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.com/models/3010615/moss-image-inpainting-workflow"&gt;civitai.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xa9cf7/i_find_moss_model_to_be_incredible_at_inpainting/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AWS 发布 TorchNeuron，一行配置让 PyTorch 应用跑上自研芯片 Trainium</title>
-      <link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9acea55baa9ff983387a6be7</guid>
-      <pubDate>Tue, 20 Oct 2026 04:09:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;AWS 推出工具，PyTorch 应用改一行配置即可迁移到自研 AI 芯片 Trainium。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
