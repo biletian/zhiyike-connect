@@ -8,7 +8,55 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 21 Oct 2026 22:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:02:00 +0800</lastBuildDate>
+    <item>
+      <title>NVIDIA Kumo Relational：无需训练即可在关系数据上超越监督学习</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
+      <guid isPermaLink="false">urn:zhiyike:news:74ca69b42b658c26733365e3</guid>
+      <pubDate>Thu, 22 Oct 2026 02:26:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;英伟达发布预训练关系基础模型，单次前向传播即可预测流失、需求或欺诈。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/nvidia/kumo-relational"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SLM 词表专用化：不改基座模型，实测推理成本降 77%</title>
+      <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
+      <guid isPermaLink="false">urn:zhiyike:news:82f26bff79fe4a4a3cb4bc33</guid>
+      <pubDate>Thu, 22 Oct 2026 01:35:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Dharma-AI 用 VocabX 重建词表，在葡语作文评分系统上把推理成本砍掉 77%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>腾讯内测 AI 互动社区“懂了鸭”：一句话生成可玩的动态课件与 3D 演示</title>
+      <link>https://www.ithome.com/1/016/145.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4a1995e2451ae6b7e68d3c98</guid>
+      <pubDate>Wed, 21 Oct 2026 23:10:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;腾讯内测面向少儿与青少年的 AI 互动内容社区，输入自然语言即可生成互动作品。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/145.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>确认延期：华为鸿蒙 HarmonyOS 7 小艺 AI 快捷栏功能预计 11 月初分批推送</title>
+      <link>https://www.ithome.com/1/016/144.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5673056ebd89febd7e180876</guid>
+      <pubDate>Wed, 21 Oct 2026 23:10:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;小艺 AI 快捷栏上线时间从 10 月底推迟至 11 月初，将按机型分批推送。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/144.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌 Gemini 对话式导航登陆 Apple CarPlay，美国车主可语音聊 Google Maps</title>
+      <link>https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e6465510b26a69f5212f458e</guid>
+      <pubDate>Wed, 21 Oct 2026 23:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;美国 CarPlay 用户现可在 Google Maps 中用 Gemini 语音助手进行多步导航对话&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IBM 发布 Granite Speech 5.0：转录、翻译与说话人归属更准更快</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b4b7fbc034d9fb4443046fa2</guid>
+      <pubDate>Wed, 21 Oct 2026 22:58:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;IBM 更新 Granite Speech 系列，新增 2B 模型并升级两款旧模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/ibm-granite/granite-speech-5"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>黄仁勋发布 AI“预制工厂”DSX POD：最快 14 天部署投产，英伟达计划 2027 年初全球交付</title>
       <link>https://www.ithome.com/1/016/138.htm</link>
@@ -32,6 +80,14 @@
       <pubDate>Wed, 21 Oct 2026 22:16:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;双方联合斯克里普斯研究所开发 AI 推理框架，用近 2000 个智能体并行分析生物实验数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/134.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LiteLLM 1.107.0 被投毒：PyPI 版本暗藏凭据窃取与后门</title>
+      <link>https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b2b9883be497d7131a7dde4b</guid>
+      <pubDate>Wed, 21 Oct 2026 22:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;恶意 1.107.0 版本在 site-packages 植入窃密脚本与远程后门，PyPI 已下架&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>调查：AI 让员工产出更漂亮，却让管理者更难评估绩效</title>
@@ -98,6 +154,14 @@
       <description>&lt;p&gt;李斌在 2026 世界智能网联汽车大会公布蔚来智驾最新数据，并提出自动驾驶下半场的两个验证指标。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/123.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OpenBMB 让 35B MoE 在 iPhone 上跑到 20.5 tok/s，不跳过专家</title>
+      <link>https://github.com/OpenBMB/llama.cpp-omni</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3a5531e38b843c0d580fc5e2</guid>
+      <pubDate>Wed, 21 Oct 2026 21:12:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenBMB 用前瞻专家调度把专家权重预加载，35B MoE 在 iPhone 上提速 6.07 倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/OpenBMB/llama.cpp-omni"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xbmsgf/35b_moe_running_at_205_toks_on_an_iphone_without/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>主动限制金融类应用操作能力，豆包手机助手更新拒绝操作应用清单</title>
       <link>https://www.ithome.com/1/016/108.htm</link>
       <guid isPermaLink="false">urn:zhiyike:news:67a3f5b47bb53d002949c780</guid>
@@ -114,12 +178,28 @@
       <description>&lt;p&gt;研究称 Qwen3-Coder 在特定提示下代码安全性下降，移除对齐后差距消失。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.hirundo.io/blog/qwen3-coder-vulnerabilities"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>MiniMax H3 角色替换实测：用参考图换人，保留原视频动作场景与声音</title>
+      <link>https://www.nextdiffusion.ai/tutorials/minimax-h3-video-character-swap-with-reference-to-video-in-comfyui</link>
+      <guid isPermaLink="false">urn:zhiyike:news:17e2a8f1f530df47bd5facdb</guid>
+      <pubDate>Wed, 21 Oct 2026 20:16:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;作者用 MiniMax H3 加 LoRA 测试角色替换约一天，称结果未挑选，并放出教程与工作流下载。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.nextdiffusion.ai/tutorials/minimax-h3-video-character-swap-with-reference-to-video-in-comfyui"&gt;nextdiffusion.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xbljy9/character_swap_minimax_h3_referencetovideo_lora/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Visa 发布三项商业支付能力：开启 AI 智能体支付试点，预测 B2B 虚拟卡价值 2029 年将达 14.6 万亿美元</title>
       <link>https://www.ithome.com/1/016/101.htm</link>
       <guid isPermaLink="false">urn:zhiyike:news:6bdd550714af0dc6b9643024</guid>
       <pubDate>Wed, 21 Oct 2026 20:15:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Visa 发布 SESA 2.0、商业欺诈防控工具，并与 BILL、Billtrust 启动 AI 智能体支付实时试点。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/101.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>零编程基础用 Claude Code 做出实时 3D 德里机场，真实航班起降可跟机</title>
+      <link>http://airport.readyaviator.com</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e2cf62c2c0a7ca618c770d12</guid>
+      <pubDate>Wed, 21 Oct 2026 20:02:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;印度考生用 Claude Code 搭建实时 3D 机场，展示真实航班动态&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://airport.readyaviator.com"&gt;airport.readyaviator.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xbl9av/built_a_live_3d_airport_with_real_flights_using/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院</title>
@@ -136,6 +216,14 @@
       <pubDate>Wed, 21 Oct 2026 18:59:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;NVIDIA 在 Hugging Face 上线免费无门槛的 SimReady 资产库，含超 2000 个…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MOSS-Image 视觉文本编码节点：把参考图直接喂进 Qwen3.5-9B 视觉塔</title>
+      <link>https://github.com/ThetaCursed/ComfyUI-MOSSImageTextEncoder</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f4a32f1d78abdca1ee5f63fb</guid>
+      <pubDate>Wed, 21 Oct 2026 18:52:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;作者为 MOSS-Image 做了 ComfyUI 自定义节点，让参考图以文本条件方式参与生成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ThetaCursed/ComfyUI-MOSSImageTextEncoder"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xbjxcr/mossimage_vision_text_encode_comfyui_node_workflow/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>NVIDIA 发布 Nemotron 3.5 Embed、Rerank 与 Parse 检索模型</title>
@@ -240,6 +328,22 @@
       <pubDate>Wed, 21 Oct 2026 15:08:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;双方将各自 CPU 优化整合进 oneDNN，让 PyTorch 在 x86 上走统一软件路径。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/866.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 联合多方修复 PHP 关键漏洞，提出 AI 时代全球漏洞响应框架</title>
+      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7580faef5b4478adb0ea7f32</guid>
+      <pubDate>Wed, 21 Oct 2026 15:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 用 GPT‑5.6 Sol 发现 PHP 关键漏洞，并联合维护者与安全厂商完成修复&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户实测 Fibo 2.0 图像编辑：360 度转视角与角色移除</title>
+      <link>https://katb.in/foqadodawow</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7fc42306a9d876ee84f5015a</guid>
+      <pubDate>Wed, 21 Oct 2026 14:22:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;本地 ComfyUI 实测 Fibo 2.0，转视角能保住书本，但发饰遮挡和换色任务翻车&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://katb.in/foqadodawow"&gt;katb.in&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xbfjik/thoughts_on_fibo_20_image_editing/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ComfyUI 标签管理器：给工作流标签加上分组、嵌套与拖拽</title>
@@ -704,110 +808,6 @@
       <pubDate>Tue, 20 Oct 2026 21:29:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;匿名屠榜的Space Bunny玉兔揭晓为MiniMax M3.1 Flash，Agent能力国模第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/504517.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>花48.62美元用Fable修好困扰数月的语音识别Bug，开发者致谢Anthropic</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1xarugt/that_was_the_best_4862_spent_on_fable_thank_you/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2eac9578a5942a7859292d74</guid>
-      <pubDate>Tue, 20 Oct 2026 21:14:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;开发者从Cursor转向Claude.ai，付费使用Fable后修复了麦克风误拾环境噪音的Bug&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xarugt/that_was_the_best_4862_spent_on_fable_thank_you/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Adobe Lightroom 移动版上线一键睁眼功能，用生成式 AI 修复闭眼照片</title>
-      <link>https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair</link>
-      <guid isPermaLink="false">urn:zhiyike:news:44cfb1ab92eede26616a7700</guid>
-      <pubDate>Tue, 20 Oct 2026 21:06:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Lightroom 移动版检测到闭眼后自动弹出 Open Eyes 快捷操作，一键用生成式 AI 补出睁眼。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair"&gt;The Verge&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/015/601.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fable 5.5 传闻核查：官方未确认，"明天发布"说法无实据</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1xaqcgn/fable_55_what_is_actually_confirmed_vs_the/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3b1ed29c129f386a1d75b5ae</guid>
-      <pubDate>Tue, 20 Oct 2026 20:05:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Reddit 网友溯源 Fable 5.5 传闻，发现官方无名称无日期，&amp;quot;明天&amp;quot;说法来自 X 上一条随机帖&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xaqcgn/fable_55_what_is_actually_confirmed_vs_the/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mistral 发布 Voxtral 3：语音智能体 SDK 与 50+ 语言语音模型</title>
-      <link>https://mistral.ai/news/voxtral-3/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:af95fe868f7b79df9a61ccf6</guid>
-      <pubDate>Tue, 20 Oct 2026 20:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Mistral 推出语音智能体 SDK 及语音转写、语音合成模型，支持 50+ 语言。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mistral.ai/news/voxtral-3/"&gt;Mistral&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ElevenLabs 发布 Eleven Realtime：语音到语音模型直接变成完整语音智能体</title>
-      <link>https://elevenlabs.io/blog/realtime</link>
-      <guid isPermaLink="false">urn:zhiyike:news:80cc48fa2c9b18cf623c3715</guid>
-      <pubDate>Tue, 20 Oct 2026 20:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;ElevenLabs 推出两款语音到语音模型，支持 90 多种语言和 17000+ 音色。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://elevenlabs.io/blog/realtime"&gt;elevenlabs.io&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小模型 Moss 一次生成约四十人泳装群像，其他模型能做到吗？</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1xaq6ee/moss_is_messing_things_up_again_can_other_models/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4ad98806103e0ce6c7132557</guid>
-      <pubDate>Tue, 20 Oct 2026 19:58:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 网友晒出小模型 Moss 生成约四十人复杂群像的效果，并询问其他模型能否做到。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xaq6ee/moss_is_messing_things_up_again_can_other_models/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>小米 MiMo-V2.6-Pro 正式上线 WorkBuddy，支持 1M 超长上下文多智能体分工协作等</title>
-      <link>https://www.ithome.com/1/015/533.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c69e7d203404e38a57acc717</guid>
-      <pubDate>Tue, 20 Oct 2026 19:50:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;小米 MiMo-V2.6-Pro 上线 WorkBuddy，智能指数 46 分居全球开源第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/533.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>宇树科技：人形机器人行业尚处商业化早期，存在估值回归的投资风险</title>
-      <link>https://www.ithome.com/1/015/529.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:649e35e401d16f15b44b2b4f</guid>
-      <pubDate>Tue, 20 Oct 2026 19:44:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;宇树科技股价三日涨幅偏离值超30%，公告提示人形机器人商业化不确定性。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/529.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Otter.ai 获 General Catalyst 增长基金 3.2 亿美元投资</title>
-      <link>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a305959d90ee3fcc0465aada</guid>
-      <pubDate>Tue, 20 Oct 2026 19:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;资金来自不稀释股权的 Customer Value Fund，将用于企业增长与海外扩张。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Yelp 上线 Check for Me：AI 语音代你打电话问餐厅等位时间</title>
-      <link>https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:396c5ffc7d769f9de5d0f1a1</guid>
-      <pubDate>Tue, 20 Oct 2026 19:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Yelp 新增语音代理功能，可代用户致电餐厅查询等位时长并短信回传结果。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vals AI：DeepSeek V4.1 Flash 1017 在多步攻击性网络安全任务上击败 GPT 6 Sol</title>
-      <link>https://x.com/ValsAI/status/2112471082397778083</link>
-      <guid isPermaLink="false">urn:zhiyike:news:433b0d847525a64e8853ba3e</guid>
-      <pubDate>Tue, 20 Oct 2026 18:59:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Vals AI 公布首个发现：其模拟企业网络攻防基准中 DeepSeek V4.1 Flash 1017 胜过 GPT…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/ValsAI/status/2112471082397778083"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软设计师也开始借助 AI 编写 Win11 代码，加速修复界面不一致问题</title>
-      <link>https://www.ithome.com/1/015/493.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ebc355a0ee7f17c8060bb948</guid>
-      <pubDate>Tue, 20 Oct 2026 18:24:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;微软设计团队用 AI 智能体写代码，推进 Win11 界面统一重构。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/493.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>华硕 a 豆 14 Air 2026 笔记本新增 16GB + 1TB 存储版：AMD AI 9 H 465 处理器，6999 元起</title>
-      <link>https://www.ithome.com/1/015/490.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:40f9812d67300328c9a965d9</guid>
-      <pubDate>Tue, 20 Oct 2026 18:18:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;华硕 a 豆 14 Air 2026 新增 16GB+1TB 版本，首发叠加国补后 5949.15 元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/490.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
