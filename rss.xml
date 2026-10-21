@@ -8,7 +8,71 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 21 Oct 2026 05:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:46:00 +0800</lastBuildDate>
+    <item>
+      <title>Meta AI 助手 Muse 上线 40 天美国下载量破千万，仅 11 款应用曾达成该纪录</title>
+      <link>https://www.ithome.com/1/015/631.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:81f610f4402c87f64d25c0e5</guid>
+      <pubDate>Wed, 21 Oct 2026 07:34:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Muse 上线 40 天美国下载 1020 万次，留存率优于 ChatGPT 等竞品。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/631.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 为 ChatGPT 推出聊天上锁功能，通过 PIN 码、生物识别保护敏感对话</title>
+      <link>https://www.ithome.com/1/015/629.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7f3d1e20c0d385a9d765f2c7</guid>
+      <pubDate>Wed, 21 Oct 2026 07:22:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;ChatGPT 新增锁定对话功能，用 PIN 码或生物识别保护隐私，锁定后对话独立分区隔离。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/629.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 需求旺盛致内存供应紧张，集邦咨询预估 2026Q4 DRAM 合约价环比涨 20%</title>
+      <link>https://www.ithome.com/1/015/627.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c39d30aa2493b1e55e53220b</guid>
+      <pubDate>Wed, 21 Oct 2026 07:17:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;集邦咨询预估 2026 年第四季度 DRAM 合约价环比上涨约 20%，涨势较前两季放缓。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/627.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌开源 TorchTPU，挑战英伟达 AI 生态主导地位</title>
+      <link>https://www.ithome.com/1/015/626.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2f30cecee9b0a4d59edc3518</guid>
+      <pubDate>Wed, 21 Oct 2026 07:14:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;谷歌开源原生 PyTorch 框架 TorchTPU，可低成本把 AI 应用迁到 TPU 与谷歌云。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/626.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>美法官驳回 Sam Altman 妹妹的性侵诉讼，不得再诉</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed</link>
+      <guid isPermaLink="false">urn:zhiyike:news:80c12c6c2093131165687932</guid>
+      <pubDate>Wed, 21 Oct 2026 07:04:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;因原告未按要求接受独立医学检查并错过期限，案件被驳回且不得再诉&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌为车载 Gemini 新增个人智能功能，可跨 Gmail、日历、地图调取数据</title>
+      <link>https://www.ithome.com/1/015/623.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d65932dedc634fa208307d03</guid>
+      <pubDate>Wed, 21 Oct 2026 06:57:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;车载 Gemini 可调取 Gmail、日历、地图等谷歌服务数据，需用户主动授权开启。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/623.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugging Face CEO 批评 Netflix 纪录片《AI Gone Rogue》失实</title>
+      <link>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:62818c15b008e1c9cb8cb9e9</guid>
+      <pubDate>Wed, 21 Oct 2026 06:24:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Hugging Face CEO 称 Netflix 纪录片夸大 AI 智能体拟人化，偏离真实技术事件。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌把个性化 Gemini 带进汽车：可读取 Gmail、日历、地图和照片</title>
+      <link>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</link>
+      <guid isPermaLink="false">urn:zhiyike:news:022ebd93783163724210911f</guid>
+      <pubDate>Wed, 21 Oct 2026 06:11:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Gemini 在车内接入个人数据，可查航班、找照片地点并直接导航&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Battle Drones：靠音频同步的多人 RTS，由 AI 全程 vibe coding 打造</title>
       <link>https://simonwillison.net/2026/Oct/20/battledrones/</link>
@@ -64,6 +128,14 @@
       <pubDate>Wed, 21 Oct 2026 01:55:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;施密特 2021 年投资 Anthropic A 轮，如今持股约 1%，公司或年底前上市。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 设计抗蝎毒蛋白结合体：318484 个设计中 17 个通过实验验证</title>
+      <link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0b5593274f679f5b23be1ce2</guid>
+      <pubDate>Wed, 21 Oct 2026 01:48:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Anthropic 让 Claude 自主设计抗蝎毒神经毒素的微型结合蛋白，211 个设计经实验室测试，17 个达标。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>用户用 Argon 做 NFL 分析，3 条提示就触发用量上限</title>
@@ -128,6 +200,14 @@
       <pubDate>Tue, 20 Oct 2026 22:18:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Spotify 称已调整推荐系统，优先展示真人创作的音乐。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价</title>
+      <link>https://www.qbitai.com/2026/10/504517.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5fba1adcdf3dfabf57d9271f</guid>
+      <pubDate>Tue, 20 Oct 2026 21:29:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;匿名屠榜的Space Bunny玉兔揭晓为MiniMax M3.1 Flash，Agent能力国模第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/504517.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>花48.62美元用Fable修好困扰数月的语音识别Bug，开发者致谢Anthropic</title>
@@ -728,86 +808,6 @@
       <pubDate>Tue, 20 Oct 2026 08:03:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;南大与UIUC对三种Coding Agent做2124次配对实验，并发收益不稳定。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/20/other/admin/119614/%e5%bd%93coding-agent%e5%bc%80%e5%a7%8b%e5%8a%a8%e6%80%81%e5%b9%b6%e8%a1%8c%ef%bc%8c%e8%bd%af%e4%bb%b6%e5%bc%80%e5%8f%91%e5%8f%98%e5%be%97%e6%9b%b4%e5%a5%bd%e4%ba%86%e5%90%97%ef%bc%9f/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code「自产自审」：九成代码不再经过人类</title>
-      <link>https://aiera.com.cn/2026/10/20/other/admin/119600/claude-code%e3%80%8c%e8%87%aa%e4%ba%a7%e8%87%aa%e5%ae%a1%e3%80%8d%ef%bc%9a%e4%b9%9d%e6%88%90%e4%bb%a3%e7%a0%81%e4%b8%8d%e5%86%8d%e7%bb%8f%e8%bf%87%e4%ba%ba%e7%b1%bb/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:db41de1878f4ef2f6dd5dc51</guid>
-      <pubDate>Tue, 20 Oct 2026 08:03:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Anthropic 博客详解 Claude Code 自动审代码流程，AI 写的代码主要由 AI 审，人只做最终签字。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/20/other/admin/119600/claude-code%e3%80%8c%e8%87%aa%e4%ba%a7%e8%87%aa%e5%ae%a1%e3%80%8d%ef%bc%9a%e4%b9%9d%e6%88%90%e4%bb%a3%e7%a0%81%e4%b8%8d%e5%86%8d%e7%bb%8f%e8%bf%87%e4%ba%ba%e7%b1%bb/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>清华期末考用了真机器人！豪掷2亿元，开进20多所高校</title>
-      <link>https://aiera.com.cn/2026/10/20/other/admin/119586/%e6%b8%85%e5%8d%8e%e6%9c%9f%e6%9c%ab%e8%80%83%e7%94%a8%e4%ba%86%e7%9c%9f%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%81%e8%b1%aa%e6%8e%b72%e4%ba%bf%e5%85%83%ef%bc%8c%e5%bc%80%e8%bf%9b20%e5%a4%9a%e6%89%80/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ce1f5bc561a3fd63ba81e387</guid>
-      <pubDate>Tue, 20 Oct 2026 08:02:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;智元向20多所高校投入超1000台真机与平台资源，总价值2亿元，共建具身智能实践平台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/20/other/admin/119586/%e6%b8%85%e5%8d%8e%e6%9c%9f%e6%9c%ab%e8%80%83%e7%94%a8%e4%ba%86%e7%9c%9f%e6%9c%ba%e5%99%a8%e4%ba%ba%ef%bc%81%e8%b1%aa%e6%8e%b72%e4%ba%bf%e5%85%83%ef%bc%8c%e5%bc%80%e8%bf%9b20%e5%a4%9a%e6%89%80/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>马斯克第三，他第一！OpenAI工程师靠重置登顶X</title>
-      <link>https://aiera.com.cn/2026/10/20/other/admin/119565/%e9%a9%ac%e6%96%af%e5%85%8b%e7%ac%ac%e4%b8%89%ef%bc%8c%e4%bb%96%e7%ac%ac%e4%b8%80%ef%bc%81openai%e5%b7%a5%e7%a8%8b%e5%b8%88%e9%9d%a0%e9%87%8d%e7%bd%ae%e7%99%bb%e9%a1%b6x/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c75641d053ad84448632e879</guid>
-      <pubDate>Tue, 20 Oct 2026 08:02:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI工程师Tibo因频繁重置Codex额度，X主页流量超过马斯克登顶&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/20/other/admin/119565/%e9%a9%ac%e6%96%af%e5%85%8b%e7%ac%ac%e4%b8%89%ef%bc%8c%e4%bb%96%e7%ac%ac%e4%b8%80%ef%bc%81openai%e5%b7%a5%e7%a8%8b%e5%b8%88%e9%9d%a0%e9%87%8d%e7%bd%ae%e7%99%bb%e9%a1%b6x/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>刚刚，OpenAI三大新模型深夜短暂上线！</title>
-      <link>https://aiera.com.cn/2026/10/20/other/admin/119550/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e4%b8%89%e5%a4%a7%e6%96%b0%e6%a8%a1%e5%9e%8b%e6%b7%b1%e5%a4%9c%e7%9f%ad%e6%9a%82%e4%b8%8a%e7%ba%bf%ef%bc%81/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d5761b7dc42d9084a888f67a</guid>
-      <pubDate>Tue, 20 Oct 2026 08:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI API后台短暂出现三个Aurora Alpha模型，撤回后仍在Arena灰度测试中被发现是图像生成模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/20/other/admin/119550/%e5%88%9a%e5%88%9a%ef%bc%8copenai%e4%b8%89%e5%a4%a7%e6%96%b0%e6%a8%a1%e5%9e%8b%e6%b7%b1%e5%a4%9c%e7%9f%ad%e6%9a%82%e4%b8%8a%e7%ba%bf%ef%bc%81/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>养成系AI玩法来了！可持续进化Personal AI，经验写进DNA</title>
-      <link>https://aiera.com.cn/2026/10/20/other/admin/119529/%e5%85%bb%e6%88%90%e7%b3%bbai%e7%8e%a9%e6%b3%95%e6%9d%a5%e4%ba%86%ef%bc%81%e5%8f%af%e6%8c%81%e7%bb%ad%e8%bf%9b%e5%8c%96personal-ai%ef%bc%8c%e7%bb%8f%e9%aa%8c%e5%86%99%e8%bf%9bdna/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7c3d3122a0d8172f340d7a8b</guid>
-      <pubDate>Tue, 20 Oct 2026 08:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;通衍灵智提出从记忆到参数的Personal AI路线，用TIP与Paged LoRA降低持续训练成本。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/20/other/admin/119529/%e5%85%bb%e6%88%90%e7%b3%bbai%e7%8e%a9%e6%b3%95%e6%9d%a5%e4%ba%86%ef%bc%81%e5%8f%af%e6%8c%81%e7%bb%ad%e8%bf%9b%e5%8c%96personal-ai%ef%bc%8c%e7%bb%8f%e9%aa%8c%e5%86%99%e8%bf%9bdna/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DeepSeek第一，MiniMax第二！国产Flash双子星杀疯了</title>
-      <link>https://aiera.com.cn/2026/10/20/other/admin/119518/deepseek%e7%ac%ac%e4%b8%80%ef%bc%8cminimax%e7%ac%ac%e4%ba%8c%ef%bc%81%e5%9b%bd%e4%ba%a7flash%e5%8f%8c%e5%ad%90%e6%98%9f%e6%9d%80%e7%96%af%e4%ba%86/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bf57259906a9e443cdd211b0</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;MiniMax发布M3.1 Flash，多项Agent基准登顶，跑完ALE仅739元&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/20/other/admin/119518/deepseek%e7%ac%ac%e4%b8%80%ef%bc%8cminimax%e7%ac%ac%e4%ba%8c%ef%bc%81%e5%9b%bd%e4%ba%a7flash%e5%8f%8c%e5%ad%90%e6%98%9f%e6%9d%80%e7%96%af%e4%ba%86/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PyTorch 2.15 为 Mac 带来 MPS 加速：FP8 支持、MoE 解码提速 5–6.5 倍</title>
-      <link>https://huggingface.co/blog/mps-pytorch-2-15</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bbcda4e713ccf2a1bfbfe17b</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Hugging Face 的 PyTorch 团队详解 2.15 版 MPS 后端在 FP8、LLM 解码与显存上的改…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/mps-pytorch-2-15"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AnyLanguageModel 1.0 发布：Apple 平台本地模型的一年</title>
-      <link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cfffd8900a2e5d63d2f6758f</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;AnyLanguageModel 1.0 与 swift-huggingface 1.0、swift-xet 1.0…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/anylanguagemodel-1-0"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 收购 Orchestra Bio，将药物开发协调平台并入 Rosalind</title>
-      <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6ef376c1f96eb8638f2cde6f</guid>
-      <pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 收购 Orchestra Bio，把其团队与平台并入生命科学 AI 产品 Rosalind。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/openai-to-acquire-orchestra-bio"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>新 AI 工具问世：仅凭一张面部照片即可预测癌症患者生存几率</title>
-      <link>https://www.ithome.com/1/015/079.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8f69e7afcc171229256d3dc2</guid>
-      <pubDate>Tue, 20 Oct 2026 07:56:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;研究团队用超 4000 万张人脸图像训练模型，可生成癌症患者风险评分&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/079.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
