@@ -8,7 +8,63 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 22 Oct 2026 03:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:17:00 +0800</lastBuildDate>
+    <item>
+      <title>Meta 将发行新一类无投票权股票，为 AI 投入与收购融资</title>
+      <link>https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings</link>
+      <guid isPermaLink="false">urn:zhiyike:news:dbe455ab7f1c564863fb3a70</guid>
+      <pubDate>Thu, 22 Oct 2026 05:30:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Meta 三季度财报宣布发行无投票权新股，2027 年开始交易。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 统一各服务安全标准，更新使用政策并推出 SafetyIDs</title>
+      <link>https://openai.com/index/broad-access-through-consistent-standards</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b5c777a9fe6e0c401e769b2f</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 更新使用政策，要求合作方安全标准与自身一致，并推出 SafetyIDs。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/broad-access-through-consistent-standards"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>沃尔玛向 AI 智能体开放购物，亚马逊仍在封堵</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b3b707c62fbf0d4b6b6d7ce9</guid>
+      <pubDate>Thu, 22 Oct 2026 03:30:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;沃尔玛下月允许用户接入自己的 AI 智能体代购，并设审批与预算限制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>沃尔玛推出 Agent Gateway，允许 AI 智能体代客下单</title>
+      <link>https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:676ad32a85f144b82289f223</guid>
+      <pubDate>Thu, 22 Oct 2026 03:30:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;沃尔玛上线 MCP 服务器与 Agent Profiles，正面迎战亚马逊封杀 AI 智能体&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mistral Large 4 发布：1.05T 总参数开源多模态模型，1M 上下文</title>
+      <link>https://docs.mistral.ai/models/mistral-large-4-0</link>
+      <guid isPermaLink="false">urn:zhiyike:news:75ce8e670ff4268bf534cfef</guid>
+      <pubDate>Thu, 22 Oct 2026 03:20:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Mistral 推出开源权重多模态模型 Large 4，激活 52B、总参数 1.05T。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://docs.mistral.ai/models/mistral-large-4-0"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Duet 研究预览：主动型 AI 智能体，由 Opus 5.5 驱动</title>
+      <link>https://claude.com/product/claude-duet</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5acb5c7ec763b0eb98cebb87</guid>
+      <pubDate>Thu, 22 Oct 2026 03:14:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Claude Duet 研究预览上线，对标 Meta Muse 与 OpenAI Dots。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/product/claude-duet"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google 员工因公司军事 AI 合同接连辞职</title>
+      <link>https://www.bbc.com/news/articles/cmreyvepnv0po</link>
+      <guid isPermaLink="false">urn:zhiyike:news:62379c42b478d59628a7a9e7</guid>
+      <pubDate>Thu, 22 Oct 2026 03:14:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;多名 Google DeepMind 员工因反对公司军事 AI 合同而辞职&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.bbc.com/news/articles/cmreyvepnv0po"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>NVIDIA Kumo Relational：无需训练即可在关系数据上超越监督学习</title>
       <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
@@ -24,6 +80,22 @@
       <pubDate>Thu, 22 Oct 2026 01:35:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Dharma-AI 用 VocabX 重建词表，在葡语作文评分系统上把推理成本砍掉 77%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RTX 3090 挖矿限制传闻再引热议：是否利好本地大模型</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xbr3u1/now_that_3090_frenzy_warning_post_makes_sense/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:498511a216fc58c9a696b436</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;有用户称 RTX 3090 存在可被利用的旧挖矿限制，或对本地大模型有利，但尚待验证。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xbr3u1/now_that_3090_frenzy_warning_post_makes_sense/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 用户实测 Qwen 3.8 Flash Next：IQ4 xs 量化版表现接近去年专业级模型</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xbqxh5/ok_fine_qwen_38_flash_next_is_nice/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:de67d3d80d5087548348480d</guid>
+      <pubDate>Wed, 21 Oct 2026 23:53:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位用户终于上手 strata 跑 Qwen 3.8 Flash Next，称其 IQ4 xs 量化版体验超出预期。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xbqxh5/ok_fine_qwen_38_flash_next_is_nice/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>腾讯内测 AI 互动社区“懂了鸭”：一句话生成可玩的动态课件与 3D 演示</title>
@@ -736,78 +808,6 @@
       <pubDate>Wed, 21 Oct 2026 00:09:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Ai2 发布 FairStress，用 300 个双候选人场景测模型决策的隐藏偏见&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/allenai/fairstress"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>30个月指数级变化：AI能力、价格与工作方式全记录</title>
-      <link>https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ef1b7cf13f3c6492769fabc3</guid>
-      <pubDate>Tue, 20 Oct 2026 23:57:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Ethan Mollick新书《Co-Existence》发布，用图表回顾30个月AI进展&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts"&gt;Ethan Mollick 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>英伟达黄仁勋劝诫欧洲各国：别再对 AI 过度犹疑，否则将被时代甩在身后</title>
-      <link>https://www.ithome.com/1/015/603.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ba2fe5687953ec3c0981edc4</guid>
-      <pubDate>Tue, 20 Oct 2026 23:11:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;黄仁勋访欧期间呼吁各国加快 AI 发展，不应过度依赖监管。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/603.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>网友用 Claude 与 Remotion 制作《蓝色狂想曲》动画短片</title>
-      <link>https://users.cs.northwestern.edu/%7Eanimation/Lasseter_1987.pdf</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d1ea45497d86e808f2a1a0fb</guid>
-      <pubDate>Tue, 20 Oct 2026 22:56:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;零动画经验的作者用 Claude 完成一部配《蓝色狂想曲》的短片，历经 8 次剪辑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://users.cs.northwestern.edu/%7Eanimation/Lasseter_1987.pdf"&gt;users.cs.northwestern.edu&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xaucgm/rhapsody_in_clawd/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>智能电视广告引不满，部分用户借助 Claude 等 AI 智能体清理广告和预装应用</title>
-      <link>https://www.ithome.com/1/015/598.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:88690bd6b1825f6ceff6faf0</guid>
-      <pubDate>Tue, 20 Oct 2026 22:40:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;开发者用 AI 编程智能体连上电视，禁用预装包、替换启动器以减少广告。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/015/598.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Linus Torvalds 发布首个 AI 辅助 Linux 内核补丁，合成测试性能提升 23 倍</title>
-      <link>https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself</link>
-      <guid isPermaLink="false">urn:zhiyike:news:933596ff260379f53fa2ba7b</guid>
-      <pubDate>Tue, 20 Oct 2026 22:39:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Torvalds 用 LLM 解决内核缓存争用老问题，合成基准提升 23 倍&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.tomshardware.com/software/linux/linus-torvalds-posts-his-first-llm-assisted-patch-to-the-linux-kernel-after-issuing-clear-pro-ai-directives-the-bossman-makes-use-of-ai-tooling-himself"&gt;tomshardware.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1xatwpw/linus_torvalds_posts_his_first_aiassisted_patch/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ornith-1.5-122B 发布：把自改进循环扩展到任务生成与脚手架</title>
-      <link>https://ornith.ai/ornith_1_5.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2d0862396d51547ec961601f</guid>
-      <pubDate>Tue, 20 Oct 2026 22:19:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Ornith 推出 1.5 版本，自改进从脚手架与 rollout 优化扩展到任务生成联合优化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ornith.ai/ornith_1_5.html"&gt;ornith.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Spotify 一年内从推荐中移除超 5000 万首 AI 垃圾与 spam 歌曲</title>
-      <link>https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d64900231dd801dabb2112f4</guid>
-      <pubDate>Tue, 20 Oct 2026 22:18:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Spotify 称已调整推荐系统，优先展示真人创作的音乐。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"&gt;The Verge&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/015/804.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Matt Pocock 的 Claude Code 习惯：5 条关于人而非 AI 的启示</title>
-      <link>https://www.youtube.com/watch?v=Z8lf5oWKfj0</link>
-      <guid isPermaLink="false">urn:zhiyike:news:756787397a18d9cdd108e92e</guid>
-      <pubDate>Tue, 20 Oct 2026 22:11:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一位开发者总结 Matt Pocock 用 Claude Code 的 5 条人类侧经验&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.youtube.com/watch?v=Z8lf5oWKfj0"&gt;youtube.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xat7xn/matt_pococks_claude_code_habits_5_takeaways_about/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价</title>
-      <link>https://www.qbitai.com/2026/10/504517.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5fba1adcdf3dfabf57d9271f</guid>
-      <pubDate>Tue, 20 Oct 2026 21:29:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;匿名屠榜的Space Bunny玉兔揭晓为MiniMax M3.1 Flash，Agent能力国模第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/504517.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
