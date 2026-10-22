@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Fri, 23 Oct 2026 03:33:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:45:00 +0800</lastBuildDate>
+    <item>
+      <title>ThinkingBox：把数据库终态校验变成 RL 奖励，Qwen3.8-27B 成功率升至 60.78%</title>
+      <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ea1dfbebf306a92aeee445c0</guid>
+      <pubDate>Fri, 23 Oct 2026 06:24:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;微软与 Hugging Face 用可执行数据库校验当奖励，GRPO 训练 50 步提升智能体可靠性&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/microsoft/thinkingbox-training"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Canva 推出首个 AI 图像模型 Canva Craft，先规划再生成</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d71b2e35d1ced8ef1c3ff384</guid>
+      <pubDate>Fri, 23 Oct 2026 05:51:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Canva 发布自研图像生成模型 Craft，采用两阶段架构，先规划设计再出图。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta 修改商业条款，法律专家称仍可抓取新闻网站训练 AI</title>
+      <link>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a6f89d36fd5cf7a4305acc40</guid>
+      <pubDate>Fri, 23 Oct 2026 04:32:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Meta 删除“训练”字样，但专家认为“开发”一词仍可涵盖训练。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SpaceX 与特斯拉设特别委员会讨论合并，马斯克称协同开发超级智能软件</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</link>
+      <guid isPermaLink="false">urn:zhiyike:news:598dfd6a6fefed343a875cbe</guid>
+      <pubDate>Fri, 23 Oct 2026 03:45:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;两家公司已成立特别委员会讨论合并，马斯克称合作开发超级智能软件有诸多好处&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 全面开放 Decisions API，决策模型竞争升温</title>
       <link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
@@ -16,6 +48,14 @@
       <pubDate>Fri, 23 Oct 2026 03:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;OpenAI 将 Decisions API 向所有客户开放，主打毫秒级决策与低成本。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 正式发布 Decisions API：基于 GPT-6 Luna，决策速度最高提升 10 倍</title>
+      <link>https://openai.com/index/decisions-api</link>
+      <guid isPermaLink="false">urn:zhiyike:news:17e44907a807c75f91801150</guid>
+      <pubDate>Fri, 23 Oct 2026 03:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 将 Decisions API 转为正式可用，专注有界答案的快速决策。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/decisions-api"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Discord 更新：Markdown 文件预览终于能正确渲染</title>
@@ -26,6 +66,14 @@
       <description>&lt;p&gt;Discord 上传的 .md 文件现在会渲染成排版整齐的预览，不再是一堆符号。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>哈佛天体物理学家论文：AI 正在圈占科学知识公地</title>
+      <link>https://arxiv.org/abs/2610.27251</link>
+      <guid isPermaLink="false">urn:zhiyike:news:07fa61d7cf404d30ae960892</guid>
+      <pubDate>Fri, 23 Oct 2026 02:28:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;arXiv 新论文借英国圈地运动史，论证 AI 能把科学文献这一信息公地变为私有财富&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2610.27251"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Meta 押注 Muse：扎克伯格设想数十亿人的 AI 代理互相通话交易</title>
       <link>https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</link>
       <guid isPermaLink="false">urn:zhiyike:news:d082eaf1438ef4bbf8becd78</guid>
@@ -34,12 +82,20 @@
       <description>&lt;p&gt;Meta 将未来押在个人 AI 代理 Muse 上，扎克伯格称其将形成大规模代理网络。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>微软称其AI诊断工具准确率最高达人类医生四倍</title>
+      <title>微软AI诊断工具称优于医生，新增SDBench基准与医疗超级智能目标</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence</link>
       <guid isPermaLink="false">urn:zhiyike:news:10d3261e5589b8af125d8f09</guid>
       <pubDate>Fri, 23 Oct 2026 02:00:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;微软发布医疗AI系统，称在病例测试中诊断准确率远超人类医生&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;微软AI诊断工具补充SDBench基准、医生对照细分及医疗超级智能计划&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence"&gt;The Verge&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1xct31u/microsoft_says_its_ai_tool_is_better_than_doctors/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA 开源 OpenShell：为自主 AI 智能体集群提供安全私有运行时</title>
+      <link>https://github.com/NVIDIA/OpenShell</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ee537444de4ab9938fc38677</guid>
+      <pubDate>Fri, 23 Oct 2026 01:44:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenShell 用内核级沙箱和形式化验证，限制智能体对文件、网络和凭据的访问。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/NVIDIA/OpenShell"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Switch 2 被破解：借助老游戏 SmileBASIC 4 与 OpenAI Codex</title>
@@ -48,6 +104,14 @@
       <pubDate>Fri, 23 Oct 2026 01:21:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;破解者用一款老游戏和 AI 辅助，让 Switch 2 跑起自定义《马力欧卡丁车世界》。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek 与 MiniMax 完成中国 AI 出口备案，可继续海外开源发布</title>
+      <link>https://www.panews.io/articles/01a16451-a3ae-72f1-985e-c32bbeb9ecd7</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7e7425706f5efbc79b4bfb4a</guid>
+      <pubDate>Fri, 23 Oct 2026 01:07:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;两家公司通过跨境审查，获准继续向海外开源模型权重并开展国际商业合作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.panews.io/articles/01a16451-a3ae-72f1-985e-c32bbeb9ecd7"&gt;panews.io&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>中国黑客攻破 ConnectWise 云备份，用 AI 代理每分钟近 3000 次登录入侵约 2250 家机构</title>
@@ -104,6 +168,14 @@
       <pubDate>Thu, 22 Oct 2026 23:38:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;黑石总裁格雷反驳格里芬的 AI 泡沫说法，称需求近乎抛物线式增长。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/752.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>蚂蚁 Ling 一天内发布第二个模型：Ling-3.0-flash-Sante，124B 总参数、5.1B 激活</title>
+      <link>https://x.com/AntLingAGI/status/2113288159845069204</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a1e7c115513c731540e8c780</guid>
+      <pubDate>Thu, 22 Oct 2026 23:22:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;蚂蚁 InclusionAI 同日再发新模型，基于 Ling-3.0-flash 打造医疗方向版本，权重已上…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/AntLingAGI/status/2113288159845069204"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xcljvi/ant_ling_just_announced_a_second_model_today/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Spotify 押注 AI 智能体：让 Agent 替用户选歌，成为被调用的音乐服务</title>
@@ -224,6 +296,14 @@
       <pubDate>Thu, 22 Oct 2026 20:09:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;小鹏第二代 VLA 端侧落地 IRON，实现实时观察与动作预测闭环。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/667.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>独立开发者用 Claude Code 打造赛博朋克像素动作冒险游戏</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xcgebb/im_building_a_cyberpunk_pixelart_action_adventure/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:160bfa26fb0def3deafb1b63</guid>
+      <pubDate>Thu, 22 Oct 2026 19:49:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;开发者用 Claude Code 写代码，一个月内完成双玩法循环，已提交约 785 次 commit。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xcgebb/im_building_a_cyberpunk_pixelart_action_adventure/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic 平台工程团队全面采用 Claude 编码，工程师转向系统设计与验证</title>
@@ -728,86 +808,6 @@
       <pubDate>Thu, 22 Oct 2026 09:15:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;通用汽车升级安吉星为互联智能平台，推出原生 AI 助手。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/200.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI 智能体可靠性遭质疑：多步任务生产失败率高达 70%~95%</title>
-      <link>https://www.reddit.com/r/AI_Agents/comments/1xc50g6/uncomfortable_truth_is_anyone_else_finding_ai/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:64fbf8e6d4112c918b450434</guid>
-      <pubDate>Thu, 22 Oct 2026 09:11:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Reddit 用户吐槽 AI 智能体多步任务常静默失败，并引用 70%~95% 生产失败率数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/AI_Agents/comments/1xc50g6/uncomfortable_truth_is_anyone_else_finding_ai/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>特斯拉加州工厂正式量产Optimus机器人，高额AI支出致第三季度利润大跌43%</title>
-      <link>https://news.aibase.com/zh/news/31785</link>
-      <guid isPermaLink="false">urn:zhiyike:news:40cb4586b750e3ab2acab65d</guid>
-      <pubDate>Thu, 22 Oct 2026 09:11:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;特斯拉Optimus人形机器人启动量产，但AI等前瞻业务支出拖累三季度净利润降43%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://news.aibase.com/zh/news/31785"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 网友打磨剪纸皮影海报风格：一张照片上下 1:1 拆成摄影与皮影戏</title>
-      <link>https://www.atlascloud.ai/models/nano-banana-2.1</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5db3f624c24338172852e143</guid>
-      <pubDate>Thu, 22 Oct 2026 09:05:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;作者分享自研提示词，把单张照片做成上下 1:1 的剪纸皮影风独立海报。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.atlascloud.ai/models/nano-banana-2.1"&gt;atlascloud.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1xc4wk1/ive_been_refining_this_papercut_shadow_puppet/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI挖出藏了十几年的底层PHP漏洞，网络安全也回不去那个旧时代了。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647687466&amp;idx=1&amp;sn=ba7ba0f3ca50ef789c17b179dd061f60</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f6aeb0214ad53650841a1e51</guid>
-      <pubDate>Thu, 22 Oct 2026 08:06:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;GPT辅助发现两个PHP远程代码执行漏洞，全球多国服务紧急下线&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;amp;mid=2647687466&amp;amp;idx=1&amp;amp;sn=ba7ba0f3ca50ef789c17b179dd061f60"&gt;数字生命卡兹克&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>刚刚，Claude首次设计出抗蝎毒蛋白！狂算64小时，已过实测</title>
-      <link>https://aiera.com.cn/2026/10/22/other/admin/119995/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e9%a6%96%e6%ac%a1%e8%ae%be%e8%ae%a1%e5%87%ba%e6%8a%97%e8%9d%8e%e6%af%92%e8%9b%8b%e7%99%bd%ef%bc%81%e7%8b%82%e7%ae%9764%e5%b0%8f%e6%97%b6%ef%bc%8c%e5%b7%b2%e8%bf%87/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ca80229866210aed5040f4ab</guid>
-      <pubDate>Thu, 22 Oct 2026 08:05:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic公开研究：内部版Claude设计蛋白，211个送测，17个通过结合测试。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/22/other/admin/119995/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e9%a6%96%e6%ac%a1%e8%ae%be%e8%ae%a1%e5%87%ba%e6%8a%97%e8%9d%8e%e6%af%92%e8%9b%8b%e7%99%bd%ef%bc%81%e7%8b%82%e7%ae%9764%e5%b0%8f%e6%97%b6%ef%bc%8c%e5%b7%b2%e8%bf%87/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>哈佛重磅研究：AI凭人脸照片，就能预测癌症患者死亡风险！</title>
-      <link>https://aiera.com.cn/2026/10/22/other/admin/119963/%e5%93%88%e4%bd%9b%e9%87%8d%e7%a3%85%e7%a0%94%e7%a9%b6%ef%bc%9aai%e5%87%ad%e4%ba%ba%e8%84%b8%e7%85%a7%e7%89%87%ef%bc%8c%e5%b0%b1%e8%83%bd%e9%a2%84%e6%b5%8b%e7%99%8c%e7%97%87%e6%82%a3%e8%80%85%e6%ad%bb/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:77d9c285a26347611f83146c</guid>
-      <pubDate>Thu, 22 Oct 2026 08:03:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;哈佛团队用4000万张人脸训练AI，仅凭照片即可评估癌症患者生存风险与生物学年龄。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/22/other/admin/119963/%e5%93%88%e4%bd%9b%e9%87%8d%e7%a3%85%e7%a0%94%e7%a9%b6%ef%bc%9aai%e5%87%ad%e4%ba%ba%e8%84%b8%e7%85%a7%e7%89%87%ef%bc%8c%e5%b0%b1%e8%83%bd%e9%a2%84%e6%b5%8b%e7%99%8c%e7%97%87%e6%82%a3%e8%80%85%e6%ad%bb/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>自进化AI「杀」进物理世界！王者峡谷屠神，从0打到全胜</title>
-      <link>https://aiera.com.cn/2026/10/22/other/admin/119947/%e8%87%aa%e8%bf%9b%e5%8c%96ai%e3%80%8c%e6%9d%80%e3%80%8d%e8%bf%9b%e7%89%a9%e7%90%86%e4%b8%96%e7%95%8c%ef%bc%81%e7%8e%8b%e8%80%85%e5%b3%a1%e8%b0%b7%e5%b1%a0%e7%a5%9e%ef%bc%8c%e4%bb%8e0%e6%89%93/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d2e5b7cb53d44acd33d97e32</guid>
-      <pubDate>Thu, 22 Oct 2026 08:03:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;爱思科技展示双进化智能系统：AI教练改战术本让战队全胜，机械臂边干活边学。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/22/other/admin/119947/%e8%87%aa%e8%bf%9b%e5%8c%96ai%e3%80%8c%e6%9d%80%e3%80%8d%e8%bf%9b%e7%89%a9%e7%90%86%e4%b8%96%e7%95%8c%ef%bc%81%e7%8e%8b%e8%80%85%e5%b3%a1%e8%b0%b7%e5%b1%a0%e7%a5%9e%ef%bc%8c%e4%bb%8e0%e6%89%93/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>走向超级智能体，AI还需要主动性：UIUC、谷歌等联合综述</title>
-      <link>https://aiera.com.cn/2026/10/22/other/admin/119920/%e8%b5%b0%e5%90%91%e8%b6%85%e7%ba%a7%e6%99%ba%e8%83%bd%e4%bd%93%ef%bc%8cai%e8%bf%98%e9%9c%80%e8%a6%81%e4%b8%bb%e5%8a%a8%e6%80%a7%ef%bc%9auiuc%e3%80%81%e8%b0%b7%e6%ad%8c%e7%ad%89%e8%81%94%e5%90%88/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:809819da65fbb8fd426656be</guid>
-      <pubDate>Thu, 22 Oct 2026 08:02:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;UIUC、谷歌等机构联合综述提出6A框架，梳理主动智能体的机制、评测与13个应用领域。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/22/other/admin/119920/%e8%b5%b0%e5%90%91%e8%b6%85%e7%ba%a7%e6%99%ba%e8%83%bd%e4%bd%93%ef%bc%8cai%e8%bf%98%e9%9c%80%e8%a6%81%e4%b8%bb%e5%8a%a8%e6%80%a7%ef%bc%9auiuc%e3%80%81%e8%b0%b7%e6%ad%8c%e7%ad%89%e8%81%94%e5%90%88/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>刚刚，黄仁勋柏林震撼演讲！PC已死，AI智能体时代全面爆发</title>
-      <link>https://aiera.com.cn/2026/10/22/other/admin/119879/%e5%88%9a%e5%88%9a%ef%bc%8c%e9%bb%84%e4%bb%81%e5%8b%8b%e6%9f%8f%e6%9e%97%e9%9c%87%e6%92%bc%e6%bc%94%e8%ae%b2%ef%bc%81pc%e5%b7%b2%e6%ad%bb%ef%bc%8cai%e6%99%ba%e8%83%bd%e4%bd%93%e6%97%b6%e4%bb%a3/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:287c45ec8f5a982b1e181c39</guid>
-      <pubDate>Thu, 22 Oct 2026 08:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;黄仁勋在GTC柏林发布RTX Spark个人Agent电脑、OpenShell安全架构与DSX POD AI工厂方案。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/22/other/admin/119879/%e5%88%9a%e5%88%9a%ef%bc%8c%e9%bb%84%e4%bb%81%e5%8b%8b%e6%9f%8f%e6%9e%97%e9%9c%87%e6%92%bc%e6%bc%94%e8%ae%b2%ef%bc%81pc%e5%b7%b2%e6%ad%bb%ef%bc%8cai%e6%99%ba%e8%83%bd%e4%bd%93%e6%97%b6%e4%bb%a3/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT聊天能上锁了！忘记PIN后重置，全部锁定对话将永久删除</title>
-      <link>https://aiera.com.cn/2026/10/22/other/admin/119849/chatgpt%e8%81%8a%e5%a4%a9%e8%83%bd%e4%b8%8a%e9%94%81%e4%ba%86%ef%bc%81%e5%bf%98%e8%ae%b0pin%e5%90%8e%e9%87%8d%e7%bd%ae%ef%bc%8c%e5%85%a8%e9%83%a8%e9%94%81%e5%ae%9a%e5%af%b9%e8%af%9d%e5%b0%86%e6%b0%b8/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3049d899b3ff6fceae968513</guid>
-      <pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI上线锁定聊天功能，用4位PIN码隐藏指定对话，但重置PIN会永久删除全部锁定聊天。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/22/other/admin/119849/chatgpt%e8%81%8a%e5%a4%a9%e8%83%bd%e4%b8%8a%e9%94%81%e4%ba%86%ef%bc%81%e5%bf%98%e8%ae%b0pin%e5%90%8e%e9%87%8d%e7%bd%ae%ef%bc%8c%e5%85%a8%e9%83%a8%e9%94%81%e5%ae%9a%e5%af%b9%e8%af%9d%e5%b0%86%e6%b0%b8/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
