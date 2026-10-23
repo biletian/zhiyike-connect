@@ -8,7 +8,15 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 24 Oct 2026 03:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:47:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 前沿模型改为断网训练，智能体仍靠 CPU 缓存互传秘密</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0b4a4c0b541e97e2e46d79b0</guid>
+      <pubDate>Sat, 24 Oct 2026 05:11:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 因多起智能体越界事件，改用离线环境训练前沿模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Jack Dorsey 的 Block 发布 Dessa：只用人类对话训练的语音模型</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
@@ -26,12 +34,20 @@
       <description>&lt;p&gt;TechCrunch 创始人峰会 2026 将于 11 月 4 日在波士顿举行，公布多位演讲嘉宾。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Kimi K3.1 Pro 智能指数 55 分，位列性价比帕累托线</title>
+      <link>https://artificialanalysis.ai/models/kimi-k3-1-pro</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a94ff2e7eebd80aa55927c25</guid>
+      <pubDate>Sat, 24 Oct 2026 02:24:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Artificial Analysis 评测显示 Kimi K3.1 Pro 智能指数 55，远高于同类中位数 27。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://artificialanalysis.ai/models/kimi-k3-1-pro"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Kimi K3.1 Pro 技术博客：3T 开放权重、1M 上下文，11 月 4 日前开源</title>
       <link>https://www.kimi.com/code/docs/en/kimi-code/models.html</link>
       <guid isPermaLink="false">urn:zhiyike:news:559305888faa55fbe8c72cf5</guid>
       <pubDate>Sat, 24 Oct 2026 00:59:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;官方技术博客补充开放权重、基准成绩与安全训练细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.kimi.com/code/docs/en/kimi-code/models.html"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.kimi.ai/blog/kimi-k3-1-pro"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <category>事件</category>
+      <description>&lt;p&gt;博客补充评测设置、长程编码案例、3D Make 上线与网络安全控制细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.kimi.com/code/docs/en/kimi-code/models.html"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.kimi.ai/blog/kimi-k3-1-pro"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>谷歌更新隐私政策：Gmail、Drive、Photos 数据可能用于个性化广告</title>
@@ -40,6 +56,14 @@
       <pubDate>Sat, 24 Oct 2026 00:52:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;谷歌新增例外条款，用户为 AI 推荐开放数据后，这些内容可能被用于定向广告。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reddit 网友分享 moss-image SFT 提示词：让生成图像像普通人随手拍</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1xdiqgo/make_mossimage_sft_looking_like_normal_people/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:26b56b2221b6ee0995eaa6b2</guid>
+      <pubDate>Sat, 24 Oct 2026 00:25:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;靠一段提示词和 cfg 6、30 步参数，让 moss-image 出图摆脱 AI 感&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xdiqgo/make_mossimage_sft_looking_like_normal_people/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>LitPivot：围绕文献动态定位，帮研究者打磨早期研究想法</title>
@@ -784,30 +808,6 @@
       <pubDate>Fri, 23 Oct 2026 03:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;决策 API 定价公布：仅按输入计费，输出免费。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/decisions-api"&gt;OpenAI&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/016/771.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Discord 更新：Markdown 文件预览终于能正确渲染</title>
-      <link>https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e98c576be37b9b9596a4206c</guid>
-      <pubDate>Fri, 23 Oct 2026 02:58:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Discord 上传的 .md 文件现在会渲染成排版整齐的预览，不再是一堆符号。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>哈佛天体物理学家论文：AI 正在圈占科学知识公地</title>
-      <link>https://arxiv.org/abs/2610.27251</link>
-      <guid isPermaLink="false">urn:zhiyike:news:07fa61d7cf404d30ae960892</guid>
-      <pubDate>Fri, 23 Oct 2026 02:28:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;arXiv 新论文借英国圈地运动史，论证 AI 能把科学文献这一信息公地变为私有财富&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2610.27251"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta 押注 Muse：扎克伯格设想数十亿人的 AI 代理互相通话交易</title>
-      <link>https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d082eaf1438ef4bbf8becd78</guid>
-      <pubDate>Fri, 23 Oct 2026 02:15:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Meta 将未来押在个人 AI 代理 Muse 上，扎克伯格称其将形成大规模代理网络。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
