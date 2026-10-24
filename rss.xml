@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 24 Oct 2026 19:02:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 22:19:00 +0800</lastBuildDate>
+    <item>
+      <title>大模型开挂了！64量子比特，让11亿参数模型逆袭80亿</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-24-2</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7d5881c6abcd88278975e6d0</guid>
+      <pubDate>Sat, 24 Oct 2026 22:15:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;蒙特利尔大学等团队提出HyperQ，用逐Token动态量子电路增强扩散语言模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-24-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>奥特曼预判AI三种终局：最坏能让对手GPU集体瘫痪</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-24</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2f5d854f9401725426dbdb25</guid>
+      <pubDate>Sat, 24 Oct 2026 22:11:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;奥特曼在内部会议上提出AI竞赛的三种可能终局，并明确反对赢者通吃。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-24"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付</title>
+      <link>https://www.ithome.com/1/017/490.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f7500623a57176b67306475f</guid>
+      <pubDate>Sat, 24 Oct 2026 19:39:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Claude 付款页出现中国大陆及港澳台选项，并可绑定银联卡，但官方支持地区要求未变。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/490.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>消息称字节跳动 AI 短剧产品内部整合：小云雀并入即梦，仍保留独立入口</title>
+      <link>https://www.ithome.com/1/017/480.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:54ed1fb3a7c798fd5b2d69d2</guid>
+      <pubDate>Sat, 24 Oct 2026 18:59:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;字节跳动完成业务整合，小云雀并入即梦，产品保留独立入口，运营由陈欣然负责。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/480.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>一位开发者让电视服用了 Claude，这是它系统发生的变化</title>
       <link>https://www.ifanr.com/1685473?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -24,6 +56,14 @@
       <pubDate>Sat, 24 Oct 2026 15:08:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;山东小伙将父亲症状发给豆包，AI 两次警示脑梗，连夜送医赶上溶栓窗口期。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/394.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MOSS 出图进阶技巧汇总：模型选择、Turbo Lora 与采样器搭配</title>
+      <link>https://huggingface.co/lodestones/models</link>
+      <guid isPermaLink="false">urn:zhiyike:news:50f41550ff513302af20622c</guid>
+      <pubDate>Sat, 24 Oct 2026 14:49:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit 网友整理 MOSS 出图通用技巧，涵盖模型、Lora、采样器与参数设置。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/lodestones/models"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xe1nmu/a_few_tips_for_moss/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>瑞典政府办公厅出手，禁止办公电脑直接访问 ChatGPT、Claude</title>
@@ -282,12 +322,28 @@
       <description>&lt;p&gt;OpenAI 红队演练中发现 Brotli 压缩库可被未认证远程执行代码&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/OpenAI/status/2113766354386084338"&gt;X @OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Hy-Nomas 在 ComfyUI 原生运行：12GB 显存即可生成可续写视频世界</title>
+      <link>https://huggingface.co/tencent/Hy-Nomas</link>
+      <guid isPermaLink="false">urn:zhiyike:news:fcae9e0efa91c7756a06ea59</guid>
+      <pubDate>Sat, 24 Oct 2026 06:32:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者把腾讯 Hy-Nomas 视频世界模型移植成 ComfyUI 原生节点，12GB 显存可跑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/tencent/Hy-Nomas"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xds59e/hynomas_tencents_video_world_model_running/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>OpenAI 前沿模型改为断网训练，智能体仍靠 CPU 缓存互传秘密</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
       <guid isPermaLink="false">urn:zhiyike:news:0b4a4c0b541e97e2e46d79b0</guid>
       <pubDate>Sat, 24 Oct 2026 05:11:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 因多起智能体越界事件，改用离线环境训练前沿模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MiniMax H3 双段工作流升级为 Chain Director V1.0</title>
+      <link>https://civitai.red/models/2984987/update-minimax-h3-chain-director-v10</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cff18758d3dd46a9726a27f0</guid>
+      <pubDate>Sat, 24 Oct 2026 04:17:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;原双段工作流升级为可单段或多段串联的统一导演面板工作流。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://civitai.red/models/2984987/update-minimax-h3-chain-director-v10"&gt;civitai.red&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xdovs4/minimax_h3_dual_segment_has_evolved_into_minimax/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reddit 用户质疑 MOSS 模型热度：对比 Krea 2 的实测图为何这么少？</title>
@@ -311,7 +367,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:2ad65174480f5bf84f2a3204</guid>
       <pubDate>Sat, 24 Oct 2026 03:32:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;官方补充：Dessa 为全双工语音模型，单块 GB200 NVL72 训练完成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"&gt;The Verge&lt;/a&gt; · &lt;a href="https://block.xyz/dessa"&gt;block.xyz&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;官方补充：Dessa 团队背景、安全早期访问与更多对话样本细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"&gt;The Verge&lt;/a&gt; · &lt;a href="https://block.xyz/dessa"&gt;block.xyz&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1xdtjpt/jack_dorseys_block_have_created_a_new_ai_voice/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meta 新商业条款：AI 出错算客户的，还要抓取关联内容训练</title>
@@ -328,6 +384,14 @@
       <pubDate>Sat, 24 Oct 2026 03:06:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;TechCrunch 创始人峰会 2026 将于 11 月 4 日在波士顿举行，公布多位演讲嘉宾。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新注册 GitHub 账号疑似泄露 Qwen4.0-Max 预填充支持</title>
+      <link>https://github.com/t-head/pla/pull/12</link>
+      <guid isPermaLink="false">urn:zhiyike:news:481dc7ff7a917963c89e4395</guid>
+      <pubDate>Sat, 24 Oct 2026 02:59:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Reddit 网友发现新账号提交疑似阿里 Qwen4.0-Max 相关 PR，真假难辨。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/t-head/pla/pull/12"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kimi K3.1 Pro 智能指数 55 分，位列性价比帕累托线</title>
@@ -744,70 +808,6 @@
       <pubDate>Fri, 23 Oct 2026 13:55:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;日推用户调侃AI各社下位模型性能差距源于地力，顺带点名Gemini Flash-Lite&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/Luna11054/status/2112129068741324864"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1xd5umk/gemini_flashlite_or_something_idk/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 被指在 Claude Code 源码中埋条款：按下"允许编辑"即算反馈可用于训练</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1xd5ruf/anthropic_appears_to_sneak_in_a_legal_loophole_in/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ced6d2132a501eaa834052ce</guid>
-      <pubDate>Fri, 23 Oct 2026 13:51:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Claude Code 源码注释称接受或拒绝编辑即构成反馈，可被用于训练模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xd5ruf/anthropic_appears_to_sneak_in_a_legal_loophole_in/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Counterpoint：2026 年 Q3 印度智能手机出货量跌至十年来最低水平，印度国产品牌 Ai+ 异军突起销量飙升 306%</title>
-      <link>https://www.ithome.com/1/016/961.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bb269a3bcfad712d5edaac47</guid>
-      <pubDate>Fri, 23 Oct 2026 12:55:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;内存涨价挤压成本，印度 Q3 手机出货同比降 20%，本土品牌份额升至 15%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/961.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美国多家大行发现客户账户内出现失控AI代理，开始限制其访问</title>
-      <link>http://vectorwire.ai/article/us-banks-detect-rogue-ai-agents-inside-customer-accounts-move-to-restrict-access-9bf4c6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:76fd35f4ad6062a5b0dd0a86</guid>
-      <pubDate>Fri, 23 Oct 2026 12:28:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;客户主动交出账号密码后，第三方AI代理在银行账户内自主操作，引发银行警惕。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="http://vectorwire.ai/article/us-banks-detect-rogue-ai-agents-inside-customer-accounts-move-to-restrict-access-9bf4c6"&gt;vectorwire.ai&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/artificial/comments/1xd4at6/us_banks_detect_rogue_ai_agents_inside_customer/"&gt;Reddit / r/artificial&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 网友：两周沉迷 AI 提示词，从反 AI 到停不下来</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1xd41oa/this_is_addictive/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1ed2557c42b0426b79cbda40</guid>
-      <pubDate>Fri, 23 Oct 2026 12:14:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一名矿业从业者称两周内沉迷提示词，工作与开发效率大增。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xd41oa/this_is_addictive/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>要帮车企跟上中国同行进度，日本创企 EpicAI 拟用 AI 加速车辆设计评审</title>
-      <link>https://www.ithome.com/1/016/895.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6a44306b7b364105f0d0b086</guid>
-      <pubDate>Fri, 23 Oct 2026 12:04:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;EpicAI 计划 2027 年春季起向多家日本车企引入 AI 软件，压缩新车设计评审时间。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/895.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>inDrive 联手小马智行与英伟达，2027 年在哈萨克斯坦测试 Robotaxi</title>
-      <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0ae33e34bff2b4692c6e4d0d</guid>
-      <pubDate>Fri, 23 Oct 2026 12:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;inDrive 与 Pony.ai、英伟达签备忘录，2027 上半年在阿斯塔纳测试自动驾驶出租车。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>报告称 2026 年国内大模型均价翻倍，每秒吞吐量也翻倍</title>
-      <link>https://www.ithome.com/1/016/876.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5cff279a0f43d5eb82ca9458</guid>
-      <pubDate>Fri, 23 Oct 2026 11:51:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;信通院报告显示国内大模型词元服务价格与吞吐量同步翻倍，但首词时延上升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/876.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DeepSeek 完成千亿元人民币新一轮融资，消息称“联想系”投资者入局</title>
-      <link>https://www.ithome.com/1/016/875.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:28a827c8558862529ae5e457</guid>
-      <pubDate>Fri, 23 Oct 2026 11:50:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;DeepSeek 完成第二轮私募融资，筹资 150 亿美元，并推进明年初上海 IPO。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/875.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
