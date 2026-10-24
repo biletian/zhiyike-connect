@@ -8,7 +8,47 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sat, 24 Oct 2026 22:19:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 01:32:00 +0800</lastBuildDate>
+    <item>
+      <title>加速科学模型Scaling Law，Scinetics发布ScienceRSI科学自我改进框架</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-24-11</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cc8d584d7d011dbbe6455840</guid>
+      <pubDate>Sat, 24 Oct 2026 23:05:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Scinetics联合高校提出ScienceRSI，通过专业化、验证、迁移、复用组织科学模型训练。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-24-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>研究：被迫二选一时，Grok 92% 选共和党，GPT 97% 选民主党</title>
+      <link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:64e35c1e5567002ce79adee1</guid>
+      <pubDate>Sat, 24 Oct 2026 23:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一项新研究发现，被强制要求推荐候选人时，Grok 与 GPT 的党派倾向高度分化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>意外！79%企业GPU利用率竟不足一半</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-24-8</link>
+      <guid isPermaLink="false">urn:zhiyike:news:48636928752c0e0d729dbca0</guid>
+      <pubDate>Sat, 24 Oct 2026 22:56:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;VentureBeat调研显示企业GPU闲置与AI预算狂飙并存，91%新平台计划缺乏财务审核ROI。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-24-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RoboTwin第一、RoboDojo领跑：Physical AI的下一轮Scaling，为什么是Physics？</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-24-6</link>
+      <guid isPermaLink="false">urn:zhiyike:news:65f89f152a8b301bb912ec75</guid>
+      <pubDate>Sat, 24 Oct 2026 22:46:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;清华李一鸣团队发布PrismWAM与RoboDoctor，从模型与系统两层探索Scaling Physics。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-24-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌开源TorchTPU！TPU成PyTorch原生设备，CUDA最深的护城河开始松动</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-24-5</link>
+      <guid isPermaLink="false">urn:zhiyike:news:11b4945b66ca7571053d243d</guid>
+      <pubDate>Sat, 24 Oct 2026 22:37:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;谷歌与Meta联合开源TorchTPU，让PyTorch原生跑在TPU上，一行代码即可迁移。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-24-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>大模型开挂了！64量子比特，让11亿参数模型逆袭80亿</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-10-24-2</link>
@@ -18,12 +58,28 @@
       <description>&lt;p&gt;蒙特利尔大学等团队提出HyperQ，用逐Token动态量子电路增强扩散语言模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-24-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>陶哲轩：OpenAI 把 722 道未解数学题答案当训练废料倾倒</title>
+      <link>https://observer.co.uk/news/science-technology/article/terence-tao-ai-turns-beautiful-mathematics-into-toxic-waste</link>
+      <guid isPermaLink="false">urn:zhiyike:news:83fdf59a12861acf3ccbf5eb</guid>
+      <pubDate>Sat, 24 Oct 2026 22:11:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;陶哲轩批评 OpenAI 为压过 Anthropic 而用 AI 群攻数学难题，产出大量粗糙证明&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://observer.co.uk/news/science-technology/article/terence-tao-ai-turns-beautiful-mathematics-into-toxic-waste"&gt;observer.co.uk&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1xe9ora/terence_tao_ai_turns_beautiful_mathematics_into/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>奥特曼预判AI三种终局：最坏能让对手GPU集体瘫痪</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-10-24</link>
       <guid isPermaLink="false">urn:zhiyike:news:2f5d854f9401725426dbdb25</guid>
       <pubDate>Sat, 24 Oct 2026 22:11:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;奥特曼在内部会议上提出AI竞赛的三种可能终局，并明确反对赢者通吃。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-24"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RTX 4090 被软件锁性能：开源模块解锁后 FP16 张量吞吐翻倍</title>
+      <link>https://github.com/JustAResearcher/gpu-unlock-ada</link>
+      <guid isPermaLink="false">urn:zhiyike:news:76c7980b12ec3b911b621bdc</guid>
+      <pubDate>Sat, 24 Oct 2026 21:07:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Linux 内核模块在驱动加载前改写 SM 速度选择，4090 实测 FP16/BF16 约翻倍；4070 Ti…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/JustAResearcher/gpu-unlock-ada"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xe8799/it_turns_our_rtx_4090_is_also_software/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xe887g/it_turns_our_rtx_4090_is_also_software/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付</title>
@@ -367,7 +423,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:2ad65174480f5bf84f2a3204</guid>
       <pubDate>Sat, 24 Oct 2026 03:32:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;官方补充：Dessa 团队背景、安全早期访问与更多对话样本细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"&gt;The Verge&lt;/a&gt; · &lt;a href="https://block.xyz/dessa"&gt;block.xyz&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1xdtjpt/jack_dorseys_block_have_created_a_new_ai_voice/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;官网补充团队背景、安全早期访问与更多对话样本细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"&gt;The Verge&lt;/a&gt; · &lt;a href="https://block.xyz/dessa"&gt;block.xyz&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1xdtjpt/jack_dorseys_block_have_created_a_new_ai_voice/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1xe8b2x/absolutely_crazy_ai_voice_model_by_block_called/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meta 新商业条款：AI 出错算客户的，还要抓取关联内容训练</title>
@@ -752,62 +808,6 @@
       <pubDate>Fri, 23 Oct 2026 15:35:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;百度世界2026设10+场分论坛，聚焦AI驱动组织跃迁与智能体落地&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/504901.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>「自变量机器人」3亿元落子合肥：具身智能如何跨过从模型到交付的门槛？</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-23-7</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9ff6d4ba2fcccb6e5233adaa</guid>
-      <pubDate>Fri, 23 Oct 2026 15:27:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;自变量机器人合肥总部项目签约，总投资约3亿元，聚焦应用型研发与交付标准化。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-23-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reddit 网友发现 Next-Concept Modeling：先粗后细并行生成，比扩散语言模型快 31 倍</title>
-      <link>https://arxiv.org/abs/2610.14162</link>
-      <guid isPermaLink="false">urn:zhiyike:news:626edb2edf71ea425c4670d1</guid>
-      <pubDate>Fri, 23 Oct 2026 15:24:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一种先学离散码层级、再并行预测细粒度码的文本生成新思路引发讨论&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://arxiv.org/abs/2610.14162"&gt;arxiv.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/"&gt;Reddit / r/MachineLearning&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>千问蒋冠军：构建Personal Agent技术框架，需要模型、记忆与生态协同推进</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-23-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0e6ef10711f1469906ecf4c0</guid>
-      <pubDate>Fri, 23 Oct 2026 15:08:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;阿里千问AI算法负责人蒋冠军在2026中国计算机大会分享Personal Agent技术框架&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-23-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>芬兰森林惨遭“剃光头”：谷歌为建 AI 数据中心非法清场 25 万棵树</title>
-      <link>https://www.ithome.com/1/017/025.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:021f49bba47ffd974b50e802</guid>
-      <pubDate>Fri, 23 Oct 2026 14:57:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;谷歌在芬兰北部未完成环评即清林建数据中心，被监管要求停工。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/025.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Science封面丨微软团队利用语言模型，在临床诊断中顺序推理</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-23-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7b57fd896d6d40812787365c</guid>
-      <pubDate>Fri, 23 Oct 2026 14:22:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;微软DxO系统在分步诊断基准上准确率超八成，同时记录检查开销&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-23-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>“AI 教父”辛顿再抛悲观论：AI 已经拥有意识，人类必须与其友好相处</title>
-      <link>https://www.ithome.com/1/016/998.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ad839e0b64a88fd5dd2c6617</guid>
-      <pubDate>Fri, 23 Oct 2026 14:18:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;辛顿称当下 AI 模型已具备意识，人类须与 AI 友好相处，否则“我们就完了”。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/016/998.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>日推调侃：AI各社下位模型性能差距是地力差，那Gemini Flash-Lite算什么</title>
-      <link>https://x.com/Luna11054/status/2112129068741324864</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b76a20299793672bd3f4d0a3</guid>
-      <pubDate>Fri, 23 Oct 2026 13:55:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;日推用户调侃AI各社下位模型性能差距源于地力，顺带点名Gemini Flash-Lite&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/Luna11054/status/2112129068741324864"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1xd5umk/gemini_flashlite_or_something_idk/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
