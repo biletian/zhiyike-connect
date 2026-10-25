@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 26 Oct 2026 01:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:46:00 +0800</lastBuildDate>
+    <item>
+      <title>10年前的老CNN在皮肤癌诊断上击败GPT-6 Astra与Claude Fable 5.1</title>
+      <link>https://lynchlab.net/llm-skin-cancer</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8533615fd3d49cf9358f52a3</guid>
+      <pubDate>Mon, 26 Oct 2026 01:15:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;200例活检确诊皮损测试中，2015年的Inception v3微调后诊断准确率62%，两个前沿LLM均为42%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lynchlab.net/llm-skin-cancer"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>伯克利数学教授因学生普遍用 AI 不再批改作业</title>
+      <link>https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ec587cc8aecc02efc7d9dabd</guid>
+      <pubDate>Mon, 26 Oct 2026 00:28:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;菲尔兹奖得主 Borcherds 称学生用 AI 拿满分，批改作业已无意义&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>国内首部 AI 院线长片《三星堆：未来往事》，票房过百万</title>
       <link>https://www.ithome.com/1/017/719.htm</link>
@@ -136,6 +152,14 @@
       <pubDate>Sun, 25 Oct 2026 17:17:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;马来西亚总理安瓦尔宣布，孙正义计划在马来西亚投资 500 亿美元，涉及 AI 与数据中心。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/637.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 工具更新太快，创作者直呼跟不上：从 Minimax H3 到 Singularity 的疲惫</title>
+      <link>https://www.reddit.com/r/StableDiffusion/comments/1xex586/anyone_else_getting_overwhelmed/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8c113824c1d278d4131db858</guid>
+      <pubDate>Sun, 25 Oct 2026 16:40:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位创作者吐槽 AI 工具迭代过快，自己不断追新却让项目创意搁置，并向同行求教如何保持专注。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xex586/anyone_else_getting_overwhelmed/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>阿里 AI 智能体“千问 Go！”上线“我的应用”功能：可帮助用户搭建长期、可分享的专属应用</title>
@@ -784,30 +808,6 @@
       <pubDate>Sat, 24 Oct 2026 08:03:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;至知创新研究院公开IQuest-Q1完整技术报告，披露30项评测成绩与训练细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/24/other/admin/120247/100%e4%b8%87%e9%81%93%e5%ae%9e%e6%88%98%e9%a2%98%ef%bc%8c%e8%bf%98%e5%be%97%e9%98%b2ai%e4%bd%9c%e5%bc%8a%ef%bc%81320b%e5%9b%bd%e4%ba%a7%e5%9f%ba%e6%a8%a1%e6%8a%80%e6%9c%af%e7%bb%86%e8%8a%82%e6%8f%ad/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>RSI两大里程碑发布！单人手搓千亿模型，英伟达大佬教「保命」法则</title>
-      <link>https://aiera.com.cn/2026/10/24/other/admin/120232/rsi%e4%b8%a4%e5%a4%a7%e9%87%8c%e7%a8%8b%e7%a2%91%e5%8f%91%e5%b8%83%ef%bc%81%e5%8d%95%e4%ba%ba%e6%89%8b%e6%90%93%e5%8d%83%e4%ba%bf%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%8b%b1%e4%bc%9f%e8%be%be%e5%a4%a7/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6846599ea6f2963516af7990</guid>
-      <pubDate>Sat, 24 Oct 2026 08:02:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;两家初创公司发布RSI成果，AI智能体编写超99%代码，单人训出百亿至千亿参数编程基座模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/24/other/admin/120232/rsi%e4%b8%a4%e5%a4%a7%e9%87%8c%e7%a8%8b%e7%a2%91%e5%8f%91%e5%b8%83%ef%bc%81%e5%8d%95%e4%ba%ba%e6%89%8b%e6%90%93%e5%8d%83%e4%ba%bf%e6%a8%a1%e5%9e%8b%ef%bc%8c%e8%8b%b1%e4%bc%9f%e8%be%be%e5%a4%a7/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌 CEO 皮查伊：距离 AI 能自我改进的“最终状态”，我们还有很长的路要走</title>
-      <link>https://www.ithome.com/1/017/290.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a1ab20ffcdece8cb5990d0ed</guid>
-      <pubDate>Sat, 24 Oct 2026 07:37:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;皮查伊称 AI 智能体已辅助模型研发，但递归自我改进仍处起步阶段&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/290.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击</title>
-      <link>https://www.ithome.com/1/017/289.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:dee1cf50bb25c50bab1fe058</guid>
-      <pubDate>Sat, 24 Oct 2026 07:33:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 宣布前沿模型训练期间不得直接访问实时互联网，并构建离线沙箱环境。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/289.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
