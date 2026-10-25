@@ -8,7 +8,23 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Mon, 26 Oct 2026 03:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:16:00 +0800</lastBuildDate>
+    <item>
+      <title>Grok 发布 AI 生成《奥德赛》首集，时长七分钟</title>
+      <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2e4b4c73e9854b84b2f560a8</guid>
+      <pubDate>Mon, 26 Oct 2026 05:31:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;马斯克旗下 Grok 兑现三个月前的承诺，放出 AI 版《奥德赛》第一集。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ComfyUI 拉链扎带扩展：把连线捆成彩色线束</title>
+      <link>https://github.com/safzanpirani/comfyui-zip-ties</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2555f090be791b070303cc0a</guid>
+      <pubDate>Mon, 26 Oct 2026 02:30:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一个前端扩展用扎带把 ComfyUI 连线捆成线束，支持手势打结、移动与剪断。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/safzanpirani/comfyui-zip-ties"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xf9x6j/zipties_in_comfyui/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>10年前的老CNN在皮肤癌诊断上击败GPT-6 Astra与Claude Fable 5.1</title>
       <link>https://lynchlab.net/llm-skin-cancer</link>
@@ -186,6 +202,14 @@
       <description>&lt;p&gt;星闪 3.0 标准成果在深圳发布，已正式发布无损音频等三项标准。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/620.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Claude Code 打补丁，让 Flight Simulator 95/98 在 64 位 Windows 上运行</title>
+      <link>https://www.mediafire.com/file/jk0v86lv407hs3s/FS95_and_FS98_Win64_patcher.zip/file</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4c5f8c76b0971352ecf8a870</guid>
+      <pubDate>Sun, 25 Oct 2026 15:46:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;作者用 Claude Code 修补旧游戏代码，解决除零异常导致的崩溃。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.mediafire.com/file/jk0v86lv407hs3s/FS95_and_FS98_Win64_patcher.zip/file"&gt;mediafire.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xew9ma/flight_simulator_9598_finally_running_on_64bit/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI 云厂商 Nscale“摊上事了”，被前工程师指控报复性解雇、违法使用分包人员</title>
       <link>https://www.ithome.com/1/017/618.htm</link>
       <guid isPermaLink="false">urn:zhiyike:news:0f1bcb5348aeb8a91644bfdd</guid>
@@ -224,6 +248,14 @@
       <pubDate>Sun, 25 Oct 2026 14:06:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;路透社采访的七名专家称，AI 让漏洞发现数量同比翻倍，攻击工具开发缩短至数小时。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/592.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>如果 Claude 几乎能构建任何应用，软件开发行业的未来在哪里？</title>
+      <link>https://www.reddit.com/r/ClaudeAI/comments/1xesfpc/if_claude_can_build_almost_any_app_what_is_the/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:be3dd2c555cf2f51efb3260a</guid>
+      <pubDate>Sun, 25 Oct 2026 12:02:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一位软件公司老板发问：当通用应用随手可造，开发者该转向什么？&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xesfpc/if_claude_can_build_almost_any_app_what_is_the/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>三名被解雇的 OpenAI 安全研究员否认泄密，怀疑因推动 AI 透明度被针对</title>
@@ -776,38 +808,6 @@
       <pubDate>Sat, 24 Oct 2026 08:17:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic将默认开启Claude自动模式，由AI代替人类审批每一步操作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/24/other/admin/120308/%e5%88%9a%e5%88%9a%ef%bc%8cclaude%e8%87%aa%e5%8a%a8%e6%a8%a1%e5%bc%8f%e5%b0%86%e5%85%a8%e7%90%83%e4%b8%8a%e7%ba%bf%ef%bc%81openai%e6%9b%9d%e5%87%ba%e6%9c%80%e6%81%90%e6%80%96%e4%b8%80%e5%b9%95/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude狂写1.8亿行证明！万亿次测试漏掉的Bug，被AI一锅端</title>
-      <link>https://aiera.com.cn/2026/10/24/other/admin/120295/claude%e7%8b%82%e5%86%991-8%e4%ba%bf%e8%a1%8c%e8%af%81%e6%98%8e%ef%bc%81%e4%b8%87%e4%ba%bf%e6%ac%a1%e6%b5%8b%e8%af%95%e6%bc%8f%e6%8e%89%e7%9a%84bug%ef%bc%8c%e8%a2%abai%e4%b8%80%e9%94%85%e7%ab%af/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:061ed160fb860382f32a89c6</guid>
-      <pubDate>Sat, 24 Oct 2026 08:16:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic让Claude对123个开源库做形式化验证，写出1.8亿行通过机器核验的证明。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/24/other/admin/120295/claude%e7%8b%82%e5%86%991-8%e4%ba%bf%e8%a1%8c%e8%af%81%e6%98%8e%ef%bc%81%e4%b8%87%e4%ba%bf%e6%ac%a1%e6%b5%8b%e8%af%95%e6%bc%8f%e6%8e%89%e7%9a%84bug%ef%bc%8c%e8%a2%abai%e4%b8%80%e9%94%85%e7%ab%af/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>华为官宣 Mate 90 系列手机上线全新睿影 XMAGE 影像服务，图库升级支持 AI 一键成片等功能</title>
-      <link>https://www.ithome.com/1/017/295.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9c6d209bc5cfcb92cb332182</guid>
-      <pubDate>Sat, 24 Oct 2026 08:14:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;华为 Mate 90 系列新增睿影 XMAGE 影像服务，图库同步升级多项 AI 功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/295.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>扎克伯格的 AI 新版图：买下 Sundial 让数据分析变成“聊天”那么简单</title>
-      <link>https://www.ithome.com/1/017/294.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:afaeed5d2af34a55e8f7ae8d</guid>
-      <pubDate>Sat, 24 Oct 2026 08:08:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Meta 收购前员工创办的 AI 数据分析平台 Sundial，让业务团队用自然语言直接问数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/294.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>100万道实战题，还得防AI作弊！320B国产基模技术细节揭秘</title>
-      <link>https://aiera.com.cn/2026/10/24/other/admin/120247/100%e4%b8%87%e9%81%93%e5%ae%9e%e6%88%98%e9%a2%98%ef%bc%8c%e8%bf%98%e5%be%97%e9%98%b2ai%e4%bd%9c%e5%bc%8a%ef%bc%81320b%e5%9b%bd%e4%ba%a7%e5%9f%ba%e6%a8%a1%e6%8a%80%e6%9c%af%e7%bb%86%e8%8a%82%e6%8f%ad/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:845afd65b42374b92f9c0995</guid>
-      <pubDate>Sat, 24 Oct 2026 08:03:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;至知创新研究院公开IQuest-Q1完整技术报告，披露30项评测成绩与训练细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/24/other/admin/120247/100%e4%b8%87%e9%81%93%e5%ae%9e%e6%88%98%e9%a2%98%ef%bc%8c%e8%bf%98%e5%be%97%e9%98%b2ai%e4%bd%9c%e5%bc%8a%ef%bc%81320b%e5%9b%bd%e4%ba%a7%e5%9f%ba%e6%a8%a1%e6%8a%80%e6%9c%af%e7%bb%86%e8%8a%82%e6%8f%ad/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
