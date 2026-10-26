@@ -8,7 +8,31 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 27 Oct 2026 01:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:46:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic 提交 S-1 草案，Gary Marcus 指出其隐去了 Q3 数据</title>
+      <link>https://garymarcus.substack.com/p/what-anthropic-left-out-of-their</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b37d41f2bfe6d4a2e74c3357</guid>
+      <pubDate>Tue, 27 Oct 2026 01:57:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Gary Marcus 称 Anthropic 在 S-1 草案中略去了第三季度相关信息&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/what-anthropic-left-out-of-their"&gt;Gary Marcus 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 把普通技术求助者引向 404 Media</title>
+      <link>https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e0b5922ff25126e27c415fa3</guid>
+      <pubDate>Tue, 27 Oct 2026 01:32:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;因大厂客服缺位，ChatGPT 建议用户把日常技术问题当新闻线索发给记者。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The RealReal 升级机器人防御，阻止 AI 智能体长时间占用二手奢侈品</title>
+      <link>https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ae81285ef54c0b5df1b9e010</guid>
+      <pubDate>Tue, 27 Oct 2026 01:30:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;二手奢侈品平台 The RealReal 更新机器人防御，限制 AI 智能体登录、加购和结账。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic 递交 IPO 招股书：五个不寻常细节</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</link>
@@ -120,6 +144,14 @@
       <pubDate>Mon, 26 Oct 2026 20:26:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Meta 拟通过售股募资至多 950 亿美元，英伟达、AMD、博通有意认购。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/018/144.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 发布 Signals 数据：覆盖近 100 个国家、165 类工作活动</title>
+      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cd51d5ddcb7d5a010a74c02a</guid>
+      <pubDate>Mon, 26 Oct 2026 18:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 公开 ChatGPT 工作用途数据，覆盖近 100 国、165 类工作活动。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/chatgpt-expanding-world-of-work"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验</title>
@@ -498,12 +530,12 @@
       <description>&lt;p&gt;一位临床医生兼耳鸣患者指出，人类医学对耳鸣等常见顽疾几乎束手无策，AI 或是突破口。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.bionicsinstitute.org/get-involved/participate-in-research-studies/"&gt;bionicsinstitute.org&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1xfggem/one_of_the_most_common_items_on_peoples/"&gt;Reddit / r/singularity&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>OpenFill：在自建 ComfyUI 上为 PhotoCraft 免费实现生成式填充</title>
+      <title>OpenFill 0.2.3 登陆 PhotoCraft：自建 ComfyUI 免费生成式填充</title>
       <link>https://github.com/beckettharriman/openfill</link>
       <guid isPermaLink="false">urn:zhiyike:news:74154192bbeb77185735ad7a</guid>
       <pubDate>Mon, 26 Oct 2026 06:55:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;开发者因不愿每月付费 Adobe，自建 OpenFill 把生成式填充接入 GIMP 3 和 PhotoCraft。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/beckettharriman/openfill"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xfgdff/free_generative_fill_for_photocraft_on_your_own/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenFill 为 PhotoCraft 带来 0.2.3 版，新增 AMD 与 Apple Silicon 支持。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/beckettharriman/openfill"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xfgdff/free_generative_fill_for_photocraft_on_your_own/"&gt;Reddit / r/comfyui&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xfgbeu/openfill_now_runs_in_photocraft_free_local/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CrowdGPT：众包协作训练10亿参数开源大模型，训练数据100%公开</title>
@@ -776,38 +808,6 @@
       <pubDate>Sun, 25 Oct 2026 14:55:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;AIVA 全球首家 AI 生活实验室落地重庆光环购物公园，展出 ME7 实车并设火山生态体验区。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/602.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>特斯拉确认正自研 AI 地图，将随 FSD v15 逐步推送</title>
-      <link>https://www.ithome.com/1/017/597.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:daf2db95efe8eab4f45ff942</guid>
-      <pubDate>Sun, 25 Oct 2026 14:34:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;特斯拉宣布自研基于 AI 的地图导航系统，将随 FSD v15 上线。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/597.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开发者训练 4B 模型 Qwen3.5-4B 微调版，可生成 3D 场景</title>
-      <link>https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2516fa66bccfdc75aadb7d53</guid>
-      <pubDate>Sun, 25 Oct 2026 14:10:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;一位开发者分享其训练的 4B 通用编程与 3D 场景生成模型早期版本，训练仍在进行中。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>网络安全专家：AI 发现的漏洞，很快或将引发新的安全隐患</title>
-      <link>https://www.ithome.com/1/017/592.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e7631a45378ba1683494c4b3</guid>
-      <pubDate>Sun, 25 Oct 2026 14:06:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;路透社采访的七名专家称，AI 让漏洞发现数量同比翻倍，攻击工具开发缩短至数小时。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/017/592.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>如果 Claude 几乎能构建任何应用，软件开发行业的未来在哪里？</title>
-      <link>https://www.reddit.com/r/ClaudeAI/comments/1xesfpc/if_claude_can_build_almost_any_app_what_is_the/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:be3dd2c555cf2f51efb3260a</guid>
-      <pubDate>Sun, 25 Oct 2026 12:02:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;一位软件公司老板发问：当通用应用随手可造，开发者该转向什么？&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xesfpc/if_claude_can_build_almost_any_app_what_is_the/"&gt;reddit.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
