@@ -6,6 +6,8 @@
 
 [Site](https://zhiyike.cn/) · [MCP](https://zhiyike.cn/mcp) · [Skill install](https://zhiyike.cn/skills/install.html) · [RSS](https://zhiyike.cn/rss.xml) · [MIT License](LICENSE)
 
+[![Zhiyike MCP connector](https://glama.ai/mcp/connectors/cn.zhiyike/zhiyike/badges/score.svg)](https://glama.ai/mcp/connectors/cn.zhiyike/zhiyike) · [Official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.biletian/zhiyike) (`io.github.biletian/zhiyike`)
+
 ## Install in one copy
 
 ### MCP
@@ -41,7 +43,7 @@ The name used on the site is `知一刻内容`. A saved URL is not connected unt
 The Skill does not edit your MCP config. It needs Python 3.10+ and network access to `https://zhiyike.cn`.
 
 - Install guide: <https://zhiyike.cn/skills/install.html>
-- Current zip (v1.2.3): <https://zhiyike.cn/skills/zhiyike-reader.zip>
+- Current zip (v1.2.4): <https://zhiyike.cn/skills/zhiyike-reader.zip>
 - Same zip on GitHub Releases: <https://github.com/biletian/zhiyike-connect/releases/latest/download/zhiyike-reader.zip>
 - SHA-256: `78b91793e3fd971e151d332cbd453ce205dcab470f2e43bbe5149b44de8d120f` (8149 bytes)
 
@@ -57,7 +59,7 @@ The Skill does not edit your MCP config. It needs Python 3.10+ and network acces
 
 # 知一刻｜更快看清 AI 行业正在发生什么
 
-[访问官网](https://zhiyike.cn/) · [连接 MCP](https://zhiyike.cn/mcp) · [安装 Skill](https://zhiyike.cn/skills/install.html) · [订阅 RSS](https://zhiyike.cn/rss.xml)
+[访问官网](https://zhiyike.cn/) · [连接 MCP](https://zhiyike.cn/mcp) · [安装 Skill](https://zhiyike.cn/skills/install.html) · [订阅 RSS](https://zhiyike.cn/rss.xml) · [Glama](https://glama.ai/mcp/connectors/cn.zhiyike/zhiyike) · [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.biletian/zhiyike)
 
 **知一刻**是一款面向中文用户的 AI 信息判断工具。它持续收集国内外 AI 新闻、产品更新、模型发布、人物观点、技术概念与 GitHub 热门项目，并经过正文读取、信息核实、重复识别和多来源合并，整理成更容易阅读和判断的中文内容。
 
@@ -159,7 +161,7 @@ The Skill does not edit your MCP config. It needs Python 3.10+ and network acces
 Skill 源码位于 [`skill/zhiyike-reader/`](skill/zhiyike-reader/)，安装包位于 [`skill/download/`](skill/download/)。正式安装说明请查看：
 
 - [知一刻 Skill 安装说明](https://zhiyike.cn/skills/install.html)
-- [正式 Skill 安装包](https://zhiyike.cn/skills/zhiyike-reader.zip)（当前 v1.2.3）
+- [正式 Skill 安装包](https://zhiyike.cn/skills/zhiyike-reader.zip)（当前 v1.2.4）
 - [GitHub Release 安装包](https://github.com/biletian/zhiyike-connect/releases/latest/download/zhiyike-reader.zip)
 
 Skill 使用 Python 标准库连接正式只读 MCP，不要求用户提供知一刻密钥，也不会修改已有 MCP 配置。安装环境需要允许执行 Skill 附带的脚本，并能访问 `https://zhiyike.cn`。
@@ -180,7 +182,7 @@ GitHub 备用地址：
 
 - [`mcp/`](mcp/)：只读 Streamable HTTP MCP 的公开源码、本地测试和示例数据。
 - [`skill/zhiyike-reader/`](skill/zhiyike-reader/)：知一刻 Reader Skill 源码。
-- [`skill/download/`](skill/download/)：仓库内保存的 Skill 安装包和校验清单。对外安装以官网安装页和 GitHub Release 附件为准（当前 v1.2.3）。
+- [`skill/download/`](skill/download/)：仓库内保存的 Skill 安装包和校验清单。对外安装以官网安装页和 GitHub Release 附件为准（当前 v1.2.4）。
 - [`rss.xml`](rss.xml)：由 GitHub 自动任务维护的 RSS 备用副本。
 - [`.github/workflows/update-rss.yml`](.github/workflows/update-rss.yml)：RSS 备用镜像同步任务。
 
