@@ -8,7 +8,39 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Thu, 29 Oct 2026 03:33:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:32:00 +0800</lastBuildDate>
+    <item>
+      <title>Google 将 AI 搜索广告推向全球，核心搜索广告增速持续放缓</title>
+      <link>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7ae1b4aa2d790375658b2193</guid>
+      <pubDate>Thu, 29 Oct 2026 05:48:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Google 首次把 AI 模式中的广告扩展到国际市场，同时核心搜索广告增速降至 12%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>全球 AI 基建风向标：英伟达于太平洋时间 11 月 17 日公布 2027 财年第 3 财季财报</title>
+      <link>https://www.ithome.com/1/019/263.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b9c63577778125917e80e4d2</guid>
+      <pubDate>Thu, 29 Oct 2026 05:18:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;英伟达定于 11 月 17 日美股盘后公布 2027 财年第三财季业绩&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/019/263.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌最强 AI 模型：Gemini 4 Carbon 登顶全球智能指数榜首，“专职”做网络安全</title>
+      <link>https://www.ithome.com/1/019/240.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:082e4a4daf8a647303daf8ae</guid>
+      <pubDate>Thu, 29 Oct 2026 04:51:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;谷歌推出新一代大模型 Gemini 4 Carbon，综合得分 59 登顶 Artificial Analysis 智…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/019/240.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌 2026Q3 财报暴露 AI 变现焦虑，股价盘后暴跌逾 7%</title>
+      <link>https://www.ithome.com/1/019/261.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:144565a1d66f4bc270e47f3e</guid>
+      <pubDate>Thu, 29 Oct 2026 04:38:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Alphabet 第三财季营收 1276 亿美元，但每股收益 2.12 美元远低于预期，盘后跌逾 7%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/019/261.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Wiz CTO 谈 PHP2Shell 漏洞与即将到来的“漏洞末日”</title>
       <link>https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/</link>
@@ -50,20 +82,20 @@
       <description>&lt;p&gt;苹果发布首款触控屏 MacBook Pro，首次把灵动岛带到 Mac 上。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/019/245.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Gemini 4 Carbon 发布：网络安全与长程任务能力大幅提升</title>
+      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:96050609233d72ace4a8a6c1</guid>
+      <pubDate>Thu, 29 Oct 2026 01:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Carbon 发布，新增安全对齐、提示注入防御与政府预发布测试等细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/GeminiAI/comments/1xhu2sn/gemini_4_carbon_annonced/"&gt;Reddit / r/GeminiAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chrome 的 AI 自动填充升级，可从 Gmail 中提取信息填表</title>
       <link>https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/</link>
       <guid isPermaLink="false">urn:zhiyike:news:419bd48b6327bd5365fd685b</guid>
       <pubDate>Thu, 29 Oct 2026 01:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Chrome 新增 AI 自动填充，可从 Gmail 中提取航班号、订单号等信息填入表单。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon 发布：网络安全与长程任务能力大幅提升</title>
-      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:96050609233d72ace4a8a6c1</guid>
-      <pubDate>Thu, 29 Oct 2026 01:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Carbon 发布，新增安全对齐、提示注入防御与政府预发布测试等细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google 推出 Connected Apps 平台，让第三方应用接入 Gemini 与搜索</title>
@@ -120,6 +152,14 @@
       <pubDate>Wed, 28 Oct 2026 22:23:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;南洋理工等团队提出 NV-CoT，用连续数值坐标替代文本 token 做区域选择，定位 IoU 提升 12.2 个百分…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-28-12"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cursor 发布 Agent SDK：用代码定义并部署团队智能体</title>
+      <link>https://cursor.com/blog/agent-sdk</link>
+      <guid isPermaLink="false">urn:zhiyike:news:157ded0c5a474f23aca92b78</guid>
+      <pubDate>Wed, 28 Oct 2026 22:02:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Cursor 推出 Agent SDK，可用代码定义智能体并一键部署到其基础设施。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://cursor.com/blog/agent-sdk"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Meta 悄然上线“AI 宠物日记”应用 Waddle World</title>
@@ -768,46 +808,6 @@
       <pubDate>Tue, 27 Oct 2026 09:04:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;iOS 27.2 为 AI 生成与编辑图片加入 SynthID 水印，可查验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/018/229.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/018/218.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/31877"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>马斯克：人类在ASI面前是黑猩猩，未来所有钱和工作都将清零！</title>
-      <link>https://aiera.com.cn/2026/10/27/other/admin/120815/%e9%a9%ac%e6%96%af%e5%85%8b%ef%bc%9a%e4%ba%ba%e7%b1%bb%e5%9c%a8asi%e9%9d%a2%e5%89%8d%e6%98%af%e9%bb%91%e7%8c%a9%e7%8c%a9%ef%bc%8c%e6%9c%aa%e6%9d%a5%e6%89%80%e6%9c%89%e9%92%b1%e5%92%8c%e5%b7%a5/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:73b09ac4ffc07db344b52456</guid>
-      <pubDate>Tue, 27 Oct 2026 08:02:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;马斯克在访谈中称超级AI不屑统治人类，人类将面临被系统性无视。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/27/other/admin/120815/%e9%a9%ac%e6%96%af%e5%85%8b%ef%bc%9a%e4%ba%ba%e7%b1%bb%e5%9c%a8asi%e9%9d%a2%e5%89%8d%e6%98%af%e9%bb%91%e7%8c%a9%e7%8c%a9%ef%bc%8c%e6%9c%aa%e6%9d%a5%e6%89%80%e6%9c%89%e9%92%b1%e5%92%8c%e5%b7%a5/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>让决策成为模型设计的起点！NUS推出原生System One架构</title>
-      <link>https://aiera.com.cn/2026/10/27/other/admin/120796/%e8%ae%a9%e5%86%b3%e7%ad%96%e6%88%90%e4%b8%ba%e6%a8%a1%e5%9e%8b%e8%ae%be%e8%ae%a1%e7%9a%84%e8%b5%b7%e7%82%b9%ef%bc%81nus%e6%8e%a8%e5%87%ba%e5%8e%9f%e7%94%9fsystem-one%e6%9e%b6%e6%9e%84/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5566ab2a567441dee7a46dca</guid>
-      <pubDate>Tue, 27 Oct 2026 08:02:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;新加坡国立大学xML Lab提出Jeva，把答案缺席、顺序不变、候选扩展与计算复用写进决策架构。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/27/other/admin/120796/%e8%ae%a9%e5%86%b3%e7%ad%96%e6%88%90%e4%b8%ba%e6%a8%a1%e5%9e%8b%e8%ae%be%e8%ae%a1%e7%9a%84%e8%b5%b7%e7%82%b9%ef%bc%81nus%e6%8e%a8%e5%87%ba%e5%8e%9f%e7%94%9fsystem-one%e6%9e%b6%e6%9e%84/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>别学编程了！Anthropic CEO 直言：代码工作快速消失，人类应该学弹钢琴</title>
-      <link>https://aiera.com.cn/2026/10/27/other/admin/120767/%e5%88%ab%e5%ad%a6%e7%bc%96%e7%a8%8b%e4%ba%86%ef%bc%81anthropic-ceo%e7%9b%b4%e8%a8%80%ef%bc%9a%e4%bb%a3%e7%a0%81%e5%b7%a5%e4%bd%9c%e5%bf%ab%e9%80%9f%e6%b6%88%e5%a4%b1%ef%bc%8c%e4%ba%ba%e7%b1%bb/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f75f930d788fb719dd2a113c</guid>
-      <pubDate>Tue, 27 Oct 2026 08:01:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Dario 补充生物物理博士背景、AI 变笨风险与 Claude Co-work 等新事实。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/27/other/admin/120767/%e5%88%ab%e5%ad%a6%e7%bc%96%e7%a8%8b%e4%ba%86%ef%bc%81anthropic-ceo%e7%9b%b4%e8%a8%80%ef%bc%9a%e4%bb%a3%e7%a0%81%e5%b7%a5%e4%bd%9c%e5%bf%ab%e9%80%9f%e6%b6%88%e5%a4%b1%ef%bc%8c%e4%ba%ba%e7%b1%bb/"&gt;新智元&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/018/708.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT攻克26年猜想，千位数学家宣战AI！数学界彻底撕裂了</title>
-      <link>https://aiera.com.cn/2026/10/27/other/admin/120724/chatgpt%e6%94%bb%e5%85%8b26%e5%b9%b4%e7%8c%9c%e6%83%b3%ef%bc%8c%e5%8d%83%e4%bd%8d%e6%95%b0%e5%ad%a6%e5%ae%b6%e5%ae%a3%e6%88%98ai%ef%bc%81%e6%95%b0%e5%ad%a6%e7%95%8c%e5%bd%bb%e5%ba%95%e6%92%95%e8%a3%82/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6ad797807cb05ed3c0a16449</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;千名数学家联名拒为商业AI出力，同期ChatGPT却助人类推翻悬置26年的数学猜想。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/27/other/admin/120724/chatgpt%e6%94%bb%e5%85%8b26%e5%b9%b4%e7%8c%9c%e6%83%b3%ef%bc%8c%e5%8d%83%e4%bd%8d%e6%95%b0%e5%ad%a6%e5%ae%b6%e5%ae%a3%e6%88%98ai%ef%bc%81%e6%95%b0%e5%ad%a6%e7%95%8c%e5%bd%bb%e5%ba%95%e6%92%95%e8%a3%82/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Check Point 借助 OpenAI Daybreak 将漏洞研究从数小时压缩到几分钟</title>
-      <link>https://openai.com/index/check-point-daybreak</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2669c3da8c7173ed2eef4222</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Check Point 用 Daybreak 自动化漏洞研究，把分析时间从数小时缩短到几分钟。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/check-point-daybreak"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
