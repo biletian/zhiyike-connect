@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="docs/readme/logo-3d-solid.png" alt="知一刻 3D solid mark — rounded square, red scarf" width="640">
+  <img src="docs/readme/banner-light.jpg" alt="知一刻 solid mark — AI news, one card per event" width="960">
 </p>
 
-<!--
-TODO(banners): do not add banner-light.jpg or banner-dark.jpg.
-Those cuts use the flat mark. New banners (solid mark) are not in this branch.
-Hero stays this logo plus the silent demo until the new banners arrive.
-Do not cut GitHub Release v1.2.5 until those banners land.
-GitHub README does not play inline video, so the GIF is the visible preview and the MP4 is the primary file.
--->
+<p align="center">
+  <a href="docs/readme/banner-dark.jpg">Dark banner</a>
+  · <a href="docs/readme/logo-3d-solid.png">3D solid mark</a>
+</p>
+
+<!-- GitHub README does not play inline video, so the GIF is the visible preview and the MP4 is the primary file. -->
 
 <p align="center">
   <a href="docs/readme/zhiyike-connect-silent-demo.mp4">
@@ -62,14 +61,14 @@ The site name is `知一刻内容`. A saved URL is connected only when the clien
 
 The Skill does not edit your MCP config. It needs Python 3.10+ and network access to `https://zhiyike.cn`.
 
-This branch is the v1.2.5 packaging draft. The zip bytes are unchanged from published Release v1.2.4, and v1.2.5 is not tagged yet.
+Packaging release **v1.2.5**. The zip bytes are unchanged from v1.2.4.
 
 - Install guide: <https://zhiyike.cn/skills/install.html>
 - Zip: <https://zhiyike.cn/skills/zhiyike-reader.zip>
-- Same bytes on the current Release: <https://github.com/biletian/zhiyike-connect/releases/download/v1.2.4/zhiyike-reader.zip>
+- Release asset: <https://github.com/biletian/zhiyike-connect/releases/download/v1.2.5/zhiyike-reader.zip>
 - SHA-256: `78b91793e3fd971e151d332cbd453ce205dcab470f2e43bbe5149b44de8d120f` (8149 bytes)
 
-The file under `skill/download/` is an older mirror. Install the official zip or the v1.2.4 Release asset.
+The file under `skill/download/` is an older mirror. Install the official zip or the v1.2.5 Release asset.
 
 ### RSS
 
@@ -141,8 +140,8 @@ MCP、Skill 和 RSS 只读这套内容，不能改，也不能看账号。
 - Site: <https://zhiyike.cn/>
 - MCP Registry: <https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.biletian/zhiyike> (`io.github.biletian/zhiyike`)
 - Glama: <https://glama.ai/mcp/connectors/cn.zhiyike/zhiyike>
-- Release: <https://github.com/biletian/zhiyike-connect/releases/tag/v1.2.4> (current published tag; v1.2.5 is not tagged yet)
-- Skill zip: <https://zhiyike.cn/skills/zhiyike-reader.zip> · <https://github.com/biletian/zhiyike-connect/releases/download/v1.2.4/zhiyike-reader.zip> · SHA-256 `78b91793e3fd971e151d332cbd453ce205dcab470f2e43bbe5149b44de8d120f`
+- Release v1.2.5: <https://github.com/biletian/zhiyike-connect/releases/tag/v1.2.5>
+- Skill zip: <https://zhiyike.cn/skills/zhiyike-reader.zip> · <https://github.com/biletian/zhiyike-connect/releases/download/v1.2.5/zhiyike-reader.zip> · SHA-256 `78b91793e3fd971e151d332cbd453ce205dcab470f2e43bbe5149b44de8d120f`
 
 ## Star history
 
