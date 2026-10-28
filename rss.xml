@@ -8,7 +8,119 @@
     <generator>知一刻公开内容发布器</generator>
     <ttl>15</ttl>
     <atom:link href="https://zhiyike.cn/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Wed, 28 Oct 2026 22:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 03:33:00 +0800</lastBuildDate>
+    <item>
+      <title>Wiz CTO 谈 PHP2Shell 漏洞与即将到来的“漏洞末日”</title>
+      <link>https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ff8fd4f8ebf023d49b800100</guid>
+      <pubDate>Thu, 29 Oct 2026 03:05:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Wiz CTO 复盘 PHP 两大严重漏洞的抢修内幕，并警告 AI 正加速漏洞发现与利用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wiz CTO 警告：AI 加速漏洞挖掘，互联网老旧代码将迎「漏洞末日」</title>
+      <link>https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4d73923db01383fff34832b0</guid>
+      <pubDate>Thu, 29 Oct 2026 02:50:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Wiz CTO 称 AI 让新漏洞被发现和利用的速度加快，PHP 两处严重漏洞只是开始。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>最高 128GB 统一内存：苹果首款触控 MacBook Pro 可本地运行数千亿参数 AI 模型</title>
+      <link>https://www.ithome.com/1/019/251.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:80613663c66807737bf09c1d</guid>
+      <pubDate>Thu, 29 Oct 2026 02:42:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;苹果发布首款触控 MacBook Pro，M5 Max 版最高 128GB 统一内存，可本地跑数千亿参数大模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/019/251.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>微软将停止在智能电视上支持 Copilot</title>
+      <link>https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending</link>
+      <guid isPermaLink="false">urn:zhiyike:news:56a30693db7650709a3dc93f</guid>
+      <pubDate>Thu, 29 Oct 2026 02:36:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;LG 电视弹窗通知显示，Copilot 功能将在 2026 年内停用&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>苹果首度为 Mac 引入灵动岛：支持显示音乐播放、实时活动等，Siri AI 多了个入口</title>
+      <link>https://www.ithome.com/1/019/245.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:18e4db78d2033e395e0060b2</guid>
+      <pubDate>Thu, 29 Oct 2026 01:53:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;苹果发布首款触控屏 MacBook Pro，首次把灵动岛带到 Mac 上。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/019/245.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chrome 的 AI 自动填充升级，可从 Gmail 中提取信息填表</title>
+      <link>https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:419bd48b6327bd5365fd685b</guid>
+      <pubDate>Thu, 29 Oct 2026 01:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Chrome 新增 AI 自动填充，可从 Gmail 中提取航班号、订单号等信息填入表单。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon 发布：网络安全与长程任务能力大幅提升</title>
+      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:96050609233d72ace4a8a6c1</guid>
+      <pubDate>Thu, 29 Oct 2026 01:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Carbon 发布，新增安全对齐、提示注入防御与政府预发布测试等细节。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google 推出 Connected Apps 平台，让第三方应用接入 Gemini 与搜索</title>
+      <link>https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1d79a9a6b1b3c7cc7c026723</guid>
+      <pubDate>Thu, 29 Oct 2026 01:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开发者可提交应用接入 Gemini 和 Google 搜索，让用户直接在 AI 里调用第三方服务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta 或再次推迟争议性商业条款，AI 抓取新闻网站引出版商反弹</title>
+      <link>https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely</link>
+      <guid isPermaLink="false">urn:zhiyike:news:84e93e78e16a54a65fb61ce1</guid>
+      <pubDate>Thu, 29 Oct 2026 00:15:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Meta 称因出版商反对，可能无限期推迟原定 11 月 20 日生效的新商业条款。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 高管脱离大众？Mayer、Altman、扎克伯格谈用 AI 育儿引争议</title>
+      <link>https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f033844e83d731df86fd18f2</guid>
+      <pubDate>Wed, 28 Oct 2026 23:53:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;前雅虎 CEO Mayer 用 AI 给女儿写生日介绍，引发硅谷精英脱离大众的批评。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>英伟达发布开源语音转录模型 Nemotron 3.5 Transcribe，支持 40 种语言</title>
+      <link>https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a9fd21a061a1ae7642a07b38</guid>
+      <pubDate>Wed, 28 Oct 2026 23:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;英伟达推出免费开源权重语音转录模型，可识别 40 种语言、区分 8 位说话人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3.5 Transcribe 与 Granary v2：可提示的多语言转录模型</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
+      <guid isPermaLink="false">urn:zhiyike:news:04f076d734295dc09c0f1e7d</guid>
+      <pubDate>Wed, 28 Oct 2026 22:58:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;英伟达开源可提示语音模型，一个权重同时做转录、说话人分离、翻译和音频问答。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>清华27岁助理教授杀入AI自进化赛道！首个35B模型刚刚亮相</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-28-13</link>
+      <guid isPermaLink="false">urn:zhiyike:news:822c3ebb3e27bbe4c1e850bd</guid>
+      <pubDate>Wed, 28 Oct 2026 22:33:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;超衍智能推出35B模型Apex-35B-V1.0，21项评测中18项领先Recursive Flint&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-28-13"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NeurIPS 2026 Oral｜让大模型精准「看图」：NV-CoT用连续坐标重构视觉思维链</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-28-12</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3a9592b8ab3ed863a083f2f9</guid>
+      <pubDate>Wed, 28 Oct 2026 22:23:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;南洋理工等团队提出 NV-CoT，用连续数值坐标替代文本 token 做区域选择，定位 IoU 提升 12.2 个百分…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-28-12"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Meta 悄然上线“AI 宠物日记”应用 Waddle World</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world</link>
@@ -48,6 +160,30 @@
       <pubDate>Wed, 28 Oct 2026 17:18:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;讯飞输入法 16.0.1 上线第三代语音输入「意图成稿」与个性化 AI 键盘，实测职场与生活场景&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1686281?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>威卡：用数据集链接具身智能和工程机械</title>
+      <link>https://www.qbitai.com/2026/10/506063.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:76f29a81ebffcc8e14ba2b74</guid>
+      <pubDate>Wed, 28 Oct 2026 17:01:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;威卡在徐州AI大会发布工程机械高质量数据集，并已在Hugging Face上线开源。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506063.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板</title>
+      <link>https://www.qbitai.com/2026/10/506055.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7ac14b754112900cc59ff34b</guid>
+      <pubDate>Wed, 28 Oct 2026 16:59:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;分子之心发布MMDesign技术报告，19个设计项目18个获可结合分子，6个GPCR靶点全部命中。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506055.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>0营收估值200亿美元，具身版OpenAI又融10亿美元</title>
+      <link>https://www.qbitai.com/2026/10/506042.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d2806cf1b139535e99f80124</guid>
+      <pubDate>Wed, 28 Oct 2026 16:55:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;成立仅两年的机器人AI公司PI洽谈新融资，投后估值或达200亿美元，迄今无商业营收。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506042.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>四川最牛便利连锁超市搞机器人售货，黄了</title>
@@ -672,142 +808,6 @@
       <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Check Point 用 Daybreak 自动化漏洞研究，把分析时间从数小时缩短到几分钟。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/check-point-daybreak"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 扩大与 GSA OneGov 合作：各级政府买 Claude 享 40% 折扣</title>
-      <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c5bbbb91a249181733a03473</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 与美国 GSA 签新 OneGov 协议，联邦/州/地方/部落/领地政府购买 Claude 全面 40% 折扣。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/news/expanding-partnership-gsa"&gt;Anthropic&lt;/a&gt; · &lt;a href="https://x.com/AnthropicAI/status/2115207004293853358"&gt;Anthropic X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开发者自制 MiniMax H3 自定义节点，用分批重叠混合实现高精度长视频运动迁移</title>
-      <link>https://github.com/mo-akkakk/ComfyUI-MiniMaxH3-TemporalWindow-SpatialTiles</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ef8ef8e688cfb48242c8cfa0</guid>
-      <pubDate>Tue, 27 Oct 2026 07:16:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;该节点把长视频拆成带重叠的批次生成再混合，解决帧数一多运动就漂移的问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/mo-akkakk/ComfyUI-MiniMaxH3-TemporalWindow-SpatialTiles"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xgcfk3/i_created_a_custom_node_that_can_help_you/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cohere 公开 Qwen3.8-Flash-Next 追踪记录：预填 2232 token 逼出阿里云 URL</title>
-      <link>https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a3ef555b8f0fbeb2438ce5c2</guid>
-      <pubDate>Tue, 27 Oct 2026 06:42:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;社区质疑 Cohere 调查：预填 2232 token 诱导模型生成阿里云 URL&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/datasets/CohereLabs/10-2026-qwen-investigation-traces"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cloudflare 披露 GLM-5.3 跨请求 KV 缓存泄露，155 条响应受影响</title>
-      <link>https://blog.cloudflare.com/kv-cache-exposure-remediation/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8d421114b53667406af83962</guid>
-      <pubDate>Tue, 27 Oct 2026 06:41:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;超长提示词触发 SGLang 缓存复用缺陷，导致响应混入他人会话数据&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.cloudflare.com/kv-cache-exposure-remediation/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Greptile 借 GPT-6 Astra 把缺陷检测延伸到代码审查之外</title>
-      <link>https://openai.com/index/greptile-code-review-codex-astra</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ecb6835279610428aaa54199</guid>
-      <pubDate>Tue, 27 Oct 2026 06:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Greptile 用 GPT-6 Astra 的电脑操作能力自动跑应用测试，捕捉代码审查发现不了的界面问题。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/greptile-code-review-codex-astra"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用户请 Claude 清理被黑 DVR 并开放摄像头，安全策略拒绝执行</title>
-      <link>https://github.com/netsecfish/xiongmai_incorrect_access_control</link>
-      <guid isPermaLink="false">urn:zhiyike:news:290d9ea328db8a6fdcf0b4d3</guid>
-      <pubDate>Tue, 27 Oct 2026 05:06:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户发现 DVR 被入侵后请 Claude 清理，但安全机制阻止了操作&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/netsecfish/xiongmai_incorrect_access_control"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xg986x/hi_claude_can_you_remove_a_virus_from_my_pc_no/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ChatGPT 把普通技术求助者引向 404 Media</title>
-      <link>https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e0b5922ff25126e27c415fa3</guid>
-      <pubDate>Tue, 27 Oct 2026 01:32:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;因大厂客服缺位，ChatGPT 建议用户把日常技术问题当新闻线索发给记者。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The RealReal 升级机器人防御，阻止 AI 智能体长时间占用二手奢侈品</title>
-      <link>https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ae81285ef54c0b5df1b9e010</guid>
-      <pubDate>Tue, 27 Oct 2026 01:30:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;二手奢侈品平台 The RealReal 更新机器人防御，限制 AI 智能体登录、加购和结账。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hob：在 Mac、Windows、Linux 本地运行开源模型的免费离线 AI 替代方案</title>
-      <link>https://github.com/FrigadeHQ/hob</link>
-      <guid isPermaLink="false">urn:zhiyike:news:74a9166d7d5eb245fa71aa0a</guid>
-      <pubDate>Tue, 27 Oct 2026 00:12:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Frigade 开源 Hob，可在本地跑 Gemma、gpt-oss 等开放权重模型，免费且离线。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/FrigadeHQ/hob"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luma 等 5 款 AI 电商图像工具：虚拟试穿、商品图、背景与广告变体 in 2026</title>
-      <link>https://lumalabs.ai/news/ai-tools-e-commerce-imagery</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9c424859530bc6109c431d30</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 2026 试穿盘点新增退货率、技术分类与 8 款工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/ai-tools-e-commerce-imagery"&gt;Luma&lt;/a&gt; · &lt;a href="https://lumalabs.ai/news/ai-virtual-tools-e-commerce"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2026 年视频 AI 换脸工具盘点：Luma AI 领跑创意工作流</title>
-      <link>https://lumalabs.ai/news/ai-face-swap-tools-video</link>
-      <guid isPermaLink="false">urn:zhiyike:news:79e1f9e8d9ea7ac8442cccda</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 发布 2026 年视频换脸工具指南，评测 12 款工具并强调时间一致性。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/ai-face-swap-tools-video"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luma Ray 3.2 补充细节：16 关键帧、Draft Mode 快 20 倍与原生 HDR</title>
-      <link>https://lumalabs.ai/news/ai-tools-filmmakers</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6f706de9038f544f12b9dcbe</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma Ray 3.2 新增 16 关键帧上限、Draft Mode 20 倍加速与原生 HDR 唯一性等细节&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/ai-tools-filmmakers"&gt;Luma&lt;/a&gt; · &lt;a href="https://lumalabs.ai/news/reface-remaker-alternatives"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luma 盘点 12 款 AI 相机视角工具：一张参考图生成多角度图像与视频</title>
-      <link>https://lumalabs.ai/news/ai-camera-angle-changers-images-video</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b389175429fb34b1239e26f7</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 评测 12 款 AI 视角工具，覆盖图像多角度生成与视频运镜控制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/ai-camera-angle-changers-images-video"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luma 推出 AI 背景替换：一次拍摄生成四季与多地区广告素材</title>
-      <link>https://lumalabs.ai/news/ai-background-swap-for-seasonal-and-regional-campaigns</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6c1830ca13e57489a319acf1</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 介绍 AI 背景替换工具，让同一张产品图快速生成季节与地区变体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/ai-background-swap-for-seasonal-and-regional-campaigns"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2026 年最佳 AI 产品摄影工具：15 款工具横评与选型指南</title>
-      <link>https://lumalabs.ai/news/ai-product-photography-tools</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ef99519e858ada8ae05f2d91</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 发布 2026 年 AI 产品摄影工具指南，对比 15 款工具并给出选型建议。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/ai-product-photography-tools"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luma 推出 Layers：一张已批准素材生成 50 个广告变体</title>
-      <link>https://lumalabs.ai/news/50-ad-creatives-from-one-approved-asset</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4b1aed7591c8af58e707c9d4</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 用 Layers 把已批准素材拆成可编辑图层，无需重做即可批量生成广告变体。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/50-ad-creatives-from-one-approved-asset"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luma 发布 30 个背景替换提示词，覆盖产品图与人像场景</title>
-      <link>https://lumalabs.ai/news/background-change-prompts</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a77e8825bfe45d50b9dc588e</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 整理 30 条可直接复制的背景提示词，按创意用途分类，用于产品图和人像换背景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/background-change-prompts"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
