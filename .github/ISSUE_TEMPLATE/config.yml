@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 知一刻官网 / Zhiyike site
+    url: https://zhiyike.cn/
+    about: 直接看每日 AI 资讯卡
+  - name: 讨论区 / Discussions
+    url: https://github.com/biletian/zhiyike-connect/discussions
+    about: 使用问题和想法

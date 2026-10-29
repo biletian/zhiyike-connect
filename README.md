@@ -146,3 +146,8 @@ MCP、Skill 和 RSS 只读这套内容，不能改，也不能看账号。
 ## Star history
 
 [![Star History Chart](https://api.star-history.com/svg?repos=biletian/zhiyike-connect&type=Date)](https://www.star-history.com/#biletian/zhiyike-connect&Date)
+
+## Related · 相关
+
+- [awesome-ai-news-sources-zh](https://github.com/biletian/awesome-ai-news-sources-zh) — 中文 AI 资讯信源清单 · Curated AI news sources read daily by Zhiyike (CC0)
+- [Showcase page · 展示页](https://biletian.github.io/zhiyike-connect/)
