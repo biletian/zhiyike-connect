@@ -15,7 +15,79 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 17:19:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 00:17:00 +0800</lastBuildDate>
+    <item>
+      <title>纽约时报烹饪 App 测试 AI 改食谱功能，部分用户不买账</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c0a8b426388a81f7bfdb14cc</guid>
+      <pubDate>Thu, 29 Oct 2026 22:39:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;NYT Cooking 上线 AI 食谱修改功能，可替换食材、调整份量，但无法关闭，引发用户不满。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Granite Switch 4.1.1 补丁发布：像更新软件一样更新模型</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
+      <guid isPermaLink="false">urn:zhiyike:news:49e8acb644ccfef7efc0667f</guid>
+      <pubDate>Thu, 29 Oct 2026 21:37:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;IBM 发布 Granite Switch 4.1.1，向后兼容 4.1，无需迁移，仅更新适配器&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deepgram 收购 Pipecat 开发商 Daily，加码语音 AI 基础设施</title>
+      <link>https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3835384a0b420d065defbcf8</guid>
+      <pubDate>Thu, 29 Oct 2026 21:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Deepgram 收购 Daily，承诺 Pipecat 永久开源并推出 RCS 协议&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>亚马逊为 Alexa 增加 100 多项购物能力，可管理清单、订阅和配送说明</title>
+      <link>https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:836a98fa9669a8262d7d6686</guid>
+      <pubDate>Thu, 29 Oct 2026 21:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;假日季前，Alexa 新增订阅与清单管理、修改配送说明、处理支付问题等能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>刚刚，机器人学习进入「全链路Scaling」时代</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-29-19</link>
+      <guid isPermaLink="false">urn:zhiyike:news:fc2e80cac365726f7d5ea025</guid>
+      <pubDate>Thu, 29 Oct 2026 18:46:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;智元 GO-3 Preview 打通机器人从学技能、练手到上岗后继续学习的完整链路&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-19"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NeurIPS 2026 Spotlight｜机器人探索未知世界，为什么不能只认一条路？天大团队提出FAME</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-29-18</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d9c1b8fb083483042ee94233</guid>
+      <pubDate>Thu, 29 Oct 2026 18:42:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;天津大学与合工大提出FAME，用多锚点生成替代单目标预测，入选NeurIPS 2026 Spotlight。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-18"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 数据中心在亚利桑那遭遇反弹：芯片厂被欢迎，数据中心为何被抵制</title>
+      <link>https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e077a13ef60c7c5183d88b0e</guid>
+      <pubDate>Thu, 29 Oct 2026 18:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;亚利桑那居民组成跨党派联盟，反对新建超大规模数据中心，尽管他们曾欢迎台积电建厂。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AnySearch 推出 Pro 付费版：覆盖 20+ 专业领域，最高支持 20 QPS</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-29-17</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ff2e1ba7b0eba3db08894f2c</guid>
+      <pubDate>Thu, 29 Oct 2026 17:52:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;AnySearch 上线 Pro 付费版，专业数据源与并发能力升级，每 1000 次调用 5 美元&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-17"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>中国MaaS市场TOP2，商汤大装置再度蝉联</title>
+      <link>https://www.qbitai.com/2026/10/506550.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f06fe778c7ea9fe43919e383</guid>
+      <pubDate>Thu, 29 Oct 2026 17:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;IDC报告显示，2026上半年中国MaaS市场规模达106.3亿元，商汤大装置以9.4%份额居私有化市场第二。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506550.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>豆包工作向企业客户开放配置三方模型</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-10-29-16</link>
@@ -25,20 +97,28 @@
       <description>&lt;p&gt;豆包工作团队版和企业版客户可直接启用三方大模型，按用量扣 AI 点数&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-16"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>蚂蚁灵光2.0接入钉钉CLI：家校群、工作群可交由AI后台“托管”</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-29-14</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3df7c508419ec0d3ae9b26a2</guid>
-      <pubDate>Thu, 29 Oct 2026 15:12:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;灵光2.0新增钉钉CLI等数十项外部工具连接，可后台托管群聊事务&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-14"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>不认字的 AI，却很会说话</title>
       <link>https://www.ifanr.com/1686124?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <guid isPermaLink="false">urn:zhiyike:news:f31ff5e7943d0fa96b77bd95</guid>
       <pubDate>Thu, 29 Oct 2026 15:03:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;前推特联创旗下 Dessa 剔除文字训练语音模型，主流语音 AI 转向半秒延迟竞赛&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1686124?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧</title>
+      <link>https://www.qbitai.com/2026/10/506478.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6ee8809ac893f50ea5738ca1</guid>
+      <pubDate>Thu, 29 Oct 2026 14:53:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Genspark发布Media Studio，接入20多家厂商70多个模型，零基础可做短剧。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506478.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>物理学也要被AI攻陷了？5道20多年量子公开问题被突破</title>
+      <link>https://www.qbitai.com/2026/10/506477.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:267af962f7f279d5287f9898</guid>
+      <pubDate>Thu, 29 Oct 2026 14:51:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;成立不到两个月的PSI称用自研AI系统辅助解决5道量子信息开放问题&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506477.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>刚刚，腾讯Buddy One发布，办公大一统要来了！混元Hy4也即将亮相</title>
@@ -55,14 +135,6 @@
       <pubDate>Thu, 29 Oct 2026 13:39:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;拓元智慧开源E0.5世界动作模型，以未来三维几何预测驱动动作学习，真机大幅超越π0.5。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI发钱了？每月最高500美元API额度等你领</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-29-8</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0ba34aefdd403d1704049232</guid>
-      <pubDate>Thu, 29 Oct 2026 13:31:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;符合条件的ChatGPT Pro和Business订阅用户可按月领取免费API额度，Pro交多少返多少…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>EMNLP 2026 Main | AI 群聊怎样多元化？佐治亚理工和麻省理工提出 MASCOT</title>
@@ -177,12 +249,36 @@
       <description>&lt;p&gt;东京大学提出MIDA基准，用狼人杀测多模态大模型的欺骗判断能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/10/29/other/admin/121106/emnlp26%ef%bd%9cgpt%e4%b9%9f%e4%b8%8d%e4%bc%9a%e3%80%8c%e8%af%bb%e7%a9%ba%e6%b0%94%e3%80%8d%ef%bc%8c%e7%8b%bc%e4%ba%ba%e6%9d%80%e5%9f%ba%e5%87%86%e6%b5%8b%e5%87%ba%e7%a4%be%e4%ba%a4%e7%9b%b2/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>苹果平台开源语音与决策模型：AnySpeechRecognizer 和 AnyDecisionModel 发布</title>
+      <link>https://huggingface.co/blog/anydecisionmodel</link>
+      <guid isPermaLink="false">urn:zhiyike:news:55a0810f6080926745636a65</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;两个 Swift 包让开发者可自选语音识别与决策模型引擎，并在设备端运行开源模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/anydecisionmodel"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Project ProtoStar 启动：让公共资助科研数据变成 AI 可用资源</title>
+      <link>https://huggingface.co/blog/announcing-project-protostar</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7683d7e28027a0ecc8d94c28</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;多方联合发起 ProtoStar，推动公共资助科研数据以 AI 就绪格式开放共享。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/announcing-project-protostar"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>xAI 为 Grok 上线自定义审核控制：可按类别设置拒绝行为</title>
       <link>https://docs.x.ai/developers/advanced-api-usage/custom-moderation-controls</link>
       <guid isPermaLink="false">urn:zhiyike:news:fd3909ad86203534c8581e61</guid>
       <pubDate>Thu, 29 Oct 2026 07:20:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;开发者可在请求中传入 guidelines 数组，指定 nsfw、violence、profanity 等类别的处理方…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://docs.x.ai/developers/advanced-api-usage/custom-moderation-controls"&gt;xAI&lt;/a&gt; · &lt;a href="https://x.com/grok/status/2115584612122718296"&gt;Grok X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 给 ChatGPT Pro 和 Business 订阅送 API 额度：每月最高 500 美元</title>
+      <link>https://developers.openai.com/api/docs/guides/chatgpt-api-credits</link>
+      <guid isPermaLink="false">urn:zhiyike:news:835a11980b21f2d841aac56b</guid>
+      <pubDate>Thu, 29 Oct 2026 07:17:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;符合条件的ChatGPT Pro和Business订阅用户可按月领取免费API额度，Pro交多少返多少…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.openai.com/api/docs/guides/chatgpt-api-credits"&gt;OpenAI 开发者文档&lt;/a&gt; · &lt;a href="https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions"&gt;OpenAI 帮助中心&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google 将 AI 搜索广告推向全球，核心搜索广告增速持续放缓</title>
@@ -225,14 +321,6 @@
       <description>&lt;p&gt;Wiz CTO 称 AI 让新漏洞被发现和利用的速度加快，PHP 两处严重漏洞只是开始。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>最高 128GB 统一内存：苹果首款触控 MacBook Pro 可本地运行数千亿参数 AI 模型</title>
-      <link>https://www.ithome.com/1/019/251.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:80613663c66807737bf09c1d</guid>
-      <pubDate>Thu, 29 Oct 2026 02:42:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;苹果发布首款触控 MacBook Pro，M5 Max 版最高 128GB 统一内存，可本地跑数千亿参数大模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/019/251.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>微软将停止在智能电视上支持 Copilot</title>
       <link>https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending</link>
       <guid isPermaLink="false">urn:zhiyike:news:56a30693db7650709a3dc93f</guid>
@@ -257,12 +345,20 @@
       <description>&lt;p&gt;Suno MCP Beta 上线，把音乐创作接到 Claude、ChatGPT、Gemini、Claude Code、Cursor 等 AI 工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://suno.com/mcp"&gt;Suno&lt;/a&gt; · &lt;a href="https://x.com/suno/status/2115506373001634206"&gt;Suno X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>苹果首度为 Mac 引入灵动岛：支持显示音乐播放、实时活动等，Siri AI 多了个入口</title>
-      <link>https://www.ithome.com/1/019/245.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:18e4db78d2033e395e0060b2</guid>
-      <pubDate>Thu, 29 Oct 2026 01:53:00 +0800</pubDate>
+      <title>Cartesia 详解 H-Nets：用分层网络取代分词，语言建模算力效率最高提升 10 倍</title>
+      <link>https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6f95fd7c081291929f53e2d4</guid>
+      <pubDate>Thu, 29 Oct 2026 02:07:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Cartesia 公布 H-Nets 扩展结果：1 阶段版本靠学习式分词省 3-5 倍算力，2 阶段版本以 10 倍更…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1"&gt;Cartesia 官方&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>苹果发布首款触控 MacBook Pro：Mac 首次引入灵动岛，最高 128GB 统一内存</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:616b343d4b939a146d614efe</guid>
+      <pubDate>Thu, 29 Oct 2026 01:19:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;苹果发布首款触控屏 MacBook Pro，首次把灵动岛带到 Mac 上。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/019/245.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;苹果发布首款触控屏 MacBook Pro，Mac 首次用上灵动岛，M5 Max 最高 128GB 统一内存，可本地跑大模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"&gt;Apple Newsroom&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/019/245.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/019/251.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gemini 4 Carbon 发布：网络安全与长程任务能力大幅提升</title>
@@ -719,102 +815,6 @@
       <pubDate>Wed, 28 Oct 2026 00:51:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic 计划 IPO，试图以特殊治理结构保住 AI 安全优先的使命&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>亚马逊AI部门持续失利后大幅收缩，Nova多数模型进入维持状态</title>
-      <link>https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f871a4dc338612dfa1638395</guid>
-      <pubDate>Wed, 28 Oct 2026 00:25:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;亚马逊收缩自研AI战线，多数Nova模型仅维持最低资源，转向单一前沿模型项目。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI2 发布 Old Ideas, Novel Problems：LLM 评判研究创意新颖度可靠吗？</title>
-      <link>https://huggingface.co/blog/allenai/novelty-bench</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8fb0fe5524d2320f75452d81</guid>
-      <pubDate>Wed, 28 Oct 2026 00:12:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;AI2 新研究显示，LLM 新颖性评判对提示词微调极不稳定，准确率波动超 50 个百分点。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/allenai/novelty-bench"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google 发布 Genie 4 世界模型：时长翻倍至约两分钟、底层用 Gemini 3.8 Flash</title>
-      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f5c6233903571ef8e88ec034</guid>
-      <pubDate>Wed, 28 Oct 2026 00:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;新增与 World Labs Marble 竞品对比、历史教育与企业工业仿真场景及使用示例提示词。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://www.theverge.com/tech/1019076/google-genie-4-ai-model"&gt;The Verge&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.ifanr.com/1686234?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/018/718.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://x.com/GoogleDeepMind/status/2115114028338962672"&gt;DeepMind X&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-28-2"&gt;机器之心&lt;/a&gt; · &lt;a href="https://mp.weixin.qq.com/s/GAKV3a_ry4o2VAjf7XF1Ew"&gt;官方微信&lt;/a&gt; · &lt;a href="https://ai-bot.cn/genie-4/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Higgsfield 推出 Playable Ads：上传玩法视频即可生成可玩广告，导出九大网络</title>
-      <link>https://higgsfield.ai/playable-intro</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3f417bc3d973c357513c78ae</guid>
-      <pubDate>Tue, 27 Oct 2026 23:43:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Higgsfield Playable 从 3–30 秒玩法视频重建关卡与操作，预览后导出各广告网络格式。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://higgsfield.ai/playable-intro"&gt;Higgsfield&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软 MAI Cyber 1.1 Flash 发布：漏洞发现更精准，MDASH 内单次扫描成本降 18%</title>
-      <link>https://microsoft.ai/news/mai-cyber-1-1-flash</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1e4103701f15d84bbdf43924</guid>
-      <pubDate>Tue, 27 Oct 2026 23:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;微软推出 MAI Cyber 1.1 Flash，在 MDASH 漏洞扫描评测中性能与 1 Flash 相当，单次扫描…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://microsoft.ai/news/mai-cyber-1-1-flash"&gt;microsoft.ai&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta 前总监 Rohit Patel 创办 Ndoc，三人团队开放 alpha 试点</title>
-      <link>https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:50b059c095c1a8fb4411a128</guid>
-      <pubDate>Tue, 27 Oct 2026 22:59:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Ndoc 三人无融资，开放 alpha 企业试点，按用量和 token 收费。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/018/696.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>商汤开源 SenseNova 6.8 Code2Video：用代码生成视频，支持自然语言改片</title>
-      <link>https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5abe1b45266287b67c9742a9</guid>
-      <pubDate>Tue, 27 Oct 2026 22:45:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;商汤开源视频生成模型，通过写代码做视频，首版后可自然语言改颜色、节奏与动效。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/OpenSenseNova/SenseNova-6.8-Code2Video"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xguh4z/sensetime_open_sourced_sensenova_68_code2video/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code 逆向 Xbox 360 内核，为 Series X|S 手柄写出原生驱动</title>
-      <link>https://github.com/Jacckii/Xbox360-Series-Controllers-Native</link>
-      <guid isPermaLink="false">urn:zhiyike:news:cb06eedbc4ae9f9f3d25ecc1</guid>
-      <pubDate>Tue, 27 Oct 2026 22:05:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;开发者用 Claude Code 逆向 360 内核 USB 栈，让微软新无线适配器在 360 上原生工作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Jacckii/Xbox360-Series-Controllers-Native"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xgtghe/claude_code_reverseengineered_the_xbox_360_kernel/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>苹果为 Pages、Keynote、Numbers 加入 AI 助手，支持第三方 AI 智能体接入</title>
-      <link>https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</link>
-      <guid isPermaLink="false">urn:zhiyike:news:33028e2268439d1d1fb32805</guid>
-      <pubDate>Tue, 27 Oct 2026 21:50:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;苹果生产力三件套迎来 AI 助手，可起草文稿、设计幻灯片并整理表格数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>当 AI 智能体写代码，工程师还需要知道什么？</title>
-      <link>https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work</link>
-      <guid isPermaLink="false">urn:zhiyike:news:dc9d4deb3bbf23d44d1f53a2</guid>
-      <pubDate>Tue, 27 Oct 2026 21:23:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;HN 热议：智能体写码后，工程师的核心能力变成判断哪里出错并随时深挖。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Opera 推出 WebAI 标准，浏览器本地运行 AI 模型</title>
-      <link>https://blogs.opera.com/news/2026/10/webai-local-ai-for-the-web-now-in-opera/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:eab45f7ff201340feee910c9</guid>
-      <pubDate>Tue, 27 Oct 2026 21:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;WebAI 支持浏览器内生成文本、分类内容并分析信息关联。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blogs.opera.com/news/2026/10/webai-local-ai-for-the-web-now-in-opera/"&gt;Opera 官方博客&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/018/723.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/31911"&gt;AIBase&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/31915"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法</title>
-      <link>https://www.qbitai.com/2026/10/505865.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5008701d2db0256d847786c8</guid>
-      <pubDate>Tue, 27 Oct 2026 20:57:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;RoboParty发布全栈开源人形机器人RP1，从机械图纸到运动算法全部开放。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/505865.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
