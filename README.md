@@ -1,23 +1,11 @@
 <p align="center">
-  <img src="docs/readme/banner-light.jpg" alt="知一刻 solid mark — AI news, one card per event" width="960">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/readme/banner-dark.jpg">
+    <img src="docs/readme/banner-light.jpg" alt="知一刻 solid mark — AI 资讯，一事一卡" width="960">
+  </picture>
 </p>
 
-<p align="center">
-  <a href="docs/readme/banner-dark.jpg">Dark banner</a>
-  · <a href="docs/readme/logo-3d-solid.png">3D solid mark</a>
-</p>
-
-<!-- GitHub README does not play inline video, so the GIF is the visible preview and the MP4 is the primary file. -->
-
-<p align="center">
-  <a href="https://biletian.github.io/zhiyike-connect/demo.html">
-    <img src="docs/readme/zhiyike-connect-silent-demo.gif" alt="Silent demo, 19.6 seconds, no audio" width="640">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://biletian.github.io/zhiyike-connect/demo.html">Silent demo</a> · 19.6s · no audio · 1280×720
-</p>
+<p align="center"><strong>AI 资讯，一事一卡</strong></p>
 
 **Zhiyike (知一刻)** is a free, read-only desk for verified Chinese AI news: one card per real event, with sources kept. Use the site, the remote MCP, the Skill, or RSS. No account and no API key.
 
