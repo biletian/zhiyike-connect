@@ -10,13 +10,13 @@
 <!-- GitHub README does not play inline video, so the GIF is the visible preview and the MP4 is the primary file. -->
 
 <p align="center">
-  <a href="docs/readme/zhiyike-connect-silent-demo.mp4">
+  <a href="https://biletian.github.io/zhiyike-connect/demo.html">
     <img src="docs/readme/zhiyike-connect-silent-demo.gif" alt="Silent demo, 19.6 seconds, no audio" width="640">
   </a>
 </p>
 
 <p align="center">
-  <a href="docs/readme/zhiyike-connect-silent-demo.mp4">Silent demo</a> · 19.6s · no audio · 1280×720
+  <a href="https://biletian.github.io/zhiyike-connect/demo.html">Silent demo</a> · 19.6s · no audio · 1280×720
 </p>
 
 **Zhiyike (知一刻)** is a free, read-only desk for verified Chinese AI news: one card per real event, with sources kept. Use the site, the remote MCP, the Skill, or RSS. No account and no API key.
