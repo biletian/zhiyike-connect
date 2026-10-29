@@ -91,25 +91,25 @@ The file under `skill/download/` is an older mirror. Install the official zip or
 ## Features
 
 <p align="center">
-  <img src="docs/readme/home.png" alt="Zhiyike home, 2026-10-28, light mode" width="900">
+  <img src="docs/readme/home.png" alt="Zhiyike home, 2026-10-29, light mode" width="900">
 </p>
 
 Today's verified feed: one card per event, with sources kept.
 
 <p align="center">
-  <img src="docs/readme/detail.png" alt="Zhiyike story card, 2026-10-28, light mode" width="900">
+  <img src="docs/readme/detail.png" alt="Zhiyike story card, 2026-10-29, light mode" width="900">
 </p>
 
 A story card: the claim, the sources, and a one-minute read.
 
 <p align="center">
-  <img src="docs/readme/daily.png" alt="Zhiyike daily report, 2026-10-28, light mode" width="900">
+  <img src="docs/readme/daily.png" alt="Zhiyike daily report, 2026-10-29, light mode" width="900">
 </p>
 
 The daily issue keeps its date and its edition number.
 
 <p align="center">
-  <img src="docs/readme/products.png" alt="Zhiyike product library, 2026-10-28, light mode" width="900">
+  <img src="docs/readme/products.png" alt="Zhiyike product library, 2026-10-29, light mode" width="900">
 </p>
 
 The product library keeps updates on the product, not only in the news scroll.
