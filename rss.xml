@@ -15,7 +15,39 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sun, 01 Nov 2026 03:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:34:00 +0800</lastBuildDate>
+    <item>
+      <title>苹果 CEO 特努斯：我们不想为 AI 而 AI</title>
+      <link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3d314df4315edda00acc40f1</guid>
+      <pubDate>Sun, 01 Nov 2026 05:41:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;苹果 CEO 回应 AI 落后论，称对现状满意，强调 AI 应让人无感。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>法官驳回 xAI 撤诉请求，NAACP 空气污染诉讼继续推进</title>
+      <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2596c5a58b1a9b5e5affef71</guid>
+      <pubDate>Sun, 01 Nov 2026 05:17:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;联邦法官裁定 NAACP 诉 xAI 空气许可案可继续审理，xAI 撤诉动议被否。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用户称未蒸馏 Claude，却因涉及 RFT/SFT 被 Anthropic 封禁并降级 Opus 5.5</title>
+      <link>https://twitter.com/jiahaoshao1/status/2116475922190922088</link>
+      <guid isPermaLink="false">urn:zhiyike:news:34303b3961d84b16723ce4df</guid>
+      <pubDate>Sun, 01 Nov 2026 03:39:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一名用户称自己未蒸馏 Claude，仍被标记为训练竞品并遭封禁、降级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://twitter.com/jiahaoshao1/status/2116475922190922088"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-5.6 Sol 在和平模式下通关《异星工厂》</title>
+      <link>https://ryanmadden.net/gpt-56-beats-factorio/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:470f612dc222d6b9e3e9fbe7</guid>
+      <pubDate>Sun, 01 Nov 2026 02:50:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;GPT-5.6 Sol 以低思考等级在 Codex 中运行，用 13.5 小时游戏时间完成无虫族通关。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ryanmadden.net/gpt-56-beats-factorio/"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/OpenAI/comments/1xkhxwr/gpt56_sol_can_beat_factorio/"&gt;Reddit / r/OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 据报下调新一轮融资目标至 200 亿美元</title>
       <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</link>
@@ -103,6 +135,14 @@
       <pubDate>Sat, 31 Oct 2026 18:28:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;奥特曼称个人电脑内存利用率仅5%，应集中到云端数据中心，引发AI社区争论。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-31-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>微软开源 Mage-VL-Cowork：4B 小模型在 OSWorld-Verified 达 66.0%</title>
+      <link>https://huggingface.co/microsoft/Mage-VL-Cowork</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bb7ebdea5fdac037250b4ed4</guid>
+      <pubDate>Sat, 31 Oct 2026 18:02:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;微软发布 4B 视觉语言模型 Mage-VL-Cowork，主打混合电脑操作能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/microsoft/Mage-VL-Cowork"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Claude套餐更名Max与Ultra，200美元Ultra取消5小时限制</title>
@@ -582,7 +622,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:dd63e139a2f2083df62878c5</guid>
       <pubDate>Fri, 30 Oct 2026 08:52:00 +0800</pubDate>
       <category>观点</category>
-      <description>&lt;p&gt;Omdia 预测 AI PC 出货占比 2027 年达 60%，但仅 9% 用户因 AI 功能换机。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/019/852.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Omdia 调研补充：62% 换机因机器变慢或想换更好型号，仅 9% 因 AI。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/019/852.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/31978"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>消息称英伟达商讨为 Nscale 数据中心提供信用担保，项目供 Anthropic 使用</title>
@@ -775,46 +815,6 @@
       <pubDate>Thu, 29 Oct 2026 22:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;官方补充：ML4 为 1T 原生多模态、欧洲训练，含三项基准与三种推理模式。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mistral.ai/news/mistral-large-4-oss/"&gt;Mistral&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/019/865.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cohere 启动 E 轮融资，目标最高 70 亿加元、估值 357 亿加元</title>
-      <link>https://cohere.com/blog/who-gets-to-build-the-frontier-for-ai</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d01c94e6f209187b207a91d3</guid>
-      <pubDate>Thu, 29 Oct 2026 22:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;加拿大史上最大私募融资，施瓦茨集团领投，加拿大政府入股。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://cohere.com/blog/who-gets-to-build-the-frontier-for-ai"&gt;Cohere&lt;/a&gt; · &lt;a href="https://newswire.ca/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-811489745.html"&gt;newswire.ca&lt;/a&gt; · &lt;a href="https://x.com/cohere/status/2115833490126336507"&gt;Cohere X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Granite Switch 4.1.1 补丁发布：像更新软件一样更新模型</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
-      <guid isPermaLink="false">urn:zhiyike:news:49e8acb644ccfef7efc0667f</guid>
-      <pubDate>Thu, 29 Oct 2026 21:37:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;IBM 发布 Granite Switch 4.1.1，向后兼容 4.1，无需迁移，仅更新适配器&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Deepgram 收购 Pipecat 开发商 Daily，加码语音 AI 基础设施</title>
-      <link>https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3835384a0b420d065defbcf8</guid>
-      <pubDate>Thu, 29 Oct 2026 21:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Deepgram 收购 Daily，承诺 Pipecat 永久开源并推出 RCS 协议&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>亚马逊为 Alexa 增加 100 多项购物能力，可管理清单、订阅和配送说明</title>
-      <link>https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:836a98fa9669a8262d7d6686</guid>
-      <pubDate>Thu, 29 Oct 2026 21:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;假日季前，Alexa 新增订阅与清单管理、修改配送说明、处理支付问题等能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ElevenLabs 发布音效模型 SFX v3：接替 v2，多声音提示与音乐人声音效更强</title>
-      <link>https://elevenlabs.io/blog/sound-effects-v3</link>
-      <guid isPermaLink="false">urn:zhiyike:news:eae193063df0c25248ef3134</guid>
-      <pubDate>Thu, 29 Oct 2026 20:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;一句提示里的多个声音更能都做出来，带音乐/人声的音效更真、杂音更少；创作工具与 API 已可用。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://elevenlabs.io/blog/sound-effects-v3"&gt;ElevenLabs&lt;/a&gt; · &lt;a href="https://x.com/ElevenLabsDevs/status/2115909024507998423"&gt;ElevenLabs Devs X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
