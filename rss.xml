@@ -15,7 +15,71 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sat, 31 Oct 2026 16:33:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 22:48:00 +0800</lastBuildDate>
+    <item>
+      <title>整仓迁移交给Coding Agent，训练与推理行为还能对齐吗？谷歌团队发布T2J-Bench</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-31-11</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bdc26933a69e1a51fbbb8e76</guid>
+      <pubDate>Sat, 31 Oct 2026 22:28:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;谷歌等团队发布T2J-Bench，用63个整仓任务评测PyTorch到JAX迁移质量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-31-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>刚刚，DeepSeek公布下一代agent harness理念</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-31-10</link>
+      <guid isPermaLink="false">urn:zhiyike:news:fd2f79f64972f01de036e6e8</guid>
+      <pubDate>Sat, 31 Oct 2026 22:24:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;机器之心介绍 DeepSeek Harness 的 Super-agent 架构思路，强调这是工程探讨而非现有产品功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-31-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI如何解析物理世界？清华联合清屿科技等团队推出自进化多物理场建模系统EvoSim</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-31-8</link>
+      <guid isPermaLink="false">urn:zhiyike:news:97ea0e365430b8ea82aee7e0</guid>
+      <pubDate>Sat, 31 Oct 2026 22:11:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;EvoSim让AI从调参走向修订方程，在电池快充析锂与动态电压预测中超过人类专家模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-31-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活</title>
+      <link>https://www.ifanr.com/1687026?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">urn:zhiyike:news:588f14d8348af5138ce97880</guid>
+      <pubDate>Sat, 31 Oct 2026 21:59:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;DeepSeek 提出 Router+Worker 双层 Agent 架构，已在内部用于研发协作并完成初步实验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1687026?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI for AI 的下一关：能否自主规划实验，发现 Scaling Law？</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-31-7</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8d27161161d3c8df38a3143c</guid>
+      <pubDate>Sat, 31 Oct 2026 18:31:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;新基准让 AI 自己花钱买实验，8 个前沿模型成绩全部下滑&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-31-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>研究团队借 HTML 预览与 MathLive 漏洞，仅凭一条分享链接接管 ChatGPT 账号</title>
+      <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4727637a55b7e2dc0513a3e5</guid>
+      <pubDate>Sat, 31 Oct 2026 18:30:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;发一条公开分享链接，就能在受害者已登录会话里执行任意 JS。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.parameter.ai/labs/we-found-a-gap-at-openai"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>奥特曼：PC上装内存太浪费，最好留给AI数据中心</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-31-6</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4cf31f9bd2d13eecb35b23c6</guid>
+      <pubDate>Sat, 31 Oct 2026 18:28:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;奥特曼称个人电脑内存利用率仅5%，应集中到云端数据中心，引发AI社区争论。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-31-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>刚刚，Claude每月200美元套餐取消5小时限制</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-31-5</link>
+      <guid isPermaLink="false">urn:zhiyike:news:788a07a2c223c38f8d4e2650</guid>
+      <pubDate>Sat, 31 Oct 2026 18:24:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Anthropic 将 Max 20x 更名为 Ultra，并为已验证账户解除 5 小时窗口限制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-31-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」</title>
       <link>https://www.qbitai.com/2026/10/506855.html</link>
@@ -649,6 +713,14 @@
       <description>&lt;p&gt;Herdr 是一款管理终端和编码智能体的桌面应用，支持 Linux、macOS 和 Windows。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/herdrdev/herdr-app"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Lean 创造者 Leo de Moura：AI 写代码之后，谁来证明它是对的</title>
+      <link>https://thedataexchange.media/leo-de-moura-lean-aws/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f6c48536a255b757b0d84d84</guid>
+      <pubDate>Thu, 29 Oct 2026 23:29:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Lean 作者谈 AI 生成代码为何需要机器可检验的形式化证明&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://thedataexchange.media/leo-de-moura-lean-aws/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI 引用的统计数字从哪来：1285 条溯源，仅 40% 找到原始研究</title>
       <link>https://trakkr.ai/trakkr-research/zombie-stats</link>
       <guid isPermaLink="false">urn:zhiyike:news:fa8a4776be8b0be7fe98bff3</guid>
@@ -743,78 +815,6 @@
       <pubDate>Thu, 29 Oct 2026 18:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;亚利桑那居民组成跨党派联盟，反对新建超大规模数据中心，尽管他们曾欢迎台积电建厂。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>STEPX Neo 发布两周即迎首次升级，智能体能力持续释放</title>
-      <link>https://www.qbitai.com/2026/10/506554.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3d21439991035086c4d23da4</guid>
-      <pubDate>Thu, 29 Oct 2026 17:58:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;阶跃终端 STEPX Neo 发布两周后首次升级，覆盖视频创作、生活服务与工作任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506554.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AnySearch 推出 Pro 付费版：覆盖 20+ 专业领域，最高支持 20 QPS</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-29-17</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ff2e1ba7b0eba3db08894f2c</guid>
-      <pubDate>Thu, 29 Oct 2026 17:52:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;AnySearch 上线 Pro 付费版，专业数据源与并发能力升级，每 1000 次调用 5 美元&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-17"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>中国MaaS市场TOP2，商汤大装置再度蝉联</title>
-      <link>https://www.qbitai.com/2026/10/506550.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f06fe778c7ea9fe43919e383</guid>
-      <pubDate>Thu, 29 Oct 2026 17:52:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;IDC报告显示，2026上半年中国MaaS市场规模达106.3亿元，商汤大装置以9.4%份额居私有化市场第二。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506550.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 公开前沿模型失准监控体系：9 月训练中模型连上公网，15 分钟内被告警</title>
-      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:581ed9ba192c204c637870ab</guid>
-      <pubDate>Thu, 29 Oct 2026 17:00:00 +0800</pubDate>
-      <category>安全</category>
-      <description>&lt;p&gt;监控覆盖前沿 RL 训练、评测与全部内部 Codex 流量；回放 Hugging Face 事件，约 30 分钟即可告警。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/how-we-detect-frontier-model-misalignment/"&gt;OpenAI&lt;/a&gt; · &lt;a href="https://x.com/OpenAI/status/2115896329645723836"&gt;OpenAI X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>豆包工作向企业客户开放配置三方模型</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-29-16</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3614d6103f26dcdbeb52d7d1</guid>
-      <pubDate>Thu, 29 Oct 2026 16:53:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;豆包工作团队版和企业版客户可直接启用三方大模型，按用量扣 AI 点数&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-16"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>不认字的 AI，却很会说话</title>
-      <link>https://www.ifanr.com/1686124?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f31ff5e7943d0fa96b77bd95</guid>
-      <pubDate>Thu, 29 Oct 2026 15:03:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;前推特联创旗下 Dessa 剔除文字训练语音模型，主流语音 AI 转向半秒延迟竞赛&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1686124?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ropes &amp; Gray 联手 OpenAI 开发交易尽调 AI 工具</title>
-      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ef08c74bb77b587bf9df440a</guid>
-      <pubDate>Thu, 29 Oct 2026 15:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;律所自研尽调工具，可自动归类数据室并生成报告初稿&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/ropes-gray-ai-diligence"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>奥特曼和Dario同台唱rap！Genspark新视频Agent上线，零基础也能拍短剧</title>
-      <link>https://www.qbitai.com/2026/10/506478.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6ee8809ac893f50ea5738ca1</guid>
-      <pubDate>Thu, 29 Oct 2026 14:53:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Genspark发布Media Studio，接入20多家厂商70多个模型，零基础可做短剧。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506478.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>物理学也要被AI攻陷了？5道20多年量子公开问题被突破</title>
-      <link>https://www.qbitai.com/2026/10/506477.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:267af962f7f279d5287f9898</guid>
-      <pubDate>Thu, 29 Oct 2026 14:51:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;成立不到两个月的PSI称用自研AI系统辅助解决5道量子信息开放问题&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506477.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
