@@ -15,7 +15,23 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sat, 31 Oct 2026 10:18:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:33:00 +0800</lastBuildDate>
+    <item>
+      <title>刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」</title>
+      <link>https://www.qbitai.com/2026/10/506855.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:143178c96b57ee268bd58b07</guid>
+      <pubDate>Sat, 31 Oct 2026 13:05:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Anthropic将Max 5x、Max 20x改名为Max和Ultra，Ultra取消5小时窗口限制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506855.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RSI热潮之下，自我迭代的国产Agentic Infra，卷向了英伟达GPU的物理极限</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-10-31-2</link>
+      <guid isPermaLink="false">urn:zhiyike:news:082ab3954b54129124ed6af7</guid>
+      <pubDate>Sat, 31 Oct 2026 11:16:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;无问芯穹用Agent框架优化GPU算子，在SOL-ExecBench四大赛道登顶，88项单题第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-31-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>刚刚，奥特曼自曝OpenAI新模型：让我兴奋到两晚没睡！</title>
       <link>https://aiera.com.cn/2026/10/31/other/admin/121600/%e5%88%9a%e5%88%9a%ef%bc%8c%e5%a5%a5%e7%89%b9%e6%9b%bc%e8%87%aa%e6%9b%9dopenai%e6%96%b0%e6%a8%a1%e5%9e%8b%ef%bc%9a%e8%ae%a9%e6%88%91%e5%85%b4%e5%a5%8b%e5%88%b0%e4%b8%a4%e6%99%9a%e6%b2%a1%e7%9d%a1/</link>
@@ -127,6 +143,14 @@
       <pubDate>Sat, 31 Oct 2026 06:34:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;苹果 Apple 智能首批功能 12 月随 iOS 27.3 登陆中国大陆，通义千问为 Siri 等提供扩展能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1686969?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ostris 发布 Primal VAE：2 倍空间下采样，效果优于 Flux.2 VAE</title>
+      <link>https://huggingface.co/ostris/primal_vae</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cb589650b589c6e7a9f9fc06</guid>
+      <pubDate>Sat, 31 Oct 2026 06:17:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Ostris 开源 Primal VAE，仅做 2 倍空间下采样，配合 patch 4 可达到 8 倍 16 通道。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/ostris/primal_vae"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xjt4bg/ostris_releases_primal_vae_better_than_flux2_vae/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic 被曝 IPO 后信用评级或为高"垃圾级"</title>
@@ -791,30 +815,6 @@
       <pubDate>Thu, 29 Oct 2026 14:51:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;成立不到两个月的PSI称用自研AI系统辅助解决5道量子信息开放问题&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506477.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>刚刚，腾讯Buddy One发布，办公大一统要来了！混元Hy4也即将亮相</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-29-11</link>
-      <guid isPermaLink="false">urn:zhiyike:news:284686f6ebb285e0fec5b80a</guid>
-      <pubDate>Thu, 29 Oct 2026 14:24:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;腾讯推出Buddy One，用一个账号打通文档、会议、网盘、ima等办公产品，并预告混元Hy4。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>以未来几何推演物理交互，X-Era AI拓元智慧开源原生4D世界动作模型E0.5，真机大幅超越π0.5</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-29-9</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c295e557342bcd721be21655</guid>
-      <pubDate>Thu, 29 Oct 2026 13:39:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;拓元智慧开源E0.5世界动作模型，以未来三维几何预测驱动动作学习，真机大幅超越π0.5。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EMNLP 2026 Main | AI 群聊怎样多元化？佐治亚理工和麻省理工提出 MASCOT</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-29-7</link>
-      <guid isPermaLink="false">urn:zhiyike:news:127f31530ed913846c942946</guid>
-      <pubDate>Thu, 29 Oct 2026 13:27:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;两阶段训练让多智能体各守角色、由主持人调度发言，减少群聊里的重复附和。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-29-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
