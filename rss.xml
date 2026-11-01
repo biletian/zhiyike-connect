@@ -15,7 +15,15 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sun, 01 Nov 2026 23:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 03:32:00 +0800</lastBuildDate>
+    <item>
+      <title>Anthropic 的 Mythos 级模型据称在 Hugging Face 泄露</title>
+      <link>https://huggingface.co/burner22/numbat</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c6e7a29a7cce2eaa45ff3e9d</guid>
+      <pubDate>Sun, 01 Nov 2026 22:18:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Hugging Face 出现仓库声称含 Anthropic 内部 Mythos 级训练检查点，尚无独立验证。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/burner22/numbat"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xl47f5/anthropics_mythosclass_model_allegedly_leaked_on/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude紧急叫停！暗改Harness禁止逆向游戏</title>
       <link>https://www.qbitai.com/2026/11/507038.html</link>
@@ -807,14 +815,6 @@
       <pubDate>Fri, 30 Oct 2026 11:48:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;清华、无问芯穹、智元提出群体经验学习CEL，96台真机验证成功率98.3%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506662.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-30-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>独家｜启元推出PrimeSim世界模型，登顶权威榜单</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-30-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b54f3429bd8f486790443b44</guid>
-      <pubDate>Fri, 30 Oct 2026 11:26:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;启元发布机器人训练世界模型仿真器PrimeSim，登顶LIBERO综合榜并拿下五项测试中三项第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-30-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
