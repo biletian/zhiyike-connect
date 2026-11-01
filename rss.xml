@@ -15,7 +15,31 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 03:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:03:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 即将启动大规模公关宣传，考虑将数据中心重新包装为“AI 算力园区”</title>
+      <link>https://www.ithome.com/1/020/844.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a3d0f2470600e385d39d74e1</guid>
+      <pubDate>Mon, 02 Nov 2026 06:58:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 计划在中期选举后发起公关宣传，并重新包装数据中心说法。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/020/844.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI让科技CEO生活更轻松，普通人呢？</title>
+      <link>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9525531f94a7ac11b889b89a</guid>
+      <pubDate>Mon, 02 Nov 2026 04:57:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;TechCrunch播客讨论AI高管言论为何显得脱离普通人生活&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Proton 被批的不是 AI，而是 CEO 把安全测试说成“失败者思维”</title>
+      <link>https://blog.raed.dev/posts/proton-loser-thinking/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:437267832bc2c55a9a7c8e30</guid>
+      <pubDate>Mon, 02 Nov 2026 02:53:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;404 Media 调查称 Proton CEO 贬低工程师的安全测试请求，作者因此不再推荐 Proton。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.raed.dev/posts/proton-loser-thinking/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic 的 Mythos 级模型据称在 Hugging Face 泄露</title>
       <link>https://huggingface.co/burner22/numbat</link>
@@ -791,30 +815,6 @@
       <pubDate>Fri, 30 Oct 2026 13:51:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;谷歌研究团队发布持续学习新框架，用「清醒+睡眠」两阶段机制让模型吸收新知识且不遗忘旧能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/020/044.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude新模型曝光：新Fable，新Opus…</title>
-      <link>https://www.qbitai.com/2026/10/506674.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7cb1099aae7da5bd2c42d9fa</guid>
-      <pubDate>Fri, 30 Oct 2026 13:50:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic被曝两款新Claude进入早期测试，最快下周发布，或为IPO造势。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506674.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://www.ifanr.com/1686874"&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>机器人终于有了「任务进度记忆」！连续干活4小时，成功率超95%</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-10-30-8</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c1742c80bf0fd108ff420780</guid>
-      <pubDate>Fri, 30 Oct 2026 12:43:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;上海交大团队提出VaM，把价值预测当记忆输入策略，让机器人长流程操作更稳。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-30-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径</title>
-      <link>https://www.qbitai.com/2026/10/506662.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bd785ab989675adcfc0b7457</guid>
-      <pubDate>Fri, 30 Oct 2026 11:48:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;清华、无问芯穹、智元提出群体经验学习CEL，96台真机验证成功率98.3%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/10/506662.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-10-30-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
