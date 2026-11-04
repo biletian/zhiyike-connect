@@ -15,7 +15,55 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 01:33:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:03:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 扫描 Linux 内核发现 948 个可提权漏洞，2308 个候选问题中有 1724 个成功复现</title>
+      <link>https://www.ithome.com/1/022/476.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7d8007e4065e9a84e756cb8d</guid>
+      <pubDate>Thu, 05 Nov 2026 06:51:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 用未公开网络安全模型自动挖洞，948 个本地提权漏洞已提交上游。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/022/476.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 高管撰文勾勒 2028 大选 AI 政策蓝图，被批为自身利益游说</title>
+      <link>https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:277cace2ceb563a40d908efb</guid>
+      <pubDate>Thu, 05 Nov 2026 05:25:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;OpenAI 全球事务官 Lehane 发文提五项 AI 政策优先事项，学者质疑其借新政比喻为自家扩张铺路。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HN 热议：AI 广告与钓鱼邮件泛滥，虚假信息正在失控</title>
+      <link>https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0393a2bf9e28df37f9dc58a1</guid>
+      <pubDate>Thu, 05 Nov 2026 05:05:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;作者吐槽 YouTube 广告和邮件里充斥 AI 生成的虚假产品与钓鱼话术，平台几乎不做核实。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Google 收紧校园 AI 政策引反弹，DuckDuckGo 趁机向学校推广</title>
+      <link>https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d20f36109a413230cc1bc180</guid>
+      <pubDate>Thu, 05 Nov 2026 03:29:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Google 称学校若关闭搜索 AI 功能将失去 Google 搜索，DuckDuckGo 随即喊话学校换用自己&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugging Face 政策负责人谈开源 AI：成本、风险与取舍</title>
+      <link>https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5388443957bd2f9dea0e7003</guid>
+      <pubDate>Thu, 05 Nov 2026 02:44:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;TechCrunch 播客对话 Hugging Face 政策负责人，谈企业为何转向开源模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Viggle Remake 开源权重发布：可替换人物、编辑整段视频</title>
+      <link>https://huggingface.co/Viggle/Viggle-Remake</link>
+      <guid isPermaLink="false">urn:zhiyike:news:692061e504488b52e093206a</guid>
+      <pubDate>Thu, 05 Nov 2026 01:38:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Viggle 在 Hugging Face 开源 Remake 权重，可换人改场景并保留原运动、镜头与配乐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Viggle/Viggle-Remake"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xnui9u/viggle_remake_open_weights_for_recasting_editing/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点</title>
       <link>https://www.ifanr.com/1687733?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -287,6 +335,14 @@
       <pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;腾讯数字生态大会算力专场，三家具身智能公司披露算力、存储、网络三大底座实践数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/04/other/admin/122049/%e8%80%81%e9%bb%84%e7%8b%82%e5%90%b9%e7%9a%84ai%e7%a5%9e%e8%af%9d%ef%bc%8c%e6%ad%a3%e8%a2%ab%e5%ba%95%e5%ba%a7%e5%8d%a1%e6%ad%bb%ef%bc%81%e6%b2%a1%e8%bf%99%e6%9d%a1%e3%80%8c%e5%a4%a7%e5%8a%a8%e8%84%89/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevRev 用 GPT-6.1 Sol 打造自主自助服务</title>
+      <link>https://openai.com/index/devrev-enterprise-self-service</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5779e85cb5b33a10b9a62db7</guid>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;DevRev 将 OpenAI 模型接入 Computer 与 Operator，让客服请求自动闭环&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/devrev-enterprise-self-service"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>PIMCO CEO 警告：AI 市场将迎下行，随后会有东西断裂</title>
@@ -759,62 +815,6 @@
       <pubDate>Tue, 03 Nov 2026 02:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 联合外部安全团队开展内部安全冲刺，并大幅提高漏洞赏金&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"&gt;OpenAI&lt;/a&gt; · &lt;a href="https://x.com/OpenAI/status/2117444048227123277"&gt;OpenAI X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>纽约时报起诉 Brave 浏览器：抓取内容训练 AI 并帮用户绕过付费墙</title>
-      <link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4b980e32a99e0a18742825aa</guid>
-      <pubDate>Tue, 03 Nov 2026 01:51:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;纽约时报等多家媒体起诉 Brave，指其抓取内容卖给 AI 公司并绕过付费墙。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Launch HN：Momentic（YC W24）用 AI 智能体跑你的应用来抓 Bug</title>
-      <link>https://momentic.ai/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5f683dfbc62d9d3d72b1651a</guid>
-      <pubDate>Tue, 03 Nov 2026 01:05:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;YC W24 项目 Momentic 登上 HN，主打用 AI 智能体端到端测试应用并自动修复。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://momentic.ai/"&gt;Momentic 官方&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NVIDIA Cosmos 仿真配方：为自动驾驶/机器人/手术生成交互世界模型数据</title>
-      <link>https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f01e8bec460e07dd316b7967</guid>
-      <pubDate>Tue, 03 Nov 2026 01:00:00 +0800</pubDate>
-      <category>开源</category>
-      <description>&lt;p&gt;Cosmos Framework 推出仿真配方与 NIM：可在保持路网与轨迹下改天气/光照，服务 AV、机器人与手术场景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/"&gt;NVIDIA&lt;/a&gt; · &lt;a href="https://github.com/NVIDIA/cosmos-framework"&gt;Cosmos Framework&lt;/a&gt; · &lt;a href="https://x.com/NVIDIAAI/status/2117332456768717244"&gt;NVIDIA X&lt;/a&gt; · &lt;a href="https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"&gt;NVIDIA Blog&lt;/a&gt; · &lt;a href="https://x.com/NVIDIAAI/status/2117516278034247708"&gt;NVIDIA X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>马斯克：Grok Bot 服务成本相对收入不可持续，上调用量限制</title>
-      <link>https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:567b018e1057153c7c7664ce</guid>
-      <pubDate>Tue, 03 Nov 2026 00:23:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;马斯克确认用户额度异常非故障，因服务成本过高而收紧限制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI Pando：为 Codex/Agent 规模化打造的 Git 后端，推送延迟约降 80%</title>
-      <link>https://openai.com/index/scaling-git-at-openai</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0cadb3de88ff3b28c84f92a7</guid>
-      <pubDate>Mon, 02 Nov 2026 23:30:00 +0800</pubDate>
-      <category>工程</category>
-      <description>&lt;p&gt;OpenAI 自研 Git 兼容后端 Pando：横向扩展写入、拉满读带宽，日均近 PB，推送中位延迟约降近 5x。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/scaling-git-at-openai"&gt;OpenAI&lt;/a&gt; · &lt;a href="https://x.com/OpenAIDevs/status/2117408792346509663"&gt;OpenAI Devs X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 推出电网保护者计划，数据中心可弹性降负荷</title>
-      <link>https://openai.com/index/grid-protectors-program</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c1a900d76b69360efc06b9f3</guid>
-      <pubDate>Mon, 02 Nov 2026 23:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 启动 Grid Protectors，让未来园区在电网紧张时主动削减用电。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/grid-protectors-program"&gt;OpenAI&lt;/a&gt; · &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>NeurIPS 2026｜MemSkill让智能体学习并进化记忆技能</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-02-15</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bf925e3305b675a6e585d41e</guid>
-      <pubDate>Mon, 02 Nov 2026 22:49:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;南洋理工大学等提出 MemSkill，把记忆操作变成可学习、可进化的技能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-02-15"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
