@@ -15,7 +15,103 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 14:34:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 22:32:00 +0800</lastBuildDate>
+    <item>
+      <title>ToyBlocks：面向机器人学习的可控仿真世界与评测框架</title>
+      <link>https://huggingface.co/blog/allenai/toyblocks</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5cb506cd96fd5bbb9bec0c09</guid>
+      <pubDate>Fri, 06 Nov 2026 22:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Ai2 推出首个 FoundationWorld，用积木桌面场景自动生成机器人训练与评测数据&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/allenai/toyblocks"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Einsia AI发布Frontier3DBench：Agent离真实3D创作还有多远？</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-06-16</link>
+      <guid isPermaLink="false">urn:zhiyike:news:83e4be137b928e73779b7315</guid>
+      <pubDate>Fri, 06 Nov 2026 18:27:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;新基准横跨Blender与Unreal Engine，用145项任务评测11种模型与Agent框架。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-06-16"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>3.7万token/s实现千万级家庭仿真，准确率超越硅谷Jev模型，港大罗晔教授团队发布YN决策模型</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-06-15</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b2ea3e37c2f4f8cf9c4f2992</guid>
+      <pubDate>Fri, 06 Nov 2026 18:20:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;港大S²-MAS用14张GPU、4小时完成1200万户家庭社会仿真，并开源YN决策模型家族。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-06-15"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？</title>
+      <link>https://www.qbitai.com/2026/11/508174.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e2ea1d15bb1716bc6ab92cd6</guid>
+      <pubDate>Fri, 06 Nov 2026 17:25:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;PPIO 沙箱把 Agent 专属云电脑做成开箱即用的 API，支持暂停恢复与克隆。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/508174.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验</title>
+      <link>https://www.qbitai.com/2026/11/508170.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:96f69f292062c5bfc4078a4a</guid>
+      <pubDate>Fri, 06 Nov 2026 17:21:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;阶跃终端首款大模型原生智能体手机 STEPX Neo 在进博会高通展台首次亮相。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/508170.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>进博会 “打工记” 上新！浙江人形 NAVIAI 亮出工业具身智能精细活</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-06-14</link>
+      <guid isPermaLink="false">urn:zhiyike:news:064dacee88cec656e5b61033</guid>
+      <pubDate>Fri, 06 Nov 2026 17:02:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;浙江人形在第九届进博会展示三套产线级工业场景方案，并披露欧洲落地进展。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-06-14"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>纵横9米高空的机器人，跑出3.3个马拉松，一座大仓的极速28小时</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-06-13</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6bbe666788da44d66e6cee9f</guid>
+      <pubDate>Fri, 06 Nov 2026 16:17:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;菜鸟广州增城猫超仓用135台ZeeBot攀爬机器人扛过双十一首日订单洪峰。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-06-13"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>让机器人学会「一口气干完一件活」</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-06-12</link>
+      <guid isPermaLink="false">urn:zhiyike:news:752955edd51f19c4a06613ed</guid>
+      <pubDate>Fri, 06 Nov 2026 16:09:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;中兴提出三阶段训练范式，8B 模型长程规划准确率提升 30.31%，180B 模型登顶国内具身大脑榜。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-06-12"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>世界模型「云游戏」问世，李飞飞World Labs出品</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-06-11</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ef5fa6e965d8d40f29071d16</guid>
+      <pubDate>Fri, 06 Nov 2026 15:56:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;World Labs发布Atlas世界模型实时演示版Frameboy，云端流式传输最高15fps，响应约70ms。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-06-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿</title>
+      <link>https://www.qbitai.com/2026/11/508155.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0f5e6e382584bb2e126832c4</guid>
+      <pubDate>Fri, 06 Nov 2026 15:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;墨芯完成近10亿元C+轮融资，距上轮仅5个月，稀疏推理芯片商业化提速。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/508155.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？</title>
+      <link>https://www.qbitai.com/2026/11/508118.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:dce1128158f0259acf0cc1c2</guid>
+      <pubDate>Fri, 06 Nov 2026 14:54:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;淘宝短剧联合天猫小黑盒等推出多部AI品牌短剧，由Wan3.0支撑并直连商品成交。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/508118.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！</title>
+      <link>https://www.qbitai.com/2026/11/508143.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ba46cbc9bf0995943e83b072</guid>
+      <pubDate>Fri, 06 Nov 2026 14:43:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;11月20—21日北京，70+嘉宾、18大专题、70+演讲，OpenAI的Łukasz Kaiser等出席。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/508143.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>让等变Transformer走向三千万原子规模，至知发布分布式计算系统Tessera</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-11-06-10</link>
@@ -33,12 +129,44 @@
       <description>&lt;p&gt;阿里发布第二份AI向善报告，26个案例覆盖医疗、教育、环保与科研。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-06-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AI 自主研发真有那么神？作者称模型判断力仍很糟糕</title>
+      <link>https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e82da34b406fc5b1fd531f8d</guid>
+      <pubDate>Fri, 06 Nov 2026 13:19:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;LessWrong 作者称实测多个项目后，对 AI 自主研发的巧妙程度存疑&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"&gt;Lesswrong 官方&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>99.4%登顶全球第一！这个中国AI师承世界冠军</title>
+      <link>https://www.qbitai.com/2026/11/508107.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8caa9d8a48c4c6e6684509d8</guid>
+      <pubDate>Fri, 06 Nov 2026 13:01:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;360自研AI安全攻防系统图龙锋以99.4%漏洞复现成功率登顶CyberGym榜单。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/508107.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇</title>
+      <link>https://www.qbitai.com/2026/11/507988.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2f690a67656ce854706c7277</guid>
+      <pubDate>Fri, 06 Nov 2026 11:36:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;第11届香港金融科技周主论坛11月3日闭幕，逾30个内地及海外代表团参会。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/507988.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>腾讯混元 Hy4 列AA 榜单国模第二，Arena 榜单全球开源模型第一</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-11-06-7</link>
       <guid isPermaLink="false">urn:zhiyike:news:8cb31e2843bbd5a26b8ef54c</guid>
       <pubDate>Fri, 06 Nov 2026 11:30:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;腾讯混元 Hy4 在 Artificial Analysis 智能指数中位列中国模型第二，并在 Agent Arena…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-06-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航</title>
+      <link>https://www.qbitai.com/2026/11/507972.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:03aaf2a1a190c95a0cc1294a</guid>
+      <pubDate>Fri, 06 Nov 2026 11:20:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;即梦整合小云雀短剧agent能力，推出短剧工作室，剧本、资产、分镜、预演一站式打通。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/507972.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>奇富科技开源ModelEvo 2.0，推动业务建模迈向自主探索与持续进化</title>
@@ -87,6 +215,14 @@
       <pubDate>Fri, 06 Nov 2026 10:22:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;团队把世界建模定义为状态转移并独立测量，发现38个前沿模型普遍缺失该能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-06"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一</title>
+      <link>https://www.qbitai.com/2026/11/507967.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6f05ec6397896a689b87a19c</guid>
+      <pubDate>Fri, 06 Nov 2026 10:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;腾讯因 Hy4 调用激增对推理集群十倍扩容，并提升用户免费体验额度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/507967.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reflection 发布 Beam 安全技术报告：四类系统性风险均评为 Limited</title>
@@ -143,6 +279,14 @@
       <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI收购Pierre Computer，同日Meta收编Conductor团队，AI大厂争夺程序员工作流&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/06/other/admin/122409/openai%e6%94%b6%e8%b4%ad%e7%a5%9e%e7%a7%98%e5%9b%a2%e9%98%9f%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e8%a6%81%e5%9c%a8codex%e9%87%8c%e5%86%8d%e9%80%a0%e4%b8%80%e4%b8%aagithub/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open ASR 排行榜新增埃及与尼日利亚英语口音私有数据</title>
+      <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f76b390dcf0684d905d32791</guid>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;HuggingFace 与 Liva AI 合作，为语音识别评测榜加入两种非洲口音私有测试集。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/open-asr-leaderboard-liva"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>这可能是美国AI最魔幻的一天。</title>
@@ -295,46 +439,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;微软研究院推出 PDD Kit，把用户意图转成 Verus 形式化规范，证明智能体代码满足规范&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/"&gt;微软研究院&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luma 盘点最适合 UGC 广告的 AI 视频模型：Ray 3.2 与 Seedance 2.5</title>
-      <link>https://lumalabs.ai/news/best-ai-video-models-ugc-ads</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5d3425dec4ac882a44d1a6ef</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 发布指南，梳理能拍出不像 AI 的 UGC 广告的 AI 视频模型与工作流。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/best-ai-video-models-ugc-ads"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开源 AI 视频模型与制作工具盘点：Luma Ray、Stable Video Diffusion 等</title>
-      <link>https://lumalabs.ai/news/open-source-ai-video-models-production-tools</link>
-      <guid isPermaLink="false">urn:zhiyike:news:393683d41dadb2f5c9e3fe2a</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 梳理开源 AI 视频模型与专业制作平台的差异与适用场景&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/open-source-ai-video-models-production-tools"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luma 对比 10 款 AI 视频模型：单次生成时长与专业后期能力谁更强</title>
-      <link>https://lumalabs.ai/news/ai-video-models-generate-longer-videos</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4e5a8b1d2da5d33db310b170</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 发布指南，对比 10 款 AI 视频模型的单次生成时长、扩展方式与后期适配能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/ai-video-models-generate-longer-videos"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2027 AI 视频模型榜单之外：Luma Ray 3.2 等五款工具的生产力对比</title>
-      <link>https://lumalabs.ai/news/ai-video-model-leaderboard</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2ff6352c8ffc395fe38be382</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Luma 发文对比 2027 年主流 AI 视频模型，强调榜单分数不等于成片交付能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/ai-video-model-leaderboard"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luma 对比 Higgsfield：品牌与代理机构视频制作谁更合适</title>
-      <link>https://lumalabs.ai/news/luma-vs-higgsfield</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d836cd2a2afe7fff76e1e397</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Luma 从生成延伸到后期交付，Higgsfield 主打多模型聚合与社交内容。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/luma-vs-higgsfield"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stroq：本地审计 AI 编程代理读了什么、执行了什么</title>
@@ -711,110 +815,6 @@
       <pubDate>Thu, 05 Nov 2026 06:01:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;OpenAI 公布通过 SIP 中继把电话呼入呼出接入 GPT-Live 的完整流程&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.openai.com/api/docs/guides/voice-sip"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fizgig 9.0.4 更新：Fibo 2.0 训练、Z-Image Base、SAM 3.1 生成遮罩</title>
-      <link>https://github.com/shootthesound/Fizgig/blob/master/docs/FIBO2.md</link>
-      <guid isPermaLink="false">urn:zhiyike:news:dfc2011523c6220778ed74c4</guid>
-      <pubDate>Thu, 05 Nov 2026 05:59:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Fizgig 9.0.4 带来 Fibo 2.0 训练、Z-Image Base 支持与 SAM 3.1 文字生成遮罩…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/shootthesound/Fizgig/blob/master/docs/FIBO2.md"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xo18u8/fizgig_904_fibo_20_training_zimage_base_masks/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 高管撰文勾勒 2028 大选 AI 政策蓝图，被批为自身利益游说</title>
-      <link>https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:277cace2ceb563a40d908efb</guid>
-      <pubDate>Thu, 05 Nov 2026 05:25:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;OpenAI 全球事务官 Lehane 发文提五项 AI 政策优先事项，学者质疑其借新政比喻为自家扩张铺路。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Together 提出 Polymorphic Inference，首发 Together Compiler 持续优化推理</title>
-      <link>https://www.together.ai/blog/polymorphic-inference</link>
-      <guid isPermaLink="false">urn:zhiyike:news:40fc601b18f934d9eae28258</guid>
-      <pubDate>Thu, 05 Nov 2026 05:20:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;从「一次调死」的静态推理走向随模型/流量/硬件自适应；Compiler 一夜跑可对标数周人工调优。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.together.ai/blog/polymorphic-inference"&gt;Together AI&lt;/a&gt; · &lt;a href="https://x.com/togethercompute/status/2118106060536103179"&gt;Together X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>HN 热议：AI 广告与钓鱼邮件泛滥，虚假信息正在失控</title>
-      <link>https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0393a2bf9e28df37f9dc58a1</guid>
-      <pubDate>Thu, 05 Nov 2026 05:05:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;作者吐槽 YouTube 广告和邮件里充斥 AI 生成的虚假产品与钓鱼话术，平台几乎不做核实。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google 收紧校园 AI 政策引反弹，DuckDuckGo 趁机向学校推广</title>
-      <link>https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d20f36109a413230cc1bc180</guid>
-      <pubDate>Thu, 05 Nov 2026 03:29:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Google 称学校若关闭搜索 AI 功能将失去 Google 搜索，DuckDuckGo 随即喊话学校换用自己&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hugging Face 政策负责人谈开源 AI：成本、风险与取舍</title>
-      <link>https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5388443957bd2f9dea0e7003</guid>
-      <pubDate>Thu, 05 Nov 2026 02:44:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;TechCrunch 播客对话 Hugging Face 政策负责人，谈企业为何转向开源模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Viggle Remake 开源权重发布：可替换人物、编辑整段视频</title>
-      <link>https://huggingface.co/Viggle/Viggle-Remake</link>
-      <guid isPermaLink="false">urn:zhiyike:news:692061e504488b52e093206a</guid>
-      <pubDate>Thu, 05 Nov 2026 01:38:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Viggle 在 Hugging Face 开源 Remake 权重，可换人改场景并保留原运动、镜头与配乐&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Viggle/Viggle-Remake"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xnui9u/viggle_remake_open_weights_for_recasting_editing/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Suno Create 支持以 MIDI 为起点创作歌曲</title>
-      <link>https://suno.com/blog/MIDI-in-create</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6ae14e8748c97df7e2a55ed1</guid>
-      <pubDate>Thu, 05 Nov 2026 00:45:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Create 页可拖入或选择 MIDI 作为创作起点；官方博客标 Nov 4, 2026。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://suno.com/blog/MIDI-in-create"&gt;Suno&lt;/a&gt; · &lt;a href="https://x.com/suno/status/2118032467500114207"&gt;Suno X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kimi K3.1 Pro 模型权重开源：2.8T 参数 MoE，1048576 上下文</title>
-      <link>https://huggingface.co/moonshotai/Kimi-K3.1-Pro</link>
-      <guid isPermaLink="false">urn:zhiyike:news:43cc829107aefba467e52f05</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;月之暗面开源 K3.1 系列首个模型，权重已上线 Hugging Face。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/moonshotai/Kimi-K3.1-Pro"&gt;Hugging Face&lt;/a&gt; · &lt;a href="https://x.com/Kimi_Moonshot/status/2118010528123773297"&gt;Kimi X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Seedance 2.5 替代方案：7 款面向专业制作的 AI 视频工具</title>
-      <link>https://lumalabs.ai/news/seedance-2.5-alternatives</link>
-      <guid isPermaLink="false">urn:zhiyike:news:106b2632fac6bff160c01c55</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Luma 发文对比 Seedance 2.5 的替代方案，强调专业制作需看完整工作流。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/seedance-2.5-alternatives"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Runway Gen-4.5 替代方案：8 款专业视频生成模型盘点</title>
-      <link>https://lumalabs.ai/news/runway-gen-4.5-alternatives</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7643c3fe42a0e0f3fffaad73</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 盘点 8 款可替代 Runway Gen-4.5 的专业视频生成模型，主打多模型同工作区协作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/runway-gen-4.5-alternatives"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kling 3.0 替代方案：6 款面向专业工作室流程的模型</title>
-      <link>https://lumalabs.ai/news/kling-3.0-alternatives</link>
-      <guid isPermaLink="false">urn:zhiyike:news:181333180ca78663b8e9e7b6</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 梳理 6 款可替代 Kling 3.0 的视频生成模型，聚焦 HDR 调色与后期流程。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/kling-3.0-alternatives"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Veo 3.1 之外：6 款适合影视级制作的 AI 视频模型</title>
-      <link>https://lumalabs.ai/news/veo-3.1-alternatives</link>
-      <guid isPermaLink="false">urn:zhiyike:news:08aa160acc2bb2ce8f054f45</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Luma 盘点了 6 款可替代 Veo 3.1 的 AI 视频模型，Ray 3.2 是唯一原生导出 16-bit…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/veo-3.1-alternatives"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
