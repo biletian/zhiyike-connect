@@ -15,7 +15,71 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 02:48:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:47:00 +0800</lastBuildDate>
+    <item>
+      <title>英伟达破局 AI 内存瓶颈：HBM 仅增约 3%，每美元智能体吞吐量最高提升 30 倍</title>
+      <link>https://www.ithome.com/1/023/025.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:376e695ce52c21ad9db1237d</guid>
+      <pubDate>Fri, 06 Nov 2026 07:30:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;英伟达提出全栈协同设计，用低精度压缩与分层存储缓解 HBM 压力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/023/025.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 最强网安 AI 模型：GPT-6 Cyber 登场，性能提高 51%、发现火狐 Firefox 浏览器 81 个新漏洞</title>
+      <link>https://www.ithome.com/1/023/038.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3be6cd709ccfd38dbe69e77d</guid>
+      <pubDate>Fri, 06 Nov 2026 07:22:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 推出网络安全专用模型 GPT-6 Cyber，ExploitGym 跑分相对提升约 51%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/023/038.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 时代最强“芯脏”：英伟达实测 Vera CPU，较最快 x86 CPU 每瓦多跑 60% 智能体</title>
+      <link>https://www.ithome.com/1/023/029.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9d570653a39f4134c902573d</guid>
+      <pubDate>Fri, 06 Nov 2026 07:09:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;英伟达公布 Vera CPU 智能体负载实测数据，称每瓦吞吐与执行速度均领先 x86。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/023/029.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Airbnb 宣布 2027 年上半年推出自研 AI 旅行智能体</title>
+      <link>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:21c06c2280fb043d7f632776</guid>
+      <pubDate>Fri, 06 Nov 2026 06:40:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Airbnb 首次给出 AI 旅行智能体的明确上线时间，并披露其交互形态与功能边界。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Perplexity 推出常驻 AI 智能体 Teammates，需订阅 200 美元/月 Max 套餐</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7a3fcc4ee8b9523c25bc3c2e</guid>
+      <pubDate>Fri, 06 Nov 2026 06:26:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Perplexity 上线可 24/7 常驻、同时承担多角色的工作型 AI 智能体 Teammates。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Code 被曝在 User-Agent 中泄露用户邮箱，引发隐私争议</title>
+      <link>https://github.com/anthropics/claude-code/issues/107757</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c783845b494f7db14ee0cd54</guid>
+      <pubDate>Fri, 06 Nov 2026 06:17:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户报告 Claude Code 联网搜索时把邮箱写进 User-Agent，导致其每天收到大量诈骗邮件。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/anthropics/claude-code/issues/107757"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA 发布 Cosmos 3 四个开源世界模型，覆盖自动驾驶与机器人仿真</title>
+      <link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b5302dd535670dc496640900</guid>
+      <pubDate>Fri, 06 Nov 2026 03:35:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;英伟达新增四个 16B 参数开源权重检查点，用于交互式世界模拟与多传感器驾驶场景生成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Meta 为 Muse AI 智能体上线实时语音模式与动态虚拟形象</title>
+      <link>https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3f3397dc75b53dc5733a70ca</guid>
+      <pubDate>Fri, 06 Nov 2026 03:03:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Meta 的 Muse AI 智能体新增实时语音对话和会随说话同步动画的虚拟形象。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>OpenAI 总裁 Brockman：公司有望在 2027 年具备 IPO 条件</title>
       <link>https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/</link>
@@ -113,6 +177,14 @@
       <description>&lt;p&gt;Box 将 Nemotron 嵌入模型接入核心产品，让智能体检索更快更准更省。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭</title>
+      <link>https://www.qbitai.com/2026/11/507919.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a914a404b8188b804953848a</guid>
+      <pubDate>Thu, 05 Nov 2026 21:17:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;海亮科服推出e生涯服务平台，用AI生涯规划师帮家庭做选科与升学规划，基础规划服务免费。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/507919.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Mistral 发布 Studio 企业 AI 平台，托管智能体与工作流</title>
       <link>https://mistral.ai/news/build-with-studio/</link>
       <guid isPermaLink="false">urn:zhiyike:news:f7adb76ae8e87d82f1e5341f</guid>
@@ -151,6 +223,22 @@
       <pubDate>Thu, 05 Nov 2026 18:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Google 给学区 AI 开关，但关掉 AI 就同时失去 Google 搜索。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1687912?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>三条AI技术路线终将合流？智象创始人梅涛提出智能体化的世界模型</title>
+      <link>https://www.qbitai.com/2026/11/507834.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:df90aff71aebfe75be9efcec</guid>
+      <pubDate>Thu, 05 Nov 2026 17:37:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;梅涛在2026世界顶尖科学家论坛提出构建智能体化全模态世界模型&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/507834.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>网易发力互动式讲题Agent：有道“欧拉讲题”上线，推翻行业“搜题生意”，开卷“讲题力”</title>
+      <link>https://www.qbitai.com/2026/11/507822.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b7aa188ba9ed949a64a8e639</guid>
+      <pubDate>Thu, 05 Nov 2026 16:48:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;有道上线互动式数学讲题Agent，从给答案转向讲思路&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/507822.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>刚刚，百度开源全新预训练基模，还是主打效率的Flash</title>
@@ -369,6 +457,14 @@
       <description>&lt;p&gt;Phonon 端侧 TTS 开源发布，小体积多语言并登榜&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/phonon-tts"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Kijai 上传 MiniMax-H3 TurboH3 FL2VA 精简 int8 模型，体积 21 GB</title>
+      <link>https://huggingface.co/Kijai/MiniMax-H3_comfy/blob/main/diffusion_models/minimax_h3_fl2va_turboh3_i2va_pruned_int8_convrot.safetensors</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7748b082b6eb7322e3e6f536</guid>
+      <pubDate>Thu, 05 Nov 2026 07:44:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Kijai 在 Hugging Face 上传 MiniMax-H3 的 TurboH3 FL2VA 精简 int8…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Kijai/MiniMax-H3_comfy/blob/main/diffusion_models/minimax_h3_fl2va_turboh3_i2va_pruned_int8_convrot.safetensors"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xo3pjo/new_turboh3_fl2va/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>彭博社称苹果收紧员工 AI 使用预算：部分工程师日额度下降 33%，恐进一步下探至 100 美元</title>
       <link>https://www.ithome.com/1/022/479.htm</link>
       <guid isPermaLink="false">urn:zhiyike:news:c5561f216cf4904bb635c366</guid>
@@ -535,6 +631,14 @@
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Luma 对比五款商用 AI 视频生成器，Ray 3.2 主打 4K HDR 与专业后期集成&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/ai-video-generators-business"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2027 年最佳 AI 视频模型盘点：Luma Ray 3.2 领跑专业制作</title>
+      <link>https://lumalabs.ai/news/best-ai-video-models</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d093b7c8190f58cd57b13da3</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Luma 按制作可用性、创作控制与工作流整合重排 AI 视频模型，Ray 3.2 居首。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/best-ai-video-models"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Uber 上季度仅由 AI 智能体完成 4 次打车，外卖约 500 单</title>
@@ -711,110 +815,6 @@
       <pubDate>Wed, 04 Nov 2026 10:49:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;openJiuwen AgentMemory上线多模态记忆能力OmniMem-Lens，按真实事件切分长视频&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/507533.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>后摩智能低调完成数十亿元B轮融资，端侧大模型AI芯片进入规模化兑现期</title>
-      <link>https://aiera.com.cn/2026/11/04/other/admin/122212/%e5%90%8e%e6%91%a9%e6%99%ba%e8%83%bd%e4%bd%8e%e8%b0%83%e5%ae%8c%e6%88%90%e6%95%b0%e5%8d%81%e4%ba%bf%e5%85%83b%e8%bd%ae%e8%9e%8d%e8%b5%84%ef%bc%8c%e7%ab%af%e4%be%a7%e5%a4%a7%e6%a8%a1%e5%9e%8bai/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3efdb92ebb427c1d0e13ab2c</guid>
-      <pubDate>Wed, 04 Nov 2026 10:25:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;存算一体AI芯片企业后摩智能完成数十亿元B轮融资，资金用于M50规模化交付与新品研发。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/04/other/admin/122212/%e5%90%8e%e6%91%a9%e6%99%ba%e8%83%bd%e4%bd%8e%e8%b0%83%e5%ae%8c%e6%88%90%e6%95%b0%e5%8d%81%e4%ba%bf%e5%85%83b%e8%bd%ae%e8%9e%8d%e8%b5%84%ef%bc%8c%e7%ab%af%e4%be%a7%e5%a4%a7%e6%a8%a1%e5%9e%8bai/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>普林斯顿AI Lab出题，「空间智能」大考：人类83.3%，大模型最高39.7%！</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-04-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4259b7e0620a51e11d7737f2</guid>
-      <pubDate>Wed, 04 Nov 2026 10:20:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;普林斯顿AI Lab推出SSoN基准，用四张静态室内图考跨视角空间一致性，人类83.3%，最强VLM仅39.7%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-04-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>苹果智能Beta版上线，千问 APP 为 Siri 增强能力</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-04-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e8c67241e012f56af514a5f2</guid>
-      <pubDate>Wed, 04 Nov 2026 10:11:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;苹果智能开发者Beta开放测试，Siri等入口可直接调用千问的文本与图像理解、内容生成能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-04-4"&gt;机器之心&lt;/a&gt; · &lt;a href="https://www.ifanr.com/1687585"&gt;爱范儿&lt;/a&gt; · &lt;a href="https://www.ifanr.com/1687733"&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Luma Character Sheet：从参考图生成多视角一致角色表</title>
-      <link>https://app.lumalabs.ai/solutions/character-sheet-plugin</link>
-      <guid isPermaLink="false">urn:zhiyike:news:167a0d9dbf811aefbcbc8336</guid>
-      <pubDate>Wed, 04 Nov 2026 10:08:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Character Sheet 把参考图或文字设定变成可继续使用的多视角角色表；与 Expression Sheet 不同产品页。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://app.lumalabs.ai/solutions/character-sheet-plugin"&gt;Luma&lt;/a&gt; · &lt;a href="https://x.com/LumaLabsAI/status/2117801249919975805"&gt;Luma X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MiniMax 开源 BYOB 协议：让每个人带自己的 Agent 坐到同一张桌子</title>
-      <link>https://github.com/MiniMax-AI/mcode-agent-table?ref=explainx</link>
-      <guid isPermaLink="false">urn:zhiyike:news:be77f9daa0259ab9a5b52fe5</guid>
-      <pubDate>Wed, 04 Nov 2026 09:32:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;BYOB 协议规定机器人只能提议，受影响的所有者批准后由其自己的机器人执行，再由另一席位验证。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/MiniMax-AI/mcode-agent-table?ref=explainx"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Nexus Mods 要求新上传模组强制申报是否使用 AI</title>
-      <link>https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7ee7a58b7e24b308ea7c6181</guid>
-      <pubDate>Wed, 04 Nov 2026 08:42:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Nexus Mods 将 AI 披露设为新模组上传的强制要求，并给现有模组 60 天宽限期。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开源我这折腾了1年的「Agent自动化系统」，愿所有人都能感受Agent的魅力。</title>
-      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647688159&amp;idx=1&amp;sn=ded6c6aed885323cd921c6a3a42e5bcf</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0c2b5b4cc22183b699be1562</guid>
-      <pubDate>Wed, 04 Nov 2026 08:19:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;作者将自研Agent自动化系统重写并开源，内核仅1600行、无第三方依赖。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;amp;mid=2647688159&amp;amp;idx=1&amp;amp;sn=ded6c6aed885323cd921c6a3a42e5bcf"&gt;数字生命卡兹克&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用AI给种子「编程」这事，中国科学家正在加速！</title>
-      <link>https://aiera.com.cn/2026/11/04/other/admin/122140/%e7%94%a8ai%e7%bb%99%e7%a7%8d%e5%ad%90%e3%80%8c%e7%bc%96%e7%a8%8b%e3%80%8d%e8%bf%99%e4%ba%8b%ef%bc%8c%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e5%ae%b6%e6%ad%a3%e5%9c%a8%e5%8a%a0%e9%80%9f%ef%bc%81/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:629d25314fc1d1753a59649c</guid>
-      <pubDate>Wed, 04 Nov 2026 08:08:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;国内首个农业科研智能体亮相三亚GLAST，AI育种方案研发周期从3到6个月压缩到数周。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/04/other/admin/122140/%e7%94%a8ai%e7%bb%99%e7%a7%8d%e5%ad%90%e3%80%8c%e7%bc%96%e7%a8%8b%e3%80%8d%e8%bf%99%e4%ba%8b%ef%bc%8c%e4%b8%ad%e5%9b%bd%e7%a7%91%e5%ad%a6%e5%ae%b6%e6%ad%a3%e5%9c%a8%e5%8a%a0%e9%80%9f%ef%bc%81/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI个人智能体要添新搭档！比旗舰快3倍，单价只要1/10</title>
-      <link>https://aiera.com.cn/2026/11/04/other/admin/122131/openai%e4%b8%aa%e4%ba%ba%e6%99%ba%e8%83%bd%e4%bd%93%e8%a6%81%e6%b7%bb%e6%96%b0%e6%90%ad%e6%a1%a3%ef%bc%81%e6%af%94%e6%97%97%e8%88%b0%e5%bf%ab3%e5%80%8d%ef%bc%8c%e5%8d%95%e4%bb%b7%e5%8f%aa%e8%a6%811-10/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4e1b347f6717946454bc57fb</guid>
-      <pubDate>Wed, 04 Nov 2026 08:07:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;dots将按任务步骤自动切换模型，快模型干执行、旗舰模型管推理。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/04/other/admin/122131/openai%e4%b8%aa%e4%ba%ba%e6%99%ba%e8%83%bd%e4%bd%93%e8%a6%81%e6%b7%bb%e6%96%b0%e6%90%ad%e6%a1%a3%ef%bc%81%e6%af%94%e6%97%97%e8%88%b0%e5%bf%ab3%e5%80%8d%ef%bc%8c%e5%8d%95%e4%bb%b7%e5%8f%aa%e8%a6%811-10/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>清华Nature子刊：上千智能体组网后自发站队，观点极化涌现</title>
-      <link>https://aiera.com.cn/2026/11/04/other/admin/122088/%e6%b8%85%e5%8d%8enature%e5%ad%90%e5%88%8a%ef%bc%9a%e4%b8%8a%e5%8d%83%e6%99%ba%e8%83%bd%e4%bd%93%e7%bb%84%e7%bd%91%e5%90%8e%e8%87%aa%e5%8f%91%e7%ab%99%e9%98%9f%ef%bc%8c%e8%a7%82%e7%82%b9%e6%9e%81/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:105060089c6ca8b7262cddf1</guid>
-      <pubDate>Wed, 04 Nov 2026 08:02:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;清华团队让1000个大模型智能体自由交流，无预设规则下观点自发分化为两极。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/04/other/admin/122088/%e6%b8%85%e5%8d%8enature%e5%ad%90%e5%88%8a%ef%bc%9a%e4%b8%8a%e5%8d%83%e6%99%ba%e8%83%bd%e4%bd%93%e7%bb%84%e7%bd%91%e5%90%8e%e8%87%aa%e5%8f%91%e7%ab%99%e9%98%9f%ef%bc%8c%e8%a7%82%e7%82%b9%e6%9e%81/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>老黄狂吹的AI神话，正被底座卡死！没这条「大动脉」，买显卡全白搭</title>
-      <link>https://aiera.com.cn/2026/11/04/other/admin/122049/%e8%80%81%e9%bb%84%e7%8b%82%e5%90%b9%e7%9a%84ai%e7%a5%9e%e8%af%9d%ef%bc%8c%e6%ad%a3%e8%a2%ab%e5%ba%95%e5%ba%a7%e5%8d%a1%e6%ad%bb%ef%bc%81%e6%b2%a1%e8%bf%99%e6%9d%a1%e3%80%8c%e5%a4%a7%e5%8a%a8%e8%84%89/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:375bb66e991bb9f91715ba7a</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;腾讯数字生态大会算力专场，三家具身智能公司披露算力、存储、网络三大底座实践数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/04/other/admin/122049/%e8%80%81%e9%bb%84%e7%8b%82%e5%90%b9%e7%9a%84ai%e7%a5%9e%e8%af%9d%ef%bc%8c%e6%ad%a3%e8%a2%ab%e5%ba%95%e5%ba%a7%e5%8d%a1%e6%ad%bb%ef%bc%81%e6%b2%a1%e8%bf%99%e6%9d%a1%e3%80%8c%e5%a4%a7%e5%8a%a8%e8%84%89/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DevRev 用 GPT-6.1 Sol 打造自主自助服务</title>
-      <link>https://openai.com/index/devrev-enterprise-self-service</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5779e85cb5b33a10b9a62db7</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;DevRev 将 OpenAI 模型接入 Computer 与 Operator，让客服请求自动闭环&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/devrev-enterprise-self-service"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 用 Claude 解析噬菌体 vault 颗粒首个三维结构</title>
-      <link>https://www.anthropic.com/research/investigating-vault-particles-with-claude</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b1812b2b8b4acda5b9e9f2f9</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 生物实验室借 Claude 完成噬菌体 vault 颗粒结构解析，纯化从 3 天缩至约 90 分钟。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/research/investigating-vault-particles-with-claude"&gt;Anthropic&lt;/a&gt; · &lt;a href="https://x.com/AnthropicAI/status/2118073665296228863"&gt;Anthropic X&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/022/501.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
