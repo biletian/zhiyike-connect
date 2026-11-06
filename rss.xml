@@ -15,7 +15,31 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 22:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 04:32:00 +0800</lastBuildDate>
+    <item>
+      <title>Meta 为 Muse AI 推出「spaces」功能，可自建购物、学习、音乐等应用式空间</title>
+      <link>https://www.theverge.com/tech/1028871/meta-muse-ai-spaces</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b8f2f1ccb2c02b61cded6b3e</guid>
+      <pubDate>Sat, 07 Nov 2026 02:10:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Meta 的 Muse AI 助手新增 spaces，用户描述即可生成可交互的应用式空间。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026 中期选举：大科技公司遭遇重挫，反 AI 情绪成选票推手</title>
+      <link>https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3aca769b5160f5741d3c6746</guid>
+      <pubDate>Sat, 07 Nov 2026 00:38:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;美国选民在中期选举中大量投票给民主党，明确表达对 AI 的反对。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 爬虫围攻全球大学图书馆，公共访问被拖垮</title>
+      <link>https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287</link>
+      <guid isPermaLink="false">urn:zhiyike:news:394ab70bc8aa1989bb85d646</guid>
+      <pubDate>Fri, 06 Nov 2026 22:13:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;数据抓取机器人涌入高校图书馆网站，导致站点变慢甚至宕机。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ToyBlocks：面向机器人学习的可控仿真世界与评测框架</title>
       <link>https://huggingface.co/blog/allenai/toyblocks</link>
@@ -79,6 +103,14 @@
       <pubDate>Fri, 06 Nov 2026 16:09:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;中兴提出三阶段训练范式，8B 模型长程规划准确率提升 30.31%，180B 模型登顶国内具身大脑榜。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-06-12"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 与 Hacktron 合作，排查自身系统漏洞</title>
+      <link>https://openai.com/index/partnering-with-hacktron</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d3144455f7f88272faedb9d5</guid>
+      <pubDate>Fri, 06 Nov 2026 16:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 联手安全团队 Hacktron，重点测试系统与第三方服务的交互风险。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/partnering-with-hacktron"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>世界模型「云游戏」问世，李飞飞World Labs出品</title>
@@ -287,6 +319,14 @@
       <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;HuggingFace 与 Liva AI 合作，为语音识别评测榜加入两种非洲口音私有测试集。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/open-asr-leaderboard-liva"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 与 Ligo 推出 BioBasicsBench：评测 AI 智能体处理日常湿实验的能力</title>
+      <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bb05b3d52927a7778c48d2f2</guid>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;新基准用 100 个真实湿实验任务，测 AI 能否读懂原始数据并发现错误。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>这可能是美国AI最魔幻的一天。</title>
@@ -775,46 +815,6 @@
       <pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Inkling 2 Small 先经 Tinker 闭源上线，外部安全测试后下周以 Apache 2.0 开放权重。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://thinkingmachines.ai/news/inkling-2-small"&gt;Thinking Machines&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 发布 Images 2.6：ChatGPT/Codex/API 上新，API 含 GPT-Image-2.6 Flare 与 Sunburst</title>
-      <link>https://openai.com/index/introducing-images-2-6/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:77abf4704fdfb6b02a1090e1</guid>
-      <pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 推出 Images 2.6，生成约快 50%，ChatGPT 可做 GIF；API 上新 GPT-Image-2.6 Flare（约 6 秒）与 Sunburst。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/introducing-images-2-6/"&gt;OpenAI&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/022/486.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6"&gt;The Verge&lt;/a&gt; · &lt;a href="https://x.com/OpenAI/status/2118124944928432327"&gt;OpenAI X&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-05-6"&gt;机器之心&lt;/a&gt; · &lt;a href="https://www.ifanr.com/1687778"&gt;爱范儿&lt;/a&gt; · &lt;a href="https://aiera.com.cn/2026/11/06/other/admin/122517/%e4%bb%8a%e5%a4%a9%ef%bc%8cchatgpt%e7%bb%88%e4%ba%8e%e5%8f%af%e4%bb%a5%e7%94%9fgif%e4%ba%86%ef%bc%81images-2-6%e7%aa%81%e8%a2%ad%e4%b8%8a%e7%ba%bf/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Phonon TTS 端侧语音模型发布：65MB 起，登顶 Hugging Face 榜单</title>
-      <link>https://huggingface.co/blog/phonon-tts</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ba986ca07d2e730a92ae26e1</guid>
-      <pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Phonon 端侧 TTS 开源发布，小体积多语言并登榜&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/phonon-tts"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Kijai 上传 MiniMax-H3 TurboH3 FL2VA 精简 int8 模型，体积 21 GB</title>
-      <link>https://huggingface.co/Kijai/MiniMax-H3_comfy/blob/main/diffusion_models/minimax_h3_fl2va_turboh3_i2va_pruned_int8_convrot.safetensors</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7748b082b6eb7322e3e6f536</guid>
-      <pubDate>Thu, 05 Nov 2026 07:44:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Kijai 在 Hugging Face 上传 MiniMax-H3 的 TurboH3 FL2VA 精简 int8…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/Kijai/MiniMax-H3_comfy/blob/main/diffusion_models/minimax_h3_fl2va_turboh3_i2va_pruned_int8_convrot.safetensors"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xo3pjo/new_turboh3_fl2va/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>彭博社称苹果收紧员工 AI 使用预算：部分工程师日额度下降 33%，恐进一步下探至 100 美元</title>
-      <link>https://www.ithome.com/1/022/479.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c5561f216cf4904bb635c366</guid>
-      <pubDate>Thu, 05 Nov 2026 07:07:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;苹果下调部分工程师每日 AI 支出上限，从 300 美元降至 200 美元，并计划继续压缩。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/022/479.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 发布电话与 SIP 接入文档：把来电接到 GPT-Live</title>
-      <link>https://developers.openai.com/api/docs/guides/voice-sip</link>
-      <guid isPermaLink="false">urn:zhiyike:news:145a38751e0eea3fb92f8e07</guid>
-      <pubDate>Thu, 05 Nov 2026 06:01:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 公布通过 SIP 中继把电话呼入呼出接入 GPT-Live 的完整流程&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.openai.com/api/docs/guides/voice-sip"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
