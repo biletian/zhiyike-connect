@@ -15,7 +15,31 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sat, 07 Nov 2026 21:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 02:02:00 +0800</lastBuildDate>
+    <item>
+      <title>NYT Cooking 上线 AI 助手：能救工作日鸡肉，却差点毁了我的蛋糕</title>
+      <link>https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e6d10ea90ad47c0c7d648db7</guid>
+      <pubDate>Sat, 07 Nov 2026 23:50:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;The Verge 记者实测 NYT Cooking 内置 AI 助手，可换食材、调份量，但也会算错黄油用量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>美方放行英伟达H200芯片销往中国空壳公司，审批漏洞引质疑</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a5d6ace1e0e0cf0a21ba72d9</guid>
+      <pubDate>Sat, 07 Nov 2026 23:43:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;获准采购英伟达H200的中国公司New Matrix办公室空置，且与美方黑名单企业有关联。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 让网络安全进入“黑暗时代”：攻击链被自动化，防御方已连轴转</title>
+      <link>https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1357694970e8644a0d9bd3cb</guid>
+      <pubDate>Sat, 07 Nov 2026 23:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Alex Stamos 称 AI 已能自动化大部分攻击链，安全行业正被击穿。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>突发：OpenAI开始大规模封号！</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-11-07-9</link>
@@ -55,6 +79,14 @@
       <pubDate>Sat, 07 Nov 2026 15:59:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;AI检测器逼得写作者故意写错别字、少用破折号，只为证明自己是人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/508330.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HyperFlow H3 Flash 更新：4/6/8 步生成视频与同步立体声，13.7B 参数</title>
+      <link>https://github.com/Video-Rebirth/ComfyUI-HyperFlow-Flash</link>
+      <guid isPermaLink="false">urn:zhiyike:news:637da8a5e04afbd082723419</guid>
+      <pubDate>Sat, 07 Nov 2026 15:32:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Video Rebirth 发布压缩版 MiniMax-H3 少步模型，参数减半并支持 ComfyUI。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Video-Rebirth/ComfyUI-HyperFlow-Flash"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xq0kuk/updated_hyperflowh3flash_4_6_or_8_steps/"&gt;Reddit / r/StableDiffusion&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？</title>
@@ -783,38 +815,6 @@
       <pubDate>Fri, 06 Nov 2026 01:13:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Gary Marcus 称其前一日预警科技股下跌后，今日市场几乎无公司幸免。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/breaking-mayhem-in-the-market"&gt;Gary Marcus 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini Omni 1.2 Flash 发布：15 秒视频、降价 30%、支持多轮对话编辑</title>
-      <link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:d5a01b9dae77684cb1db0633</guid>
-      <pubDate>Fri, 06 Nov 2026 01:05:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;谷歌 DeepMind 推出 Gemini Omni 1.2 Flash，视频时长升至 15 秒，价格下调 30%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"&gt;Google&lt;/a&gt; · &lt;a href="https://x.com/GoogleAI/status/2118389961426874879"&gt;GoogleAI X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Grimes 将出演 AI 科幻电影《Gods Don't Give Gifts》，12 月 4 日登陆院线</title>
-      <link>https://www.theverge.com/entertainment/1026282/grimes-ai-movie</link>
-      <guid isPermaLink="false">urn:zhiyike:news:17e989bf60610014bd4ce001</guid>
-      <pubDate>Fri, 06 Nov 2026 01:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;AI 生成科幻片《Gods Don&amp;#x27;t Give Gifts》邀 Grimes 出演，12 月 4 日上映&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/entertainment/1026282/grimes-ai-movie"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 发布 GPT-6 Cyber：越界率降至 1% 以下，网络安全评级升为 Critical</title>
-      <link>https://openai.com/index/introducing-gpt-6-cyber/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5216aa2fd957deb3c2b1c515</guid>
-      <pubDate>Fri, 06 Nov 2026 01:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 推出网络安全专用模型 GPT-6 Cyber，越界行为从约 5% 降到不足 1%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/introducing-gpt-6-cyber/"&gt;OpenAI&lt;/a&gt; · &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"&gt;The Verge&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/023/038.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://x.com/OpenAI/status/2118390190246879554"&gt;OpenAI X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软 PDD Kit：用形式化证明验证 AI 智能体写的全栈 Web 应用</title>
-      <link>https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:dd7f33f7c660ba23af93dd7a</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;微软研究院推出 PDD Kit，把用户意图转成 Verus 形式化规范，证明智能体代码满足规范&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/"&gt;微软研究院&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
