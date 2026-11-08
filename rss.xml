@@ -15,7 +15,71 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 15:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 22:17:00 +0800</lastBuildDate>
+    <item>
+      <title>终端侧AI：从单点应用走向智能体体验</title>
+      <link>https://www.qbitai.com/2026/11/508478.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4e3b6422296d1e1cc47b2323</guid>
+      <pubDate>Sun, 08 Nov 2026 19:05:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;高通联合阶跃星辰等伙伴在进博会展示端侧MoE智能体，探索端侧运行复杂任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/508478.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-08-8</link>
+      <guid isPermaLink="false">urn:zhiyike:news:967de13f70b37d786926ad6e</guid>
+      <pubDate>Sun, 08 Nov 2026 18:57:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI新模型Astra、Sol未如期发布，传闻称最后阶段被安全与对齐问题挡住。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-08-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026云程奖｜Nature、Best Paper、5.9万Stars、亿元融资……这群AI青年，还在校园！</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-08-6</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b586cde31968ec95980f10e0</guid>
+      <pubDate>Sun, 08 Nov 2026 18:51:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;机器之心等联合发起2026云程奖，聚焦AI领域优秀本硕博在校生，12月24日颁奖。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-08-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>跨模型上下文交接还要重算KV？北大提出MapFlow，让注意力跨模型复用</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-08-5</link>
+      <guid isPermaLink="false">urn:zhiyike:news:639e47e44617567d6464dc98</guid>
+      <pubDate>Sun, 08 Nov 2026 18:46:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;北大团队提出MapFlow，用注意力图作为跨模型中间状态，让不同规模模型共享已算出的token依赖关系。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-08-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ICLR 2027首轮评审，槽点有点多</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-08-4</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6bc2d163870d9553e5bd8e05</guid>
+      <pubDate>Sun, 08 Nov 2026 18:44:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;ICLR 2027首轮评审意见公开，多位研究者晒出离谱审稿意见&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-08-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6.1 Sol参与活体大脑手术！三轮定位，一次比一次准</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-08-3</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1e3dfc079e2c8afac44bd8f5</guid>
+      <pubDate>Sun, 08 Nov 2026 18:41:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Exin Therapeutics让GPT-6.1 Sol连续三轮参与小鼠脑部手术定位，靠专家纠错积累经验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-08-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>英伟达等重新设计VLA推理！机器人动作提速3.4倍</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-08-2</link>
+      <guid isPermaLink="false">urn:zhiyike:news:32c993ef2a043dac83347801</guid>
+      <pubDate>Sun, 08 Nov 2026 18:38:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;新方法TacitVLA让动作不再等待推理文本，成功率不降、延迟最多降3.4倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-08-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra改权重爆火？我们做了一组对照实验，模型根本没变聪明</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-08</link>
+      <guid isPermaLink="false">urn:zhiyike:news:73e15b1c263f3531b184fd9b</guid>
+      <pubDate>Sun, 08 Nov 2026 18:32:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;无涯智远用三组对照实验发现，Astra现场改权重改得动参数，却学不会新知识、人格和规则。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-08"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>资本正在撤离“世界模型”</title>
       <link>https://www.qbitai.com/2026/11/508466.html</link>
@@ -135,6 +199,14 @@
       <pubDate>Sun, 08 Nov 2026 04:18:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;作者根据用户反馈重建 IV Studio，新增 Linux/Mac 支持、本地角色 LoRA 训练与 154 个…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/hollisorg/iv-studio/releases/latest"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xqfux1/iv_studio_10_i_rebuilt_my_free_opensource_film/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Runway 的边界：10 秒片段、角色漂移与缺失的制作流程</title>
+      <link>https://lumalabs.ai/news/runway-limitations</link>
+      <guid isPermaLink="false">urn:zhiyike:news:21f18645fd31789db38a9151</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Luma 撰文指出 Runway 只能生成片段，难以支撑完整营销活动交付。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/runway-limitations"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>NYT Cooking 上线 AI 助手：能救工作日鸡肉，却差点毁了我的蛋糕</title>
@@ -743,78 +815,6 @@
       <pubDate>Fri, 06 Nov 2026 08:08:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;至知创新开源IQuest-Q1专用推理引擎IQuestRT，单请求解码吞吐达vLLM参考配置2.94倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/06/other/admin/122527/%e6%8e%a8%e7%90%86%e6%8f%90%e9%80%9f%e8%bf%913%e5%80%8d%ef%bc%81agent%e4%b8%8b%e5%9c%ba%e8%b0%83%e5%bc%95%e6%93%8e%ef%bc%8c%e4%b8%a4%e5%91%a8%e5%8f%8d%e8%b6%85%e4%ba%ba%e5%b7%a5%e7%b2%be%e8%b0%83/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>半年106亿、狂涨近9倍！卖Token的这个新方向，爆了</title>
-      <link>https://aiera.com.cn/2026/11/06/other/admin/122456/%e5%8d%8a%e5%b9%b4106%e4%ba%bf%e3%80%81%e7%8b%82%e6%b6%a8%e8%bf%919%e5%80%8d%ef%bc%81%e5%8d%96token%e7%9a%84%e8%bf%99%e4%b8%aa%e6%96%b0%e6%96%b9%e5%90%91%ef%bc%8c%e7%88%86%e4%ba%86/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f728c548530c45ab0d0e7dca</guid>
-      <pubDate>Fri, 06 Nov 2026 08:04:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;IDC数据显示中国MaaS上半年规模106亿元，具身智能MaaS三家厂商三个月内密集入场。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/06/other/admin/122456/%e5%8d%8a%e5%b9%b4106%e4%ba%bf%e3%80%81%e7%8b%82%e6%b6%a8%e8%bf%919%e5%80%8d%ef%bc%81%e5%8d%96token%e7%9a%84%e8%bf%99%e4%b8%aa%e6%96%b0%e6%96%b9%e5%90%91%ef%bc%8c%e7%88%86%e4%ba%86/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude Code女掌门人光速投OpenAI！昨天才告别Anthropic，今天就倒戈</title>
-      <link>https://aiera.com.cn/2026/11/06/other/admin/122423/claude-code%e5%a5%b3%e6%8e%8c%e9%97%a8%e4%ba%ba%e5%85%89%e9%80%9f%e6%8a%95openai%ef%bc%81%e6%98%a8%e5%a4%a9%e6%89%8d%e5%91%8a%e5%88%abanthropic%ef%bc%8c%e4%bb%8a%e5%a4%a9%e5%b0%b1%e5%80%92%e6%88%88/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:891fcc77eb3b569ea9278d3f</guid>
-      <pubDate>Fri, 06 Nov 2026 08:01:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Cat Wu告别Anthropic次日官宣加盟OpenAI，执掌核心产品团队，Brockman三分钟后转发欢迎。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/06/other/admin/122423/claude-code%e5%a5%b3%e6%8e%8c%e9%97%a8%e4%ba%ba%e5%85%89%e9%80%9f%e6%8a%95openai%ef%bc%81%e6%98%a8%e5%a4%a9%e6%89%8d%e5%91%8a%e5%88%abanthropic%ef%bc%8c%e4%bb%8a%e5%a4%a9%e5%b0%b1%e5%80%92%e6%88%88/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 研究称 Claude AI 智能体可以靠“做梦”变得更聪明</title>
-      <link>https://www.anthropic.com/research/components-of-agent-memory</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ffd262c8cf72f96efcf36485</guid>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Anthropic 提出智能体记忆四层框架，并引入“做梦”机制让 Claude 在空闲时纠错、提炼规则。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/research/components-of-agent-memory"&gt;Anthropic&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/023/613.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://x.com/AnthropicAI/status/2118814753154064501"&gt;Anthropic X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI收购神秘团队！奥特曼要在Codex里再造一个GitHub</title>
-      <link>https://aiera.com.cn/2026/11/06/other/admin/122409/openai%e6%94%b6%e8%b4%ad%e7%a5%9e%e7%a7%98%e5%9b%a2%e9%98%9f%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e8%a6%81%e5%9c%a8codex%e9%87%8c%e5%86%8d%e9%80%a0%e4%b8%80%e4%b8%aagithub/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:05a5400ce1e4480de4222dfc</guid>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI收购Pierre Computer，同日Meta收编Conductor团队，AI大厂争夺程序员工作流&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/06/other/admin/122409/openai%e6%94%b6%e8%b4%ad%e7%a5%9e%e7%a7%98%e5%9b%a2%e9%98%9f%ef%bc%81%e5%a5%a5%e7%89%b9%e6%9b%bc%e8%a6%81%e5%9c%a8codex%e9%87%8c%e5%86%8d%e9%80%a0%e4%b8%80%e4%b8%aagithub/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Open ASR 排行榜新增埃及与尼日利亚英语口音私有数据</title>
-      <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
-      <guid isPermaLink="false">urn:zhiyike:news:f76b390dcf0684d905d32791</guid>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;HuggingFace 与 Liva AI 合作，为语音识别评测榜加入两种非洲口音私有测试集。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/open-asr-leaderboard-liva"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 与 Ligo 推出 BioBasicsBench：评测 AI 智能体处理日常湿实验的能力</title>
-      <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bb05b3d52927a7778c48d2f2</guid>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;新基准用 100 个真实湿实验任务，测 AI 能否读懂原始数据并发现错误。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"&gt;OpenAI&lt;/a&gt; · &lt;a href="https://x.com/OpenAI/status/2118782708767965238"&gt;OpenAI X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cursor 上线实时语音对话，可与智能体通话协作</title>
-      <link>https://cursor.com/changelog/voice-chat</link>
-      <guid isPermaLink="false">urn:zhiyike:news:56cb437ee1491fb878cb17cd</guid>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Cursor 推出实时语音通话，可边写代码边与智能体对话。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://cursor.com/changelog/voice-chat"&gt;Cursor&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Amp 推出 Spaces：主 Agent 自主编排多线程，实时卡片呈现进展</title>
-      <link>https://ampcode.com/news/spaces</link>
-      <guid isPermaLink="false">urn:zhiyike:news:711011f42af4a417ce7ddb94</guid>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Amp 11 月 6 日推出 Spaces，主 Agent 拆任务、建线程并以实时卡片展示进展。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://ampcode.com/news/spaces"&gt;ampcode.com&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/023/609.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta 将 Muse Wonder 专用模型引入 Muse 与 Meta AI</title>
-      <link>https://research.meta.ai/blog/specialized-models-for-muse-and-metaai</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bed31de3dd5fe627dbc6f4e1</guid>
-      <pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Meta 用 Muse Wonder 训练专用模型，为 Muse 和 Meta AI 带来记忆与目标执行能力升级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://research.meta.ai/blog/specialized-models-for-muse-and-metaai"&gt;meta.ai&lt;/a&gt; · &lt;a href="https://x.com/AIatMeta/status/2118768974779634084"&gt;AIatMeta X&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
