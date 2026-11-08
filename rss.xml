@@ -15,7 +15,15 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 22:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:47:00 +0800</lastBuildDate>
+    <item>
+      <title>开源项目用世界地图可视化大模型对各国审查问题的回答</title>
+      <link>https://github.com/p-e-w/llm-beliefs</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c393b770cd90ec61a57e3c27</guid>
+      <pubDate>Sun, 08 Nov 2026 22:56:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;一个开源小工具向模型逐国提问同一道是非题，并生成 SVG 世界地图呈现回答。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/p-e-w/llm-beliefs"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>终端侧AI：从单点应用走向智能体体验</title>
       <link>https://www.qbitai.com/2026/11/508478.html</link>
@@ -79,6 +87,14 @@
       <pubDate>Sun, 08 Nov 2026 18:32:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;无涯智远用三组对照实验发现，Astra现场改权重改得动参数，却学不会新知识、人格和规则。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-08"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>llama-modchip：纯 64GB CPU 跑 284B DeepSeek-V4-Flash，无需 GPU</title>
+      <link>https://github.com/synchopate/llama-modchip</link>
+      <guid isPermaLink="false">urn:zhiyike:news:818d6d7e2e46f14a990bc67e</guid>
+      <pubDate>Sun, 08 Nov 2026 18:22:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;开源项目让 284B 大模型在 64GB 内存纯 CPU 上以 44.4 tok/s 预填充运行。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/synchopate/llama-modchip"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>资本正在撤离“世界模型”</title>
@@ -799,22 +815,6 @@
       <pubDate>Fri, 06 Nov 2026 08:12:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;德朗格在 WIRED 大会上称 AI 灭绝人类概率接近于零，更现实的风险是少数大公司封闭开发前沿模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/023/045.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>奥特曼：谁来决定AI该比人类聪明多少？</title>
-      <link>https://aiera.com.cn/2026/11/06/other/admin/122566/%e5%a5%a5%e7%89%b9%e6%9b%bc%ef%bc%9a%e8%b0%81%e6%9d%a5%e5%86%b3%e5%ae%9aai%e8%af%a5%e6%af%94%e4%ba%ba%e7%b1%bb%e8%81%aa%e6%98%8e%e5%a4%9a%e5%b0%91%ef%bc%9f/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:14feee025953d61008b5b3ae</guid>
-      <pubDate>Fri, 06 Nov 2026 08:10:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;奥特曼在访谈中追问AI智力上限，并披露OpenAI分层监测与30分钟熔断机制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/06/other/admin/122566/%e5%a5%a5%e7%89%b9%e6%9b%bc%ef%bc%9a%e8%b0%81%e6%9d%a5%e5%86%b3%e5%ae%9aai%e8%af%a5%e6%af%94%e4%ba%ba%e7%b1%bb%e8%81%aa%e6%98%8e%e5%a4%9a%e5%b0%91%ef%bc%9f/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>推理提速近3倍！Agent下场调引擎，两周反超人工精调</title>
-      <link>https://aiera.com.cn/2026/11/06/other/admin/122527/%e6%8e%a8%e7%90%86%e6%8f%90%e9%80%9f%e8%bf%913%e5%80%8d%ef%bc%81agent%e4%b8%8b%e5%9c%ba%e8%b0%83%e5%bc%95%e6%93%8e%ef%bc%8c%e4%b8%a4%e5%91%a8%e5%8f%8d%e8%b6%85%e4%ba%ba%e5%b7%a5%e7%b2%be%e8%b0%83/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:58cf0d13116fc4f464a22a5d</guid>
-      <pubDate>Fri, 06 Nov 2026 08:08:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;至知创新开源IQuest-Q1专用推理引擎IQuestRT，单请求解码吞吐达vLLM参考配置2.94倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/06/other/admin/122527/%e6%8e%a8%e7%90%86%e6%8f%90%e9%80%9f%e8%bf%913%e5%80%8d%ef%bc%81agent%e4%b8%8b%e5%9c%ba%e8%b0%83%e5%bc%95%e6%93%8e%ef%bc%8c%e4%b8%a4%e5%91%a8%e5%8f%8d%e8%b6%85%e4%ba%ba%e5%b7%a5%e7%b2%be%e8%b0%83/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
