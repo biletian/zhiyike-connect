@@ -15,7 +15,15 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 02:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:31:00 +0800</lastBuildDate>
+    <item>
+      <title>苹果加速推进 Siri 智能体化，将可操控第三方应用</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b0de9f0b136c4969c1f1e304</guid>
+      <pubDate>Mon, 09 Nov 2026 03:18:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;彭博社称苹果 CEO 施压 AI 负责人加快 Siri 路线图，对标 OpenAI Dots 与 Meta Muse。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>开源项目用世界地图可视化大模型对各国审查问题的回答</title>
       <link>https://github.com/p-e-w/llm-beliefs</link>
@@ -23,6 +31,14 @@
       <pubDate>Sun, 08 Nov 2026 22:56:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;一个开源小工具向模型逐国提问同一道是非题，并生成 SVG 世界地图呈现回答。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/p-e-w/llm-beliefs"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我在 ComfyUI 里试了 RelayVSR 2×：原片与放大视频对比</title>
+      <link>https://github.com/Comfy-Org/ComfyUI/pull/17511</link>
+      <guid isPermaLink="false">urn:zhiyike:news:940db152a8ac26173c2860fc</guid>
+      <pubDate>Sun, 08 Nov 2026 19:39:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;用户用 RelayVSR 2× 在 ComfyUI 中放大一段 8 秒 MiniMax H3 镜头并对比画质&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Comfy-Org/ComfyUI/pull/17511"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xqwhs0/i_tried_relayvsr_2_in_comfyui_original_vs/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>终端侧AI：从单点应用走向智能体体验</title>
@@ -799,22 +815,6 @@
       <pubDate>Fri, 06 Nov 2026 10:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;腾讯因 Hy4 调用激增对推理集群十倍扩容，并提升用户免费体验额度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/507967.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reflection 发布 Beam 安全技术报告：四类系统性风险均评为 Limited</title>
-      <link>https://reflection.ai/beam-safety-report</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a35fd99e5c4c6e0ed972cff5</guid>
-      <pubDate>Fri, 06 Nov 2026 09:22:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Reflection 公开 Beam 安全训练与评估细节，并启动开源安全计划 Project Iris&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://reflection.ai/beam-safety-report"&gt;Reflection AI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hugging Face CEO 称 AI“末日风险”接近于零，真正危险来自闭门造车</title>
-      <link>https://www.ithome.com/1/023/045.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c9673a310e1aa7883deb81b6</guid>
-      <pubDate>Fri, 06 Nov 2026 08:12:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;德朗格在 WIRED 大会上称 AI 灭绝人类概率接近于零，更现实的风险是少数大公司封闭开发前沿模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/023/045.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
