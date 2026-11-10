@@ -15,7 +15,79 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 02:03:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:18:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体，为 Business Agent 投放广告</title>
+      <link>https://www.ithome.com/1/025/206.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3f9c30817c239f9b0ae3f492</guid>
+      <pubDate>Wed, 11 Nov 2026 06:55:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 上线 ChatGPT Businesses 测试版，企业可认领商家资料、查看互动数据并创建…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/025/206.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，Claude 想承包团队协作全流程</title>
+      <link>https://www.ithome.com/1/025/204.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ce597719cd7087ae2cf692fe</guid>
+      <pubDate>Wed, 11 Nov 2026 06:43:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Anthropic 推出白板、表格与数据看板，把 Claude 从聊天问答推向团队协作工作台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/025/204.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌迄今最强模型 Gemini 4 Carbon 登场：主打复杂编程、科学研究与网络安全</title>
+      <link>https://www.ithome.com/1/025/203.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:07f91088229bd3df5f758eb3</guid>
+      <pubDate>Wed, 11 Nov 2026 06:43:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;谷歌开放迄今最强推理模型 Gemini 4 Carbon，支持百万级上下文与三档推理强度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/025/203.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>纽约AI安全法RAISE Act生效，OpenAI、Anthropic须登记</title>
+      <link>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7dcaffb97da92d23fc8a67b7</guid>
+      <pubDate>Wed, 11 Nov 2026 04:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;纽约开放大型前沿AI开发者登记门户，2027年1月1日前须完成注册。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>微软披露 Lazarus 后门：改写不到 10 个休眠神经元即可劫持 AI 智能体</title>
+      <link>https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:67ea347882dcceb1444c6485</guid>
+      <pubDate>Wed, 11 Nov 2026 04:52:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;无需重训练，改几个休眠神经元就能让模型通过评测后按触发器执行恶意命令。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"&gt;微软研究院&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>删除不到0.05%权重即可媲美全量微调：Deletion Tuning 新方法</title>
+      <link>https://github.com/agentic-learning-ai-lab/deleting-weights</link>
+      <guid isPermaLink="false">urn:zhiyike:news:5b4e3ce0acea1341cc8c7642</guid>
+      <pubDate>Wed, 11 Nov 2026 03:44:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;新方法只训练二值掩码，删权重即可匹配全量微调效果&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/agentic-learning-ai-lab/deleting-weights"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini Intelligence 扩展至摩托罗拉 signature 27 与 Pixel 10</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:361d003707da22bf3bc6c4ac</guid>
+      <pubDate>Wed, 11 Nov 2026 03:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;谷歌为 Gemini Intelligence 推出多项新功能，并扩展到更多安卓设备&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"&gt;Google AI 博客&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ComfyUI 开源 Higgsfield 挑战赛公布获奖名单</title>
+      <link>https://github.com/nomadoor/ComfyUI-Panorama-Stickers</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a1d03f1f4117aa58abeae2f4</guid>
+      <pubDate>Wed, 11 Nov 2026 02:47:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;300+ 开发者提交开源项目，覆盖 45+ 国家，获奖仓库全部可 fork&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/nomadoor/ComfyUI-Panorama-Stickers"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xsv43t/were_excited_to_announce_the_winners_of_the_open/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 上线可验证的 AI「商业智能体」，代表品牌与用户对话</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7301f0f830da3c7e21119300</guid>
+      <pubDate>Wed, 11 Nov 2026 02:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 推出 Business Agents，让经认证的企业智能体在 ChatGPT 内帮用户比价、答疑。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>独立游戏圈因生成式AI分裂：IGF评委拒投，Big Walk承认少量使用</title>
       <link>https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</link>
@@ -185,6 +257,14 @@
       <description>&lt;p&gt;前Meta工程师称AI生成代码虽快，却让代码库更脆弱、事故更多。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/"&gt;Evanxmerz 官方&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>OpenAI 在 ChatGPT 内推出 Businesses 与 Business Agent</title>
+      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
+      <guid isPermaLink="false">urn:zhiyike:news:46ef817cd7ccb108caa93abd</guid>
+      <pubDate>Tue, 10 Nov 2026 18:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;企业可在 ChatGPT 认领主页、看洞察，并上线 Business Agent 接待用户&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/introducing-businesses-chatgpt"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>特努斯施压 Siri 掌门人，苹果 AI 不能再等了</title>
       <link>https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</link>
       <guid isPermaLink="false">urn:zhiyike:news:5df72a8aad5f7d56a2d7ad9e</guid>
@@ -310,7 +390,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:85117dbcc3fa5e0c1d26ca70</guid>
       <pubDate>Tue, 10 Nov 2026 03:51:00 +0800</pubDate>
       <category>模型</category>
-      <description>&lt;p&gt;DeepMind 推出新一代 VLA 模型，任务成功率最高提升 100%，速度提升 20%~30%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"&gt;DeepMind&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;DeepMind 推出新一代 VLA 模型，任务成功率最高提升 100%，速度提升 20%~30%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/025/188.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>苹果推出 50 美元 AI 使用包：Logic Pro 率先支持付费扩容，有效期 12 个月</title>
@@ -342,7 +422,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:07b6f99eada4ee026e71ee98</guid>
       <pubDate>Tue, 10 Nov 2026 03:00:00 +0800</pubDate>
       <category>模型</category>
-      <description>&lt;p&gt;官方补充定价、速度、安全防护与基准成绩。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/claude-fable-and-mythos-5-2"&gt;Anthropic&lt;/a&gt; · &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"&gt;The Verge&lt;/a&gt; · &lt;a href="https://artificialanalysis.ai/models/claude-fable-5-2"&gt;Artificial Analysis&lt;/a&gt; · &lt;a href="https://x.com/AnthropicAI/status/2119867707546071125"&gt;X&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-10-6"&gt;机器之心&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-10-2"&gt;机器之心 快讯&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;官方补充定价、速度、安全防护与基准成绩。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.anthropic.com/claude-fable-and-mythos-5-2"&gt;Anthropic&lt;/a&gt; · &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"&gt;The Verge&lt;/a&gt; · &lt;a href="https://artificialanalysis.ai/models/claude-fable-5-2"&gt;Artificial Analysis&lt;/a&gt; · &lt;a href="https://x.com/AnthropicAI/status/2119867707546071125"&gt;X&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-10-6"&gt;机器之心&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-10-2"&gt;机器之心 快讯&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-10-13"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google Gemini 被曝将个人 Drive 文件与邮件送入人工审核流程</title>
@@ -735,86 +815,6 @@
       <pubDate>Mon, 09 Nov 2026 03:18:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;彭博社称苹果 CEO 施压 AI 负责人加快 Siri 路线图，对标 OpenAI Dots 与 Meta Muse。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>腾讯发布 Qwen3.8-27B-DSpine-b16 五层草稿模型，块大小 16</title>
-      <link>https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16</link>
-      <guid isPermaLink="false">urn:zhiyike:news:822a57ef844804e6fc74fdec</guid>
-      <pubDate>Mon, 09 Nov 2026 00:23:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;腾讯开源 DSpine 投机解码草稿模型，用并行草稿提升 Qwen3.8-27B 推理速度&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>摩根大通将 Claude Code 推广至全公司更多员工</title>
-      <link>https://claude.com/resources/articles/jpmorganchase-expands-claude-code</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5b06795b406a3052ef2a19eb</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;摩根大通把 Claude 从工程团队扩展到投行、资管、安全与运营等岗位。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/resources/articles/jpmorganchase-expands-claude-code"&gt;Claude 博客&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google AI Studio 上线 Google Maps 应用构建能力</title>
-      <link>https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio</link>
-      <guid isPermaLink="false">urn:zhiyike:news:56eca097b78908a44894588d</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;在 AI Studio 里描述想法即可生成地图应用，无需信用卡、零成本。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.googleblog.com/from-prompt-to-app-build-with-google-maps-in-ai-studio"&gt;Google 开发者博客&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google 发布第八代 TPU 新成员：8tx 与 8i Max</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9fd3a5a73fda104987741aa4</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Google 扩充第八代 TPU 阵容，新增面向机密推理与超大上下文的两款系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"&gt;Google&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>古尔曼称苹果 Siri AI 团队或迎大调整，工程副总裁罗克韦尔考虑明年走人</title>
-      <link>https://www.ithome.com/1/024/014.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b0a0697ff881f61b67e13f01</guid>
-      <pubDate>Sun, 08 Nov 2026 23:47:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;古尔曼爆料，主导 Vision Pro 与新版 Siri 的罗克韦尔正认真考虑明年卸任甚至离开苹果。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/024/014.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开源项目用世界地图可视化大模型对各国审查问题的回答</title>
-      <link>https://github.com/p-e-w/llm-beliefs</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c393b770cd90ec61a57e3c27</guid>
-      <pubDate>Sun, 08 Nov 2026 22:56:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;一个开源小工具向模型逐国提问同一道是非题，并生成 SVG 世界地图呈现回答。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/p-e-w/llm-beliefs"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我在 ComfyUI 里试了 RelayVSR 2×：原片与放大视频对比</title>
-      <link>https://github.com/Comfy-Org/ComfyUI/pull/17511</link>
-      <guid isPermaLink="false">urn:zhiyike:news:940db152a8ac26173c2860fc</guid>
-      <pubDate>Sun, 08 Nov 2026 19:39:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;用户用 RelayVSR 2× 在 ComfyUI 中放大一段 8 秒 MiniMax H3 镜头并对比画质&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Comfy-Org/ComfyUI/pull/17511"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xqwhs0/i_tried_relayvsr_2_in_comfyui_original_vs/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>终端侧AI：从单点应用走向智能体体验</title>
-      <link>https://www.qbitai.com/2026/11/508478.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4e3b6422296d1e1cc47b2323</guid>
-      <pubDate>Sun, 08 Nov 2026 19:05:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;高通联合阶跃星辰等伙伴在进博会展示端侧MoE智能体，探索端侧运行复杂任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/508478.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI新模型临门一脚踩刹车！GPT-6.2曝出安全疑云</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-08-8</link>
-      <guid isPermaLink="false">urn:zhiyike:news:967de13f70b37d786926ad6e</guid>
-      <pubDate>Sun, 08 Nov 2026 18:57:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI新模型Astra、Sol未如期发布，传闻称最后阶段被安全与对齐问题挡住。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-08-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2026云程奖｜Nature、Best Paper、5.9万Stars、亿元融资……这群AI青年，还在校园！</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-08-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b586cde31968ec95980f10e0</guid>
-      <pubDate>Sun, 08 Nov 2026 18:51:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;机器之心等联合发起2026云程奖，聚焦AI领域优秀本硕博在校生，12月24日颁奖。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-08-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
