@@ -15,7 +15,55 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 18:18:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:58:00 +0800</lastBuildDate>
+    <item>
+      <title>XYBench：8K+ 问题测试 AI 能否识别用户提问背后的错误假设</title>
+      <link>https://huggingface.co/blog/allenai/xybench</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7c741e4b517b9bc56fd6ba5d</guid>
+      <pubDate>Sat, 14 Nov 2026 01:02:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;AI2 发布 XYBench 基准，测 AI 能否识别提问中的错误前提并纠偏。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/allenai/xybench"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChatGPT 上线钱包功能，AI 智能体可代用户下单结账</title>
+      <link>https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c2fa7684985066cc714a0510</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;OpenAI 推出 ChatGPT Wallet，让智能体帮用户挑商品并完成付款。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/026/994.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>谷歌：学校想关掉搜索里的 AI 概览，就得放弃谷歌搜索</title>
+      <link>https://text.npr.org/nx-s1-6029408</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2f74e0976585f1c2b33263f2</guid>
+      <pubDate>Fri, 13 Nov 2026 23:29:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;谷歌要求禁用 AI 概览的学校连谷歌搜索一起放弃，引发家长和议员反对。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://text.npr.org/nx-s1-6029408"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NVIDIA 博客：AI 帮医疗团队更早把患者匹配到正确治疗</title>
+      <link>https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b53f6b35f18a75deee46184c</guid>
+      <pubDate>Fri, 13 Nov 2026 21:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Dyania Health 的 Synapsis AI 在院内防火墙内跑，帮医生读完全部病历&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/"&gt;NVIDIA 官方博客&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI自进化不止刷榜！百度智能云把RSI带进产业一线</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-13-12</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c32349c81a90b2e4cac0234d</guid>
+      <pubDate>Fri, 13 Nov 2026 18:48:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;百度世界2026上，百度智能云发布自我演化超级智能体伐谋3.0，将RSI带入企业生产与科研一线。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-13-12"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>最火、最全的时序预测综述：一个视角读懂十年进展｜TPAMI-26</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-13-11</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6f55c7563f204dc35e74b1d2</guid>
+      <pubDate>Fri, 13 Nov 2026 18:43:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;北大林宙辰团队发布十年深度时序预测综述，以自相关建模统一梳理骨干架构与损失函数两条主线。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-13-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>李飞飞最新世界模型正式开放，我用它一句话造出重庆山城</title>
       <link>https://www.ifanr.com/1689379?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
@@ -39,6 +87,22 @@
       <pubDate>Fri, 13 Nov 2026 16:23:00 +0800</pubDate>
       <category>模型</category>
       <description>&lt;p&gt;北京通用人工智能研究院等提出Zero-HLM，把45条仿真示范扩展为4800条可执行数据。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-13-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MEET2027含金量再加码：AI4S/量子计算/AI Infra…第二批嘉宾强势来袭！</title>
+      <link>https://www.qbitai.com/2026/11/509827.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:e110f7909d0c7e726d5e8010</guid>
+      <pubDate>Fri, 13 Nov 2026 15:51:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;MEET2027公布第二批嘉宾，覆盖AI4S、量子计算、AI Infra等方向，12月9日在北京举办。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/509827.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/026/911.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了</title>
+      <link>https://www.qbitai.com/2026/11/509796.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1bc4457f24439b6f0771c927</guid>
+      <pubDate>Fri, 13 Nov 2026 15:43:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;国产医疗大模型在40例复杂肺癌病例评测中，诊疗方案评分以88比12领先250名三甲医生。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/509796.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学</title>
@@ -271,6 +335,14 @@
       <pubDate>Fri, 13 Nov 2026 01:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;软银超额预订涡轮机押注AI电力需求，如今减记超30亿美元。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek 全家桶应用 API 发布</title>
+      <link>https://api-docs.deepseek.com/zh-cn/news/news261113</link>
+      <guid isPermaLink="false">urn:zhiyike:news:fb24ae6b52e552d4ea793675</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;DeepSeek 把 App 的联网搜索、文件输入、语音等能力整合进原有 API，并开放独立接口。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://api-docs.deepseek.com/zh-cn/news/news261113"&gt;DeepSeek 新闻&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历</title>
@@ -743,78 +815,6 @@
       <pubDate>Wed, 11 Nov 2026 06:43:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Anthropic 推出白板、表格与数据看板，把 Claude 从聊天问答推向团队协作工作台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/025/204.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/32279"&gt;AIBase&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/32289"&gt;AIBase 快讯&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌迄今最强模型 Gemini 4 Carbon 登场：主打复杂编程、科学研究与网络安全</title>
-      <link>https://www.ithome.com/1/025/203.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:07f91088229bd3df5f758eb3</guid>
-      <pubDate>Wed, 11 Nov 2026 06:43:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;谷歌开放迄今最强推理模型 Gemini 4 Carbon，支持百万级上下文与三档推理强度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/025/203.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>PAN 2 发布：29B 潜扩散模型开源，可生成 20 秒 720p 视频</title>
-      <link>https://huggingface.co/IFM/PAN2</link>
-      <guid isPermaLink="false">urn:zhiyike:news:90710cf8b0f77300a12ee526</guid>
-      <pubDate>Wed, 11 Nov 2026 06:38:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;IFM 开源 29B 潜扩散视频模型 PAN 2，支持最长 20 秒 720p 24fps 生成，并放出训练代码。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/IFM/PAN2"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xt0yur/pan_2_released/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/32277"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>苹果被曝开发 Harbor 应用：把 Mac 变成本地 AI 推理服务器</title>
-      <link>https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:439a3d0881cf20091fc862c6</guid>
-      <pubDate>Wed, 11 Nov 2026 05:25:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;爆料称苹果正开发 Harbor，可让 Mac 本地跑开源模型并组集群&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/"&gt;HN 热议&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>MMH3 图像模型实测：4048 分辨率起步，速度惊艳但一致性不足</title>
-      <link>https://www.reddit.com/r/StableDiffusion/comments/1xsz700/mmh3_samples_quick_takeaways/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a128c2e9ef4dfabdf4d01ddd</guid>
-      <pubDate>Wed, 11 Nov 2026 05:25:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;Reddit 用户实测 MMH3 图像模型，总结其速度、画质与能力边界。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.reddit.com/r/StableDiffusion/comments/1xsz700/mmh3_samples_quick_takeaways/"&gt;Reddit / r/StableDiffusion&lt;/a&gt; · &lt;a href="https://huggingface.co/Comfy-Org/MiniMax-H3-Image/tree/main"&gt;Comfy-Org 权重目录&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软披露 Lazarus 后门：改写不到 10 个休眠神经元即可劫持 AI 智能体</title>
-      <link>https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:67ea347882dcceb1444c6485</guid>
-      <pubDate>Wed, 11 Nov 2026 04:52:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;微软披露 Lazarus 后门：改写不到 10 个休眠神经元即可让智能体按触发器执行攻击者命令。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/"&gt;微软研究院&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>纽约AI安全法RAISE Act生效，OpenAI、Anthropic须登记</title>
-      <link>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7dcaffb97da92d23fc8a67b7</guid>
-      <pubDate>Wed, 11 Nov 2026 04:52:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;纽约开放大型前沿AI开发者登记门户，2027年1月1日前须完成注册。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/025/548.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>删除不到0.05%权重即可媲美全量微调：Deletion Tuning 新方法</title>
-      <link>https://github.com/agentic-learning-ai-lab/deleting-weights</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5b4e3ce0acea1341cc8c7642</guid>
-      <pubDate>Wed, 11 Nov 2026 03:44:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;新方法只训练二值掩码，删权重即可匹配全量微调效果&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/agentic-learning-ai-lab/deleting-weights"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini Intelligence 扩展至摩托罗拉 signature 27 与 Pixel 10</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:361d003707da22bf3bc6c4ac</guid>
-      <pubDate>Wed, 11 Nov 2026 03:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;谷歌为 Gemini Intelligence 推出多项新功能，并扩展到更多安卓设备&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"&gt;Google AI 博客&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>ComfyUI 开源 Higgsfield 挑战赛公布获奖名单</title>
-      <link>https://github.com/nomadoor/ComfyUI-Panorama-Stickers</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a1d03f1f4117aa58abeae2f4</guid>
-      <pubDate>Wed, 11 Nov 2026 02:47:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;300+ 开发者提交开源项目，覆盖 45+ 国家，获奖仓库全部可 fork&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/nomadoor/ComfyUI-Panorama-Stickers"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/comfyui/comments/1xsv43t/were_excited_to_announce_the_winners_of_the_open/"&gt;Reddit / r/comfyui&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
