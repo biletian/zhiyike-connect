@@ -15,7 +15,31 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sat, 14 Nov 2026 01:58:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:31:00 +0800</lastBuildDate>
+    <item>
+      <title>要让 GPT-6 Astra 等通用 AI 当机器人“大脑”：OpenAI 宣布重组具身智能团队</title>
+      <link>https://www.ithome.com/1/027/004.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7c0da3f2c7bcec8b58eb1395</guid>
+      <pubDate>Sat, 14 Nov 2026 07:17:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 确认解散独立机器人团队，将研究人员并入核心研究团队，转向用通用模型驱动机器人。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/027/004.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AIE Code Summit 发布《No AI Slop》宣言：拒绝无脑转发 AI 输出</title>
+      <link>https://www.slopmanifesto.com/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:bf115654054f41050d269d6c</guid>
+      <pubDate>Sat, 14 Nov 2026 03:51:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一批工程师在 AIE Code Summit 2026 上发布宣言，呼吁为 AI 生成内容负责。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.slopmanifesto.com/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用 SimReady 资产在 Isaac Sim 搭建机器人抓取放置仿真</title>
+      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a6864801609aa39ace326517</guid>
+      <pubDate>Sat, 14 Nov 2026 02:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;英伟达团队演示用 UR17G 机械臂与 Robotiq 夹爪完成饮料罐抓取放置&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>XYBench：8K+ 问题测试 AI 能否识别用户提问背后的错误假设</title>
       <link>https://huggingface.co/blog/allenai/xybench</link>
@@ -30,7 +54,15 @@
       <guid isPermaLink="false">urn:zhiyike:news:c2fa7684985066cc714a0510</guid>
       <pubDate>Sat, 14 Nov 2026 00:00:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;OpenAI 推出 ChatGPT Wallet，让智能体帮用户挑商品并完成付款。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/026/994.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;OpenAI 推出 ChatGPT Wallet，让智能体帮用户挑商品并完成付款。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"&gt;TechCrunch&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/026/994.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Luma 画布上线智能整理功能：AI 按团队工作方式自动分组标注素材</title>
+      <link>https://lumalabs.ai/news/ai-board-manager</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c5664532b90d85f1ddfecf0b</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Luma 智能体可读懂画布内容，按产品、概念、活动等自动分组标注素材。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/ai-board-manager"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>谷歌：学校想关掉搜索里的 AI 概览，就得放弃谷歌搜索</title>
@@ -343,6 +375,14 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;DeepSeek 把 App 的联网搜索、文件输入、语音等能力整合进原有 API，并开放独立接口。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://api-docs.deepseek.com/zh-cn/news/news261113"&gt;DeepSeek 新闻&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 博客：常驻智能体的五大核心原语与运行循环</title>
+      <link>https://claude.com/resources/articles/building-always-on-agents</link>
+      <guid isPermaLink="false">urn:zhiyike:news:693728fbe10d9bcffaf7cc51</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Claude 博客拆解常驻智能体架构：事件收件箱、定时器、记忆、权限与发件箱。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/resources/articles/building-always-on-agents"&gt;Claude 博客&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历</title>
@@ -775,46 +815,6 @@
       <pubDate>Wed, 11 Nov 2026 08:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;Anthropic启动IPO路演，拟发行8.25亿股，估值较2万亿预期近乎腰斩。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/11/other/admin/123276/anthropic%e6%ad%a3%e5%bc%8f%e5%90%af%e5%8a%a8ipo%e8%b7%af%e6%bc%94%ef%bc%8c%e4%bc%b0%e5%80%bc%e8%85%b0%e6%96%a9%e4%bb%8d%e7%a0%b4%e4%b8%87%e4%ba%bf%ef%bc%81/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Token Pooling 感知训练：多向量嵌入模型压缩后检索质量提升</title>
-      <link>https://huggingface.co/blog/token-pooling</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6e234745278d4a8f1fc5a573</guid>
-      <pubDate>Wed, 11 Nov 2026 08:00:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;多向量模型压缩后易丢信息，感知训练让编码器学会在合并向量时保留关键信息。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/token-pooling"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软游说美国政府放弃中国光模块进口限制，担忧拖慢 AI 数据中心建设</title>
-      <link>https://www.ithome.com/1/025/218.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6b6a6f8d20c19ca54b559055</guid>
-      <pubDate>Wed, 11 Nov 2026 07:53:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;微软等企业担忧限制中国光模块会造成关键零部件短缺，拖慢美国 AI 数据中心建设。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/025/218.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技嘉推出 RTX Spark 迷你主机 AI Top Aero，最高 128GB 统一内存</title>
-      <link>https://www.ithome.com/1/025/213.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1d99871f12297f688211e2e9</guid>
-      <pubDate>Wed, 11 Nov 2026 07:29:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;技嘉发布 1 升紧凑机箱迷你主机，搭载英伟达 RTX Spark N1X 超级芯片。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/025/213.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 扩展 ChatGPT 商业功能：企业可认领资料并创建 AI 智能体，为 Business Agent 投放广告</title>
-      <link>https://www.ithome.com/1/025/206.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3f9c30817c239f9b0ae3f492</guid>
-      <pubDate>Wed, 11 Nov 2026 06:55:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;OpenAI 上线 ChatGPT Businesses 测试版，企业可认领商家资料、查看互动数据并创建…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/025/206.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 升级 AI 办公套件：从头脑风暴到数据看板，Claude 想承包团队协作全流程</title>
-      <link>https://www.ithome.com/1/025/204.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ce597719cd7087ae2cf692fe</guid>
-      <pubDate>Wed, 11 Nov 2026 06:43:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Anthropic 推出白板、表格与数据看板，把 Claude 从聊天问答推向团队协作工作台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/025/204.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/32279"&gt;AIBase&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/32289"&gt;AIBase 快讯&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
