@@ -15,7 +15,23 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sun, 15 Nov 2026 00:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:02:00 +0800</lastBuildDate>
+    <item>
+      <title>美国 IRS 开源 Direct File 免费报税系统代码</title>
+      <link>https://github.com/IRS-Public/direct-file</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8f91233acba05e4752a560de</guid>
+      <pubDate>Sun, 15 Nov 2026 01:48:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;IRS 将免费直接报税服务 Direct File 的代码开源，但仓库已归档不再维护。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/IRS-Public/direct-file"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Show HN：用约200行纯 JAX 复现 DeepSeek V3</title>
+      <link>https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b3a98dca61cf55ea94c10b93</guid>
+      <pubDate>Sat, 14 Nov 2026 23:04:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;开发者用190行纯 JAX 实现 DeepSeek V3 架构，在 MacBook Air 上从零预训练&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>解雇Sam Altman的OpenAI前董事：我们仍不能信任AI CEO</title>
       <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
@@ -25,12 +41,28 @@
       <description>&lt;p&gt;Helen Toner在播客中称，若AI安全寄望于某个人可信，我们就完了&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>单卡放不下：两台NVIDIA DGX Station用vLLM跑GLM-5.3，并发16达607.8 tok/s</title>
+      <link>https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:09c82419aedeb3f3c653433d</guid>
+      <pubDate>Sat, 14 Nov 2026 22:09:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;GLM-5.3 NVFP4约464GB权重超单卡252GB显存，需两台DGX Station经RDMA张量并行部署&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/"&gt;NVIDIA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>The Claude Delusion：技术成功者的自负如何催生AI末日与乌托邦叙事</title>
       <link>https://www.netmeister.org/blog/claude-delusion.html</link>
       <guid isPermaLink="false">urn:zhiyike:news:7aef81b745fc67b7cc63daeb</guid>
       <pubDate>Sat, 14 Nov 2026 21:36:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;一篇HN热议文章剖析技术精英的过度自信如何扭曲对AI能力的判断。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.netmeister.org/blog/claude-delusion.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>还要依赖Qwen、Gemma、NVIDIA多久？100B级模型2027年后或难跑</title>
+      <link>https://huggingface.co/collections/deepseek-ai/deepseek-r1</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8dddf61216ed16e359459c10</guid>
+      <pubDate>Sat, 14 Nov 2026 20:10:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Reddit网友担忧模型规模普遍冲向300B以上，128GB设备将难以承载&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/collections/deepseek-ai/deepseek-r1"&gt;huggingface.co&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>克里克研究所CEO：拥抱AI，但要给科学家留出探索空间</title>
@@ -783,38 +815,6 @@
       <pubDate>Thu, 12 Nov 2026 03:37:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;美联航以安全与合规风险为由，封禁第三方个人 AI 助手代订机票。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"&gt;CBS News&lt;/a&gt; · &lt;a href="https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"&gt;The Verge&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/singularity/comments/1xufw13/united_airlines_bans_ai_agents_from_booking/"&gt;Reddit / r/singularity&lt;/a&gt; · &lt;a href="https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Grok Bot 1.0正式发布！马斯克教AI和你的团队一起工作</title>
-      <link>https://x.ai/news/grok-bot-1-0</link>
-      <guid isPermaLink="false">urn:zhiyike:news:abd66f1081d5fa1beeabaa52</guid>
-      <pubDate>Thu, 12 Nov 2026 02:22:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;xAI 推出 Grok Bot 1.0，Bot 可被团队共享并主动认领任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.ai/news/grok-bot-1-0"&gt;xAI&lt;/a&gt; · &lt;a href="https://x.com/bot/status/2120582957782200586"&gt;bot X&lt;/a&gt; · &lt;a href="https://x.com/SpaceXSI/status/2120584928983441826"&gt;SpaceXSI X&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-12-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌发布首个决策模型！输出全免费，百万Token低至0.1美元</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:10d46752c0ea3ea6d77a4291</guid>
-      <pubDate>Thu, 12 Nov 2026 02:00:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;谷歌上线Gemini Decisions API，由Gemini Decision 1驱动，输出Token免费，输入每…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"&gt;Google 官方博客&lt;/a&gt; · &lt;a href="https://aiera.com.cn/2026/11/13/other/admin/123638/%e8%b0%b7%e6%ad%8c%e5%8f%91%e5%b8%83%e9%a6%96%e4%b8%aa%e5%86%b3%e7%ad%96%e6%a8%a1%e5%9e%8b%ef%bc%81%e8%be%93%e5%87%ba%e5%85%a8%e5%85%8d%e8%b4%b9%ef%bc%8c%e7%99%be%e4%b8%87token%e4%bd%8e%e8%87%b30-1/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软允许用户关闭必应 AI 答案，但安装扩展必须将必应设为默认搜索引擎</title>
-      <link>https://blogs.bing.com/search/2026/11/your-choice-turn-ai-answers-on-or-off-in-bing/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ba356e7b2c66263afcc1279e</guid>
-      <pubDate>Thu, 12 Nov 2026 01:20:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;微软上线必应 AI 答案开关，但装扩展要改默认搜索引擎，另一方法是加 -ai 运算符。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blogs.bing.com/search/2026/11/your-choice-turn-ai-answers-on-or-off-in-bing/"&gt;Bing 官方博客&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/026/117.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/32284"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>苹果 CarPlay 接入谷歌 Gemini：车里也能和 AI 自然聊天</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c33240710df7e6d18f993f55</guid>
-      <pubDate>Thu, 12 Nov 2026 01:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;谷歌宣布 CarPlay 接入 Gemini，iOS 用户可逐步在车机免提语音对话。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/"&gt;Google 博客&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/025/831.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
