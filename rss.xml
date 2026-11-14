@@ -15,7 +15,23 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sat, 14 Nov 2026 18:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 00:47:00 +0800</lastBuildDate>
+    <item>
+      <title>解雇Sam Altman的OpenAI前董事：我们仍不能信任AI CEO</title>
+      <link>https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview</link>
+      <guid isPermaLink="false">urn:zhiyike:news:53c4f30832411ae58aaf172f</guid>
+      <pubDate>Sat, 14 Nov 2026 23:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Helen Toner在播客中称，若AI安全寄望于某个人可信，我们就完了&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Claude Delusion：技术成功者的自负如何催生AI末日与乌托邦叙事</title>
+      <link>https://www.netmeister.org/blog/claude-delusion.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7aef81b745fc67b7cc63daeb</guid>
+      <pubDate>Sat, 14 Nov 2026 21:36:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一篇HN热议文章剖析技术精英的过度自信如何扭曲对AI能力的判断。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.netmeister.org/blog/claude-delusion.html"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>克里克研究所CEO：拥抱AI，但要给科学家留出探索空间</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-11-14-8</link>
@@ -79,6 +95,14 @@
       <pubDate>Sat, 14 Nov 2026 15:02:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;Next Token 用 Gemini 4 Carbon 汇总 9 期播客，提炼 30 条 AI 领域核心认知。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzU0MDk3NTUxMA==&amp;amp;mid=2247498487&amp;amp;idx=1&amp;amp;sn=3be15d7cbbc7d4f48344345de2422e65"&gt;歸藏的AI工具箱&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>突发！DeepSeek开放全家桶API</title>
+      <link>https://www.qbitai.com/2026/11/510003.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4626281165d6a7bbf0974d46</guid>
+      <pubDate>Sat, 14 Nov 2026 10:39:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;DeepSeek把App背后的联网搜索、文件上传、语音识别合成等能力拆成独立API对外开放。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/510003.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DeepSeek 前端代码出现“额度耗尽”提示，开发者猜测将首次推出 C 端付费方案</title>
@@ -215,6 +239,14 @@
       <pubDate>Sat, 14 Nov 2026 01:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Poppy 1.0 正式发布，Shopify 全平台商家默认支持，设计伙伴超 100 家。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://sierra.ai/blog/releasing-poppy"&gt;Sierra&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek v4.1 flash (max) 成首个在 SWE-sweep 基准超 1% 的开源权重模型</title>
+      <link>https://github.com/facebookresearch/swe-sweep</link>
+      <guid isPermaLink="false">urn:zhiyike:news:6d6540d74ae6d735609dd304</guid>
+      <pubDate>Sat, 14 Nov 2026 00:31:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;SWE-sweep 榜单更新，DeepSeek v4.1 flash (max) 首次让开源权重模型突破 1%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/facebookresearch/swe-sweep"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/"&gt;Reddit / r/LocalLLaMA&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ChatGPT 上线钱包功能，AI 智能体可代用户下单结账</title>
@@ -783,38 +815,6 @@
       <pubDate>Thu, 12 Nov 2026 01:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;谷歌宣布 CarPlay 接入 Gemini，iOS 用户可逐步在车机免提语音对话。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/"&gt;Google 博客&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/025/831.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Claude 以参会者身份加入视频会议，测试版上线 Team 与 Enterprise</title>
-      <link>https://claude.com/resources/articles/claude-meetings</link>
-      <guid isPermaLink="false">urn:zhiyike:news:46181992768c094b62ed4037</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Claude 可加入视频通话，边听边写文档、白板和会议纪要。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://claude.com/resources/articles/claude-meetings"&gt;Claude 博客&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/32295"&gt;AIBase&lt;/a&gt; · &lt;a href="https://x.com/claudeai/status/2120973994191094179?a=OlHvWxLjsUkDDn5cS4Y&amp;amp;s=20"&gt;x.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xunrsl/introducing_claude_meetings/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google Labs 推出 Tabletop：可定制的实时协作空间</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:38619e958c98a08cb4f22f99</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Google Labs 新实验 Tabletop 上线，支持多人实时协作生成行程、投票等工具。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"&gt;Google AI 博客&lt;/a&gt; · &lt;a href="https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>“行业 AI 梦工厂”首款昇腾原生世界模型，华为云 CloudRobo 具身世界模型发布会定档 11 月 16 日</title>
-      <link>https://www.huaweicloud.com/about/live/261116.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8e765ae86670c992ac6155b4</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;华为云宣布 11 月 16 日线上直播发布会，将推出 CloudRobo-WM1.2。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.huaweicloud.com/about/live/261116.html"&gt;华为云&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/026/288.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 签署儿童 AI 安全承诺宪章，投入 200 万美元支持研究</title>
-      <link>https://openai.com/index/children-first-declaration</link>
-      <guid isPermaLink="false">urn:zhiyike:news:5e128bd97abe5055a1edb03a</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;OpenAI 在巴黎和平论坛签署儿童 AI 安全宪章，并出资 200 万美元支持相关科研网络。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/children-first-declaration"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
