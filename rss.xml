@@ -15,7 +15,23 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sun, 15 Nov 2026 23:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 04:17:00 +0800</lastBuildDate>
+    <item>
+      <title>AI 生成的代码是否都应开源？作者主张 CC0 或开源许可</title>
+      <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3912cf2049252984f49027d6</guid>
+      <pubDate>Sun, 15 Nov 2026 22:46:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;作者主张纯 AI 生成代码不应受版权保护，应强制开源或捐入公有领域&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jakub.jankiewicz.org/blog/ai-code-open-source/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>现代 LLM 位置嵌入全解析：从 GPT 绝对嵌入到 RoPE 与 2026 架构选择</title>
+      <link>https://magazine.sebastianraschka.com/p/understanding-positional-embeddings</link>
+      <guid isPermaLink="false">urn:zhiyike:news:68b8c2f2d15eaf3cf392fddd</guid>
+      <pubDate>Sun, 15 Nov 2026 20:14:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;一篇系统梳理 LLM 位置编码机制的技术长文，含 PyTorch 实现与 2026 开源模型选型预览。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"&gt;Sebastianraschka 官方&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>逼近GPT-6 Astra！韩松团队让Qwen3.8-27B在5090上操作机械臂，现已开源</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-11-15-7</link>
@@ -489,6 +505,14 @@
       <description>&lt;p&gt;北大林宙辰团队发布十年深度时序预测综述，以自相关建模统一梳理骨干架构与损失函数两条主线。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-13-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Qwen3-1.7B 内部表征图谱：数千段对话在向量空间里长什么样</title>
+      <link>https://operator0x.com/field-notes/qwen-conversation-state-space/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:923d88de1dde08f4b080dc57</guid>
+      <pubDate>Fri, 13 Nov 2026 18:26:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;作者把 Qwen3-1.7B 的残差流状态投影成三维图谱，观察多语言对话的几何形状。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://operator0x.com/field-notes/qwen-conversation-state-space/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>李飞飞最新世界模型正式开放，我用它一句话造出重庆山城</title>
       <link>https://www.ifanr.com/1689379?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
       <guid isPermaLink="false">urn:zhiyike:news:df8c22d318a02da762a937b4</guid>
@@ -791,30 +815,6 @@
       <pubDate>Thu, 12 Nov 2026 23:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;原告称这些公司无法阻止自家AI造成“灾难性”伤害，请求法院禁止开发部署新模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://abcnews.com/Technology/wireStory/advocacy-groups-sue-ai-giants-freeze-new-models-138081070"&gt;abcnews.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EMNLP 2026｜如何记住发生过的事？EM²Mem让记忆连接人与经历</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-12-13</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6f725b3fcc3eaac531400ec6</guid>
-      <pubDate>Thu, 12 Nov 2026 22:29:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;浙大与联想提出EM²Mem，以事件为中心组织多模态长期记忆&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-12-13"&gt;机器之心&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-15-6"&gt;机器之心 快讯&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>64张B300、不到5天，FireFlash比肩Fable 5与GPT-6Sol，单任务成本低30倍！</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-12-10</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ad03b8714482639e620404e5</guid>
-      <pubDate>Thu, 12 Nov 2026 20:39:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;研究者开源300B级终端与编程智能体的完整强化学习训练配方&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-12-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛</title>
-      <link>https://www.qbitai.com/2026/11/509440.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b7805ba746612e89c8239801</guid>
-      <pubDate>Thu, 12 Nov 2026 19:36:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;MiniMax开源图像模型H3-Image，支持原生4K生成、最多16张参考图输入，API价格为主流竞品50%到70%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/509440.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/32292"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
