@@ -15,7 +15,15 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 04:17:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:02:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI 推出科学博客，分享 AI 加速科研的发现与方法</title>
+      <link>https://openai.com/index/our-new-blog-for-science</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9ea299687ef5765ddeff6b62</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;OpenAI 开设科学博客，供科研人员分享用 AI 做研究的过程与成果。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/our-new-blog-for-science"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI 生成的代码是否都应开源？作者主张 CC0 或开源许可</title>
       <link>https://jakub.jankiewicz.org/blog/ai-code-open-source/</link>
@@ -63,6 +71,14 @@
       <pubDate>Sun, 15 Nov 2026 16:36:00 +0800</pubDate>
       <category>观点</category>
       <description>&lt;p&gt;10个前沿模型自主完成后训练，人类盲测投票暴露评分与真实能力的错位&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-15"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude 为 DOS 写并训练了一个能装进软盘的 367K 参数语言模型</title>
+      <link>https://github.com/WollyMonjac/Tiny-2.1</link>
+      <guid isPermaLink="false">urn:zhiyike:news:76319e81ad431b49d8985756</guid>
+      <pubDate>Sun, 15 Nov 2026 15:28:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;一个 367K 参数的小模型跑在 Intel Pentium 上，程序加权重约 435 KB，可放进软盘。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/WollyMonjac/Tiny-2.1"&gt;github.com&lt;/a&gt; · &lt;a href="https://www.reddit.com/r/ClaudeAI/comments/1xwpenj/claude_wrote_and_trained_a_language_model_for_dos/"&gt;Reddit / r/ClaudeAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>小米海外公布 18 Pro 系列手机背屏适配：支持谷歌地图、Spotify、Gemini 等应用</title>
@@ -799,22 +815,6 @@
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Google AI Pro 和 Ultra 订阅者现可在 AI Studio 内直接领取并管理每月 Google…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/"&gt;Google&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Google Wallet 接入 Gemini，美国用户可获个人财务洞察</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:743d7c095815ececee3ad213</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Gemini 美国用户可连接 Google Wallet，让回答基于自身消费习惯生成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/"&gt;Google&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>多家倡导团体起诉五家AI巨头，要求叫停新模型开发</title>
-      <link>https://abcnews.com/Technology/wireStory/advocacy-groups-sue-ai-giants-freeze-new-models-138081070</link>
-      <guid isPermaLink="false">urn:zhiyike:news:820fc47d293d8e525f71fef2</guid>
-      <pubDate>Thu, 12 Nov 2026 23:00:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;原告称这些公司无法阻止自家AI造成“灾难性”伤害，请求法院禁止开发部署新模型。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://abcnews.com/Technology/wireStory/advocacy-groups-sue-ai-giants-freeze-new-models-138081070"&gt;abcnews.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
