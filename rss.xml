@@ -15,7 +15,39 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 18:47:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:47:00 +0800</lastBuildDate>
+    <item>
+      <title>英伟达罢免黄仁勋风波持续，本周发布财报并停售中国H200芯片</title>
+      <link>https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:63a4e1523c9b4072c9545f06</guid>
+      <pubDate>Fri, 20 Nov 2026 22:55:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;英伟达罢免CEO黄仁勋后余波未平，本周发布财报并拒绝让其回归。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Signal 限制 iOS 与 Android 截图，阻止 Gemini 和 Siri 读取屏幕内容</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app</link>
+      <guid isPermaLink="false">urn:zhiyike:news:acf0cabfb6030e3bbee8e7d3</guid>
+      <pubDate>Fri, 20 Nov 2026 20:30:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Signal 在 iOS 27 和 Android 上默认禁止截图，防止系统级 AI 助手读取聊天内容。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>美国AI音乐巨头进军视频生成，底层模型来自中国MiniMax</title>
+      <link>https://www.qbitai.com/2026/11/511722.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:959e89de1773dfb17a9c1fb4</guid>
+      <pubDate>Fri, 20 Nov 2026 20:18:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Suno上线Visuals，用MiniMax H3开源模型生成音乐视频，支持口型同步&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/511722.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frostbite：AI 端到端发现、设计并验证的新型 CPU 架构</title>
+      <link>https://architectlabs.com/blog/frostbite</link>
+      <guid isPermaLink="false">urn:zhiyike:news:65ab1adafe5e2352b37382e3</guid>
+      <pubDate>Fri, 20 Nov 2026 18:01:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;AI 自主迭代编译器、ISA、微架构到 GDS，造出全新指令集通用 CPU&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://architectlabs.com/blog/frostbite"&gt;Architectlabs 官方&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真实成果」</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-11-20-11</link>
@@ -207,6 +239,14 @@
       <pubDate>Fri, 20 Nov 2026 08:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;商务部披露 1-10 月消费数据，智能眼镜、外骨骼、具身智能机器人等新型消费增长明显。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/029/762.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HuggingFace 推出 harness adapters：用 RL 为智能体框架定制模型适配器</title>
+      <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
+      <guid isPermaLink="false">urn:zhiyike:news:b75fe2ed5a19b4d7da3f8f5c</guid>
+      <pubDate>Fri, 20 Nov 2026 08:00:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;为每个智能体框架单独训练 LoRA 适配器，让模型在自身框架下更准更省 token。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/harness-adapters-at-scale"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>苹果 macOS 27.3 Beta 2 公测版发布：扩展 Siri AI 能力，强化完全磁盘访问权限管理</title>
@@ -775,46 +815,6 @@
       <pubDate>Wed, 18 Nov 2026 18:01:00 +0800</pubDate>
       <category>模型</category>
       <description>&lt;p&gt;OpenAI 发布 GPT-6.2 Astra 与 Sol，实测 3D 能力惊艳但写作和长任务体验遭大量差评。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1690130?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini新模型Neon箭在弦上，网友：遍历元素周期表？</title>
-      <link>https://www.qbitai.com/2026/11/510922.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:718444fa0d1ea1da5c7d5b6c</guid>
-      <pubDate>Wed, 18 Nov 2026 17:41:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;Gemini网页代码出现gemini-4-neon标识及同名NEON订阅层级，定位尚不明确&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/510922.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPT-6.2难产！OpenAI怕了</title>
-      <link>https://www.qbitai.com/2026/11/510914.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4f7057779051ad2d372b285a</guid>
-      <pubDate>Wed, 18 Nov 2026 15:53:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;爆料称OpenAI新一代模型因安全与对齐问题延期数周，GPT-6.2、GPT-6.5接连受阻。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/510914.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-18-11</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3080ad4855fc0f3641728b3d</guid>
-      <pubDate>Wed, 18 Nov 2026 15:47:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;29 家机构共建，推出评测图谱 Atlas 与首期指数 Index，填补医疗 AI 综合测评空白。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-18-11"&gt;机器之心&lt;/a&gt; · &lt;a href="https://www.qbitai.com/2026/11/510916.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://aiera.com.cn/2026/11/18/other/admin/124303/%e5%85%a8%e7%90%83%e9%a6%96%e4%b8%aa%e5%8c%bb%e7%96%97%e5%81%a5%e5%ba%b7-ai-%e7%8b%ac%e7%ab%8b%e8%af%84%e6%b5%8b%e4%b8%8e%e5%88%86%e6%9e%90%e5%b9%b3%e5%8f%b0inclusionmed-%e6%ad%a3%e5%bc%8f%e4%b8%8a/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI 摘要重创独立网站：All About Berlin 流量暴跌 75%</title>
-      <link>https://nicolasbouliane.com/blog/death-by-ai</link>
-      <guid isPermaLink="false">urn:zhiyike:news:18b58bd0a3ae484edea18368</guid>
-      <pubDate>Wed, 18 Nov 2026 14:47:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;运营 8 年的柏林指南网站因 Google AI 摘要流失约四分之三流量，作者称难以维生。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://nicolasbouliane.com/blog/death-by-ai"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Agent多人共用为何会失控？来自Ankole的Business Agent架构设计分享</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-18-9</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b3ffe2850a210a20dfd6da0d</guid>
-      <pubDate>Wed, 18 Nov 2026 14:41:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;机器之心介绍开源Business Agent系统Ankole的架构设计思路&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-18-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
