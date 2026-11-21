@@ -15,7 +15,23 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sat, 21 Nov 2026 08:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:33:00 +0800</lastBuildDate>
+    <item>
+      <title>腾讯微信视觉开源 WeMM-Video：中英双语全模态视频理解模型家族</title>
+      <link>https://github.com/Tencent/WeMM-Video</link>
+      <guid isPermaLink="false">urn:zhiyike:news:1da30f5aba4ef78cbfba40e5</guid>
+      <pubDate>Sat, 21 Nov 2026 08:53:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;腾讯微信视觉开源全模态视频理解模型家族，含 2B 到 35B-A3B 四档&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/Tencent/WeMM-Video"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>“几乎所有人将永久失业”：Anthropic 研究员预测 2027 年底 AI 在几乎所有领域超越顶尖专家</title>
+      <link>https://www.ithome.com/1/030/308.htm</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4a0d6095aaabfa8d8ead95c6</guid>
+      <pubDate>Sat, 21 Nov 2026 08:53:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Anthropic 技术团队成员 Tao Lin 预测 2027 年底 AI 可媲美或超过顶尖人类专家。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/030/308.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Claude自写推理引擎！等AI回第一个字，12秒砍到半秒</title>
       <link>https://aiera.com.cn/2026/11/21/other/admin/124673/claude%e8%87%aa%e5%86%99%e6%8e%a8%e7%90%86%e5%bc%95%e6%93%8e%ef%bc%81%e7%ad%89ai%e5%9b%9e%e7%ac%ac%e4%b8%80%e4%b8%aa%e5%ad%97%ef%bc%8c12%e7%a7%92%e7%a0%8d%e5%88%b0%e5%8d%8a%e7%a7%92/</link>
@@ -89,6 +105,14 @@
       <description>&lt;p&gt;谷歌搜索桌面端首页逐步上线可折叠侧边栏，用于查看和继续 AI 模式对话。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/030/287.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Sergio Mattei 宣布 Codex 线程体验升级：冷启动加载提速 60-70%</title>
+      <link>https://x.com/matteing/status/2123884630654996756</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c09e7d34c4e8c9e51458abad</guid>
+      <pubDate>Sat, 21 Nov 2026 05:02:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;Codex 重新设计线程机制，冷启动加载最高提速 60-70%，并减少转录噪音。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://x.com/matteing/status/2123884630654996756"&gt;X @matteing&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>独占特性确认：华为 Mate 系列旗舰机“无缘”OSTA 小星芒、AI 屏等功能</title>
       <link>https://www.ithome.com/1/030/284.htm</link>
       <guid isPermaLink="false">urn:zhiyike:news:3b5fa609d59c953e96bb89e7</guid>
@@ -143,6 +167,14 @@
       <pubDate>Fri, 20 Nov 2026 18:01:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;AI 自主迭代编译器、ISA、微架构到 GDS，造出全新指令集通用 CPU&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://architectlabs.com/blog/frostbite"&gt;Architectlabs 官方&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Signal 限制 iOS 27 与 Android 系统级 AI 智能体读取聊天数据</title>
+      <link>https://signal.org/blog/protecting-your-privacy/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8195b2587ed1f389c1bc8c07</guid>
+      <pubDate>Fri, 20 Nov 2026 17:42:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Signal 新增截图拦截，阻止系统内置 AI 智能体抓取屏幕上的聊天内容。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://signal.org/blog/protecting-your-privacy/"&gt;Signal 官方&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>当蛋白质设计有了自己的「Claude Code」，AI Native生物科技公司开始交付「真实成果」</title>
@@ -783,38 +815,6 @@
       <pubDate>Thu, 19 Nov 2026 05:35:00 +0800</pubDate>
       <category>模型</category>
       <description>&lt;p&gt;Google DeepMind 发布 Gemini 4 Neon，百万 token 上下文，输入每百万 token 3…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/introducing-gemini-4-neon/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"&gt;Google 官方博客&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Palmer Luckey 警告：AI 驱动的网络攻击正跑赢防御体系</title>
-      <link>https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e22607d92a8b3891a6839d7f</guid>
-      <pubDate>Thu, 19 Nov 2026 05:34:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;Anduril 联合创始人称攻击者用 AI 快速造漏洞，旧系统跟不上节奏。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DaisyRose-27B：1200任务18天训练，Terminal-Bench 4.1通过率翻倍</title>
-      <link>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c98fe94796a4b82ff5e38a47</guid>
-      <pubDate>Thu, 19 Nov 2026 03:54:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;RadixArk发布首个模型DaisyRose-27B，用1200个任务训练18天，Terminal-Bench…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"&gt;HuggingFace&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>黄仁勋辞职后，英伟达首次财报电话会透露了什么</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition</link>
-      <guid isPermaLink="false">urn:zhiyike:news:3ce15a2c892c375811a6cd5b</guid>
-      <pubDate>Thu, 19 Nov 2026 02:34:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;英伟达新CEO Kress首次主持财报会，回应黄仁勋离职后的供应链与员工稳定问题&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DeepMind 向 Google AI Ultra 订阅者推出 Genie 4 世界模型</title>
-      <link>https://deepmind.google/blog/genie-4-is-now-available/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2b46bce1b55196d5b5d4d7ff</guid>
-      <pubDate>Thu, 19 Nov 2026 02:13:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;Genie 4 上线，支持实时文字改场景、原生音频与社区画廊分享。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://deepmind.google/blog/genie-4-is-now-available/"&gt;DeepMind&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-19-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
