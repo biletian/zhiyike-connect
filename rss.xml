@@ -15,7 +15,15 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Sat, 21 Nov 2026 23:33:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 05:02:00 +0800</lastBuildDate>
+    <item>
+      <title>LookAtMyQuant 量化编译器：Inkling-2-Mini 压到 5.4 GB</title>
+      <link>https://github.com/ShinMegamiBoson/lookatmyquant</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9b1359bc70ae75116f83f83e</guid>
+      <pubDate>Sun, 22 Nov 2026 02:02:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;开源量化编译器用 trellis 码与逐行比特分配，把大模型压到极低比特并保持精度。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/ShinMegamiBoson/lookatmyquant"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Anthropic 上市后，安全优先还能撑住吗？</title>
       <link>https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure</link>
@@ -25,12 +33,44 @@
       <description>&lt;p&gt;The Verge 播客讨论 Anthropic 上市后安全使命与股东压力的冲突&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AI给乐队现场搓MV，这是黑客松还是音乐节啊</title>
+      <link>https://www.qbitai.com/2026/11/511855.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a63c1cdbaca1eb299a12bcd5</guid>
+      <pubDate>Sat, 21 Nov 2026 22:14:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;剪映Hub办黑客松，20+组创作者限时给真实乐队做VJ视觉，冠军作品当晚登台。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/511855.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chess.com 上线经典游戏平台，一次新增麻将、数独等 10 款游戏</title>
       <link>https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai</link>
       <guid isPermaLink="false">urn:zhiyike:news:23c2f6bf89ef54198e4710f7</guid>
       <pubDate>Sat, 21 Nov 2026 22:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Chess.com 推出 Classic Games 平台，公测新增 10 款经典游戏。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准</title>
+      <link>https://www.qbitai.com/2026/11/511841.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:f0338fc1b4eed2c2e39dfb5d</guid>
+      <pubDate>Sat, 21 Nov 2026 19:40:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;腾讯元宝与KCL推出GroupAssistBench，用50个真实群聊、8万条消息考Agent记忆。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/511841.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>全网疯传！Grok一姐教你如何月提交3000个PR</title>
+      <link>https://www.qbitai.com/2026/11/511830.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:c59295ddf9c3c388d1c0c39d</guid>
+      <pubDate>Sat, 21 Nov 2026 19:34:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;SpaceXSI首席工程师Lauren Tan在AI Engineer CODE大会分享AI编程经验，提出信任倒金字塔…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/511830.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢</title>
+      <link>https://www.qbitai.com/2026/11/511791.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cca1e3d756d703aac44f3431</guid>
+      <pubDate>Sat, 21 Nov 2026 19:24:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;MachinePulse AI开源决策模型Karpo Decision 31B及浏览器Agent框架，单次决策中位94…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/511791.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Flagship布局伦敦，打造AI原生科学创业平台</title>
@@ -775,46 +815,6 @@
       <pubDate>Thu, 19 Nov 2026 14:38:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;机器之心联合张江 AI 创新小镇，12 月 26 日在上海举办 2027 AI 进化峰会。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-19-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AI基建大潮方兴未艾，联想集团最佳财季诞生！</title>
-      <link>https://www.qbitai.com/2026/11/511088.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:366f7295bdd9a49f692d5e72</guid>
-      <pubDate>Thu, 19 Nov 2026 12:51:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;联想2026/27财年第二财季营收首破2000亿元，调整后净利润同比增166%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/511088.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>写入记忆，何必读完整个网络？英伟达SEED每GPU吞吐最高提升42%</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-19-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:292f254046c6b2f3d3e421b5</guid>
-      <pubDate>Thu, 19 Nov 2026 12:45:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;英伟达提出SEED，用浅层预填充写深层记忆、低秩分解存循环状态，提升混合模型服务吞吐。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-19-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计</title>
-      <link>https://www.qbitai.com/2026/11/511079.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:fd16fcd5479428d6f8a897b7</guid>
-      <pubDate>Thu, 19 Nov 2026 12:02:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Cortex-M42面向低功耗智能端点，搭配Ethos-U55后语音识别性能提升超340倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/511079.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>海外算力通道收窄！众智 FlagOS × 清昴智能，助力国芯高性能上线商用 Token 工厂</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-19-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:bfe017736d3c8baedcbc7e73</guid>
-      <pubDate>Thu, 19 Nov 2026 10:42:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;智源与清昴智能发布端到端推理优化方案，基于FlagOS上线国产芯片商用Token工厂。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-19-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>开发者真机上手！具身智能，还得这群人补位</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-19-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:74e2c255832ff5bd20e29090</guid>
-      <pubDate>Thu, 19 Nov 2026 10:39:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;1855支队伍用同一开源基座模型LingBot-VLA 2.0，在48小时真机攻坚中比拼数据工程能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-19-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
