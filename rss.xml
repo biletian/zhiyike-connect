@@ -15,7 +15,31 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 00:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:02:00 +0800</lastBuildDate>
+    <item>
+      <title>OpenAI首席科学家提出用困惑度给AI发展设限</title>
+      <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9088abb43999ea2d57083d9d</guid>
+      <pubDate>Mon, 23 Nov 2026 05:14:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;Pachocki建议以困惑度作为衡量AI进展的共享基准，据此设定开发上限&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Levent Alpöge 借助 Claude 疑似证明黎曼猜想，意味着什么？</title>
+      <link>https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann</link>
+      <guid isPermaLink="false">urn:zhiyike:news:2ae6edd98eaab71c6702e57c</guid>
+      <pubDate>Mon, 23 Nov 2026 02:37:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;数学家与 Claude 协作数月疑似证明黎曼猜想，但并非 AI 独立完成。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/levent-alpoge-has-solved-the-riemann"&gt;Gary Marcus 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>《以撒的结合》作者回应AI音乐争议：已从Repentance Plus中移除</title>
+      <link>https://www.theverge.com/games/1039770/binding-of-isaac-ai-music</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4be02b3fe3d45f9bc56bae02</guid>
+      <pubDate>Mon, 23 Nov 2026 01:25:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;游戏被扒出用Suno生成音乐后遭Steam差评轰炸，制作人道歉并称毫不知情。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.theverge.com/games/1039770/binding-of-isaac-ai-music"&gt;The Verge&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>让机器人从实验执行走向科学决策：BioMARS 2.0打造新一代机器人生物学家</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-11-22-6</link>
@@ -215,6 +239,14 @@
       <pubDate>Sun, 22 Nov 2026 00:00:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Luma发文介绍混合制作流程，实拍表演加AI生成环境，让多市场广告变体不再重拍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://lumalabs.ai/news/hybrid-production"&gt;Luma&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 提出用困惑度衡量 AI 进展，并公开内部预训练数据</title>
+      <link>https://openai.com/index/perplexity-and-intelligence</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7551e82f8e4e01c55e738700</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;OpenAI 主张以困惑度作为跨机构比较与安全标准的统一指标&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/index/perplexity-and-intelligence"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anthropic 上市后，安全优先还能撑住吗？</title>
@@ -783,38 +815,6 @@
       <pubDate>Fri, 20 Nov 2026 06:56:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;彭博社称苹果正组建团队开发自主 AI 智能体，可代用户操控设备、浏览网页、编写代码。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/029/750.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>谷歌 Gemini 现可直接操作苹果 Mac 电脑，可跨应用操作、制作 PPT、填写表单</title>
-      <link>https://www.ithome.com/1/029/749.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4aad99fe78b0a91d56bf4108</guid>
-      <pubDate>Fri, 20 Nov 2026 06:48:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;谷歌 Gemini 新增电脑操控功能，可跨应用执行点击、填表等多步骤任务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/029/749.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Meta 新款 AI 硬件 Muse Charm 或定价 300 美元</title>
-      <link>https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8001eb777f1dd7bbecdcdde4</guid>
-      <pubDate>Fri, 20 Nov 2026 05:58:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;The Information 报道称 Meta 计划为 Muse Charm 定价 300 美元，Meta 未否认。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>美国多家关键系统接连宕机，投资人称是AI暴露漏洞的成长阵痛</title>
-      <link>https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:07941a239d9e78e93ed4e949</guid>
-      <pubDate>Fri, 20 Nov 2026 05:42:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;两周内苹果支付、NASA内网、FAA与微软相继故障，被疑与AI相关。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 上市首日冲高回落，未能提振科技股</title>
-      <link>https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics</link>
-      <guid isPermaLink="false">urn:zhiyike:news:295225e62f3d503bf46d12d0</guid>
-      <pubDate>Fri, 20 Nov 2026 04:36:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 以约 110 开盘后半小时热情消退，机构 83 买入、散户 110 接盘。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://garymarcus.substack.com/p/breaking-it-doesnt-look-anthropics"&gt;Gary Marcus 本人发布&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
