@@ -15,7 +15,127 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 10:46:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 20:03:00 +0800</lastBuildDate>
+    <item>
+      <title>Karpathy提出的LLM Wiki，中国公司做出来了！lumimax八项公开基准测试全线领先</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-25-10</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ee344938368461ac30b79e24</guid>
+      <pubDate>Wed, 25 Nov 2026 18:13:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;海马云推出企业级可信知识库 lumimax，自测八项公开基准全线领先。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-25-10"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>北大唐浩团队提出PanDWM：把六个相机拼成一张全景，驾驶世界模型直接生成可换视角的4D场景</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-25-9</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4d17b7f833e43414b8c28acc</guid>
+      <pubDate>Wed, 25 Nov 2026 18:02:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;北大团队用全景条带替代六路相机分别生成，四步去噪产出可换视角的4D驾驶场景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-25-9"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Anthropic还藏着2个最强模型…</title>
+      <link>https://www.qbitai.com/2026/11/512538.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:513739b06cffabc5be34961b</guid>
+      <pubDate>Wed, 25 Nov 2026 16:23:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;爆料称Anthropic内部还有两款更强模型，未来半年能力或迎大跃升&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/512538.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆</title>
+      <link>https://www.qbitai.com/2026/11/512515.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:dc2319a1bf3d07529266f47c</guid>
+      <pubDate>Wed, 25 Nov 2026 15:46:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;Claude Code三位核心成员先后被曝加盟OpenAI，负责Codex与Agent产品线。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/512515.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI</title>
+      <link>https://www.qbitai.com/2026/11/512498.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:641172b6b3a8768e931b6cad</guid>
+      <pubDate>Wed, 25 Nov 2026 14:49:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;权龙离开苹果创办Envision AI，用原生基座模型把城市级三维建模成本压到10美元以内。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/512498.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>华人计算机视觉泰斗、港科大权龙再创业！携手马尔奖得主与数十位00后海内外名校博士生，押注空间物理AI</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-25-7</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8f254f048c1d5e67f5c7183c</guid>
+      <pubDate>Wed, 25 Nov 2026 14:44:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;权龙创立Envision AI，打造空间物理原生基座模型，已与多家头部大厂合作并创收。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-25-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Infrathon：迈向RSI，首个Long Horizon AI Infra优化Benchmark</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-25-6</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a2f269a825ce709dc45d8647</guid>
+      <pubDate>Wed, 25 Nov 2026 14:37:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;UW、AI2等推出Infrathon，用12–24小时长程任务评测Agent优化AI Infra的能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-25-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集</title>
+      <link>https://aiera.com.cn/2026/11/25/other/admin/125213/%e8%9a%82%e8%9a%81%e5%8f%91%e5%b8%83%e5%8c%bb%e7%96%97ai%e5%ae%89%e5%85%a8%e9%98%b2%e6%8a%a4%e6%a8%a1%e5%9e%8blingsante-medguard%ef%bc%8c%e5%bc%80%e6%94%be%e9%a3%8e%e9%99%a9%e8%af%84%e6%b5%8b%e6%95%b0/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:a55f21ad5d0180fdfe9aa5e7</guid>
+      <pubDate>Wed, 25 Nov 2026 14:24:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;蚂蚁推出医疗AI安全防护模型，并开放与上海交大共建的风险检测数据集。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/25/other/admin/125213/%e8%9a%82%e8%9a%81%e5%8f%91%e5%b8%83%e5%8c%bb%e7%96%97ai%e5%ae%89%e5%85%a8%e9%98%b2%e6%8a%a4%e6%a8%a1%e5%9e%8blingsante-medguard%ef%bc%8c%e5%bc%80%e6%94%be%e9%a3%8e%e9%99%a9%e8%af%84%e6%b5%8b%e6%95%b0/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2</title>
+      <link>https://www.ifanr.com/1691445?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cc5fc3ccd84a352dcd03abc8</guid>
+      <pubDate>Wed, 25 Nov 2026 13:21:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;Sand.ai 发布 MAGI-2，图生视频登顶 AA 榜单，价格约为 Seedance 2.5 的十分之一，并计划开…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1691445?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign"&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gemini 拒绝输出《小星星》歌词，两次生成后撤回</title>
+      <link>https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F</link>
+      <guid isPermaLink="false">urn:zhiyike:news:7f4b1e6cd0e5f58d0257be87</guid>
+      <pubDate>Wed, 25 Nov 2026 12:03:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;用户称 Gemini 生成《小星星》歌词时中途撤回，并给出拒绝提示&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-25-5</link>
+      <guid isPermaLink="false">urn:zhiyike:news:0d709063710173b2e03939c3</guid>
+      <pubDate>Wed, 25 Nov 2026 11:32:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;吴衎本月回归母校中科大任助理教授，将研究面向国产算力的大模型训练与推理系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-25-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-25-4</link>
+      <guid isPermaLink="false">urn:zhiyike:news:295ed8354922821b669043ac</guid>
+      <pubDate>Wed, 25 Nov 2026 11:29:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;自变量发布具身基础模型WALL-OSS-1.0，走原生预训练路线，无需任务微调即可执行操作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-25-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用5600个AWS Lambda跑Qwen推理：一次80倍负利润的实验</title>
+      <link>https://noahbuilt.it/writing/qwen-on-5600-lambdas</link>
+      <guid isPermaLink="false">urn:zhiyike:news:ebfc5e43dc2060de1291cc64</guid>
+      <pubDate>Wed, 25 Nov 2026 11:28:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;开发者把Qwen3.5-4B拆到5600个Lambda上跑推理，结果比托管模型贵80多倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://noahbuilt.it/writing/qwen-on-5600-lambdas"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>不再一味堆参数：General Looped Model向计算深度要智能</title>
+      <link>https://jigou.jiqizhixin.com/articles/2026-11-25-3</link>
+      <guid isPermaLink="false">urn:zhiyike:news:28d5f5042660b55bb4c54fa2</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;智谱GLM-5.4首用循环Transformer，脸谱心智提出通用循环模型框架&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-25-3"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Claude Opus 5.6灰测效果来了</title>
+      <link>https://www.qbitai.com/2026/11/512478.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:da4d21ee28f64b710d2a402f</guid>
+      <pubDate>Wed, 25 Nov 2026 10:43:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;网友称在 Claude Code 中被灰度到 Opus 5.6，效率约为此前 Opus 版本 2 到 3 倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/512478.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>突发！模型强到不敢发？OpenAI、Anthropic内部开始讨论「停训」</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-11-25-2</link>
@@ -47,6 +167,14 @@
       <pubDate>Wed, 25 Nov 2026 09:14:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Google 发布统一终端客户端 gwscli，让 AI 智能体用自然语言操作 Workspace 服务。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://developers.google.com/workspace/guides/workspace-cli"&gt;Google&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PenGPT：一个普通 Transformer 同时学会多种笔迹与简笔画</title>
+      <link>https://greydanus.github.io/2026/11/12/pengpt/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4274ef1c7c40484cf7cd460e</guid>
+      <pubDate>Wed, 25 Nov 2026 08:54:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;6M 参数模型写印刷体与连笔字并模仿新笔迹，54M 参数模型按文字提示作画。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://greydanus.github.io/2026/11/12/pengpt/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>国产AI黑马迎来大爆发！单季业绩三项破纪录，股价暴涨22%</title>
@@ -95,6 +223,14 @@
       <pubDate>Wed, 25 Nov 2026 08:05:00 +0800</pubDate>
       <category>模型</category>
       <description>&lt;p&gt;谷歌三款Gemini 4接力登顶Arena文本榜，Claude Opus 5.5退至第五。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://aiera.com.cn/2026/11/25/other/admin/125085/gemini-4%e5%8c%85%e6%8f%bd%e5%89%8d%e4%b8%89%ef%bc%81%e8%83%bd%e6%89%93%e8%b4%a5%e8%b0%b7%e6%ad%8c%e7%9a%84%e5%8f%aa%e6%9c%89%e8%b0%b7%e6%ad%8c/"&gt;新智元&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI视频模型也终于迎来了斩杀线，它的名字，叫MAGI-2。</title>
+      <link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;mid=2647688752&amp;idx=1&amp;sn=9206be14f4d0dc96f515c91049063ab9</link>
+      <guid isPermaLink="false">urn:zhiyike:news:3a176f2f6f74d8d02dcda1d6</guid>
+      <pubDate>Wed, 25 Nov 2026 07:56:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;Sand.ai 推出 480B 全模态视频模型 MAGI-2，实测质量接近 Seedance 2.3，价格低 90%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA==&amp;amp;mid=2647688752&amp;amp;idx=1&amp;amp;sn=9206be14f4d0dc96f515c91049063ab9"&gt;数字生命卡兹克&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>马斯克：特斯拉 AI4 足以实现“超人驾驶”，AI5 优先留给 Optimus 机器人</title>
@@ -254,7 +390,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:1c136aed4db2a0f5a94ae02a</guid>
       <pubDate>Tue, 24 Nov 2026 18:30:00 +0800</pubDate>
       <category>模型</category>
-      <description>&lt;p&gt;高德推出通用交互式世界模型ABot-World 0.5，在WBench物理性和总分均列第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/512454.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;高德推出通用交互式世界模型ABot-World 0.5，在WBench物理性和总分均列第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/512454.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/32505"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>具身智能商业化提速！网易灵动与柳工达成战略合作，单季作业量超去年全年</title>
@@ -374,7 +510,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:4199c02f0d850ca57f5dc8d4</guid>
       <pubDate>Tue, 24 Nov 2026 11:30:00 +0800</pubDate>
       <category>产品</category>
-      <description>&lt;p&gt;OceanBase发布湖库一体AI数据平台OceanLake，并开源核心AI数据库OceanSeek。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/512330.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/031/365.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;OceanBase发布湖库一体AI数据平台OceanLake，并开源核心AI数据库OceanSeek。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/512330.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/031/365.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-25-8"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会</title>
@@ -462,7 +598,7 @@
       <guid isPermaLink="false">urn:zhiyike:news:656d382edb785060030355b4</guid>
       <pubDate>Tue, 24 Nov 2026 07:29:00 +0800</pubDate>
       <category>事件</category>
-      <description>&lt;p&gt;SEC 文件显示阿莫代伊按 83 美元发行价卖出 337.8 万股，未申报 10b5-1 计划。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/031/253.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/031/512.htm"&gt;IT之家 快讯&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;SEC 文件显示阿莫代伊按 83 美元发行价卖出 337.8 万股，未申报 10b5-1 计划。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/031/253.htm"&gt;IT之家&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/031/512.htm"&gt;IT之家 快讯&lt;/a&gt; · &lt;a href="https://www.ithome.com/1/031/960.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>马斯克承认 AI 研发落后对手：出租 SpaceXSI 算力比自研 Grok 更赚钱</title>
@@ -679,142 +815,6 @@
       <pubDate>Mon, 23 Nov 2026 16:00:00 +0800</pubDate>
       <category>事件</category>
       <description>&lt;p&gt;OpenAI 与 LECG、Cooley 嘉宾探讨 AI 助力企业法务团队连接业务上下文、构建可复用工作流。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/business/learn/connected-intelligence-for-in-house-legal"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Richpanel 用 OpenAI 模型让客服自动化率 30 天内达 50%</title>
-      <link>https://openai.com/business/customer-stories/richpanel-ai-customer-support</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e8772f15d457609718871750</guid>
-      <pubDate>Mon, 23 Nov 2026 16:00:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;Richpanel 用 AI 经理搭建客服工具与流程，承诺 30 天自动化 50% 否则退款。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://openai.com/business/customer-stories/richpanel-ai-customer-support"&gt;OpenAI&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了</title>
-      <link>https://www.qbitai.com/2026/11/512017.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a373a410c895512a85ff3171</guid>
-      <pubDate>Mon, 23 Nov 2026 15:42:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;蚂蚁在医疗健康生态大会一次发布五款模型，两款专业模型当天开源。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/512017.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了</title>
-      <link>https://www.qbitai.com/2026/11/512004.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e0c13e50452e3b5f0c2f4a9c</guid>
-      <pubDate>Mon, 23 Nov 2026 14:59:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;斯坦福、MIT等团队让936个AI智能体在共享科研社区自主研究12周，产出936篇论文。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/512004.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI发布药物化学新基准，跨冲突性质识别有前景候选药物</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-23-7</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b5f8c20a1e680fc18ba30ea3</guid>
-      <pubDate>Mon, 23 Nov 2026 14:08:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;OpenAI推出MedChemBench，用99道题测试AI读分子结构、解读实验与选化合物的能力。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-23-7"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>鸿蒙版醒图新版本上线：AI修图「不烧心」</title>
-      <link>https://www.ifanr.com/1690991?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:9896f084dd3e6152b06f35cd</guid>
-      <pubDate>Mon, 23 Nov 2026 14:07:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;鸿蒙版醒图更新，新增智能修图、AI对话修图、智能跟拍等功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1690991?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>OpenAI 用代码语料画困惑度曲线，被质疑只是模型越来越会写代码</title>
-      <link>https://micjm.com/blog/lowering-perplexity-without-scaling/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:e94099359554a69aa27be14d</guid>
-      <pubDate>Mon, 23 Nov 2026 12:33:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;作者指出 OpenAI 的困惑度下降图基于固定代码语料，未必代表通用智能提升。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://micjm.com/blog/lowering-perplexity-without-scaling/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力</title>
-      <link>https://www.qbitai.com/2026/11/511998.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:a12e11847aa81dd9ebf43a9f</guid>
-      <pubDate>Mon, 23 Nov 2026 11:56:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;蚂蚁发布百灵医疗健康大模型家族，两款核心模型同步开源&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/511998.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/32496"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>蚂蚁发布百灵医疗健康大模型，阿福能AI“望闻问切”了</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-23-6</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6c4b93ae68748e6c7d43c7d1</guid>
-      <pubDate>Mon, 23 Nov 2026 11:49:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;蚂蚁集中发布Sante系列医疗健康模型，两款核心模型同步开源，阿福App同步升级。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-23-6"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要</title>
-      <link>https://www.qbitai.com/2026/11/511989.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:69e44e00fb897bc0b6fbede7</guid>
-      <pubDate>Mon, 23 Nov 2026 11:47:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;西部数据高管撰文：中国推理数据量首超训练数据，存储经济性成 AI 基建核心考量。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/511989.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>合肥这款健康AI大模型适配华为昇腾，相关成果已服务超百万人</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-23-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:6ea0ceea6a911ef724d35fbf</guid>
-      <pubDate>Mon, 23 Nov 2026 11:25:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;中科院合肥物质院IIMedGPT v5.0完成昇腾原生技术认证，作为昇腾行业方案亮相。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-23-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>当大模型接上真实机器人：RoboChallenge Zero首期评测发布</title>
-      <link>https://www.qbitai.com/2026/11/511978.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7476684b9e1f6c67d7131997</guid>
-      <pubDate>Mon, 23 Nov 2026 11:13:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;11个多模态大模型接入真机，330次测试整体成功率44.85%&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/511978.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>全球首次！DeepSeek与FlashAttention的多个生产级AI算子获得形式化验证</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-23-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:68b5f431a82ec91554c99a29</guid>
-      <pubDate>Mon, 23 Nov 2026 10:43:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;CertiK与哥伦比亚大学发布TensorLean，首次在编译后PTX层验证生产级GPU内核。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-23-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>刚刚，OpenAI首次公开预训练核心指标</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-23-2</link>
-      <guid isPermaLink="false">urn:zhiyike:news:2ec29a0183c6d637230e7ce1</guid>
-      <pubDate>Mon, 23 Nov 2026 10:34:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;OpenAI公开内部困惑度数据，并提议全球顶尖AI公司共同约定模型研发上限。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-23-2"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班</title>
-      <link>https://www.qbitai.com/2026/11/511933.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:8247cb03ca4398ef80ea627e</guid>
-      <pubDate>Mon, 23 Nov 2026 10:29:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;豆包工作上线21个专业工作台，覆盖金融投研、创意设计、医疗、教育等场景。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/511933.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>韩国防 AI 作弊新招：要求考生穿围裙考试、时隔 6 年重新收缴手机</title>
-      <link>https://www.ithome.com/1/030/770.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ed89a8274b150dbee0cc0987</guid>
-      <pubDate>Mon, 23 Nov 2026 10:02:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;韩国 753 种国家资格考试加强反作弊，警卫指导师考试仍查处 6 人作弊。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/030/770.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Anthropic 上市前，Notable Capital、GIC 与 Baillie Gifford 如何重仓押注</title>
-      <link>https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/</link>
-      <guid isPermaLink="false">urn:zhiyike:news:b1ed10f0116e55d6db5c8653</guid>
-      <pubDate>Mon, 23 Nov 2026 09:25:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;Anthropic 完成史上最大 IPO，早期重仓机构获约 15 倍账面回报。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>微软 AI 负责人苏莱曼：支持 OpenAI 提高透明度的倡议</title>
-      <link>https://www.ithome.com/1/030/745.htm</link>
-      <guid isPermaLink="false">urn:zhiyike:news:106c0fd8a78e533d04e5e1b9</guid>
-      <pubDate>Mon, 23 Nov 2026 09:00:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;苏莱曼称完全支持 OpenAI 透明度倡议，并公布 MAI-2 Base 评测结果。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ithome.com/1/030/745.htm"&gt;IT之家&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
