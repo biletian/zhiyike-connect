@@ -15,7 +15,39 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 21:31:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:32:00 +0800</lastBuildDate>
+    <item>
+      <title>英伟达暂停向东南亚四国发货服务器，评估出口合规</title>
+      <link>https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:4eaae12175ea429d688387fa</guid>
+      <pubDate>Fri, 27 Nov 2026 04:03:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;英伟达要求戴尔、超微等伙伴暂停向马来西亚、新加坡、泰国、印尼发货服务器。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"&gt;TechCrunch&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI 设计的肺纤维化新药 Rentosertib 进入 III 期，320 人试验已启动</title>
+      <link>https://diseasescuredbyai.com/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:775ebb0b4a09aff5890c967f</guid>
+      <pubDate>Fri, 27 Nov 2026 01:16:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;英矽智能 AI 同时选定靶点与分子的药物进入 III 期，已给首例患者用药。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://diseasescuredbyai.com/"&gt;Diseasescuredbyai 官方&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AMD 专用 llama.cpp 补丁：RDNA 显卡推理提速至 55 tokens/s</title>
+      <link>https://devnull.land/amd-specific-llama-cpp</link>
+      <guid isPermaLink="false">urn:zhiyike:news:8bf9fd5a332ff90f0336d961</guid>
+      <pubDate>Fri, 27 Nov 2026 01:11:00 +0800</pubDate>
+      <category>产品</category>
+      <description>&lt;p&gt;llama-cpp-rdna-boosts 用少量补丁让 AMD 显卡预填充和生成速度近乎翻倍&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://devnull.land/amd-specific-llama-cpp"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>381个AI直播冲刺证明P=NP！把GitHub干崩了</title>
+      <link>https://www.qbitai.com/2026/11/513021.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:d5313f97fd1e6bee9b16589a</guid>
+      <pubDate>Thu, 26 Nov 2026 21:56:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;一场全网直播的AI集群证明实验，3天内触发GitHub并发限制。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/513021.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>告别「假精细」！VAST发布Tripo H3.5 Preview，AI建模开始较真了</title>
       <link>https://jigou.jiqizhixin.com/articles/2026-11-26-13</link>
@@ -71,6 +103,14 @@
       <pubDate>Thu, 26 Nov 2026 17:44:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;Google 新条款要求 AI Agent 经 MCP 访问 Workspace，但 Gmail 服务器缺发信等工具&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://techstackups.com/articles/google-workspace-ai-agents-mcp/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>OpenAI 的 Astra 6.2 与 Sol 6.2 被指为省成本而"少思考"</title>
+      <link>https://micjm.com/blog/openai-is-in-cost-control-mode/</link>
+      <guid isPermaLink="false">urn:zhiyike:news:24bb82570cfe981379e61e3f</guid>
+      <pubDate>Thu, 26 Nov 2026 15:33:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;数据显示 Astra 6.2 和 Sol 6.2 的输出与推理 token 明显下降，疑似为省钱调优。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://micjm.com/blog/openai-is-in-cost-control-mode/"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一</title>
@@ -775,46 +815,6 @@
       <pubDate>Tue, 24 Nov 2026 19:50:00 +0800</pubDate>
       <category>产品</category>
       <description>&lt;p&gt;海马云发布 lumimax，主打可信推理与事实核验的企业级知识库底座&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://mp.weixin.qq.com/s/sy2V13_pF4JJ4-nw1Xlp9A"&gt;官方微信&lt;/a&gt; · &lt;a href="https://ai-bot.cn/lumimax/"&gt;AI 工具集原文&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>看一遍就会，60ms出手，最强生产力模型来了</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-24-13</link>
-      <guid isPermaLink="false">urn:zhiyike:news:eb27853948d9bebe94020d00</guid>
-      <pubDate>Tue, 24 Nov 2026 19:06:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;星海图推出G0.7具身基础模型，长上下文加快速动作生成，约5小时示教即可上岗&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-24-13"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>实测小豆：主动办事的背后，AI 正在走向每一个人</title>
-      <link>https://www.ifanr.com/1691355?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">urn:zhiyike:news:230ee4d13605bb054e947b15</guid>
-      <pubDate>Tue, 24 Nov 2026 19:04:00 +0800</pubDate>
-      <category>产品</category>
-      <description>&lt;p&gt;豆包推出个人智能体「小豆」，主打主动服务与持续办事，目前采用邀请制体验。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1691355?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign="&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>EMNLP 2026杰出论文 | 统一多模态模型，想对了却画错了？UCSD、USC、UIUC与CMU提出UReason</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-24-12</link>
-      <guid isPermaLink="false">urn:zhiyike:news:4e7a42b2b97788907a475938</guid>
-      <pubDate>Tue, 24 Nov 2026 18:58:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;UReason基准发现：删掉模型推理只留精炼提示，Bagel生成准确率从17.8%升至62.6%。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-24-12"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界</title>
-      <link>https://www.qbitai.com/2026/11/512454.html</link>
-      <guid isPermaLink="false">urn:zhiyike:news:1c136aed4db2a0f5a94ae02a</guid>
-      <pubDate>Tue, 24 Nov 2026 18:30:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;高德推出通用交互式世界模型ABot-World 0.5，在WBench物理性和总分均列第一。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/512454.html"&gt;量子位&lt;/a&gt; · &lt;a href="https://news.aibase.com/zh/news/32505"&gt;AIBase&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>具身智能商业化提速！网易灵动与柳工达成战略合作，单季作业量超去年全年</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-24-11</link>
-      <guid isPermaLink="false">urn:zhiyike:news:c29dbe38b1efbb9e9279491a</guid>
-      <pubDate>Tue, 24 Nov 2026 18:05:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;双方将推进AI原生挖掘机规模量产与出海，并发布世界动作模型灵掘2.0。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-24-11"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
