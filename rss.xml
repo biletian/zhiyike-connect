@@ -15,7 +15,39 @@
       <width>128</width>
       <height>128</height>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 22:18:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:47:00 +0800</lastBuildDate>
+    <item>
+      <title>Convex 插件技能被指未经告知上传用户创意并执行远程脚本</title>
+      <link>https://github.com/convex/convex-backend-skill/issues/64</link>
+      <guid isPermaLink="false">urn:zhiyike:news:cd1a94823eab06458b6ba424</guid>
+      <pubDate>Sat, 28 Nov 2026 02:02:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;有开发者发现 Convex 官方插件中三个技能会把用户创意发往远程主机并执行远程脚本。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://github.com/convex/convex-backend-skill/issues/64"&gt;GitHub&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>一位订阅者投稿：我害怕 AI，因为它正在让我变笨</title>
+      <link>https://thesoapbox.email/archive/3</link>
+      <guid isPermaLink="false">urn:zhiyike:news:84da1cd28a66426e897beb37</guid>
+      <pubDate>Sat, 28 Nov 2026 01:45:00 +0800</pubDate>
+      <category>观点</category>
+      <description>&lt;p&gt;HN 热议投稿：作者称把思考外包给 AI 后，自己正在丧失动脑能力&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://thesoapbox.email/archive/3"&gt;Thesoapbox 官方&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GPT-6.2 Astra 自主破解 1808 年匿名素描本作者之谜</title>
+      <link>https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical</link>
+      <guid isPermaLink="false">urn:zhiyike:news:16c37883ab76d8bf0bdb7a93</guid>
+      <pubDate>Fri, 27 Nov 2026 23:03:00 +0800</pubDate>
+      <category>模型</category>
+      <description>&lt;p&gt;作者实测未发布的 GPT-6.2 Astra，22 分钟锁定耶鲁藏匿名素描本作者&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了</title>
+      <link>https://www.qbitai.com/2026/11/513352.html</link>
+      <guid isPermaLink="false">urn:zhiyike:news:9f2180a7500ee8f413231e05</guid>
+      <pubDate>Fri, 27 Nov 2026 22:07:00 +0800</pubDate>
+      <category>事件</category>
+      <description>&lt;p&gt;众擎在开发者大会开放自研大小脑技术，并联合产业基金提供10亿元生态支持。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.qbitai.com/2026/11/513352.html"&gt;量子位&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Android 的 DIY 小组件：一场有点好玩的 vibe-coding 实验</title>
       <link>https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini</link>
@@ -783,38 +815,6 @@
       <pubDate>Wed, 25 Nov 2026 13:21:00 +0800</pubDate>
       <category>模型</category>
       <description>&lt;p&gt;Sand.ai 发布 MAGI-2，图生视频登顶 AA 榜单，价格约为 Seedance 2.5 的十分之一，并计划开…&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.ifanr.com/1691445?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign"&gt;爱范儿&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gemini 拒绝输出《小星星》歌词，两次生成后撤回</title>
-      <link>https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F</link>
-      <guid isPermaLink="false">urn:zhiyike:news:7f4b1e6cd0e5f58d0257be87</guid>
-      <pubDate>Wed, 25 Nov 2026 12:03:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;用户称 Gemini 生成《小星星》歌词时中途撤回，并给出拒绝提示&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>曾负责 Grok 大规模推理基础设施，马斯克旗下 xAI 前核心成员回归中科大</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-25-5</link>
-      <guid isPermaLink="false">urn:zhiyike:news:0d709063710173b2e03939c3</guid>
-      <pubDate>Wed, 25 Nov 2026 11:32:00 +0800</pubDate>
-      <category>事件</category>
-      <description>&lt;p&gt;吴衎本月回归母校中科大任助理教授，将研究面向国产算力的大模型训练与推理系统。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-25-5"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>通用大模型已经杀进来了，具身智能靠「微调续命」还能撑多久？</title>
-      <link>https://jigou.jiqizhixin.com/articles/2026-11-25-4</link>
-      <guid isPermaLink="false">urn:zhiyike:news:295ed8354922821b669043ac</guid>
-      <pubDate>Wed, 25 Nov 2026 11:29:00 +0800</pubDate>
-      <category>模型</category>
-      <description>&lt;p&gt;自变量发布具身基础模型WALL-OSS-1.0，走原生预训练路线，无需任务微调即可执行操作。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://jigou.jiqizhixin.com/articles/2026-11-25-4"&gt;机器之心&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>用5600个AWS Lambda跑Qwen推理：一次80倍负利润的实验</title>
-      <link>https://noahbuilt.it/writing/qwen-on-5600-lambdas</link>
-      <guid isPermaLink="false">urn:zhiyike:news:ebfc5e43dc2060de1291cc64</guid>
-      <pubDate>Wed, 25 Nov 2026 11:28:00 +0800</pubDate>
-      <category>观点</category>
-      <description>&lt;p&gt;开发者把Qwen3.5-4B拆到5600个Lambda上跑推理，结果比托管模型贵80多倍。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;信息源：&lt;/strong&gt;&lt;a href="https://noahbuilt.it/writing/qwen-on-5600-lambdas"&gt;HN 热议&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://zhiyike.cn/"&gt;查看知一刻最新内容&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
